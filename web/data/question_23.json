@@ -1,0 +1,56 @@
+{
+  "subject": "Economy",
+  "year": 2011,
+  "theme": "International trade classification: Open versus closed economy systems",
+  "question_short_text": "Definition and key characteristic of a closed economy",
+  "text": "A 'closed economy' is an economy in which?",
+  "options": [
+    "The money supply is fully controlled.",
+    "Deficit financing takes place.",
+    "Only exports take place.",
+    "Neither exports nor imports take place."
+  ],
+  "answerIndex": 3,
+  "answerText": "(d) Neither exports nor imports take place.",
+  "explanation": "A closed economy is characterized by the absence of international trade. It has no exports or imports, meaning all goods and services are produced and consumed domestically without external economic interaction.",
+  "research": {
+    "summary": "A closed economy, also known as an autarky, is a theoretical economic system where a country operates with zero interaction with other economies. The defining characteristic is the complete absence of international trade\u2014neither exports nor imports occur. This is fundamentally different from money supply control (which is a monetary policy tool independent of trade openness) or deficit financing (which relates to fiscal policy). The trap many students fall into is conflating closed economy with protectionism or government intervention in the economy. A closed economy is not simply a country that restricts trade through tariffs or quotas; it is the theoretical extreme where no international exchange whatsoever takes place. In practice, no truly closed economies exist in the modern world. Even countries historically closest to this model\u2014such as North Korea, which pursues an autarky policy, or Cuba\u2014still engage in minimal selective trade. The reason is economic: without access to imports, a country cannot obtain resources it lacks domestically, and without exports, it forgoes specialization gains and economies of scale. A closed economy relies entirely on its three domestic expenditure sources: household consumption, business investment, and government spending. This is why the GDP formula differs for closed economies (GDP = C + I + G) versus open economies (GDP = C + I + G + X \u2212 M, where X and M represent exports and imports). Understanding this distinction is crucial because UPSC questions often test whether students can differentiate between different types of economic openness and the mechanisms that define them. The core concept being tested here is international trade classification, not monetary or fiscal policy.",
+    "facts": [
+      "A closed economy is a theoretical model; no country today operates as a purely closed economy, though North Korea and Cuba pursue policies closest to autarky.",
+      "In a closed economy, there is no balance of payments account because the balance of payments records all economic transactions with the rest of the world, which cannot exist if there are no international transactions.",
+      "The GDP equation for a closed economy (C + I + G) differs fundamentally from an open economy (C + I + G + X \u2212 M), making the concept testable in calculations and policy analysis.",
+      "Protectionist policies (tariffs, quotas) do not make an economy closed; they are restrictions on trade within an open economy framework. A closed economy is the theoretical absence of trade entirely.",
+      "Historical examples of countries pursuing closed economy policies include the Soviet Union during early communism and the United States during the Great Depression, though neither achieved complete closure."
+    ],
+    "sources": [
+      {
+        "title": "Difference between Open Economy and Closed Economy - GeeksforGeeks",
+        "url": "https://www.geeksforgeeks.org/macroeconomics/difference-between-open-economy-and-closed-economy/",
+        "whyUsed": "Provided clear definition of closed economy as autarky and distinguished it from protectionist policies"
+      },
+      {
+        "title": "What Is a Closed Economy? - The Balance Money",
+        "url": "https://www.thebalancemoney.com/what-is-a-closed-economy-5206337",
+        "whyUsed": "Confirmed that no closed economies exist in practice and explained why self-sufficiency is difficult in modern world"
+      },
+      {
+        "title": "Closed Economy Definition - Fiveable",
+        "url": "https://fiveable.me/key-terms/principles-macroeconomics/closed-economy",
+        "whyUsed": "Explained the relationship between closed economy and balance of payments, and GDP formula differences"
+      },
+      {
+        "title": "Closed Economy: Meaning, Examples & Real-World Implications - Plutus Education",
+        "url": "https://plutuseducation.com/blog/closed-economy/",
+        "whyUsed": "Provided historical context on Soviet Union and North Korea as examples of autarky-pursuing systems"
+      }
+    ],
+    "searchMeta": {
+      "usedWebSearch": true,
+      "searchQueries": [
+        "closed economy definition international trade economics"
+      ],
+      "confidence": "high"
+    }
+  },
+  "id": 23
+}

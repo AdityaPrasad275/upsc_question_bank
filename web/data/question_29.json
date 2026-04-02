@@ -1,0 +1,51 @@
+{
+  "subject": "Economy",
+  "year": 2007,
+  "theme": "Sectoral composition and contribution to India's GDP: services, industry, and agriculture",
+  "question_short_text": "Correct sequence of sectoral contribution to India's GDP in decreasing order",
+  "text": "Which one of the following is the correct sequence in the decreasing order of contribution of different sectors to the Gross Domestic Product of India?",
+  "options": [
+    "Service - Industry - Agriculture",
+    "Service - Agriculture - Industry",
+    "Industry - Services - Agriculture",
+    "Industry - Agriculture - Services"
+  ],
+  "answerIndex": 0,
+  "answerText": "(a) Service - Industry - Agriculture",
+  "explanation": "The services sector is the largest contributor to India's GDP, followed by industry, then agriculture. This reflects the transformation of India's economy from agriculture-dominated to service-dominated since liberalisation.",
+  "research": {
+    "summary": "The 2007 question tests understanding of how India's economy has structurally transformed. In 2006-07 (the year before the question), sectoral contributions were: Services 54.8%, Industry 24.7%, and Agriculture 20.5%. The services sector's dominance reflects India's post-1991 economic trajectory: rapid growth in IT, telecommunications, finance, and business process outsourcing (BPO) services. This is a fundamental break from the colonial and post-independence pattern where agriculture dominated. The industry sector (manufacturing, construction, mining) ranks second, benefiting from FDI inflows and policy support, though its growth has been slower than services. Agriculture, despite employing roughly 60% of the workforce, contributes least to GDP due to low productivity per worker and structural challenges. The trap for test-takers is mistaking employment share for output share: agriculture employs far more people than its GDP contribution suggests, leading weaker students to rank it higher. The sequence Services > Industry > Agriculture has held since roughly 2000 and remains the standard ordering.",
+    "facts": [
+      "Services sector contributed 54.8% to India's GDP in 2006-07, making it the largest contributor by substantial margin",
+      "Agriculture's contribution to GDP has declined from 56% in 1950-51 to 20.5% in 2006-07, driven by faster growth in other sectors rather than absolute decline",
+      "India's sectoral shift from agriculture to services is unusual globally; most developed countries transitioned agriculture \u2192 industry \u2192 services, but India leaped industry growth to become service-dominant",
+      "The 'employment-to-output gap' in agriculture is a defining feature: agriculture employs ~55-60% of India's workforce but generates only ~20% of GDP, indicating low labor productivity",
+      "The IT-BPM and financial services sub-sectors have been the primary drivers of services sector growth since the 1990s, attracting global investment and skilled talent"
+    ],
+    "sources": [
+      {
+        "title": "India's GDP Growth And Sectoral Contributions (IJCRT)",
+        "url": "https://ijcrt.org/papers/IJCRT2506756.pdf",
+        "whyUsed": "Contains historical sectoral contribution data for 2006-07 (20.5% agriculture, 24.7% industry, 54.8% services) confirming the 2007 answer sequence"
+      },
+      {
+        "title": "Economy of India - Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Economy_of_India",
+        "whyUsed": "Provides long-term sectoral trend data showing agriculture's decline from 52% to 15% of GDP and explains structural transformation drivers"
+      },
+      {
+        "title": "Service Sector Contribution to India's GDP (IBEF)",
+        "url": "https://www.ibef.org/research/case-study/service-sector-contribution-to-india-s-gdp",
+        "whyUsed": "Documents services sector growth trajectory and role of IT-BPM, healthcare, tourism, and finance sub-sectors in driving tertiary sector expansion"
+      }
+    ],
+    "searchMeta": {
+      "usedWebSearch": true,
+      "searchQueries": [
+        "India GDP sector contribution 2007 services industry agriculture"
+      ],
+      "confidence": "high"
+    }
+  },
+  "id": 29
+}

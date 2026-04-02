@@ -195,8 +195,11 @@ def main(subject):
             output_file = os.path.join(json_dir, f"question_{question_number}.json")
 
             if result.result.type == "succeeded":
-                # The response content is a list, we want the text from the first item
-                response_text = result.result.message.content[0].text
+                # Extract text from all content blocks (handles cases where tools are used)
+                response_text = ""
+                for block in result.result.message.content:
+                    if hasattr(block, 'text'):
+                        response_text += block.text
                 try:
                     # Parse JSON, add the ID, and save
                     result_json = json.loads(response_text)

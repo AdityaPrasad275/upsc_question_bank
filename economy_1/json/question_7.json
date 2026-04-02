@@ -1,0 +1,51 @@
+{
+  "subject": "Economy",
+  "year": 2021,
+  "theme": "Demand determinants: substitutes, complements, and inferior goods",
+  "question_short_text": "Which statements correctly identify reasons for increased market demand?",
+  "text": "Consider the following statements:\n\nOther things remaining unchanged, market demand for a good might increase if\n\n1) Price of its substitute increases\n2) Price of its complement increases\n3) The good is an inferior good and income of the consumers increases\n4) Its price falls\n\nWhich of the above statements are correct?",
+  "options": [
+    "1 and 4 only",
+    "2, 3 and 4",
+    "1, 3 and 4",
+    "1, 2 and 3"
+  ],
+  "answerIndex": 0,
+  "answerText": "(a) 1 and 4 only",
+  "explanation": "Statements 1 and 4 are correct. When a substitute's price rises, consumers shift to the original good, increasing its demand. When the good's own price falls, quantity demanded rises per the law of demand. Statements 2 and 3 are incorrect: higher complement prices reduce demand (not increase it), and inferior goods see falling demand when income rises.",
+  "research": {
+    "summary": "This question tests understanding of the four major determinants of market demand beyond the good's own price: substitutes, complements, and the income effect on inferior vs. normal goods. The key insight is distinguishing direct demand shifts from the law of demand.\n\nStatement 1 (correct): When the price of a substitute good increases, consumers see the original good as relatively more attractive and switch to it, causing a rightward shift in demand. Example: if coffee price rises, demand for tea increases. This is a cross-price effect with positive elasticity.\n\nStatement 2 (incorrect): A rising price of a complementary good actually reduces demand for the original good, not increases it. Complements are consumed together\u2014when one becomes costlier, the bundle becomes less attractive, so demand for both falls. Example: if butter becomes expensive, bread demand decreases. This is the inverse relationship that defines complementary goods.\n\nStatement 3 (incorrect): For inferior goods, demand falls as income increases because consumers substitute to better-quality alternatives with higher purchasing power. Examples include generic groceries or budget clothing\u2014as income rises, consumers upgrade. The income effect for inferior goods is negative, making statement 3false.\n\nStatement 4 (correct): This is the law of demand itself. When a good's own price falls, quantity demanded increases (assuming stable preferences and no other changes). This is not a demand shift but rather movement along the demand curve\u2014quantity demanded responds inversely to own-price.\n\nThe trap UPSC sets here is confusing complements with substitutes: students may think \"related goods\" always shift demand the same way, but complementary goods shift demand oppositely to their price changes. Additionally, the inferior goods statement mixes up the income effect direction: weaker students might mistakenly think inferior goods behave like normal goods.",
+    "facts": [
+      "For normal goods, demand increases with income; for inferior goods, demand decreases with income\u2014the distinction depends on the income elasticity of demand being positive or negative, respectively.",
+      "Cross-price elasticity of demand is positive for substitutes and negative for complements; this mathematical sign is the clearest way to distinguish their demand effects.",
+      "Giffen goods are an extreme subset of inferior goods where the income effect is so strong that even price increases lead to higher quantity demanded, but they are rare and real-world examples are contested.",
+      "The law of demand (own-price effect) operates along the demand curve, while substitute/complement effects cause demand curve shifts; conflating these is a common source of error.",
+      "Income elasticity values: normal goods have positive income elasticity (e.g., luxury cars, restaurant meals), while inferior goods have negative income elasticity (e.g., instant noodles, secondhand clothing)."
+    ],
+    "sources": [
+      {
+        "title": "Substitutes and Complements - EconGraphs",
+        "url": "https://www.econgraphs.org/textbooks/intermediate_micro/consumer_theory/demand/complements_substitutes",
+        "whyUsed": "Verified the precise mechanics: substitutes have positive cross-price effect, complements have negative cross-price effect on demand."
+      },
+      {
+        "title": "Substitute good - Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Substitute_good",
+        "whyUsed": "Confirmed that an increase in the price of a good increases demand for its substitutes, and vice versa."
+      },
+      {
+        "title": "Introduction to Economic Analysis - Chapter 2: Supply and Demand",
+        "url": "https://saylordotorg.github.io/text_introduction-to-economic-analysis/s03-supply-and-demand.html",
+        "whyUsed": "Defined inferior goods as goods whose demand does not increase with income, and normal goods as those whose demand increases with income."
+      }
+    ],
+    "searchMeta": {
+      "usedWebSearch": true,
+      "searchQueries": [
+        "law of demand substitutes complements inferior goods economics"
+      ],
+      "confidence": "high"
+    }
+  },
+  "id": 7
+}

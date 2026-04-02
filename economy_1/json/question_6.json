@@ -1,0 +1,56 @@
+{
+  "subject": "Economy",
+  "year": 2021,
+  "theme": "Fiscal policy response to recession\u2014countercyclical government intervention",
+  "question_short_text": "Most appropriate fiscal policy step during economic recession",
+  "text": "Which among the following steps is most likely to be taken at the time of an economic recession?",
+  "options": [
+    "Cut in tax rates accompanied by increase in interest rate",
+    "Increase in expenditure on public projects",
+    "Increase in tax rates accompanied by reduction of interest rate",
+    "Reduction of expenditure on public projects"
+  ],
+  "answerIndex": 1,
+  "answerText": "(b) Increase in expenditure on public projects",
+  "explanation": "During a recession, aggregate demand falls sharply. Increasing government expenditure on public projects directly injects money into the economy, creates jobs, and stimulates demand. This expansionary fiscal policy is the correct countercyclical response.",
+  "research": {
+    "summary": "The core principle here is countercyclical fiscal policy\u2014using government intervention to move in the opposite direction of the business cycle. When the economy contracts, consumers and businesses cut spending, deepening the downturn. The government must then step in as the spender of last resort. Increasing expenditure on public projects is the textbook expansionary fiscal response because it directly increases aggregate demand through government purchases and employment creation, which then ripples through the economy as workers spend their wages. The trap this question tests is conflating fiscal and monetary policy tools. Raising interest rates is a monetary policy tool used to combat inflation\u2014not recession. During recessions, interest rates are typically lowered (or near zero) to encourage borrowing and spending. Tax cuts might sound appealing but often fail during recessions because households and firms, sensing economic weakness, are more likely to save than spend\u2014reducing the multiplier effect. Cutting public spending when demand is already low would make the recession worse, not better. The phrase 'countercyclical policy' is key: when the economy cycles down, policy goes up. Real-world evidence from the 2008\u201309 Great Recession and COVID-19 pandemic confirmed that government spending on infrastructure, transfers, and direct payments provided faster demand stimulus than tax cuts alone. The Indian context here aligns with standard macroeconomic consensus: increased public expenditure is the most direct and reliable tool to revive demand during downturns.",
+    "facts": [
+      "Automatic stabilizers (unemployment benefits, social programs) trigger expanded government spending automatically during recessions without requiring new legislation, providing immediate demand support",
+      "Tax cuts during recessions have a lower multiplier effect than government spending because households save excess income rather than spend it when facing economic uncertainty",
+      "The spending multiplier is highest in deep downturns when interest rates are near zero and monetary policy cannot provide further stimulus, making fiscal spending particularly potent",
+      "Procyclical policies (raising taxes or cutting spending during recessions) worsen downturns; this is why federal fiscal policy in major economies is designed to be countercyclical",
+      "Monetary policy (interest rate changes) and fiscal policy (government spending and taxation) are distinct tools; during recession, monetary policy is loosened while fiscal policy is tightened through higher spending"
+    ],
+    "sources": [
+      {
+        "title": "Fiscal Policy: Economic Effects (Congress.gov)",
+        "url": "https://www.congress.gov/crs-product/R45723",
+        "whyUsed": "Authoritative explanation of expansionary fiscal policy during recessions and the direct impact of government spending on aggregate demand"
+      },
+      {
+        "title": "Introduction to U.S. Economy: Fiscal Policy (Congress.gov)",
+        "url": "https://www.congress.gov/crs_external_products/IF/HTML/IF11253.web.html",
+        "whyUsed": "Detailed definition of countercyclical fiscal policy and how government spending creates economic activity during downturns"
+      },
+      {
+        "title": "Recession Ready: Fiscal Policies to Stabilize the American Economy (Brookings Institution)",
+        "url": "https://www.brookings.edu/articles/recession-ready-fiscal-policies-to-stabilize-the-american-economy/",
+        "whyUsed": "Evidence-based research on effectiveness of government spending versus tax cuts in countering recessions, including automatic stabilizers"
+      },
+      {
+        "title": "Fiscal Policy (St. Louis Federal Reserve)",
+        "url": "https://www.stlouisfed.org/education/economic-lowdown-podcast-series/episode-21-fiscal-policy",
+        "whyUsed": "Clear explanation of how expansionary policy (increased spending and tax cuts) fills the spending gap during recessions"
+      }
+    ],
+    "searchMeta": {
+      "usedWebSearch": true,
+      "searchQueries": [
+        "fiscal policy economic recession government spending"
+      ],
+      "confidence": "high"
+    }
+  },
+  "id": 6
+}

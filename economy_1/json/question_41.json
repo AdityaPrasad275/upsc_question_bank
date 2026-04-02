@@ -1,0 +1,52 @@
+{
+  "subject": "Economy",
+  "year": 2000,
+  "theme": "national income accounting in open economy",
+  "question_short_text": "National income formula for an open economy with exports and imports",
+  "text": "In an open economy, the national income (Y) of the economy is:\n\n(C, I, G, X, M stand for Consumption, Investment, Govt. Expenditure, total exports and total imports respectively)",
+  "options": [
+    "Y = C + I + G + X",
+    "Y = C + I + G \u2013 X + M",
+    "Y = C + I + G + (X \u2013 M)",
+    "Y = C + I \u2013 G + X \u2013 M"
+  ],
+  "answerIndex": 2,
+  "answerText": "(c) Y = C + I + G + (X \u2013 M)",
+  "explanation": "National income in an open economy equals domestic expenditure (C + I + G) plus the net contribution of international trade. Since C, I, and G already include both domestic and imported items, imports must be subtracted to avoid double-counting, while exports add domestic production sold abroad. Thus, net exports (X \u2013 M) is the correct adjustment term.",
+  "research": {
+    "summary": "This question tests the expenditure approach to national income accounting and hinges on understanding why imports are subtracted rather than added. The core issue UPSC is testing is the accounting principle of avoiding double-counting in an open economy.\n\nIn a closed economy, Y = C + I + G works because all consumption, investment, and government spending occur on domestically produced goods. When the economy opens to trade, complications arise: when a household buys a foreign car (part of C), or a firm imports machinery (part of I), or the government procures foreign goods (part of G), those items are included in C, I, and G respectively. However, these are not domestically produced, so they inflate the measured income without reflecting domestic output. Therefore, we subtract M to eliminate this overcount. Conversely, exports (X) are domestically produced goods purchased by foreigners\u2014they add to national income because they represent genuine domestic production that doesn't appear in C, I, or G (which measure domestic spending). The net effect is (X \u2013 M).\n\nThe trap is option (a), which simply adds exports without subtracting imports; this double-counts imports already present in C, I, G. Option (b) reverses the logic entirely. Option (d) incorrectly subtracts G, which makes no sense. Understanding this formula is essential because it underpins GDP calculation in the expenditure method and explains why countries with high import ratios may have nominal spending that exceeds measured GDP, or conversely, why trade surpluses boost measured income beyond domestic spending.",
+    "facts": [
+      "The expenditure method is one of three ways to calculate national income; the other two are the income approach (summing wages, rent, interest, profits) and the output/value-added approach.",
+      "In national income accounting, net exports (X \u2013 M) can be positive (trade surplus) or negative (trade deficit), with profound implications for capital flows and savings-investment imbalances.",
+      "Imports must be subtracted because they are foreign production already included in the C, I, and G components; failing to subtract them overstates domestic production.",
+      "For UPSC-relevant context, India's merchandise trade typically runs a deficit, meaning M > X, so net exports are often negative, lowering the contribution to GDP from this term.",
+      "The formula Y = C + I + G + (X \u2013 M) is identical to GDP = C + I + G + NX, where NX (net exports) = X \u2013 M."
+    ],
+    "sources": [
+      {
+        "title": "Open Economy National Income Identity: Understanding GDP, GNP, and Trade Balances",
+        "url": "https://economics.town/macroeconomic-analysis/open-economy-national-income-identity/",
+        "whyUsed": "Verified the correct formula and the logic of why imports are subtracted (to avoid double-counting) and exports are added (domestic production sold abroad)."
+      },
+      {
+        "title": "National Income Accounting in an Open Economy Context",
+        "url": "https://banotes.org/macroeconomics-ii/national-income-accounting-open-economy/",
+        "whyUsed": "Confirmed the transformation from closed economy (Y = C + I + G) to open economy (Y = C + I + G + X \u2013 M) and explained the rationale for including net exports."
+      },
+      {
+        "title": "Gross Domestic Product - Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Gross_domestic_product",
+        "whyUsed": "Verified the standard GDP formula and the role of net exports (X \u2212 M) as a major component in open economy accounting."
+      }
+    ],
+    "searchMeta": {
+      "usedWebSearch": true,
+      "searchQueries": [
+        "national income formula open economy Y C I G X M",
+        "GDP vs GNP net exports open economy economics"
+      ],
+      "confidence": "high"
+    }
+  },
+  "id": 41
+}

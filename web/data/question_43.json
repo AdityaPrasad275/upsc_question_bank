@@ -1,0 +1,51 @@
+{
+  "subject": "Economy",
+  "year": 1998,
+  "theme": "Consumer equilibrium and utility maximization",
+  "question_short_text": "Definition of consumer equilibrium in microeconomic theory",
+  "text": "A consumer is said to be in equilibrium, if:",
+  "options": [
+    "He is able to fulfil his need with a given level of income",
+    "He is able to live in full comforts with a given level of income",
+    "He can fulfil his needs without consumption of certain items",
+    "He is able to locate new sources of income"
+  ],
+  "answerIndex": 0,
+  "answerText": "(a) He is able to fulfil his need with a given level of income",
+  "explanation": "A consumer is in equilibrium when he maximizes his total utility given his budget constraint and the prices of goods, which results in fulfilling his needs with his available income. The equilibrium occurs when the marginal utility per dollar spent is equal across all goods consumed.",
+  "research": {
+    "summary": "Consumer equilibrium is not simply meeting needs or being comfortable\u2014it is the state where a consumer has optimally allocated their limited income to maximize total satisfaction or utility. The trap in this question is that options (b) and (c) describe subjective states (comfort, selective consumption) rather than the objective economic condition being tested. Option (a) correctly identifies equilibrium as the point where a given income level yields maximum utility through optimal allocation of purchases. This occurs when the marginal utility per dollar spent is equal across all goods consumed, meaning the consumer cannot increase satisfaction by reallocating their spending. The practical condition is that the consumer has no incentive to change their consumption bundle\u2014they have exhausted gains from reallocation. Option (d) is irrelevant as consumer equilibrium concerns the allocation of existing income, not the search for new income. The 1998 timing places this in classical UPSC microeconomics, testing foundational utility theory from the cardinal utility approach where MU/P ratios guide optimal consumption decisions.",
+    "facts": [
+      "Consumer equilibrium is reached when MU\u2081/P\u2081 = MU\u2082/P\u2082 = ... = MU\u2099/P\u2099, meaning equal marginal utility per unit of currency across all goods",
+      "The law of diminishing marginal utility ensures that as consumption of a good increases, each additional unit yields less satisfaction, naturally guiding the consumer toward equilibrium",
+      "Consumer equilibrium does not require the consumer to be fully satisfied or comfortable (option b is incorrect); it only requires optimal allocation of existing income",
+      "Changes in income or prices shift the budget constraint, leading to a new equilibrium point; the equilibrium condition remains the same but the quantities purchased change",
+      "Under the ordinal approach using indifference curves, consumer equilibrium occurs where the budget line is tangent to the highest attainable indifference curve, graphically representing the same utility-maximizing outcome"
+    ],
+    "sources": [
+      {
+        "title": "Consumer Equilibrium: Principles of Microeconomics Study Guide",
+        "url": "https://fiveable.me/key-terms/principles-microeconomics/consumer-equilibrium",
+        "whyUsed": "Verified the definition that consumer equilibrium refers to optimal allocation of income to maximize utility given budget constraint"
+      },
+      {
+        "title": "Rules for Maximizing Utility | Microeconomics",
+        "url": "https://courses.lumenlearning.com/wm-microeconomics/chapter/rules-for-maximizing-utility/",
+        "whyUsed": "Explained the practical 'biggest bang for the buck' principle and the MU/P equality condition at equilibrium"
+      },
+      {
+        "title": "Consumer Equilibrium Utility Analysis Class 11",
+        "url": "https://www.vedantu.com/commerce/consumer-equilibrium-utility-analysis",
+        "whyUsed": "Confirmed that at equilibrium the consumer has no inclination to change quantities purchased and MU/P ratios equalize"
+      }
+    ],
+    "searchMeta": {
+      "usedWebSearch": true,
+      "searchQueries": [
+        "consumer equilibrium economics definition utility maximization"
+      ],
+      "confidence": "high"
+    }
+  },
+  "id": 43
+}

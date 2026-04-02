@@ -1,0 +1,53 @@
+{
+  "subject": "Economy",
+  "year": 2020,
+  "theme": "structural transformation of rural Indian economy post-liberalization: sectoral shifts, employment dynamics, and productivity patterns",
+  "question_short_text": "Which statements about rural and urban worker productivity, rural workforce share, and rural non-farm economy growth after 1991 liberalization are correct?",
+  "text": "With reference to the Indian economy after the 1991 economic liberalization, consider the following statements:\n\n1. Worker productivity (Rs. per worker at 2004-05 prices) increased in urban areas while it decreased in rural areas.\n2. The percentage share of rural areas in the workforce steadily increased.\n3. In rural areas, the growth in non-farm economy increased.\n4. The growth rate in rural employment decreased.\n\nWhich of the statements given above is/are correct?",
+  "options": [
+    "1 and 2 only",
+    "3 and 4 only",
+    "3 only",
+    "1, 2 and 4 only"
+  ],
+  "answerIndex": 1,
+  "answerText": "(b) 3 and 4 only",
+  "explanation": "Only statements 3 and 4 are correct. Statement 1 is incorrect because worker productivity increased in both rural and urban areas after 1991, though at different rates. Statement 2 is incorrect because the rural share of the workforce declined as people migrated to urban areas. Statements 3 and 4 are correct: rural non-farm economy grew substantially, but overall rural employment growth rates decelerated due to slow absorption of labor despite non-farm sector expansion.",
+  "research": {
+    "summary": "This question tests understanding of the uneven structural transformation of the Indian economy after liberalization. A crucial trap is the assumption that productivity decline in rural areas mirrors agricultural stagnation. In reality, NITI Aayog data (2017) shows rural worker productivity rose from Rs. 37,273 per worker in 2004\u201305 to Rs. 1,01,755 in 2011\u201312, while urban productivity rose from Rs. 1,20,419 to Rs. 2,82,515. Both increased, though urban gains were steeper. The real distinction UPSC is testing is between productivity (which grew broadly) and employment absorption capacity (which lagged behind workforce growth). Statement 2's false claim about rising rural workforce share obscures a well-documented trend: rural share declined from 77.8% (1993\u201394) to 70.9% (2011\u201312) due to sustained rural-to-urban migration. Statement 3 is definitively correct. The Economic Census of India records approximately 41.89 million rural people employed in non-agricultural establishments during 1998\u20132005, with non-farm sector growth accelerating to 9.21% during 2004\u201305 to 2011\u201312. This reflects a structural shift as agriculture's share in rural NDP declined and manufacturing, construction, services, and other sectors expanded. Statement 4 captures the employment growth paradox: rural employment growth rates decelerated from 2.16% (1970\u201371 to 1993\u201394, pre-reform) to 1.45% (1993\u201394 to 2004\u201305, post-reform) and turned negative at \u20130.28% (2004\u201305 to 2011\u201312, period of economic acceleration). This happened because non-farm sector growth, while substantial in percentage terms, was insufficient to absorb the massive surplus labor leaving agriculture amid mechanization and productivity improvements. The question reveals a critical feature of post-1991 India: rapid sectoral reallocation without proportional employment growth, creating pressure for rural-to-urban migration.",
+    "facts": [
+      "Rural non-farm employment reached 41.89 million by 2005 with 4.56% annual growth (1998\u20132005); non-farm sector accelerated to 9.21% growth during economic acceleration phase (2004\u201305 to 2011\u201312)",
+      "Rural workforce share declined from 76.1% (1999\u20132000) to 70.9% (2011\u201312), reflecting persistent rural-to-urban migration driven by liberalization-induced opportunities in urban services and manufacturing",
+      "Pre-reform rural employment growth (1970\u201371 to 1993\u201394): 2.16% annually; post-reform deceleration to 1.45% (1993\u201394 to 2004\u201305); became negative at \u20130.28% during economic acceleration (2004\u201305 to 2011\u201312)",
+      "Agricultural employment growth stagnated and mechanization increased despite productivity gains, forcing workers into informal non-farm sectors with lower job quality and security",
+      "Rural-urban productivity gap persisted even with rising rural productivity; a rural worker in 2011\u201312 still generated less than one-third of an urban worker's income, indicating structural sectoral differences"
+    ],
+    "sources": [
+      {
+        "title": "Changes in Rural Economy of India (1971\u20132012): NITI Aayog Research Paper, EPW, December 2017",
+        "url": "https://www.niti.gov.in/sites/default/files/2021-08/5_EPW_Article_Changes_in_Rural_Economy_of_India_1971_to_2012.pdf",
+        "whyUsed": "Primary government source for verified worker productivity data (2004\u201305 and 2011\u201312), rural employment growth rates across reform phases, and rural-urban workforce share trends"
+      },
+      {
+        "title": "Changing Structure of Rural Economy of India: Implications for Employment and Growth \u2013 NITI Aayog Discussion Paper",
+        "url": "https://www.niti.gov.in/sites/default/files/2023-02/11_Rural_Economy_Discussion_Paper_0.pdf",
+        "whyUsed": "Official institutional analysis of sectoral composition shifts in rural economy, non-farm employment growth acceleration, and disparity in worker productivity across worker categories"
+      },
+      {
+        "title": "Economic Liberalisation in India \u2013 Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Economic_liberalisation_in_india",
+        "whyUsed": "Comprehensive overview of post-1991 structural changes including rural employment dynamics, rural-to-urban migration patterns, and documented criticisms of unequal liberalization benefits across regions"
+      }
+    ],
+    "searchMeta": {
+      "usedWebSearch": true,
+      "searchQueries": [
+        "NITI Aayog 2017 worker productivity rural urban areas India",
+        "rural employment growth rate India post-liberalization 1991",
+        "rural non-farm economy growth India liberalization 1991"
+      ],
+      "confidence": "high"
+    }
+  },
+  "id": 8
+}

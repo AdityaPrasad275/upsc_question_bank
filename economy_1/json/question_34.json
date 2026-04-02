@@ -1,0 +1,56 @@
+{
+  "subject": "Economy",
+  "year": 2001,
+  "theme": "National Income accounting and its component adjustments",
+  "question_short_text": "Definition of National Income from GNP",
+  "text": "The term National Income represents:",
+  "options": [
+    "Gross National Product at market prices minus depreciation",
+    "Gross National Product at market prices minus depreciation and net factor income from abroad",
+    "Gross National Product at market prices minus depreciation and indirect taxes plus subsidies",
+    "Gross National Product at market prices minus net factor income from abroad"
+  ],
+  "answerIndex": 2,
+  "answerText": "(c) Gross National Product at market prices minus depreciation and indirect taxes plus subsidies",
+  "explanation": "National Income (also called NNP at Factor Cost) is derived from GNP at market prices by deducting depreciation, indirect taxes, and adding back subsidies. The three adjustments together convert market-price gross values into net factor-cost values.",
+  "research": {
+    "summary": "National Income is technically NNP at Factor Cost (Net National Product at Factor Cost), and this is the standard definition in Indian national accounting. The formula requires three critical adjustments from GNP at market prices. First, depreciation (also called consumption of fixed capital) must be subtracted because we measure only the net addition to productive capacity, not gross output before asset wear and tear. Second, indirect taxes (like sales tax, excise duty) must be subtracted because they artificially inflate the market price without representing actual factor returns\u2014when a good sells for Rs. 110 with Rs. 10 tax, the actual factor incomes earned total Rs. 100. Third, subsidies must be added back because they reduce the market price below the true factor cost\u2014the government compensates producers so the factors still earned the full economic value even if the market price appears lower. Option (a) omits both indirect taxes and subsidies, so it describes only NDP (Net Domestic Product), missing the factor cost adjustment entirely. Option (b) subtracts net factor income from abroad, which is wrong: we include net factor income from abroad in National Income to capture income earned by residents globally, not exclude it; this option confuses NNP with NDP. Option (d) subtracts only net factor income from abroad without the indirect tax and subsidy adjustments, which leaves market-price distortions intact. The correct formula\u2014National Income = GNP (MP) \u2212 Depreciation \u2212 Indirect Taxes + Subsidies\u2014is the precise definition used in India's national accounts by the Ministry of Statistics. This adjustment from market prices to factor cost is essential because factor cost reflects the true economic value returned to the factors of production (labor, capital, land, entrepreneurship) and is the basis for measuring genuine income creation.",
+    "facts": [
+      "NNP at Factor Cost is also called National Income or NNI (Net National Income) and is the official measure used in India's Union Budget and macro policy.",
+      "Factor Cost removes both indirect taxes and subsidies to show the real payments to factors of production\u2014wages, profits, interest, and rent\u2014without government price distortions.",
+      "The difference between Market Price and Factor Cost is net indirect taxes (indirect taxes minus subsidies); GDP at MP always exceeds GDP at FC by this net amount unless subsidies exceed taxes.",
+      "NNP (Net) is always lower than GNP (Gross) because depreciation is always positive; NNP represents sustainable, long-term income capacity after replacing worn-out assets.",
+      "Commonly confused: NDP (Net Domestic Product) includes net factor income from abroad correction, whereas National Income (NNP at FC) is purely domestic income at factor cost."
+    ],
+    "sources": [
+      {
+        "title": "National income accounting | GDP, Expenditure & Income | Britannica Money",
+        "url": "https://www.britannica.com/money/national-income-accounting",
+        "whyUsed": "Verified the precise definition that National Income is derived from GNP by adjusting for indirect taxes, subsidies, and depreciation"
+      },
+      {
+        "title": "Taxmann: Overview of National Income Accounting",
+        "url": "https://www.taxmann.com/post/blog/overview-of-the-national-income-accounting-and-related-concepts/",
+        "whyUsed": "Confirmed the exact formula: NNPFC (National Income) = GNP at Market Prices \u2212 Depreciation \u2212 Indirect taxes + Subsidies"
+      },
+      {
+        "title": "Drishti CUET: National Income Accounting Terminologies",
+        "url": "https://www.drishticuet.com/current-affairs/national-income-accounting-important-terminologies",
+        "whyUsed": "Verified the standard Indian national accounting framework and the distinction between factor cost and market price"
+      },
+      {
+        "title": "NextIAS: National Income Measures and Accounting",
+        "url": "https://www.nextias.com/blog/national-income/",
+        "whyUsed": "Confirmed that NNP at Factor Cost is the standard measure of National Income and its adjustments from GNP"
+      }
+    ],
+    "searchMeta": {
+      "usedWebSearch": true,
+      "searchQueries": [
+        "National Income definition GNP depreciation indirect taxes subsidies"
+      ],
+      "confidence": "high"
+    }
+  },
+  "id": 34
+}

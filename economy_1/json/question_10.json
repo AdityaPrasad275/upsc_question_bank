@@ -1,0 +1,60 @@
+{
+  "subject": "Economy",
+  "year": 2018,
+  "theme": "Definition and legal classification of money",
+  "question_short_text": "Meaning of legal tender money",
+  "text": "Which one of the following statements correctly describes the meaning of legal tender money?\n\n(a) The money which is tendered in courts of law to defray the fee of legal cases\n(b) The money which a creditor is under compulsion to accept in settlement of his claims\n(c) The bank money in the form of cheques, drafts, bill of exchange, etc.\n(d) The metallic money in circulation in a country",
+  "options": [
+    "The money which is tendered in courts of law to defray the fee of legal cases",
+    "The money which a creditor is under compulsion to accept in settlement of his claims",
+    "The bank money in the form of cheques, drafts, bill of exchange, etc.",
+    "The metallic money in circulation in a country"
+  ],
+  "answerIndex": 1,
+  "answerText": "(b) The money which a creditor is under compulsion to accept in settlement of his claims",
+  "explanation": "Legal tender is any money recognized by law that a creditor must accept to settle a debt. The key element is legal compulsion\u2014the creditor has no choice but to accept it for payment of monetary obligations.",
+  "research": {
+    "summary": "Legal tender is fundamentally about legal obligation and enforceability. As defined in the RBI Act of 1934 and Coinage Act of 2011, legal tender is any form of money that law designates as mandatory for the settlement of debts. The critical distinction UPSC is testing here is understanding that legal tender is defined by its enforceability, not its form. Option (b) correctly captures this: a creditor is under legal compulsion to accept legal tender. A common trap is mistaking other forms of money or payment instruments for legal tender. Negotiable instruments like cheques and drafts (option c) are not legal tender\u2014they are optional instruments accepted only at the creditor's discretion. Option (a) is a misunderstanding; legal tender applies universally to any debt settlement, not just court fees. Option (d) is overly narrow; while coins and currency notes are legal tender, legal tender encompasses the legal status of money, not merely its metallic composition. In India specifically, all banknotes issued by the RBI are unlimited legal tender (meaning any amount must be accepted), while coins are limited legal tender (capped at Rs. 1000 per transaction under the Coinage Act, 2011). The foundational principle is this: legal tender derives its power from state declaration and legal enforceability, not from its material nature or where it is used.",
+    "facts": [
+      "In India, banknotes are unlimited legal tender while coins are limited legal tender under the Coinage Act, 2011.",
+      "Negotiable instruments such as cheques, drafts, and bills of exchange are not legal tender and are accepted only at the creditor's option.",
+      "Section 26(2) of the RBI Act, 1934 explicitly states that RBI banknotes shall be accepted as legal tender all over India for the amount expressed on them.",
+      "The distinction between legal tender and other money forms is that refusal to accept legal tender for debt discharge can attract legal action, whereas refusal of non-legal tender instruments is optional."
+    ],
+    "sources": [
+      {
+        "title": "Legal tender - iPleaders",
+        "url": "https://blog.ipleaders.in/all-about-legal-tender/",
+        "whyUsed": "Verified the statutory framework under RBI Act 1934 and Coinage Act 2011 regarding legal tender status and limits."
+      },
+      {
+        "title": "Legal Tender - ClearTax",
+        "url": "https://cleartax.in/glossary/legal-tender",
+        "whyUsed": "Confirmed the distinction between unlimited legal tender (notes) and limited legal tender (coins) in India."
+      },
+      {
+        "title": "Legal Tender - Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Legal_tender",
+        "whyUsed": "Established the core definition that legal tender is that which courts recognize as satisfactory payment and which extinguishes a debt when tendered."
+      },
+      {
+        "title": "Legal Tender Money \u2013 UPSC Exam Portal",
+        "url": "https://prepp.in/news/e-492-legal-tender-money-indian-economy-notes",
+        "whyUsed": "Clarified that negotiable instruments are not legal tender and are accepted only optionally by creditors."
+      },
+      {
+        "title": "Legal Tender Money Notes - IAS Exam Portal",
+        "url": "https://iasexamportal.com/the-gist/yojana-legal-tender-money",
+        "whyUsed": "Reinforced that legal tender status derives from government recognition and that paper currency derives all its value from state declaration."
+      }
+    ],
+    "searchMeta": {
+      "usedWebSearch": true,
+      "searchQueries": [
+        "legal tender definition India RBI"
+      ],
+      "confidence": "high"
+    }
+  },
+  "id": 10
+}

@@ -1,0 +1,61 @@
+{
+  "subject": "Economy",
+  "year": 1998,
+  "theme": "supply-side vs demand-side economics: perspective and policy focus",
+  "question_short_text": "Whose perspective does supply-side economics emphasize: producer or consumer?",
+  "text": "The supply-side economics lays greater emphasis on the point of view of:",
+  "options": [
+    "Producer",
+    "Global economy",
+    "Consumer",
+    "Middle-man"
+  ],
+  "answerIndex": 0,
+  "answerText": "(a) Producer",
+  "explanation": "Supply-side economics emphasizes the producer's perspective and focuses on increasing aggregate supply of goods and services through policies like tax cuts, deregulation, and removing barriers to production.",
+  "research": {
+    "summary": "Supply-side economics is fundamentally a producer-centric theory that prioritizes the supply of goods and services as the primary driver of economic growth. Unlike demand-side (Keynesian) economics, which focuses on stimulating consumer spending to drive growth, supply-side theory argues that removing barriers to production\u2014through tax cuts, deregulation, and free trade\u2014incentivizes businesses and workers to increase output. The theory rests on Say's Law (production must occur before consumption can happen) and was popularized during Reagan's presidency in the 1980s, becoming known colloquially as \"Reaganomics.\" The core assumption is that producers, not consumers, are the true engine of economic activity. When producers face lower tax rates and less regulatory burden, they have greater incentives to invest, hire, and innovate, ultimately expanding productive capacity. While supply-siders claim this eventually benefits consumers through lower prices and more goods, the initial and primary focus of policy is on creating a favorable climate for businesses and capital owners. The main trap in this question is confusing supply-side with consumer-focused approaches. Global economy and middle-man are distractors unrelated to the economic schools of thought being tested here. The distinction between producer and consumer focus is the fundamental dividing line between supply-side and demand-side economics.",
+    "facts": [
+      "Supply-side economics originated partly from classical economics (Adam Smith, Say's Law) and contrasts sharply with Keynesian demand management, which dominated post-1930s policy.",
+      "The Laffer Curve, developed by Arthur Laffer in the 1970s, is a key supply-side tool claiming that tax revenue can increase when marginal tax rates are lowered because producers work and invest more.",
+      "Supply-side policies emphasize corporate and income tax cuts to boost business investment and labor supply, not redistribution to low-income consumers who directly spend more.",
+      "The main criticism of supply-side theory is that benefits are disproportionately captured by wealthy individuals and businesses, while promised growth may not materialize (e.g., the Kansas Experiment of 2012 led to budget shortfalls).",
+      "Demand-side economists argue that aggregate demand, not aggregate supply, is the binding constraint during recessions, making consumer purchasing power and government stimulus more important than producer incentives."
+    ],
+    "sources": [
+      {
+        "title": "Supply-side economics - Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Supply-side_economics",
+        "whyUsed": "Verified core definition contrasting supply-side with Keynesian demand-side approaches, including Say's Law origins."
+      },
+      {
+        "title": "Supply-Side Economics - Econlib",
+        "url": "https://www.econlib.org/library/Enc/SupplySideEconomics.html",
+        "whyUsed": "Explained the producer vs. consumer distinction and tax-rate effects on work effort and investment."
+      },
+      {
+        "title": "Supply-side economics - Britannica Money",
+        "url": "https://www.britannica.com/money/supply-side-economics",
+        "whyUsed": "Concise definition: theory focuses on influencing supply of labor and goods using tax cuts as incentives."
+      },
+      {
+        "title": "Demand-Side vs. Supply-Side Economics - Study.com",
+        "url": "https://study.com/learn/lesson/demand-side-vs-supply-side-economics-theories-differences.html",
+        "whyUsed": "Clear comparison showing supply-side focuses on increasing production (producer), demand-side on increasing consumer wealth."
+      },
+      {
+        "title": "Supply-Side Economics - Corporate Finance Institute",
+        "url": "https://corporatefinanceinstitute.com/resources/economics/supply-side-economics/",
+        "whyUsed": "Explained that supply-siders believe producers are the driving force, not consumers; detailed policy levers like deregulation."
+      }
+    ],
+    "searchMeta": {
+      "usedWebSearch": true,
+      "searchQueries": [
+        "supply-side economics definition producer focus"
+      ],
+      "confidence": "high"
+    }
+  },
+  "id": 44
+}

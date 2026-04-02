@@ -1,0 +1,69 @@
+{
+  "subject": "Economy",
+  "year": 2017,
+  "theme": "Impact of liberalization policies on key economic indicators post-1991",
+  "question_short_text": "Which four outcomes occurred after India's 1991 economic liberalization?",
+  "text": "Which of the following has/have occurred in India after its liberalization of economic policies in 1991?\n\n1. Share of agriculture in GDP increased enormously.\n2. Share of India's exports in world trade increased.\n3. FDI inflows increased.\n4. India's foreign exchange reserves increased enormously.\n\nSelect the correct answer using the codes given below:",
+  "options": [
+    "1 and 4 only",
+    "2, 3 and 4 only",
+    "2 and 3 only",
+    "1, 2, 3 and 4"
+  ],
+  "answerIndex": 1,
+  "answerText": "(b) 2, 3 and 4 only",
+  "explanation": "After 1991 liberalization, agriculture's share in GDP declined (not increased) due to rapid growth in industrial and service sectors. However, India's export share in world trade, FDI inflows, and foreign exchange reserves all increased significantly.",
+  "research": {
+    "summary": "This question tests understanding of the sectoral structural change and external sector outcomes triggered by the 1991 economic reforms. The key trap is Statement 1: agriculture's share in GDP declined structurally, not increased. Agriculture fell from approximately 29% of GDP in 1991 to around 15-18% by the 2010s, reflecting standard economic development where faster growth in industry and services outpaces agriculture. This is not a failure of reform but a natural consequence of development. Statement 2 is correct: India's world trade share increased from 0.5% in the 1980s to 0.8% by 2002, and exports grew at 17.3% annually during the 1990s, driven by software, IT services, textiles, and engineering goods. Statement 3 is correct: FDI inflows surged dramatically\u2014from $129 million in 1991-92 to $315 million in 1992-93 (144% growth), and then to over $3.5 billion by the late 1990s. By 2005, cumulative FDI had reached approximately $40 billion, and by 2024 had increased roughly 165-fold from 1991 levels. Statement 4 is correct: foreign exchange reserves recovered from a critical 3-week cover in 1991 (roughly $1.2 billion) to $5.8 billion by end-March 1991, rising to $54 billion by 2002, and reaching over $600 billion by 2020s. This recovery was enabled by increased exports, FDI inflows, and liberalization of capital inflows. The reforms dismantled the License Raj, removed import restrictions on capital and intermediate goods, devalued the rupee to restore competitiveness, and opened 34 high-priority sectors to automatic FDI approval up to 51% foreign equity. The sectoral shift away from agriculture was not unexpected\u2014it reflects a developing economy's transformation toward services (now ~54% of GDP) and industry, a pattern seen across successful emerging markets.",
+    "facts": [
+      "Agriculture's share declined from 29% (1991) to approximately 15-17% by 2020s due to faster growth in industry and services sectors, following classic development economics patterns.",
+      "India's merchandise exports grew from ~$32,000 crore in 1991 to over $450 billion by 2022, with exports to GDP ratio doubling from 7.3% (1990) to 14% (2000).",
+      "FDI inflows accelerated from $129 million (1991-92) to $81.04 billion (FY2024-25), representing over 600-fold growth, with cumulative FDI reaching $1 trillion from April 2000 to 2024.",
+      "Foreign exchange reserves recovered from barely $1.2 billion (January 1991, covering 2-3 weeks of imports) to over $600 billion by 2021, providing 11+ months of import cover.",
+      "Services sector emerged as dominant force post-1991, contributing over one-third of exports and growing rapidly in IT, software, telecommunications, and business process outsourcing, offsetting relative decline in agricultural exports."
+    ],
+    "sources": [
+      {
+        "title": "ExamRobot IAS Question Analysis",
+        "url": "https://examrobot.com/ias/2017/economy/hashave-occurred-india-after-liberalization-economic-policies-share-agriculture-gdp-increased",
+        "whyUsed": "Verified statement-by-statement analysis confirming agriculture's GDP share decline and correctness of statements 2, 3, 4 post-1991."
+      },
+      {
+        "title": "Britannica Money - Economy of India",
+        "url": "https://www.britannica.com/money/economy-of-India",
+        "whyUsed": "Authoritative data on agriculture's share declining from 35% (1990-91) to 15% (2022-23) and sectoral composition changes."
+      },
+      {
+        "title": "Wikipedia - Economic liberalisation in India",
+        "url": "https://en.wikipedia.org/wiki/Economic_liberalisation_in_India",
+        "whyUsed": "Comprehensive documentation of export growth (0.5% to 0.8% world share), FDI increase of 316.9% (1992-2005), and forex reserves recovery from $5.8 billion (March 1991) to higher levels."
+      },
+      {
+        "title": "PIIE - India's Trade Reforms 30 Years Later",
+        "url": "https://www.piie.com/blogs/trade-and-investment-policy-watch/2021/indias-trade-reforms-30-years-later-great-start",
+        "whyUsed": "Verified details on rupee devaluation, License Raj dismantling, and rapid export growth in 1990s driven by liberalized trade regime."
+      },
+      {
+        "title": "Wikipedia - 1991 Indian Economic Crisis",
+        "url": "https://en.wikipedia.org/wiki/1991_Indian_economic_crisis",
+        "whyUsed": "Documented forex reserves at critical levels in 1991 and recovery mechanism through liberalization of capital inflows and FDI policy."
+      },
+      {
+        "title": "Research on FDI in India Post-1991",
+        "url": "https://www.ijhssi.org/papers/v2(2)/version-4/A220111.pdf",
+        "whyUsed": "Academic data confirming FDI inflows increased 165+ times since 1991 and CAGR of 24.28% in post-liberalization period."
+      }
+    ],
+    "searchMeta": {
+      "usedWebSearch": true,
+      "searchQueries": [
+        "India agriculture GDP share 1991 liberalization decline",
+        "India world trade share exports 1991 liberalization increase",
+        "India FDI inflows 1991 liberalization foreign direct investment",
+        "India foreign exchange reserves 1991 liberalization increase"
+      ],
+      "confidence": "high"
+    }
+  },
+  "id": 14
+}

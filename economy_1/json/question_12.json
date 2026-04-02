@@ -1,0 +1,62 @@
+{
+  "subject": "Economy",
+  "year": 2018,
+  "theme": "Economic growth vs. economic development: the distinction between quantitative output measures and qualitative human welfare indicators",
+  "question_short_text": "When does real GNP growth not translate to actual economic development?",
+  "text": "Increase in absolute and per capita real GNP do not connote a higher level of economic development, if:\n\na) Industrial output fails to keep pace with agricultural output.\nb) Agricultural output fails to keep pace with industrial output.\nc) Poverty and unemployment increases.\nd) Imports grow faster than exports.",
+  "options": [
+    "Industrial output fails to keep pace with agricultural output.",
+    "Agricultural output fails to keep pace with industrial output.",
+    "Poverty and unemployment increases.",
+    "Imports grow faster than exports."
+  ],
+  "answerIndex": 2,
+  "answerText": "(c) Poverty and unemployment increases.",
+  "explanation": "Economic development is not synonymous with economic growth. Rising real GNP, even on a per capita basis, does not guarantee development if poverty and unemployment persist or worsen. True development requires improvements in living standards, employment, and inequality reduction, not merely quantitative output increases.",
+  "research": {
+    "summary": "This question tests a fundamental distinction in development economics: growth is quantitative, development is qualitative. When GNP rises absolutely or per capita, it measures only the total or average economic output\u2014a purely mathematical indicator. Economic development, by contrast, encompasses structural transformations in human welfare: poverty reduction, employment creation, improved health and education, and reduced inequality. A country experiencing GNP growth alongside rising poverty and unemployment exemplifies the decoupling of growth from development. This reflects a core insight from Amartya Sen's capability approach: development should be measured by the expansion of human freedoms and the ability to lead valued lives, not by income metrics alone. The wrong options rest on sector-mix logic. Industrial versus agricultural output, and export-import ratios, are structural concerns but do not directly negate the development claim. A country could rebalance its sectors or run a trade surplus and still not achieve development if wealth remains concentrated and joblessness persists. Conversely, poverty and unemployment are direct negations of development outcomes. If GNP grows but the poor remain poor and jobless people remain jobless, the growth has not translated into inclusive development. Real-world examples abound: many resource-rich nations experienced GDP surges but persistent extreme poverty due to poor distribution and weak employment generation. UNDP research confirms that roughly half of recent economic growth episodes globally failed to reduce poverty, with some nations actually seeing poverty deepen as GDP grew. This validates the test: growth without poverty reduction is growth without development.",
+    "facts": [
+      "The Human Development Index (HDI), developed by Sen and Mahbub ul-Haq for the UNDP since 1990, explicitly incorporates life expectancy and education alongside GNI per capita, embedding the principle that development is multidimensional.",
+      "Sen's capability approach defines development as expanding people's real freedoms to lead valued lives, not merely accumulating commodities or income; poverty is understood as deprivation in capabilities, not only low income.",
+      "Empirical studies show the growth elasticity of multidimensional poverty is only 5\u20138% of the elasticity of income poverty, meaning GDP growth has much weaker impact on broader human development dimensions.",
+      "Many upper-middle-income countries (UMICs) have experienced sustained economic growth while absolute poverty increased, because inequality and low employment growth offset macro gains.",
+      "Economic development requires not just higher output but structural transformation: improved technology adoption, institutional reforms, investment in human capital, and labor market policies that ensure growth benefits reach the poorest."
+    ],
+    "sources": [
+      {
+        "title": "Economic Growth, Unemployment and Poverty: Linear and Non-linear Evidence from South Africa",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10543180/",
+        "whyUsed": "Provides empirical evidence that economic growth reduces poverty only in the long-run when accompanied by employment growth; demonstrates the direct linkage between unemployment persistence and poverty despite growth."
+      },
+      {
+        "title": "Does Economic Growth Reduce Multidimensional Poverty?",
+        "url": "https://www.sciencedirect.com/science/article/pii/S0305750X22003096",
+        "whyUsed": "Shows that growth elasticity of multidimensional poverty is substantially lower than monetary poverty elasticity, validating the question's premise that growth in GNP does not automatically improve human welfare dimensions."
+      },
+      {
+        "title": "Amartya Sen: A More Human Theory of Development",
+        "url": "https://asiasociety.org/amartya-sen-more-human-theory-development",
+        "whyUsed": "Directly articulates Sen's distinction between economic growth (richness of economy) and development (advancement of human life), foundational to understanding why GNP growth alone is insufficient."
+      },
+      {
+        "title": "Sen's Capability Approach",
+        "url": "https://iep.utm.edu/sen-cap/",
+        "whyUsed": "Explains the philosophical framework underpinning modern development economics: poverty as capability deprivation, development as capability expansion, establishing why poverty persistence negates development claims."
+      },
+      {
+        "title": "Growth Without Gains: UNDP Analysis of Post-Pandemic Trends",
+        "url": "https://www.undp.org/blog/growth-without-gains",
+        "whyUsed": "Recent empirical evidence (2021\u20132023) showing that in roughly half of growing economies, poverty actually increased alongside GDP growth, validating the question's focus on poverty and unemployment as the development test."
+      }
+    ],
+    "searchMeta": {
+      "usedWebSearch": true,
+      "searchQueries": [
+        "economic development vs economic growth GNP poverty unemployment",
+        "Amartya Sen economic development human development approach"
+      ],
+      "confidence": "high"
+    }
+  },
+  "id": 12
+}
