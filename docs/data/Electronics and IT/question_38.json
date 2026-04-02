@@ -1,0 +1,62 @@
+{
+  "subject": "Science",
+  "year": 2007,
+  "theme": "Inventors and foundational computing technologies",
+  "question_short_text": "Inventor of the World Wide Web (WWW)",
+  "text": "Who among the following is considered as the inventor of the World Wide Web (WWW)?",
+  "options": [
+    "Edward Kasner",
+    "Bill Gates",
+    "Tim Berners-Lee",
+    "Vinod Dham"
+  ],
+  "answerIndex": 2,
+  "answerText": "(c) Tim Berners-Lee",
+  "explanation": "Tim Berners-Lee, a British computer scientist, invented the World Wide Web in 1989 while working at CERN. He developed the foundational protocols (HTTP, HTML, URI/URL) and the first web browser and server that became the basis for the modern web.",
+  "research": {
+    "summary": "Tim Berners-Lee's invention of the World Wide Web in 1989 at CERN was a deliberate synthesis of existing technologies\u2014hypertext, the Internet, and TCP/DNS protocols\u2014rather than a fundamentally new technology. The trap this question tests is recognizing that the other three options are associated with entirely different domains of technology. Edward Kasner was a mathematician famous for coining 'googol' and 'googolplex,' terms used in mathematics and later by Google for its search engine, but he had no connection to the web. Bill Gates co-founded Microsoft and revolutionized personal computing through operating systems and software, but Microsoft was not the developer of the web. Vinod Dham is an Indian-American engineer known as the 'Father of the Pentium Chip' for his crucial work on Intel's microprocessor development, which enabled computing power but was entirely separate from web technology. Berners-Lee's unique contribution was envisioning that hypertext could be connected to the Internet to create a system for information sharing among scientists at CERN. His proposal came in March 1989, and by 1990-1991, he had written the first HTTP server, the first web browser (WorldWideWeb.app), and published the foundational specifications for HTML and HTTP. Critically, Berners-Lee ensured the web remained open and royalty-free, refusing to proprietary lock it, which enabled its explosive global adoption starting in 1991. This open philosophy was foundational to why the web became universal rather than remaining a closed system. He was knighted in 2004 and received the 2016 Turing Award for this invention.",
+    "facts": [
+      "Berners-Lee invented the web at CERN (European Particle Physics Laboratory) in 1989 to solve the problem of information-sharing among geographically dispersed scientists from over 100 countries.",
+      "The first web server went live in December 1991 at Stanford Linear Accelerator Center (SLAC), and the public internet announcement occurred in August 1991, spreading the technology globally.",
+      "The three foundational technologies Berners-Lee created and standardized were HTTP (HyperText Transfer Protocol), HTML (HyperText Markup Language), and URIs/URLs (Uniform Resource Identifiers), which form the technical backbone of all websites today.",
+      "Marc Andreessen and Eric Bina's Mosaic browser (1993) was the first user-friendly graphical web browser that accelerated mass adoption; Berners-Lee's original browser was simpler and ran only on NeXT computers.",
+      "Berners-Lee founded the World Wide Web Consortium (W3C) in 1994 at MIT to maintain open standards and prevent proprietary fragmentation of web technologies."
+    ],
+    "sources": [
+      {
+        "title": "Tim Berners-Lee - Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Tim_Berners-Lee",
+        "whyUsed": "Verified Berners-Lee's role as inventor, timeline (1989), honors (knighthood 2004, Turing Award 2016), and role founding W3C in 1994."
+      },
+      {
+        "title": "The Birth of the Web - CERN",
+        "url": "https://home.cern/science/computing/birth-web",
+        "whyUsed": "Official CERN source confirming Berners-Lee invented the web in 1989 at CERN to meet demand for automated information-sharing between scientists."
+      },
+      {
+        "title": "Tim Berners-Lee Biography - Britannica",
+        "url": "https://www.britannica.com/biography/Tim-Berners-Lee",
+        "whyUsed": "Confirmed Berners-Lee's birth (June 8, 1955), education (Oxford 1976), early career at CERN, and W3C founding (1994)."
+      },
+      {
+        "title": "World Wide Web Foundation - History of the Web",
+        "url": "https://webfoundation.org/about/vision/history-of-the-web/",
+        "whyUsed": "Detailed timeline of web development: March 1989 proposal, October 1990 first server/browser implementation, December 1991 first US web server at SLAC, August 1991 public announcement."
+      },
+      {
+        "title": "Vinod Dham - Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Vinod_Dham",
+        "whyUsed": "Confirmed Vinod Dham's actual role: 'Father of the Pentium Chip' at Intel, completely unrelated to web technology."
+      }
+    ],
+    "searchMeta": {
+      "usedWebSearch": true,
+      "searchQueries": [
+        "Tim Berners-Lee inventor World Wide Web WWW",
+        "Edward Kasner Bill Gates Vinod Dham contributions technology"
+      ],
+      "confidence": "high"
+    }
+  },
+  "id": 38
+}

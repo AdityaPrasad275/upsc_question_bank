@@ -1,0 +1,52 @@
+{
+  "subject": "Science",
+  "year": 2009,
+  "theme": "wireless communication and broadband access technology classification",
+  "question_short_text": "WiMAX technology classification",
+  "text": "WiMAX is related to which one of the following?",
+  "options": [
+    "Biotechnology",
+    "Space technology",
+    "Missile technology",
+    "Communication technology"
+  ],
+  "answerIndex": 3,
+  "answerText": "(d) Communication technology",
+  "explanation": "WiMAX (Worldwide Interoperability for Microwave Access) is a wireless communication standard based on IEEE 802.16, designed to provide high-speed broadband internet access over long distances, making it a communication technology.",
+  "research": {
+    "summary": "WiMAX is fundamentally a wireless broadband communication standard, not a technology for the other domains listed. The acronym stands for Worldwide Interoperability for Microwave Access, and it refers to a family of standards based on IEEE 802.16 developed by a working group established in 1999 to create standards for broadband wireless metropolitan area networks (WMANs). The key distinction here is understanding what WiMAX actually is: it is a point-to-multipoint wireless networking technology that provides last-mile broadband access\u2014essentially a wireless alternative to DSL and cable broadband. By 2009, when this question was asked, WiMAX was being actively deployed commercially, most notably in India where Tata Communications had launched the world's largest WiMAX network with coverage across multiple cities. The technology operates in frequency bands typically between 2-11 GHz (depending on the standard version), with fixed WiMAX capable of covering up to 50 km and providing data rates up to 75 Mbps, while mobile WiMAX (802.16e) offered more flexible handover capabilities. The question tests whether students understand that WiMAX is distinctly a communication/broadband technology, not biotechnology (life sciences), space technology (satellite/aerospace systems), or missile technology (defense systems). The trap in this question is primarily for students who might confuse acronyms or technical jargon without understanding the fundamental domain\u2014WiMAX's technical nature and its standardization through IEEE makes it unmistakably a communication technology.",
+    "facts": [
+      "WiMAX Forum, established in 2001, certifies interoperable implementations of IEEE 802.16 standards to ensure compatibility across vendors",
+      "IEEE 802.16e-2005 (mobile WiMAX) became the most widely deployed version, enabling handover between base stations\u2014a critical feature for mobile broadband",
+      "Fixed WiMAX (802.16-2004) was optimized for stationary applications as a DSL replacement, while mobile WiMAX was designed for on-the-move connectivity",
+      "By 2009, WiMAX faced competition from emerging LTE (finalized in December 2008), which eventually became the dominant 4G standard globally",
+      "India's 2.3 GHz and 3.5 GHz spectrum allocations made the country a strategic test-bed for WiMAX deployment, with Tata Communications leading commercial rollouts"
+    ],
+    "sources": [
+      {
+        "title": "IEEE 802.16 - Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/IEEE_802.16",
+        "whyUsed": "Verified the IEEE 802.16 family of standards and the official terminology (WirelessMAN vs. WiMAX branding), and the 2009 deployment timeline"
+      },
+      {
+        "title": "WiMAX - Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/WiMAX",
+        "whyUsed": "Confirmed WiMAX is based on IEEE 802.16 standards, provided timeline of development and deployment, and explained the relationship with broadband access"
+      },
+      {
+        "title": "The story of WiMAX in India (3G4G Blog)",
+        "url": "https://blog.3g4g.co.uk/2008/03/story-of-wimax-in-india.html",
+        "whyUsed": "Verified Tata Communications' commercial WiMAX rollout in India around 2008-2009 and the scale of deployment at that time"
+      }
+    ],
+    "searchMeta": {
+      "usedWebSearch": true,
+      "searchQueries": [
+        "WiMAX IEEE 802.16 wireless communication technology",
+        "WiMAX history deployment India 4G LTE"
+      ],
+      "confidence": "high"
+    }
+  },
+  "id": 37
+}

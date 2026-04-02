@@ -1,0 +1,57 @@
+{
+  "subject": "Economy",
+  "year": 2000,
+  "theme": "base year revision of national accounts statistics",
+  "question_short_text": "CSO GDP series released February 1999 base year",
+  "text": "The new Gross Domestic Product (GDP) series released by the Central Statistical Organisation (CSO) in February 1999 is with reference to base price of:",
+  "options": [
+    "1991-92",
+    "1992-93",
+    "1993-94",
+    "1994-95"
+  ],
+  "answerIndex": 2,
+  "answerText": "(c) 1993-94",
+  "explanation": "The CSO released a new GDP series in February 1999 with 1993-94 as the base year. This shift from the previous base year of 1980-81 to 1993-94 represented a major rebasal that improved the accuracy and relevance of India's national accounts statistics.",
+  "research": {
+    "summary": "In February 1999, the CSO released a new national accounts series with 1993-94 as the base year, shifting from the previous 1980-81 base year. This rebasal was not arbitrary\u2014it reflected two methodological improvements crucial to accurate GDP estimation. First, the CSO for the first time integrated workforce estimates from the National Sample Survey Organisation (NSSO) 50th Round survey (1993-94) rather than relying on decennial Population Census data. This provided more accurate employment figures, especially for the informal and female workforce, which had been historically undercaptured in census enumerations. Second, the 1993-94 year itself was chosen because the NSSO's Employment-Unemployment survey had just been completed for that year, providing reliable labor force participation data coinciding with better data availability on consumption patterns and economic structure. The new series resulted in substantial revisions\u2014the statistical shift itself raised total GDP estimates by approximately 9 percent. This practice of periodic rebasal was subsequently institutionalized: the CSO committed to updating the base year every five years whenever the NSSO conducted its Employment-Unemployment survey, leading to subsequent shifts to 2004-05 (January 2006) and 2011-12 (January 2015). The 1993-94 series remained the official reference frame for real GDP calculations throughout the 1999-2006 period, making this question a test of understanding the timing and rationale of India's national statistical infrastructure.",
+    "facts": [
+      "Prior to February 1999, India used 1980-81 as the base year for national accounts, marking a 13-year gap from the previous rebasal",
+      "The 1993-94 base year was chosen specifically because NSSO's 50th Round Employment-Unemployment survey data (1993-94) became available, allowing for more accurate workforce estimates than decennial Census data alone",
+      "India has undertaken nine GDP series rebasing exercises since 1948-49 (first CSO estimates), with subsequent shifts in 1960-61, 1970-71, 1980-81, 1993-94, 2004-05, 2011-12, 2015-16, and 2022-23",
+      "Base year selection is not merely about timing but reflects data availability\u2014the CSO instituted a five-year rebasal cycle beginning 1999 to align with NSSO's quinquennial surveys",
+      "The 1993-94 rebasal required comprehensive methodology review under the 1993 System of National Accounts (SNA) international framework recommended by the UN, IMF, World Bank, OECD, and EUROSTAT"
+    ],
+    "sources": [
+      {
+        "title": "CSO GDP Series Brochure (Base Year 1993-94)",
+        "url": "https://www.mospi.gov.in/sites/default/files/publication_reports/brochure1_9june04.pdf",
+        "whyUsed": "Official CSO document confirming 1993-94 base year adoption and explaining rationale for choosing 1993-94 (NSS 50th Round workforce data availability)"
+      },
+      {
+        "title": "Business Today: Base Year Revisions Timeline",
+        "url": "https://www.businesstoday.in/latest/economy-politics/story/gdp-data-base-year-january-indian-economy-140363-2014-11-03",
+        "whyUsed": "Confirms February 1999 shift from 1980-81 to 1993-94 base year and timeline of all historical rebasing exercises"
+      },
+      {
+        "title": "Press Information Bureau: Revised National Income Estimates 1999-2000",
+        "url": "https://archive.pib.gov.in/archive/releases98/lyr2000/rjun2000/r30062000.html",
+        "whyUsed": "Original CSO release showing GDP estimates at constant (1993-94) prices, directly confirming adoption of 1993-94 base year by 1999-2000"
+      },
+      {
+        "title": "Backseries Estimates of National Accounts Statistics",
+        "url": "https://mospi.gov.in/sites/default/files/reports_and_publication/statistical_publication/National_Accounts/methodology-backseries.pdf",
+        "whyUsed": "Details the shift from 1993-94 to 1999-2000 base year in January 2006 and explains the 1993-94 series structure"
+      }
+    ],
+    "searchMeta": {
+      "usedWebSearch": true,
+      "searchQueries": [
+        "CSO GDP series February 1999 base year 1993-94",
+        "India GDP base year 1993-94 Central Statistical Organisation"
+      ],
+      "confidence": "high"
+    }
+  },
+  "id": 38
+}

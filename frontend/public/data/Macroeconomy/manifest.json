@@ -1,0 +1,225 @@
+{
+  "name": "Macroeconomy",
+  "questions": [
+    {
+      "id": 1,
+      "short_text": "Identify correctly matched pairs of economic activities and their sectors",
+      "file": "question_1.json"
+    },
+    {
+      "id": 2,
+      "short_text": "Identifying fixed and working capital from a list of four items",
+      "file": "question_2.json"
+    },
+    {
+      "id": 3,
+      "short_text": "Sovereign default and claims enforceability on US Treasury Bonds",
+      "file": "question_3.json"
+    },
+    {
+      "id": 4,
+      "short_text": "Post-pandemic rate hikes and CB inflation control assumptions",
+      "file": "question_4.json"
+    },
+    {
+      "id": 5,
+      "short_text": "Identify which activities constitute the real sector of the economy",
+      "file": "question_5.json"
+    },
+    {
+      "id": 6,
+      "short_text": "Most appropriate fiscal policy step during economic recession",
+      "file": "question_6.json"
+    },
+    {
+      "id": 7,
+      "short_text": "Which statements correctly identify reasons for increased market demand?",
+      "file": "question_7.json"
+    },
+    {
+      "id": 8,
+      "short_text": "Which statements about rural and urban worker productivity, rural workforce share, and rural non-farm economy growth after 1991 liberalization are correct?",
+      "file": "question_8.json"
+    },
+    {
+      "id": 9,
+      "short_text": "PPP definition and India's PPP-based GDP ranking in 2019",
+      "file": "question_9.json"
+    },
+    {
+      "id": 10,
+      "short_text": "Meaning of legal tender money",
+      "file": "question_10.json"
+    },
+    {
+      "id": 11,
+      "short_text": "Where does the opportunity cost transfer when government provides a commodity free?",
+      "file": "question_11.json"
+    },
+    {
+      "id": 12,
+      "short_text": "When does real GNP growth not translate to actual economic development?",
+      "file": "question_12.json"
+    },
+    {
+      "id": 14,
+      "short_text": "Which four outcomes occurred after India's 1991 economic liberalization?",
+      "file": "question_14.json"
+    },
+    {
+      "id": 15,
+      "short_text": "Real GDP growth rate vs nominal GDP level trends 2005-2015",
+      "file": "question_15.json"
+    },
+    {
+      "id": 16,
+      "short_text": "Which of these is NOT what the international liquidity problem relates to",
+      "file": "question_16.json"
+    },
+    {
+      "id": 18,
+      "short_text": "Which is a necessary condition for economic growth in any country?",
+      "file": "question_18.json"
+    },
+    {
+      "id": 19,
+      "short_text": "What is the correct definition of national income?",
+      "file": "question_19.json"
+    },
+    {
+      "id": 20,
+      "short_text": "Which circumstances can generate capital gains?",
+      "file": "question_20.json"
+    },
+    {
+      "id": 21,
+      "short_text": "Did both GDP growth rate and per capita income growth increase steadily in 2006\u20132010?",
+      "file": "question_21.json"
+    },
+    {
+      "id": 22,
+      "short_text": "Economic growth and its typical association with inflation or deflation",
+      "file": "question_22.json"
+    },
+    {
+      "id": 23,
+      "short_text": "Definition and key characteristic of a closed economy",
+      "file": "question_23.json"
+    },
+    {
+      "id": 24,
+      "short_text": "GDP growth multiplier and public sector share decline 2000-2010",
+      "file": "question_24.json"
+    },
+    {
+      "id": 26,
+      "short_text": "Identify which instruments are treated as artificial currency",
+      "file": "question_26.json"
+    },
+    {
+      "id": 27,
+      "short_text": "Identifying the correct definition of deflation among four economic concepts",
+      "file": "question_27.json"
+    },
+    {
+      "id": 28,
+      "short_text": "Earliest event among banking regulation, insurance nationalization, SBI nationalization, and Five-Year Plan",
+      "file": "question_28.json"
+    },
+    {
+      "id": 29,
+      "short_text": "Correct sequence of sectoral contribution to India's GDP in decreasing order",
+      "file": "question_29.json"
+    },
+    {
+      "id": 30,
+      "short_text": "Which country had the lowest GDP per capita among China, India, Indonesia, and Sri Lanka in 2003?",
+      "file": "question_30.json"
+    },
+    {
+      "id": 31,
+      "short_text": "Decreasing order of GDP contribution by four specified sectors at 2000-01 constant prices",
+      "file": "question_31.json"
+    },
+    {
+      "id": 32,
+      "short_text": "Which type of capital inflow is most beneficial for host developing countries given crises experience?",
+      "file": "question_32.json"
+    },
+    {
+      "id": 33,
+      "short_text": "Definition of a country in debt trap condition",
+      "file": "question_33.json"
+    },
+    {
+      "id": 34,
+      "short_text": "Definition of National Income from GNP",
+      "file": "question_34.json"
+    },
+    {
+      "id": 36,
+      "short_text": "Best measure of a country's economic growth: GDP, NDP, NNP, or per capita real income?",
+      "file": "question_36.json"
+    },
+    {
+      "id": 37,
+      "short_text": "Why does per capita income grow faster at current prices than at constant prices?",
+      "file": "question_37.json"
+    },
+    {
+      "id": 38,
+      "short_text": "CSO GDP series released February 1999 base year",
+      "file": "question_38.json"
+    },
+    {
+      "id": 39,
+      "short_text": "Match the business cycle phases (Boom, Recession, Depression, Recovery) with their definitions.",
+      "file": "question_39.json"
+    },
+    {
+      "id": 40,
+      "short_text": "Match business cycle phases (boom, recession, depression, recovery) with their definitions",
+      "file": "question_40.json"
+    },
+    {
+      "id": 41,
+      "short_text": "National income formula for an open economy with exports and imports",
+      "file": "question_41.json"
+    },
+    {
+      "id": 42,
+      "short_text": "Tertiary sector share in India's GDP since 1980",
+      "file": "question_42.json"
+    },
+    {
+      "id": 43,
+      "short_text": "Definition of consumer equilibrium in microeconomic theory",
+      "file": "question_43.json"
+    },
+    {
+      "id": 44,
+      "short_text": "Whose perspective does supply-side economics emphasize: producer or consumer?",
+      "file": "question_44.json"
+    },
+    {
+      "id": 45,
+      "short_text": "Identify the correct definition of National Income",
+      "file": "question_45.json"
+    },
+    {
+      "id": 46,
+      "short_text": "Which combination best achieves income redistribution?",
+      "file": "question_46.json"
+    },
+    {
+      "id": 47,
+      "short_text": "Distinction between stabilization and structural adjustment in India's 1991 reforms",
+      "file": "question_47.json"
+    },
+    {
+      "id": 48,
+      "short_text": "Why does India grow slowly despite high savings and capital formation?",
+      "file": "question_48.json"
+    }
+  ]
+}

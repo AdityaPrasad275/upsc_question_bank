@@ -1,0 +1,52 @@
+{
+  "subject": "Science",
+  "year": 2006,
+  "theme": "Noise reduction technology in analogue audio recording",
+  "question_short_text": "What do Dolby B and Dolby C on tape recorders refer to?",
+  "text": "What does the term Dolby B, or Dolby C. printed on tape recorders and other sound system refer to?",
+  "options": [
+    "Frequency modulated system",
+    "Amplitude Modulated system",
+    "Noise reduction circuit",
+    "Both DC and AC power can be used"
+  ],
+  "answerIndex": 2,
+  "answerText": "(c) Noise reduction circuit",
+  "explanation": "Dolby B and Dolby C refer to noise reduction systems used in tape recorders. They reduce background hiss in analogue recordings by boosting high-frequency signals during recording and reducing them during playback.",
+  "research": {
+    "summary": "Dolby B and Dolby C are proprietary noise reduction systems developed by Ray Dolby's Dolby Laboratories specifically for consumer tape recorders and cassette players. The core misconception students often make is confusing these terms with modulation systems (frequency or amplitude) or power supply specifications\u2014the question is testing whether they recognize noise reduction circuitry. Both Dolby B (introduced 1968) and Dolby C (introduced 1980) work using a two-step companding process: during recording, soft high-frequency passages are boosted above the level of tape hiss, making them louder than the noise; during playback, a mirror-image decoder reduces those boosted frequencies back to their original level, and simultaneously reduces the noise that was added during recording. Dolby B provides 10 dB of noise reduction in high frequencies where tape hiss predominates, while Dolby C provides 20 dB\u2014double that of B. The trap is that students without audio engineering knowledge might see \"modulation\" and \"power\" options and guess incorrectly. The distinguishing feature is that these are both encode-decode systems (companders) that selectively address only the problematic high-frequency spectrum, not broad modulation or power supply concerns. Critically, the same noise reduction type must be used on both recording and playback; playing a Dolby B-encoded tape on a Dolby C system produces tonally incorrect sound. This frequency-selective approach made high-fidelity recording practical on slow-speed consumer formats like cassettes, which would otherwise suffer from obtrusive hiss during quiet passages.",
+    "facts": [
+      "Dolby B was developed in 1968 specifically for slow-speed consumer formats (cassettes, 3.75 ips open-reel, VHS linear tracks); it became the standard in millions of devices worldwide",
+      "Dolby C, introduced in 1980, works similarly to Dolby B but extends processing down to 100 Hz and uses two sliding compression-expansion bands instead of one, handling more aggressive noise reduction without excessive distortion",
+      "The fundamental mechanism is companding\u2014dynamic pre-emphasis during recording (compression) followed by symmetrical de-emphasis during playback (expansion)\u2014which differs fundamentally from modulation systems that manipulate carrier frequencies",
+      "Tape hiss is concentrated at frequencies above 1,000 Hz because it is a high-frequency noise; Dolby systems target only these problematic frequencies while leaving lower-frequency content (drums, bass) untouched to minimize distortion",
+      "Unlike simple noise filters that attempt to remove noise after it mixes with music, Dolby systems prevent noise from being added in the first place by boosting soft signals above the noise floor during recording"
+    ],
+    "sources": [
+      {
+        "title": "Dolby noise-reduction system - Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Dolby_noise-reduction_system",
+        "whyUsed": "Authoritative source on the technical mechanism, history (Dolby B 1968, Dolby C introduced), and companding principle"
+      },
+      {
+        "title": "The Evolution of Dolby Noise Reduction in Cassette Tapes - Beoworld",
+        "url": "https://beoworld.org/dolby-noise-reduction/",
+        "whyUsed": "Verified detailed technical specifications: Dolby B provides 10 dB reduction, Dolby C provides 20 dB, and explanation of encode-decode workflow"
+      },
+      {
+        "title": "Tape Noise Reduction - Sound on Sound",
+        "url": "https://www.soundonsound.com/techniques/tape-noise-reduction",
+        "whyUsed": "Professional audio perspective on why tape hiss is problematic, how Dolby C differs from Dolby B (broader frequency range, anti-saturation), and calibration requirements"
+      }
+    ],
+    "searchMeta": {
+      "usedWebSearch": true,
+      "searchQueries": [
+        "Dolby B Dolby C noise reduction technology",
+        "how Dolby noise reduction system works tape recorders"
+      ],
+      "confidence": "high"
+    }
+  },
+  "id": 39
+}

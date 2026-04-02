@@ -1,0 +1,62 @@
+{
+  "subject": "Science & Technology",
+  "year": 2018,
+  "theme": "emerging communication technologies - Internet of Things (IoT) definition and application",
+  "question_short_text": "Identify the technology enabling smart home devices that respond automatically to user actions and environmental conditions",
+  "text": "When the alarm of your smartphone rings in the morning, you wake up and tap it to stop the alarm which causes your geyser to be switched on automatically. The smart mirror in your bathroom shows the day's weather and also indicates the level of water in your overhead tank. After you take some groceries from your refrigerator for making breakfast, it recognises the shortage of stock in it and places and order for the supply of fresh grocery items. When you step out of your house and lock the door, all lights, fans, geysers and AC machines get switched off automatically. On your way to office, your car warns you about traffic congestion ahead and suggests an alternative route, and if you are late for a meeting, it sends a message to your office accordingly.\n\nIn the context of emerging communication technologies, which one of the following terms best applies to the above scenario?",
+  "options": [
+    "Border Gateway Protocol",
+    "Internet Of Things",
+    "Internet Protocol",
+    "Virtual Private Network"
+  ],
+  "answerIndex": 1,
+  "answerText": "(b) Internet Of Things",
+  "explanation": "IoT refers to a network of interconnected physical devices embedded with sensors, software, and connectivity that collect and exchange data with each other over networks. The described scenario exemplifies IoT: multiple smart devices (alarm, geyser, mirror, refrigerator, lights, car) autonomously communicate, collect environmental data, and trigger automated actions without direct human intervention.",
+  "research": {
+    "summary": "The core trap in this question is confusing IoT with the networking protocols that enable it. Border Gateway Protocol (BGP) and Internet Protocol (IP) are addressing and routing mechanisms that exist at the infrastructure layer, while Virtual Private Networks (VPN) provide security overlays. None of these describe the conceptual system of 'things' communicating intelligently.\n\nInternet of Things is fundamentally about embedding sensing and computing capability into everyday physical objects\u2014not just computers and smartphones\u2014allowing them to collect, process, and share data autonomously. The term was coined by Kevin Ashton in 1999. What distinguishes IoT from older automation is that devices connect over standard internet networks, process data locally or in the cloud, and respond intelligently to changing conditions.\n\nThe scenario provided showcases all hallmarks of IoT: (1) sensor-enabled devices (smart mirror detecting water level, refrigerator recognizing stock shortage, car detecting traffic); (2) automatic inter-device communication (geyser activation triggered by alarm, all devices switching off when door locks); (3) data exchange and real-time responsiveness (weather display, alternative route suggestion, late-meeting notification). The key insight is that none of these devices require explicit human commands\u2014they sense conditions and act autonomously within a networked ecosystem.\n\nA common student error is choosing IP because 'the devices connect to a network.' While IP is technically necessary for IoT devices to communicate, it does not describe the IoT system itself\u2014IP is just the address scheme that enables communication. BGP similarly handles routing between autonomous systems but has nothing to do with smart devices. VPN is a security wrapper irrelevant to the concept being tested.\n\nThe emergence of IoT has become possible only because chip costs have fallen, wireless standards have proliferated (Wi-Fi, Bluetooth, 5G, LoRaWAN), and cloud computing now provides the processing backend. Most IoT devices operate on private networks using specialized protocols like MQTT, CoAP, and Zigbee, not public internet infrastructure\u2014another reason 'Internet Protocol' is a trap for those fixating on the internet connection.",
+    "facts": [
+      "The term Internet of Things was coined in 1999 by Kevin Ashton; early IoT milestones include RFID tag deployment and the arrival of low-cost wireless chipsets in the mid-2000s.",
+      "IoT devices communicate using multiple protocols: Wi-Fi, Bluetooth, Zigbee, LoRaWAN, MQTT (Message Queuing Telemetry Transport), and CoAP (Constrained Application Protocol)\u2014not all require public internet.",
+      "Smart homes are a consumer-level IoT application where devices (thermostats, locks, cameras, appliances) integrate through a central hub (Amazon Echo, Google Home) to enable remote monitoring and automation.",
+      "Industrial IoT (IIoT) applies the same principles to manufacturing, fleet management, utilities, and asset tracking\u2014representing 22% of the global IoT market as of 2024.",
+      "IoT ecosystem architecture includes four layers: sensor/device layer, connectivity layer, cloud/data processing layer, and user interface layer; this layered design enables scalability and intelligence across industries."
+    ],
+    "sources": [
+      {
+        "title": "Internet of things - Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Internet_of_things",
+        "whyUsed": "Verified definition of IoT, history of the term, and examples of consumer and industrial applications with sensor and communication technologies."
+      },
+      {
+        "title": "What is IoT (Internet of Things)? | IBM",
+        "url": "https://www.ibm.com/think/topics/internet-of-things",
+        "whyUsed": "Clarified the distinction between IoT as a concept and the protocols/connectivity technologies that enable it; explained the IoT ecosystem layers."
+      },
+      {
+        "title": "What is the Internet of Things (IoT)? With Examples | Coursera",
+        "url": "https://www.coursera.org/articles/internet-of-things",
+        "whyUsed": "Provided concrete examples of consumer IoT (smartwatches, medical devices, autonomous vehicles, smart homes) and the role of sensors and automation."
+      },
+      {
+        "title": "Internet of Things (IoT) Applications for Smart Homes | Semtech",
+        "url": "https://www.semtech.com/applications/internet-of-things/smart-home-automation",
+        "whyUsed": "Detailed smart home automation examples (climate control, lighting, security) demonstrating autonomous operation and real-time data collection."
+      },
+      {
+        "title": "What is IoT? The internet of things explained | Network World",
+        "url": "https://www.networkworld.com/article/963923/what-is-iot-the-internet-of-things-explained.html",
+        "whyUsed": "Explained IoT communication protocols (MQTT, CoAP, LoRaWAN) and clarified that IoT extends beyond traditional IT protocols like BGP and IP."
+      }
+    ],
+    "searchMeta": {
+      "usedWebSearch": true,
+      "searchQueries": [
+        "Internet of Things IoT definition characteristics smart devices",
+        "IoT applications smart home automation examples"
+      ],
+      "confidence": "high"
+    }
+  },
+  "id": 27
+}

@@ -1,0 +1,62 @@
+{
+  "subject": "Science",
+  "year": 2011,
+  "theme": "Wireless communication technologies: frequency bands and network classification",
+  "question_short_text": "Differences between Bluetooth and Wi-Fi in frequency bands, network types, and line-of-sight requirements",
+  "text": "What is the difference between Bluetooth and Wi-Fi devices?\n\n**a)** Bluetooth uses 2.4 GHz radio frequency band, whereas Wi-Fi can use 2.4 GHz or 5 GHz frequency band.\n\n**b)** Bluetooth is used for wireless local area networks (WLAN) only, whereas Wi-Fi is used for wireless wide area networks (WWAN) only.\n\n**c)** When information is transmitted between two devices using Bluetooth technology, the devices have to be in the line of sight of each other, but when Wi-Fi technology is used the devices need not be in the line of sight of each other.\n\n**d)** The statements (a) and (b) given above are correct in this context.",
+  "options": [
+    "Bluetooth uses 2.4 GHz radio frequency band, whereas Wi-Fi can use 2.4 GHz or 5 GHz frequency band.",
+    "Bluetooth is used for wireless local area networks (WLAN) only, whereas Wi-Fi is used for wireless wide area networks (WWAN) only.",
+    "When information is transmitted between two devices using Bluetooth technology, the devices have to be in the line of sight of each other, but when Wi-Fi technology is used the devices need not be in the line of sight of each other.",
+    "The statements (a) and (b) given above are correct in this context."
+  ],
+  "answerIndex": 0,
+  "answerText": "(a) Bluetooth uses 2.4 GHz radio frequency band, whereas Wi-Fi can use 2.4 GHz or 5 GHz frequency band.",
+  "explanation": "Only statement (a) is correct. Bluetooth operates strictly at 2.4 GHz, while Wi-Fi operates at 2.4 GHz, 5 GHz, and more recently 6 GHz bands. Statement (b) is false because Bluetooth is used for personal area networks (WPANs), not WLANs, and both technologies avoid the line-of-sight requirement.",
+  "research": {
+    "summary": "This question tests the ability to distinguish between two fundamental short-range wireless technologies based on their technical specifications and network classifications. Bluetooth and Wi-Fi, though both unlicensed and operating in the same 2.4 GHz ISM band, are fundamentally different technologies designed for different purposes. **On frequency bands**: Bluetooth operates exclusively in the 2.4 GHz ISM band (2.402\u20132.480 GHz), employing frequency-hopping spread spectrum with 79 channels at 1 MHz intervals. Wi-Fi, based on IEEE 802.11 standards, operates in 2.4 GHz (with channels 20\u201340 MHz wide), 5 GHz, and the newer 6 GHz band (Wi-Fi 6E). This multi-band capability of Wi-Fi is the primary differentiator in statement (a), making it correct. **On network classification**: The trap in statement (b) lies in confusing network topologies with technology capability. Bluetooth creates WPANs (Wireless Personal Area Networks) with ranges up to 10\u2013100 meters, suitable for personal devices like headsets and smartwatches. Wi-Fi creates WLANs (Wireless Local Area Networks) with ranges of tens to hundreds of meters, suitable for office and home networks. Neither is restricted to only WLAN or WWAN roles\u2014Wi-Fi does not function as a WWAN (which requires cellular technologies like LTE or 5G), and Bluetooth can support small mesh networks. **On line-of-sight**: Both technologies do not require line-of-sight; both can transmit through walls and obstacles. Bluetooth's lower power (typically 2.5 mW) and shorter range are design choices, not line-of-sight limitations. Statement (c) is completely false. **Recognition cue for future questions**: When comparing wireless technologies, always verify whether the distinction is about frequency allocation (hardware limitation), network scope (coverage area), or transmission mechanism (propagation physics). The question tests precise understanding rather than general knowledge.",
+    "facts": [
+      "Bluetooth uses adaptive frequency-hopping spread spectrum (AFH) with up to 1600 hops per second to avoid interference with Wi-Fi and other 2.4 GHz devices.",
+      "Wi-Fi standards include 802.11a (5 GHz), 802.11b/g/n (2.4 GHz), 802.11ac (5 GHz), and newer standards supporting 6 GHz bands introduced with Wi-Fi 6E.",
+      "Bluetooth is classified as a WPAN technology, while Wi-Fi is classified as a WLAN technology; WWAN refers to cellular-based networks like 4G LTE and 5G.",
+      "Both Bluetooth and Wi-Fi operate in the unlicensed ISM (Industrial, Scientific, Medical) band, which is why they can coexist with microwave ovens, cordless phones, and ZigBee devices.",
+      "Bluetooth's transmission power is limited to 100 mW maximum (Class 1), while Wi-Fi typically uses 20\u201330 dBm power, enabling longer range and higher data rates."
+    ],
+    "sources": [
+      {
+        "title": "Bluetooth - Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Bluetooth",
+        "whyUsed": "Verified Bluetooth frequency specifications (2.402\u20132.480 GHz), ISM band classification, and frequency-hopping details."
+      },
+      {
+        "title": "2.4 GHz Radio Use - Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/2.4_GHz_radio_use",
+        "whyUsed": "Confirmed Wi-Fi multi-band capability (2.4 GHz, 5 GHz) and adaptive frequency hopping mechanism used to reduce interference."
+      },
+      {
+        "title": "What is the difference between WLAN and Wi-Fi? - TechTarget",
+        "url": "https://www.techtarget.com/searchnetworking/answer/Wireless-vs-Wi-Fi-What-is-the-difference-between-WLAN-and-Wi-Fi",
+        "whyUsed": "Clarified that WLAN is a generic term encompassing multiple wireless technologies (including Bluetooth), not exclusively Wi-Fi, and distinguished WPAN (Bluetooth) from WLAN and WWAN classifications."
+      },
+      {
+        "title": "The 4 Different Types of Wireless Networks - TechTarget",
+        "url": "https://www.techtarget.com/searchnetworking/tip/The-4-different-types-of-wireless-networks",
+        "whyUsed": "Verified that Bluetooth is a WPAN technology and Wi-Fi is a WLAN technology, and that WWAN uses cellular technologies, not Wi-Fi."
+      },
+      {
+        "title": "Bluetooth Range Understanding - Bluetooth.com",
+        "url": "https://www.bluetooth.com/learn-about-bluetooth/key-attributes/range/",
+        "whyUsed": "Confirmed that Bluetooth uses the 2.4 GHz ISM spectrum band exclusively and verified transmission power and range specifications."
+      }
+    ],
+    "searchMeta": {
+      "usedWebSearch": true,
+      "searchQueries": [
+        "Bluetooth Wi-Fi frequency band specifications 2.4 GHz 5 GHz",
+        "Bluetooth WLAN Wi-Fi WWAN difference wireless networks"
+      ],
+      "confidence": "high"
+    }
+  },
+  "id": 33
+}

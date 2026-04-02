@@ -1,0 +1,57 @@
+{
+  "subject": "Science",
+  "year": 1997,
+  "theme": "Supercomputing milestone\u2014performance measurement units and the teraflop barrier",
+  "question_short_text": "World's fastest computer performance capability in December 1996",
+  "text": "The world's fastest computer has been able to perform (as of Dec. 1996):",
+  "options": [
+    "10\u2076 operations per second",
+    "10\u2079 operations per second",
+    "10\u00b9\u00b2 operations per second",
+    "10\u00b9\u2075 operations per second"
+  ],
+  "answerIndex": 2,
+  "answerText": "(c) 10\u00b9\u00b2 operations per second",
+  "explanation": "As of December 1996, ASCI Red became the first supercomputer to break the teraflop barrier, achieving approximately 1 trillion (10\u00b9\u00b2) floating-point operations per second.",
+  "research": {
+    "summary": "The teraflop milestone in December 1996 marks a watershed moment in computing history. ASCI Red (Accelerated Strategic Computing Initiative\u2014Option Red), built by Intel and installed at Sandia National Laboratories, became the world's first computer to exceed 1 trillion floating-point operations per second (FLOPS), measured on the MP-LINPACK benchmark. The measurement matters: 10\u2076 = megaflop, 10\u2079 = gigaflop, 10\u00b9\u00b2 = teraflop, 10\u00b9\u2075 = petaflop. In December 1996, three-quarters of the system achieved 1.06 TFLOPS sustained performance, eventually reaching 2.38 TFLOPS after processor upgrades. This was a decisive leap beyond the Hitachi SR2201 (600 gigaflops in 1996) and decades ahead of contemporary scientific expectations. The trap for students is conflating FLOPS with simple arithmetic operations\u2014these are specifically floating-point operations, crucial for scientific and weapons simulation. ASCI Red was built for the U.S. Department of Energy's nuclear weapons stewardship program following the 1992 nuclear testing moratorium; it needed to perform complex 3D simulations using commodity Pentium Pro processors (9,298 of them) connected via mesh topology, not exotic vector chips. The machine dominated the TOP500 rankings from June 1997 to June 2000 and earned legendary status for reliability.",
+    "facts": [
+      "A teraflop = 1 trillion floating-point operations per second; by 2024, exascale supercomputers exceed 1.1 \u00d7 10\u00b9\u2078 FLOPS (1.1 exaflops), a billion-fold increase in 28 years",
+      "ASCI Red used 9,298 off-the-shelf Intel Pentium Pro processors running at 200 MHz (later upgraded to 333 MHz Pentium II), proving massively parallel commodity processors could beat specialized vector architectures",
+      "ASCI Red held the world's fastest supercomputer title for nearly four years (June 1997 to late 2000), the longest reign of any top-ranked machine in modern supercomputing history",
+      "The LINPACK benchmark, not peak theoretical FLOPS, defines official rankings; ASCI Red's sustained 1.06 TFLOPS was measured on MP-LINPACK, the distributed-memory variant",
+      "Prior to ASCI Red, the Japanese Hitachi SR2201 (November 1996) held the top spot with 368.2 GFLOPS\u2014nearly 3 times slower than ASCI Red's teraflop achievement"
+    ],
+    "sources": [
+      {
+        "title": "ASCI Red - Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/ASCI_Red",
+        "whyUsed": "Primary authoritative source on ASCI Red's architecture, installation date, and teraflop achievement in December 1996"
+      },
+      {
+        "title": "Sandia National Laboratories: ASCI Red Decommissioned (2006)",
+        "url": "https://newsreleases.sandia.gov/releases/2006/asci-red-decom.html",
+        "whyUsed": "Official Sandia release confirming December 1996 teraflops barrier breakthrough and sustained performance ratings"
+      },
+      {
+        "title": "History of Supercomputing - Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/History_of_supercomputing",
+        "whyUsed": "Contextualizes ASCI Red's teraflop milestone against pre-1996 supercomputers (Hitachi SR2201, Fujitsu Numerical Wind Tunnel)"
+      },
+      {
+        "title": "TOP500 25 Year Anniversary",
+        "url": "https://www.top500.org/25years/",
+        "whyUsed": "Verifies ASCI Red's inaugural #1 ranking on June 1997 TOP500 list with Linpack performance data"
+      }
+    ],
+    "searchMeta": {
+      "usedWebSearch": true,
+      "searchQueries": [
+        "ASCI Red supercomputer 1996 teraflop Sandia",
+        "world fastest computer December 1996 performance"
+      ],
+      "confidence": "high"
+    }
+  },
+  "id": 42
+}

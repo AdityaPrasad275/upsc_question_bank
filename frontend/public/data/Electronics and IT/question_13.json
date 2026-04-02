@@ -1,0 +1,73 @@
+{
+  "subject": "Science",
+  "year": 2020,
+  "theme": "Drone technology capabilities and real-world applications",
+  "question_short_text": "Which activities can drones accomplish at present technological level: pesticide spraying, volcano crater inspection, whale breath sampling?",
+  "text": "Consider the following activities:\n\n1. Spraying pesticides on a crop field\n2. Inspecting the craters of active volcanoes\n3. Collecting breath samples from spouting whales for DNA analysis\n\nAt the present level of technology, which of the above activities can be successfully carried out by using drones?",
+  "options": [
+    "1 and 2 only",
+    "2 and 3 only",
+    "1 and 3 only",
+    "1, 2 and 3"
+  ],
+  "answerIndex": 3,
+  "answerText": "(d) 1, 2 and 3",
+  "explanation": "All three activities can be successfully carried out by drones with present-level technology. Drones are widely used for agricultural pesticide spraying, volcano monitoring with specialized sensors, and collecting whale breath samples for DNA analysis\u2014all proven real-world applications.",
+  "research": {
+    "summary": "This 2020 question tests recognition of the breadth of practical drone applications beyond simple aerial photography. By 2020, drones had already become operational tools across three distinct domains: precision agriculture, volcanology, and marine conservation biology. Activity 1 is accomplished via agricultural spraying drones (UAVs) equipped with spray tanks and GPS-guided systems\u2014a mature technology by 2020, especially in East Asia where Japan had registered ~2,800 agricultural drones by 2016 and China deployed over 120,000 by 2021. Activity 2 exploits drones' ability to enter hazardous crater environments safely: NASA's Ames Research Center demonstrated fixed-wing UAS flights over Turrialba Volcano in Costa Rica in 2013, and by 2021, sophisticated systems like the S2 UAS conducted beyond-visual-line-of-sight missions to active volcanoes in Alaska, equipped with gas-sensing payloads and thermal imaging. Activity 3 reflects the SnotBot initiative, pioneered by Ocean Alliance around 2015, which uses consumer drones equipped with petri dishes to collect exhaled breath condensate ('blow') from surfacing whales\u2014the collected samples contain DNA, hormones, and microbiota crucial for conservation genetics. The trap many students fall into is assuming drones are limited to surveillance or cinematography; this question reveals that specialized payloads and designs have expanded drones into precision application, hazardous-environment inspection, and non-invasive biological sampling. By 2020, all three activities were operationally proven, though some remained logistically demanding or early-stage in certain regions.",
+    "facts": [
+      "Agricultural spray drones in China treated over 175 million acres of farmland by 2021, with over 200,000 licensed drone pilots",
+      "NASA and USGS collaborated on specialized volcano-monitoring drones capable of collecting gas samples and thermal images from active craters beyond visual line of sight",
+      "SnotBot and related programs collected over 350+ whale blow samples across six whale species in five countries by the early 2020s, enabling non-invasive conservation genetics and health monitoring",
+      "Whale breath sampling by drone causes minimal behavioral disturbance (no response in ~87% of deployments) and is less invasive than pole-based methods requiring close boat approach",
+      "Drones equipped with appropriate sensors and payloads can operate in corrosive volcanic gases and harsh arctic conditions, expanding field research safety and reach"
+    ],
+    "sources": [
+      {
+        "title": "Agricultural Spraying Drones: A Comprehensive Review",
+        "url": "https://www.sciencedirect.com/science/article/pii/S2772375525007506",
+        "whyUsed": "Verified mature drone-spraying technology with global deployment statistics and operational details"
+      },
+      {
+        "title": "NASA - Volcano-observing Drone Flights Open Door to Routine Hazard Monitoring",
+        "url": "https://www.nasa.gov/centers-and-facilities/ames/volcano-observing-drone-flights-open-door-to-routine-hazard-monitoring/",
+        "whyUsed": "Confirmed NASA's 2013 volcano UAS demonstrations and advanced 2021 Alaska deployments with gas-sensing and thermal payloads"
+      },
+      {
+        "title": "Collecting baleen whale blow samples by drone: A minimally intrusive tool for conservation genetics",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/38576153/",
+        "whyUsed": "Peer-reviewed research demonstrating successful UAS collection of whale breath samples for DNA analysis with minimal behavioral response"
+      },
+      {
+        "title": "SnotBot Program - Ocean Alliance",
+        "url": "https://sdgs.un.org/partnerships/drones-whale-research-snotbot",
+        "whyUsed": "Documented the flagship SnotBot initiative, sampling methodology, and global deployment across multiple whale species for conservation genetics"
+      },
+      {
+        "title": "How drones can monitor explosive volcanoes",
+        "url": "https://www.sciencedaily.com/releases/2020/05/200525115649.htm",
+        "whyUsed": "Describes drone-based crater monitoring at Santa Maria volcano in Guatemala with optical and thermal imaging for detailed structural analysis"
+      },
+      {
+        "title": "Drones for Spraying Pesticides\u2014Opportunities and Challenges",
+        "url": "https://ohioline.osu.edu/factsheet/fabe-540",
+        "whyUsed": "Comprehensive overview of agricultural drone spraying capabilities, China and Japan adoption rates, and precision application systems"
+      },
+      {
+        "title": "Drones for Whale Research: SnotBot",
+        "url": "https://sdgs.un.org/partnerships/drones-whale-research-snotbot",
+        "whyUsed": "Confirmed >355 whale blow samples collected from six species across five countries by mid-2020s and DNA analysis results"
+      }
+    ],
+    "searchMeta": {
+      "usedWebSearch": true,
+      "searchQueries": [
+        "drones agriculture pesticide spraying crop",
+        "drones volcano crater inspection monitoring",
+        "drones whale breath sample DNA collection"
+      ],
+      "confidence": "high"
+    }
+  },
+  "id": 13
+}

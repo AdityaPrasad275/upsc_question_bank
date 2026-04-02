@@ -1,0 +1,57 @@
+{
+  "subject": "Science",
+  "year": 2022,
+  "theme": "short-range communication technologies and their operational characteristics",
+  "question_short_text": "Identify which of three communication technologies (CCTV, RFID, WLAN) are classified as short-range devices",
+  "text": "Consider the following communication technologies:\n\n1. Closed-circuit Television\n2. Radio Frequency Identification\n3. Wireless Local Area Network\n\nWhich of the above are considered Short-Range devices/technologies?",
+  "options": [
+    "1 and 2 only",
+    "2 and 3 only",
+    "1 and 3 only",
+    "1, 2 and 3"
+  ],
+  "answerIndex": 3,
+  "answerText": "(d) 1, 2 and 3",
+  "explanation": "All three technologies operate within limited geographical areas. CCTV monitors confined spaces via local transmission, RFID operates at ranges from centimeters to a few meters, and WLAN typically transmits within tens to a few hundred meters. All fall within the definition of short-range technologies.",
+  "research": {
+    "summary": "Short-range devices (SRDs) are characterized by limited transmission distance, typically centimeters to a few hundred meters, with low-power operation that allows deployment without licenses in most jurisdictions. The three technologies in this question all qualify as short-range despite their different operational mechanisms. CCTV operates within confined surveillance areas\u2014usually a building or campus\u2014where video signals transmit over coaxial cables, fiber-optic cables, or wireless links to local monitors or recorders, never intended for public broadcast. The maximum typical transmission distance for CCTV over coaxial cable is around 300-762 meters depending on the cable type, making it fundamentally a localized system. RFID is explicitly designed for proximity-based identification, with passive tags readable from a few centimeters to several meters (depending on frequency type\u2014low, high, or ultra-high) and active tags extending further but still remaining within short-range classification compared to cellular or satellite systems. WLAN (Wi-Fi) operates at ranges of tens of meters indoors to a few hundred meters outdoors under ideal conditions, using radio waves to create local connectivity within homes, offices, or campuses. The key distinction in defining short-range technologies is not absolute distance but operational purpose: these systems are designed for localized, limited-area communication and control, contrasting sharply with long-range technologies like cellular networks (3G/4G/5G), satellite communication, and broadcast television, which intentionally transmit over kilometers or across continents. The confusion that sometimes arises is thinking CCTV might be long-range because its signal could theoretically reach far with amplification; however, by design and application, CCTV operates as a closed, localized surveillance system serving specific monitored areas.",
+    "facts": [
+      "Short-range devices are typically limited to 25\u2013100 mW effective radiated power (ERP), which restricts useful range to a few hundred meters or less",
+      "RFID frequency bands include low-frequency (LF), high-frequency (HF, including NFC at 13.56 MHz), and ultra-high-frequency (UHF), with read ranges varying accordingly",
+      "WLAN standards (IEEE 802.11 family) operate in unlicensed 2.4 GHz and 5 GHz bands and are designed for local area network deployment in buildings and campuses",
+      "The regulatory definition of SRDs under ECC Recommendation 70-03 emphasizes that they cause minimal harmful interference to other radio equipment due to their low power and limited range",
+      "Modern CCTV systems increasingly use IP-based transmission over local area networks (LANs) or wireless LANs (WLANs), further solidifying their classification as short-range technologies"
+    ],
+    "sources": [
+      {
+        "title": "Short-range device - Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Short-range_device",
+        "whyUsed": "Provided authoritative definition of short-range wireless technologies, power limits, and range characteristics"
+      },
+      {
+        "title": "Closed-circuit television transmission and cable specifications - ScienceDirect",
+        "url": "https://www.sciencedirect.com/topics/social-sciences/closed-circuit-television",
+        "whyUsed": "Clarified CCTV transmission distances via coaxial cable (up to 762 meters) and operational scope as localized surveillance system"
+      },
+      {
+        "title": "Short-range communication technologies educational resource",
+        "url": "https://prepp.in/question/consider-the-following-communication-technologies-6453b6433c1bc691f01ff55d",
+        "whyUsed": "Provided detailed analysis of all three technologies confirming short-range classification and operational range specifications"
+      },
+      {
+        "title": "Closed-circuit television - Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Closed-circuit_television",
+        "whyUsed": "Established that CCTV transmits to specific places on limited monitors, not openly broadcast, confirming localized nature"
+      }
+    ],
+    "searchMeta": {
+      "usedWebSearch": true,
+      "searchQueries": [
+        "short-range communication technologies RFID WLAN CCTV range",
+        "closed-circuit television CCTV transmission range distance"
+      ],
+      "confidence": "high"
+    }
+  },
+  "id": 12
+}

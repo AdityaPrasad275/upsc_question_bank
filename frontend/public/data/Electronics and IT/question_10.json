@@ -1,0 +1,61 @@
+{
+  "subject": "Science & Technology",
+  "year": 2022,
+  "theme": "Web 3.0 characteristics and decentralized internet architecture",
+  "question_short_text": "Identify correct statements about Web 3.0 user control, blockchain networks, and decentralized operation",
+  "text": "With reference to Web 3.0, consider the following statements:\n\n1. Web 3.0 technology enables people to control their own data.\n2. In the Web 3.0 world, there can be blockchain based social networks.\n3. Web 3.0 is operated by users collectively rather than a corporation.\n\nWhich of the statements given above are correct?",
+  "options": [
+    "1 and 2 only",
+    "2 and 3 only",
+    "1 and 3 only",
+    "1, 2 and 3"
+  ],
+  "answerIndex": 3,
+  "answerText": "(d) 1, 2 and 3",
+  "explanation": "All three statements accurately describe Web 3.0. Web 3.0 transfers data ownership from centralized corporations to users through blockchain; enables decentralized social networks where data resides on blockchain rather than corporate servers; and operates through distributed governance where users collectively participate in decision-making via DAOs and smart contracts rather than centralized control.",
+  "research": {
+    "summary": "Web 3.0 is fundamentally a shift from the centralized Web 2.0 model, where tech giants like Google, Facebook, and Amazon control user data, to a decentralized internet architecture based on blockchain and cryptographic technologies. The term itself, coined by Ethereum co-founder Gavin Wood in 2014, refers specifically to blockchain-based decentralization\u2014distinct from Tim Berners-Lee's earlier \"Semantic Web\" concept also called Web 3.0. All three statements capture the core pillars of Web 3.0.\n\nStatement 1 is accurate: Blockchain-based systems allow users to maintain cryptographic ownership of their data rather than delegating it to corporate platforms. In Web 2.0, platforms like Instagram trap user content within proprietary networks; in Web 3.0, identity and data are portable across protocols and controlled through private keys, cryptographic signatures, and decentralized storage systems like IPFS. Users retain ownership of their digital assets and can move them between applications without platform lock-in.\n\nStatement 2 is accurate: Decentralized social networks are a major use case for Web 3.0. Examples include protocols like Lens Protocol, which store user profiles and connections on blockchain rather than in corporate databases. Users control their social graph directly and can monetize their content without intermediaries. Discord and Reddit both experimented with blockchain integration starting in 2021, signaling mainstream movement in this direction.\n\nStatement 3 is accurate but nuanced: Web 3.0 operates through collective user governance via Decentralized Autonomous Organizations (DAOs) and smart contract-based voting, rather than centralized corporate decision-making. DAOs use token-based voting where users collectively propose and approve changes to protocols and platforms. However, a critical caveat: in practice, many Web 3.0 applications show recentralization tendencies. As noted by Signal creator Moxie Marlinspike in early 2022, much Web 3.0 infrastructure remains concentrated\u2014blockchain APIs are dominated by Alchemy and Infura, exchanges by Binance and Coinbase. This gap between the theory of decentralized operation and actual implementation is important context but does not invalidate the statement as written.\n\nThe UPSC question tests whether candidates understand the aspirational architecture of Web 3.0 as a decentralized alternative to Web 2.0, not the current state of incomplete implementation. All three statements reflect the design principles of Web 3.0 correctly.",
+    "facts": [
+      "Blockchain technology, the technical foundation of Web 3.0, uses distributed ledgers that require consensus from a peer-to-peer network to modify or delete data, making it fundamentally resistant to unilateral corporate control.",
+      "DAOs (Decentralized Autonomous Organizations) use smart contracts to automate governance, allowing token holders to vote on decisions without centralized leadership\u2014a structural innovation enabling user-collective operation.",
+      "Web 3.0 distinguishes itself from the Semantic Web through its focus on ownership and incentives: blockchain enables tokenomics and cryptographic proof of ownership, making it economically viable for users to participate in decentralized networks.",
+      "The shift from Web 2.0 to Web 3.0 transfers data monetization value: in Web 2.0, platforms profit from user data; in Web 3.0, users theoretically retain value through token ownership and direct participation in network governance.",
+      "Decentralized finance (DeFi), NFTs, and decentralized social protocols are practical Web 3.0 applications already in use, though scalability, user experience, and regulatory frameworks remain significant unresolved challenges."
+    ],
+    "sources": [
+      {
+        "title": "Web3 - Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Wiki3",
+        "whyUsed": "Provided authoritative definition of Web 3.0, clarified distinction from Semantic Web, and documented critical perspective on incomplete decentralization in practice."
+      },
+      {
+        "title": "What is Web3? - AWS",
+        "url": "https://aws.amazon.com/what-is/web3/",
+        "whyUsed": "Explained how Web 3.0 enables community-driven projects where users control data, determine pricing, and participate in governance via smart contracts and DAOs."
+      },
+      {
+        "title": "What Is Web3? Web 3.0 Explained - Identity.com",
+        "url": "https://www.identity.com/web3/",
+        "whyUsed": "Detailed how Web 3.0 empowers users through decentralized technologies, blockchain, and DAOs for collective decision-making rather than centralized authority."
+      },
+      {
+        "title": "What is Web 3.0 (Web3)? Definition, Guide and History - TechTarget",
+        "url": "https://www.techtarget.com/whatis/definition/Web-30",
+        "whyUsed": "Explained how Web 3.0 applications use decentralized blockchains without arbitrary central authority, enabling user control over personal data and the democratic operation of platforms."
+      },
+      {
+        "title": "How a Decentralized Web 3.0 Can Give Control Back to Users - CMSWire",
+        "url": "https://www.cmswire.com/information-management/how-is-web3-decentralized/",
+        "whyUsed": "Discussed Web 3.0's promise of giving ownership of data back to end-users and enabling decentralized apps where users control identity and bring their own data across platforms."
+      }
+    ],
+    "searchMeta": {
+      "usedWebSearch": true,
+      "searchQueries": [
+        "Web 3.0 decentralization blockchain user control definition"
+      ],
+      "confidence": "high"
+    }
+  },
+  "id": 10
+}

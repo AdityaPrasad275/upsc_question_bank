@@ -1,0 +1,56 @@
+{
+  "subject": "Science",
+  "year": 2018,
+  "theme": "Cybersecurity threats and malware attacks",
+  "question_short_text": "Classification of WannaCry, Petya, and EternalBlue as cyber threats",
+  "text": "The terms \"WannaCry\", \"Petya\" and \"Eternal Blue\" sometimes mentioned in the news recently are related to:\n\n**Options:**\na) Exoplanets\nb) Cryptocurrency\nc) Cyber attacks\nd) Mini Satellites",
+  "options": [
+    "Exoplanets",
+    "Cryptocurrency",
+    "Cyber attacks",
+    "Mini Satellites"
+  ],
+  "answerIndex": 2,
+  "answerText": "(c) Cyber attacks",
+  "explanation": "WannaCry, Petya, and EternalBlue are all major cybersecurity threats. WannaCry and Petya (NotPetya) are ransomware attacks from 2017, while EternalBlue is the Windows vulnerability exploit used to distribute them. They targeted computers running Microsoft Windows by encrypting data and demanding ransom payments.",
+  "research": {
+    "summary": "This question tests recognition of three landmark cybersecurity threats from 2017. WannaCry was a ransomware cryptoworm that struck in May 2017, using the EternalBlue exploit to automatically spread across Windows networks and encrypt user data, demanding bitcoin ransom. EternalBlue itself is not malware but a critical software vulnerability in Windows' Server Message Block (SMB) protocol\u2014a hacking tool originally developed by the NSA and leaked by the Shadow Brokers group in April 2017. Petya (more accurately, the 2017 variant called NotPetya) emerged in June 2017 as a more sophisticated ransomware attack that also exploited EternalBlue, but added credential-stealing and lateral movement techniques using legitimate tools like PsExec and Windows Management Instrumentation, making it harder to contain even on patched systems. The crucial distinction: WannaCry and Petya are malware families (hostile programs that encrypt and demand payment), while EternalBlue is the underlying Windows vulnerability that enabled their propagation. The trap in this question is straightforward\u2014students might conflate these terms with anything tech-related or misunderstand what ties them together. What unites all three is that they are cybersecurity threats, specifically representing the intersection of stolen NSA hacking tools and modern ransomware campaigns that caused billions in damages across critical infrastructure globally. Understanding this constellation of attacks is important because they demonstrated the cascading risks of zero-day vulnerabilities and the exploitation lifecycle of government-grade cyberweapons.",
+    "facts": [
+      "EternalBlue exploits CVE-2017-0144, a vulnerability in Windows SMB protocol that was patched by Microsoft on March 14, 2017, but many organizations did not apply the patch before the attacks",
+      "WannaCry infected over 230,000 computers in more than 150 countries within 72 hours in May 2017, with estimated damages up to US$4 billion",
+      "NotPetya's 2017 attack used a compromised Ukrainian accounting software (M.E.Doc) for initial entry, making it appear more targeted than WannaCry, and caused over US$10 billion in estimated damages across 65 countries, primarily affecting Ukraine and Russia",
+      "NotPetya differed from traditional ransomware by using encryption techniques that made file recovery technically infeasible even if ransom was paid, suggesting the intent was data destruction rather than profit generation",
+      "The Shadow Brokers, a hacking group, publicly released EternalBlue and other NSA tools on April 14, 2017, providing cybercriminals with previously classified offensive capabilities"
+    ],
+    "sources": [
+      {
+        "title": "WannaCry ransomware attack - Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/WannaCry_ransomware_attack",
+        "whyUsed": "Verified details on WannaCry's timeline, propagation via EternalBlue, and global impact"
+      },
+      {
+        "title": "Petya (malware family) - Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Petya_(malware_family)",
+        "whyUsed": "Detailed information on NotPetya variant, use of EternalBlue, lateral movement techniques, and estimated damages"
+      },
+      {
+        "title": "EternalBlue - Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/EternalBlue",
+        "whyUsed": "Comprehensive technical background on the vulnerability, its origins at NSA, Shadow Brokers leak in April 2017, and timeline of attacks"
+      },
+      {
+        "title": "Petya Ransomware | CISA",
+        "url": "https://www.cisa.gov/news-events/alerts/2017/07/01/petya-ransomware",
+        "whyUsed": "Official US Cybersecurity and Infrastructure Security Agency analysis confirming NotPetya encryption properties and non-recoverability of files"
+      }
+    ],
+    "searchMeta": {
+      "usedWebSearch": true,
+      "searchQueries": [
+        "WannaCry Petya EternalBlue ransomware attack 2017"
+      ],
+      "confidence": "high"
+    }
+  },
+  "id": 22
+}

@@ -1,0 +1,57 @@
+{
+  "subject": "Polity",
+  "year": 2017,
+  "theme": "CERT-In and mandatory cybersecurity incident reporting obligations",
+  "question_short_text": "Which entities are legally required to report cyber incidents to CERT-In?",
+  "text": "In India, it is legally mandatory for which of the following to report on cyber security incidents?\n\n1. Service providers\n2. Data centres\n3. Body corporate\n\nSelect the correct answer using the code given below:",
+  "options": [
+    "1 only",
+    "1 and 2 only",
+    "3 only",
+    "1, 2 and 3"
+  ],
+  "answerIndex": 3,
+  "answerText": "(d) 1, 2 and 3",
+  "explanation": "Under the Information Technology (The Indian Computer Emergency Response Team and Manner of Performing Functions and Duties) Rules, 2013, and Section 70B of the IT Act 2000, service providers, data centres, and body corporates are all legally mandated to report cyber security incidents to CERT-In. All three entities are explicitly required to do so, making the answer d) 1, 2 and 3.",
+  "research": {
+    "summary": "The mandatory cyber incident reporting requirement in India applies to a broad ecosystem of entities\u2014not just government bodies, but all private sector players handling digital infrastructure or data. CERT-In, established under Section 70B of the IT Act 2000, acts as the national nodal agency for cybersecurity. Rule 12 of the CERT-In Rules 2013 explicitly mandates that service providers (including ISPs, telecom providers), data centres (which host and process data), and body corporates (any registered company or firm) must report specified cybersecurity incidents to CERT-In. The trap here is assuming that only government agencies or critical infrastructure operators face reporting obligations. In reality, the law casts a wide net: any entity handling digital services or data processing is a \"regulated entity.\" The 2017 question predates the 2022 CERT-In Directions (which tightened the timeframe to 6 hours), but the core mandatory categories\u2014service providers, data centres, and body corporates\u2014have been consistent since 2013. The key distinction often tested is that reporting is mandatory for specified types of incidents (such as targeted scanning, unauthorized access, malicious code attacks, data breaches), not merely voluntary. Entities that fail to report face penalties under Section 70B(7): imprisonment up to one year and/or fine up to one lakh rupees. This question highlights the regulatory expectation that private sector gatekeepers must act as force-multipliers for national cybersecurity, not that cybersecurity is solely a government responsibility.",
+    "facts": [
+      "Section 70B of the IT Act 2000 mandates CERT-In as the national agency for cyber incident response and coordination, with powers to collect, analyze, and disseminate cyber threat information.",
+      "Rule 12 of CERT-In Rules 2013 specifies that service providers, intermediaries, data centres, and body corporates must report mandatorily reportable incidents (such as targeted scanning of critical systems, unauthorized access, malicious code, identity theft, spoofing, and phishing) to CERT-In within a reasonable time.",
+      "The 2022 CERT-In Directions expanded the list of mandatorily reportable incidents (data breaches, data leaks, fake mobile apps, unauthorized social media access, cloud computing attacks, blockchain/AI-related attacks) and shortened the reporting timeline from \"reasonable time\" to 6 hours, showing regulatory tightening over time.",
+      "Body corporates under the IT Act include any company, firm, or association engaged in commercial activities, making the mandatory reporting obligation applicable to a very broad range of private sector entities, including e-commerce platforms, financial firms, and tech companies.",
+      "Non-compliance with CERT-In reporting obligations under Section 70B(7) invites criminal penalties (imprisonment and/or fine), though enforcement has historically been inconsistent; the 2022 Directions signal stricter enforcement intent."
+    ],
+    "sources": [
+      {
+        "title": "Information Technology (The Indian Computer Emergency Response Team and Manner of Performing Functions and Duties) Rules, 2013",
+        "url": "https://www.cert-in.org.in/PDF/CERT-In_Directions_70B_28.04.2022.pdf",
+        "whyUsed": "Official CERT-In government source confirming mandatory reporting obligations for service providers, data centres, and body corporates under Rule 12(1)(a)."
+      },
+      {
+        "title": "Centre for Internet and Society - Incident Response Requirements in Indian Law",
+        "url": "https://cis-india.org/internet-governance/blog/incident-response-requirements-in-indian-law",
+        "whyUsed": "Provides detailed analysis of Rule 12 of CERT-In Rules and the mandatory reporting obligation structure, clarifying which entities are bound and what incidents must be reported."
+      },
+      {
+        "title": "National Law Review - India Revamps Rules on Mandatory Incident Reporting",
+        "url": "https://natlawreview.com/article/cyber-security-india-revamps-rules-mandatory-incident-reporting-allied-compliances",
+        "whyUsed": "Explains the expansion of reporting obligations under 2022 CERT-In Directions and confirms that service providers, intermediaries, data centres, and body corporates are the regulated entities."
+      },
+      {
+        "title": "AZB Partners - CERT-IN Directions",
+        "url": "https://www.azbpartners.com/bank/cert-in-directions/",
+        "whyUsed": "Legal analysis of CERT-In Rules and 2022 Directions, confirming the scope of entities required to report and the types of incidents requiring mandatory reporting."
+      }
+    ],
+    "searchMeta": {
+      "usedWebSearch": true,
+      "searchQueries": [
+        "CERT-In cybersecurity incident reporting mandatory IT Rules 2013",
+        "India cybersecurity incident reporting service providers data centres body corporate"
+      ],
+      "confidence": "high"
+    }
+  },
+  "id": 29
+}

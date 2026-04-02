@@ -1,0 +1,62 @@
+{
+  "subject": "Economy",
+  "year": 2024,
+  "theme": "Sovereign debt structure and enforceability in default scenarios",
+  "question_short_text": "Sovereign default and claims enforceability on US Treasury Bonds",
+  "text": "Consider the following statements:\n\nStatement I: If the United States of America (USA) were to default on its debt, holders of US Treasury Bonds will not be able to exercise their claims to receive payment.\n\nStatement II: The USA Government debt is not backed by any hard assets, but only by the faith of the Government.\n\nWhich one of the following is correct in respect of the above statements?",
+  "options": [
+    "(a) Statement-I and Statement-II are correct and Statement-II explains Statement-I",
+    "(b) Both Statement-I and Statement-II are correct, but Statement-II does not explain Statement-I",
+    "(c) Statement-I is correct, but Statement-II is incorrect",
+    "(d) Statement-I is incorrect, but Statement-II is correct"
+  ],
+  "answerIndex": 0,
+  "answerText": "(a) Statement-I and Statement-II are correct and Statement-II explains Statement-I",
+  "explanation": "Both statements are factually correct, and Statement II provides the causal explanation for Statement I. Sovereign debt lacks physical collateral and relies entirely on the issuer's creditworthiness and willingness to pay. In default, bondholders cannot seize assets or enforce claims in the manner they can with collateralized debt, because sovereigns enjoy immunity from normal creditor remedies.",
+  "research": {
+    "summary": "This question tests understanding of the fundamental structural difference between sovereign and corporate debt. The critical distinction is enforceability, not merely asset backing.\n\nStatement I is correct: In a US default, Treasury bondholders would have legal claims on paper, but no practical enforcement mechanism. Unlike corporate bondholders who can pursue bankruptcy proceedings, seize assets, or liquidate the company, sovereign creditors face sovereign immunity\u2014a doctrine that prevents foreign courts from exercising jurisdiction over a sovereign state. US Treasury securities contain no express waiver of sovereign immunity, meaning creditors would have extremely limited recourse. Historically, when the US government has defaulted (most notably in 1933 over gold-clause bonds, and technically in 1979 and 1814 over payment disruptions), courts ultimately upheld the government's sovereign power to refuse payment. The Supreme Court has explicitly ruled that a sovereign cannot be forced to pay through the normal creditor remedies available against corporations.\n\nStatement II is correct and explains Statement I: US Treasury bonds are backed by \"full faith and credit\"\u2014meaning nothing but the government's promise. Unlike a mortgage backed by a house or a corporate bond backed by factory equipment, there is no hard asset pledged. Sovereign debt is inherently unsecured. When a sovereign refuses to pay and claims the protection of sovereign immunity, creditors have no collateral to seize. This is why the enforceability problem exists: the lack of tangible backing means the creditor's only recourse was always the government's willingness to honor the promise. Once that willingness evaporates through default, there is nothing left.\n\nThe trap UPSC is testing: Students often assume that having a \"legal claim\" means having practical recourse, confusing the existence of a contractual obligation with the ability to enforce it. Sovereign debt markets operate without the protections of bankruptcy law precisely because sovereigns cannot be treated like companies. The faith-based structure creates this unique vulnerability.",
+    "facts": [
+      "The US has technically defaulted at least three times: in 1933 (gold-clause repudiation), 1814 (War of 1812 payment suspension), and 1979 (technical default due to administrative error). In each case, courts upheld sovereign immunity.",
+      "Unlike corporate debt, sovereign debt contracts typically do not include waivers of sovereign immunity, meaning creditors cannot sue in foreign courts to enforce claims.",
+      "Sovereign debt is the only major debt category that lacks collateral or a bankruptcy mechanism; creditors have no court system to force asset seizure or reorganization.",
+      "The phrase 'full faith and credit' originated to indicate that debt is backed by the government's commitment to tax and repay, not by physical assets\u2014a feature that distinguishes it from asset-backed securities.",
+      "In a sovereign debt crisis, governments can implement debt restructuring or default, and creditors typically recover only through negotiated settlements (like the Brady Bonds of the 1990s), not through legal enforcement."
+    ],
+    "sources": [
+      {
+        "title": "Sovereign default - Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Sovereign_default",
+        "whyUsed": "Comprehensive definition of sovereign default and the unique legal position of sovereigns regarding immunity from normal creditor remedies and asset seizure."
+      },
+      {
+        "title": "Was There Ever a Default on U.S. Treasury Debt? - AEI",
+        "url": "https://www.aei.org/articles/was-there-ever-a-default-on-u-s-treasury-debt/",
+        "whyUsed": "Historical documentation of US government defaults, Supreme Court rulings on sovereign power to refuse payment, and the gold-clause case of 1933 that established precedent for enforceability limitations."
+      },
+      {
+        "title": "Who holds sovereign debt and why it matters - BIS",
+        "url": "https://www.bis.org/publ/work1099.pdf",
+        "whyUsed": "Academic treatment of sovereign debt structure, investor composition, and the absence of collateral that distinguishes sovereign from corporate debt instruments."
+      },
+      {
+        "title": "A collateral trap - Distressed Debt Investing",
+        "url": "https://www.distressed-debt-investing.com/2011/09/third-avenue-on-sovereign-debt-debacle.html",
+        "whyUsed": "Practical explanation of why sovereign creditors lack leverage: debt backed only by faith means no assets to seize, unlike corporate debt where bankruptcy courts provide remedies."
+      },
+      {
+        "title": "Sovereign Debt - Federal Reserve Bank of Minneapolis",
+        "url": "https://www.minneapolisfed.org/article/2022/at-a-precarious-moment-the-world-is-awash-in-sovereign-debt",
+        "whyUsed": "Confirms the foundational principle: 'loans made to governments are fundamentally built on faith' with 'no collateral or international bankruptcy court,' distinguishing sovereign from all other debt types."
+      }
+    ],
+    "searchMeta": {
+      "usedWebSearch": true,
+      "searchQueries": [
+        "US Treasury bonds sovereign default claim exercise",
+        "sovereign debt backed faith government no collateral"
+      ],
+      "confidence": "high"
+    }
+  },
+  "id": 3
+}

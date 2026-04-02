@@ -1,0 +1,53 @@
+{
+  "subject": "Science",
+  "year": 2004,
+  "theme": "Digital technologies and their fundamental characteristics and definitions",
+  "question_short_text": "Statement validity on smart cards, digital technology transmission media, and digital library accessibility.",
+  "text": "Consider the following statements:\n\n1. Smart Card is a plastic card with an embedded microchip.\n2. Digital technology is primarily used with new physical communication medium such as satellite and fibre optics transmission.\n3. A digital library is a collection of documents in an organised electronic form available on the Internet only.\n\nWhich of the statements given above is/are correct?",
+  "options": [
+    "3 only",
+    "1 and 2",
+    "2 and 3",
+    "1, 2 and 3"
+  ],
+  "answerIndex": 1,
+  "answerText": "(b) 1 and 2",
+  "explanation": "Statement 1 is correct: a smart card is indeed a plastic card with an embedded microchip. Statement 2 is correct: digital technology is commonly associated with satellite and fibre optics transmission. Statement 3 is incorrect: digital libraries are not limited to Internet-only access; they can be stored and accessed offline, from local servers, or via local networks without requiring internet connectivity.",
+  "research": {
+    "summary": "This 2004 UPSC question tests basic terminology and understanding of three emerging digital technologies. Statement 1 is unambiguously correct. A smart card is, by definition, a plastic card (typically credit-card-sized) with an embedded integrated circuit (IC) or microchip that stores and processes data securely. Smart cards have been standardized (ISO/IEC 7816) and are widely deployed in banking, authentication, telecommunications (SIM cards), and access control. The microchip can be either a memory-only chip or a microcontroller, but the core definition remains unchanged since the 1970s when the technology was patented. Statement 2 is correct and speaks to the fundamental infrastructure enabling digital communications. Satellite and fibre optics are indeed the primary physical transmission media for modern digital technology. Fibre optics (using light pulses through glass fibres) and satellite communication are the backbone technologies for high-bandwidth, long-distance digital data transmission. Both represent a major shift from older copper-wire technologies and are central to the internet, telecommunications networks, and modern broadcasting. The statement uses 'primarily used with' correctly\u2014digital data, once encoded as signals (optical or electromagnetic), requires these physical channels. Statement 3 is the trap and tests whether students conflate digital formats with internet-only delivery. While the early 2000s saw growing internet adoption, the fundamental definition of a digital library does not restrict access to internet-only. A digital library is any organized collection of digital content (books, articles, images, audio, video) stored electronically and made accessible through digital devices and/or networks. This content can be accessed offline from USB drives, local servers, institutional networks, or physical media. The statement's insistence on 'Internet only' is too restrictive and factually incorrect. Offline digital libraries, institutional repositories, and local area network-based collections all constitute valid digital libraries. For a 2004 exam, this distinction was particularly important as connectivity remained a significant constraint in many contexts.",
+    "facts": [
+      "Smart cards exist in contact (with metal contacts requiring direct insertion) and contactless (using RFID or NFC) varieties, though both contain an embedded microchip.",
+      "Fibre optic cables can carry 10\u2013100 Gbps or more, making them far superior to older copper wires, and are the primary backbone for internet and telecommunications infrastructure.",
+      "Satellites used for communication include geostationary (GEO), medium-earth orbit (MEO), and low-earth orbit (LEO) varieties, each serving different latency and coverage requirements.",
+      "Digital libraries can include local archival systems on campuses, offline repositories on portable devices, or collections distributed across institutional networks without requiring public internet access.",
+      "The distinction between 'digital format' and 'digital delivery method' is crucial: digitization creates format, while internet, intranet, or offline storage defines access mechanism."
+    ],
+    "sources": [
+      {
+        "title": "Smart card - Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Smart_card",
+        "whyUsed": "Authoritative definition and history of smart cards as plastic cards with embedded integrated circuits, standards compliance, and diverse applications."
+      },
+      {
+        "title": "Digital library - Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Digital_library",
+        "whyUsed": "Comprehensive definition clarifying that digital libraries are organized electronic collections accessible via computer networks or devices, not limited to internet-only access."
+      },
+      {
+        "title": "Comparing Optical Fiber with Satellite Internet",
+        "url": "https://www.holightoptic.com/comparing-optical-fiber-with-satellite-internet-which-is-better/",
+        "whyUsed": "Detailed technical comparison showing fibre optics and satellite as the two primary physical media for digital transmission, confirming statement 2's assertion."
+      }
+    ],
+    "searchMeta": {
+      "usedWebSearch": true,
+      "searchQueries": [
+        "smart card microchip plastic card definition",
+        "digital library definition offline internet access",
+        "digital technology satellite fiber optics transmission"
+      ],
+      "confidence": "high"
+    }
+  },
+  "id": 40
+}

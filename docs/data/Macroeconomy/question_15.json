@@ -1,0 +1,52 @@
+{
+  "subject": "Economy",
+  "year": 2015,
+  "theme": "Distinction between real GDP growth rate (volatile) and nominal GDP level (steadily increasing)",
+  "question_short_text": "Real GDP growth rate vs nominal GDP level trends 2005-2015",
+  "text": "With reference to India economy, consider the following statements:\n\n1. The rate of growth of real Gross Domestic Product has steadily increased in the last decade.\n2. The Gross Domestic Product at market prices (in rupees) has steadily increased in the last decade.\n\nWhich of the statements given above is/are correct?",
+  "options": [
+    "1 only",
+    "2 only",
+    "Both 1 and 2",
+    "Neither 1 nor 2"
+  ],
+  "answerIndex": 1,
+  "answerText": "(b) 2 only",
+  "explanation": "Statement 1 is incorrect because real GDP growth rates fluctuate due to business cycles and external shocks, not steadily increase. Statement 2 is correct because nominal GDP at market prices (in rupees) consistently rises year-on-year due to both real growth and inflation, even when growth rates decline.",
+  "research": {
+    "summary": "This question tests the critical distinction between a variable and its rate of change\u2014a fundamental concept in macroeconomics that UPSC deliberately tests because aspirants often conflate them. The exam is targeting whether you understand that an absolute value (level) and its rate of change (growth %) behave differently over time.\n\nStatement 1 claims real GDP growth rates increased steadily over 2005-2014. This is false. During this decade, India experienced significant fluctuations: high growth of around 9-10% in 2005-2007 (pre-global financial crisis period), a sharp collapse to around 6.7% in 2008-09 due to the global financial crisis, and further deceleration to below 5% in 2012-13 and 2013-14. Growth rates are inherently cyclical and react to domestic and global economic shocks\u2014they cannot steadily increase for a full decade. The phrase \"steadily increased\" demands a monotonic upward trend, which this data clearly did not show.\n\nStatement 2 claims nominal GDP at market prices (measured in rupees) steadily increased year-on-year during the same decade. This is correct. Nominal GDP is the value of output at current market prices and includes both quantity changes (real growth) and price changes (inflation). Even when real growth slowed during 2008-09 or 2012-14, nominal GDP in rupees continued to rise because inflation was typically positive. As long as inflation remains positive and real growth does not turn sharply negative, nominal GDP measured in rupees will monotonically increase.\n\nThe main trap is assuming that if real growth fluctuates, then nominal growth must also fluctuate similarly. However, the addition of inflation into nominal GDP tends to smooth out the dramatic swings seen in real growth rates. This is why absolute GDP figures show steady increases while growth rates show cyclicality\u2014a pattern observable in virtually all developing economies experiencing monetary expansion alongside business cycles.",
+    "facts": [
+      "Real GDP growth is measured as percentage change in output at constant prices; it reflects underlying economic activity and is highly sensitive to business cycles and policy shocks.",
+      "Nominal GDP is measured at current market prices; it rises whenever real GDP grows positively OR when inflation occurs, making it monotonically increasing even during growth slowdowns if inflation is positive.",
+      "The 2008-09 global financial crisis caused a sharp contraction in India's real GDP growth rate from ~9% to ~6.7%, demonstrating the non-linear nature of growth cycles.",
+      "GDP at market prices is distinct from GDP at factor cost; market prices include indirect taxes and exclude subsidies, while factor cost represents payments to factors of production.",
+      "Inflation in India during 2005-2014 was mostly positive (averaging 6-8% annually for most of the period), which ensured nominal GDP continued rising even as real growth decelerated."
+    ],
+    "sources": [
+      {
+        "title": "ExamRobot IAS 2015 Q81 Solution",
+        "url": "https://examrobot.com/ias/2015/economy/indian-economy-rate-growth-real-gross-domestic-product-steadily-increased-last-decade-gross-domestic",
+        "whyUsed": "Provided detailed historical growth rates during 2005-2014 showing fluctuations in real GDP growth and confirmed the distinction between growth rate and nominal GDP level."
+      },
+      {
+        "title": "DalVoy UPSC Prelims 2015 Analysis",
+        "url": "https://www.dalvoy.com/upsc/previous-years/2015/upsc-prelims-2015-indian-economy-gdp-growth-rate-market-prices-analysis",
+        "whyUsed": "Clarified that growth rates fluctuate due to economic cycles while nominal GDP values steadily increase, isolating the core concept being tested."
+      },
+      {
+        "title": "StatisticsTimes India GDP Data",
+        "url": "https://www.statisticstimes.com/economy/country/india-gdp.php",
+        "whyUsed": "Verified that nominal GDP (in current prices) has shown consistent upward trend and provided context on GDP movements across decades."
+      }
+    ],
+    "searchMeta": {
+      "usedWebSearch": true,
+      "searchQueries": [
+        "India real GDP growth rate 2005-2015 annual",
+        "India nominal GDP market prices rupees 2005-2015"
+      ],
+      "confidence": "high"
+    }
+  },
+  "id": 15
+}

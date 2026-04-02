@@ -1,0 +1,62 @@
+{
+  "subject": "Polity",
+  "year": 2018,
+  "theme": "Digital India Programme: Objectives and Governance Focus",
+  "question_short_text": "Which statements correctly reflect the aims of Digital India Plan?",
+  "text": "Which of the following is/are the aim/aims of \"Digital India\" Plan of the Government of India?\n\n1. Formation of India's own internet companies like China did.\n2. Establish a policy framework to encourage overseas multinational corporations that collect Big Data to build their last data centres within our national geographical boundaries.\n3. Connect many of our villages to the Internet and bring Wi-Fi to many of our schools, public places and major tourist centres.",
+  "options": [
+    "1 and 2 only",
+    "3 only",
+    "2 and 3 only",
+    "1, 2 and 3"
+  ],
+  "answerIndex": 1,
+  "answerText": "(b) 3 only",
+  "explanation": "Digital India's core aim is digital inclusion and infrastructure development. Statement 3 is correct: the programme explicitly targets rural connectivity and Wi-Fi access in public spaces. Statements 1 and 2 are misaligned with the mission's actual objectives, which focus on digital empowerment and service delivery, not creating domestically-owned tech companies or soliciting foreign data centre establishment.",
+  "research": {
+    "summary": "The Digital India Programme, launched on 1 July 2015, is fundamentally about digital inclusion and infrastructure-led transformation, not industrial policy or data localization frameworks. The programme is anchored in three core components: digital infrastructure creation, digital delivery of services, and digital literacy. Unlike China's approach of fostering domestic internet companies (statement 1), India's strategy is technology-agnostic\u2014it aims to leverage existing and new digital infrastructure to serve citizens and modernize governance. Statement 2 misrepresents the mission entirely. Digital India is not designed to attract foreign multinational corporations to establish data centres; rather, it focuses on providing broadband highways (BharatNet), enabling e-governance, and universalizing digital access through Common Service Centres. The programme's nine pillars include Broadband Highways, Universal Access to Mobile Connectivity, Public Internet Access Programme, e-Governance, e-Kranti (electronic service delivery), digital literacy, electronics manufacturing (domestic), IT jobs, and early harvest programmes. Statement 3 is precisely aligned with the mission. Specific initiatives under Digital India explicitly target connecting gram panchayats with high-speed fibre, establishing Wi-Fi in schools through e-Education programmes, and providing public internet access at tourist centres and public places via Common Service Centres. The motto is \"Power to Empower\"\u2014emphasizing citizen digital empowerment, not commercial interests. The trap in this question reflects a common misconception: students may conflate the programme's success with industrial outcomes (like China's dominance in tech), or assume data security concerns drive localization mandates (statement 2). In reality, Digital India is a citizen-centric, inclusion-focused programme centred on bridging the urban-rural digital divide through infrastructure and service availability.",
+    "facts": [
+      "The three core vision areas of Digital India are: digital infrastructure as a core utility to every citizen, governance and services on demand, and digital empowerment of citizens (emphasis on accessibility, not market dominance).",
+      "BharatNet project specifically targets laying optical fibre to 2.5 lakh gram panchayats; nearly 1.15 lakh gram panchayats have been connected as of recent records with optical fibre networks extending 2,74,246 km.",
+      "e-Kranti (Electronic Delivery of Services) includes 44 Mission Mode Projects covering e-Education (free Wi-Fi in schools), e-Health (telemedicine), e-Finance, and other citizen-centric services delivered electronically.",
+      "Pradhan Mantri Gramin Digital Saksharta Abhiyan (PMGDISHA) aims to make 6 crore rural households digitally literate by training one member per household, not to create tech companies.",
+      "Digital India explicitly envisages providing digital lockers, Aadhaar-based authentication, and unified payment interfaces (UPI) for citizen empowerment, with no mandate to restrict foreign firms or favour domestic internet champions."
+    ],
+    "sources": [
+      {
+        "title": "Digital India - Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Digital_India",
+        "whyUsed": "Verified the three core focus areas (digital infrastructure, governance and services on demand, digital empowerment) and the nine pillars of Digital India, confirming that the programme targets rural connectivity and Wi-Fi access via public internet programmes."
+      },
+      {
+        "title": "About Us - Digital India | Government of India (MeitY)",
+        "url": "https://www.digitalindia.gov.in/about-us/",
+        "whyUsed": "Official government source confirming the mission's vision of digital empowerment, digital infrastructure as a utility, and explicit focus on bridging digital divides through initiatives like Common Service Centres and digital literacy, not industrial dominance or data localization frameworks."
+      },
+      {
+        "title": "Digital India | Objectives, Key Initiatives & Progress (IBEF)",
+        "url": "https://www.ibef.org/government-schemes/digital-india",
+        "whyUsed": "Detailed source on the three core objectives and key initiatives, confirming focus on digital infrastructure, e-governance, digital literacy, and inclusive growth\u2014not tech company formation or foreign data centre attraction."
+      },
+      {
+        "title": "Achievements Made under Digital India Programme (PIB)",
+        "url": "https://www.pib.gov.in/PressReleaseIframePage.aspx?PRID=1885962",
+        "whyUsed": "Official press release from Press Information Bureau detailing programmes like BharatNet (rural broadband), PMGDISHA (rural digital literacy), CSCs, and e-services, confirming the citizen-centric, inclusion-focused nature of the programme with no mention of creating domestic internet companies or attracting foreign data centres."
+      },
+      {
+        "title": "Digital India (DI) | India Science, Technology & Innovation (ISTI Portal)",
+        "url": "https://www.indiascienceandtechnology.gov.in/st-visions/national-mission/digital-india-di",
+        "whyUsed": "Government source detailing the nine pillars and confirming that Digital India aims at pulling together existing schemes for synchronized implementation to ensure digital access, digital inclusion, and digital empowerment\u2014not building indigenous tech firms."
+      }
+    ],
+    "searchMeta": {
+      "usedWebSearch": true,
+      "searchQueries": [
+        "Digital India Plan Government of India objectives aims",
+        "Digital India mission key focus areas infrastructure connectivity"
+      ],
+      "confidence": "high"
+    }
+  },
+  "id": 26
+}

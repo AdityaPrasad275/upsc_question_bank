@@ -1,0 +1,57 @@
+{
+  "subject": "Economy",
+  "year": 2015,
+  "theme": "International liquidity and reserve currencies",
+  "question_short_text": "Which of these is NOT what the international liquidity problem relates to",
+  "text": "The problem of international liquidity is related to the non-availability of:",
+  "options": [
+    "Goods and services",
+    "Gold and silver",
+    "Dollars and other hard currencies",
+    "Exportable surplus"
+  ],
+  "answerIndex": 2,
+  "answerText": "(c) Dollars and other hard currencies",
+  "explanation": "International liquidity refers to the ease with which a country can settle its international financial obligations using widely accepted currencies. The core problem is the non-availability of convertible hard currencies like the US dollar, not goods, services, precious metals, or export surpluses.",
+  "research": {
+    "summary": "International liquidity is a technical term with a precise meaning in international economics, and the trap in this question lies in confusing what countries actually need to conduct global commerce. Students often conflate international trade (which involves goods and services) with international liquidity (which involves means of payment), leading them to incorrectly choose option (a). Similarly, the historical association of gold with international reserves can mislead; while gold was once a reserve asset, it is not the primary medium of international settlement today and lacks the liquidity of hard currencies. The real problem international liquidity addresses is the shortage of currencies that are universally accepted for cross-border payment\u2014primarily the US dollar and other major convertible currencies. Countries face international liquidity crises when they cannot access sufficient volumes of these hard currencies to pay for imports, service debt, or stabilize their exchange rates. An exportable surplus (option d) may generate foreign currency earnings but does not guarantee liquidity if those earnings come in weak or non-convertible currencies. The distinction UPSC is testing here is between the physical basis of trade (goods and commodities) versus the financial mechanism that enables settlement (hard currencies). Most central banks, including India's Reserve Bank, hold foreign exchange reserves predominately in US dollars, euros, and other hard currencies specifically because these currencies have the liquidity, stability, and universal acceptance needed for international transactions. The IMF, founded at Bretton Woods in 1944, was explicitly designed to expand and stabilize access to hard currencies for member states facing balance-of-payments deficits.",
+    "facts": [
+      "Hard currencies are traded in high volumes daily globally; the US dollar is involved in over 88% of all foreign exchange transactions worldwide, making it the de facto medium for international settlement.",
+      "International liquidity crises are particularly acute for developing countries with limited access to hard currency reserves and weak creditworthiness in international financial markets.",
+      "Foreign exchange reserves are held predominantly in convertible hard currencies (primarily USD, EUR, JPY, and GBP) rather than gold or commodities, reflecting the practical need for immediate settlement capability.",
+      "The concept of international liquidity distinguishes between external purchasing power (ability to sell goods) and the means to pay for imports\u2014a country with high exports but limited hard currency access still faces liquidity constraints.",
+      "IMF Special Drawing Rights (SDRs) and central bank swap agreements have been developed as supplementary international liquidity mechanisms precisely because reliance on a single currency (the dollar) created systemic risks."
+    ],
+    "sources": [
+      {
+        "title": "International Monetary Fund - Purpose and History",
+        "url": "https://www.britannica.com/topic/International-Monetary-Fund",
+        "whyUsed": "Authoritative source confirming the IMF was founded specifically to 'expand international liquidity (access to hard currencies)' and its role in stabilizing currency exchange rates."
+      },
+      {
+        "title": "UPSC Prelims 2015 - International Liquidity Problem",
+        "url": "https://www.dalvoy.com/upsc/previous-years/2015/international-liquidity-problem-dollars-hard-currencies",
+        "whyUsed": "Direct UPSC analysis of this question confirming that international liquidity refers specifically to availability of convertible currencies rather than goods, services, or precious metals."
+      },
+      {
+        "title": "Hard Currency Definition and Characteristics",
+        "url": "https://www.acquire.fi/glossary/hard-currency-definition-examples-vs-soft-currency",
+        "whyUsed": "Establishes that hard currencies are defined by liquidity, stability, and universal acceptance\u2014characteristics essential for international settlement and reserve holdings."
+      },
+      {
+        "title": "International Reserves and Foreign Currency Liquidity - IMF Guidelines",
+        "url": "https://data.imf.org/en/datasets/IMF.STA:IRFCL",
+        "whyUsed": "Official IMF framework confirming that international liquidity is measured in terms of foreign currency reserves and their composition across convertible currencies."
+      }
+    ],
+    "searchMeta": {
+      "usedWebSearch": true,
+      "searchQueries": [
+        "international liquidity definition hard currencies",
+        "international liquidity hard currencies IMF reserves"
+      ],
+      "confidence": "high"
+    }
+  },
+  "id": 16
+}

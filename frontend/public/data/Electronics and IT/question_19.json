@@ -1,0 +1,56 @@
+{
+  "subject": "Science",
+  "year": 2019,
+  "theme": "Digital technologies in entertainment: Augmented Reality and Virtual Reality definitions and characteristics",
+  "question_short_text": "Statement evaluation: AR vs VR definitions and user experience characteristics",
+  "text": "In the context of digital technologies for entertainment, consider the following statements:\n\n1. In Augmented Reality (AR), a simulated environment is created and the physical world is completely shut out.\n2. In Virtual Reality (VR), images generated from a computer are projected onto real-life objects or surroundings.\n3. AR allows individuals to be present in the world and improves the experience using the camera of smart-phone or PC.\n4. VR closes the world, and transposes an individual, providing complete immersion experience.\n\nWhich of the statements given above is/are correct?",
+  "options": [
+    "1 and 2 only",
+    "3 and 4 only",
+    "1, 2 and 3",
+    "4 only"
+  ],
+  "answerIndex": 1,
+  "answerText": "(b) 3 and 4 only",
+  "explanation": "Statements 3 and 4 correctly describe AR and VR respectively. Statement 1 incorrectly describes AR (AR does not shut out the physical world; it augments it). Statement 2 incorrectly describes VR (VR creates a completely simulated environment, not projected images onto real objects\u2014that is AR).",
+  "research": {
+    "summary": "The trap in this question is the inversion of AR and VR definitions. Students often confuse which technology 'shuts out' the real world and which integrates with it.\n\nStatement 1 is fundamentally wrong: AR overlays digital elements onto the real environment using a device camera (smartphone or PC). The physical world remains the primary reference point. A user sees the real world enhanced with digital information (like Snapchat filters or Pok\u00e9mon Go). AR is only about 25% virtual\u2014it augments reality, not replaces it.\n\nStatement 2 inverts the core distinction: VR creates a completely computer-generated, three-dimensional environment that completely replaces the user's perception of the real world. Projecting computer-generated images onto real-life objects is precisely what AR does, not VR. This statement has the technologies backwards.\n\nStatement 3 is correct and captures AR's essence: it keeps the user anchored in the real world ('present in the world') and uses smartphone or PC cameras to layer digital content, enhancing the real-world experience without replacing it.\n\nStatement 4 is correct: VR literally 'closes the world'\u2014it isolates the user from physical surroundings through a headset and provides total immersion in a virtual environment. The user is transported to a different reality with complete sensory engagement.\n\nThe key elimination insight: AR = enhancement of reality through camera overlay. VR = replacement of reality through headset isolation. Once you lock in this distinction, you can rule out statements 1 and 2 immediately. The misconception UPSC tests here is that students sometimes treat both as 'immersive' without recognizing that only VR achieves immersion by replacing the real world, while AR achieves engagement by enhancing it.",
+    "facts": [
+      "AR typically requires less specialized hardware than VR\u2014it can function on standard smartphones and PCs with cameras, making it more accessible.",
+      "VR headsets use screens and sensors positioned directly in front of the user's eyes to block out external light and physical surroundings completely, creating total environmental replacement.",
+      "The market applications differ sharply: VR dominates gaming and entertainment, while AR is increasingly used in industrial, manufacturing, and enterprise sectors for on-site training and guidance.",
+      "Mixed Reality (MR) is a distinct third category that blends AR and VR elements, allowing interaction with both virtual and physical objects simultaneously while wearing a headset.",
+      "Both AR and VR can be used in healthcare, but for different purposes: AR overlays medical imaging data onto patients for real-time surgical guidance, while VR creates virtual environments for pain distraction and exposure therapy."
+    ],
+    "sources": [
+      {
+        "title": "Augmented Reality vs Virtual Reality: Comparing AR/VR | Splunk",
+        "url": "https://www.splunk.com/en_us/blog/learn/ar-vr.html",
+        "whyUsed": "Verified definitions showing AR overlays real-time information onto real environment and VR creates complete environmental simulation with headset isolation."
+      },
+      {
+        "title": "Augmented Reality - Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Augmented_reality",
+        "whyUsed": "Confirmed that AR overlays 3D-rendered graphics onto real world while VR completely replaces user's real-world environment with simulated one."
+      },
+      {
+        "title": "Augmented Reality vs. Virtual Reality: What's the Difference? | Coursera",
+        "url": "https://www.coursera.org/articles/augmented-reality-vs-virtual-reality",
+        "whyUsed": "Clarified that AR uses camera for digital overlay on physical world, while VR uses headset to fully immerse user in completely virtual environment."
+      },
+      {
+        "title": "Virtual Reality (VR) vs Augmented Reality (AR) - GeeksforGeeks",
+        "url": "https://www.geeksforgeeks.org/python/virtual-reality-vs-augmented-reality-whats-the-difference/",
+        "whyUsed": "Verified the practical distinction: VR requires headset and cuts off real world; AR enhances normal world view without replacement."
+      }
+    ],
+    "searchMeta": {
+      "usedWebSearch": true,
+      "searchQueries": [
+        "Augmented Reality AR Virtual Reality VR definitions differences"
+      ],
+      "confidence": "high"
+    }
+  },
+  "id": 19
+}

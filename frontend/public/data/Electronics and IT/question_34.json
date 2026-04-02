@@ -1,0 +1,51 @@
+{
+  "subject": "Science",
+  "year": 2011,
+  "theme": "Information technology and network security - VPN as organizational access and encryption mechanism",
+  "question_short_text": "Definition of Virtual Private Network and its primary function",
+  "text": "What is \"virtual private network\"?\n\nA) It is a private computer network of an organization where the remote users can transmit encrypted information through the server of the organization.\n\nB) It is a computer network across a public internet that provides users access to their organization's network while maintaining the security of the information transmitted.\n\nC) It is a computer network in which users can access a shared pool of computing resources through a service provider.\n\nD) None of the statements (a), (b) and (c) given above is correct description of virtual private network.",
+  "options": [
+    "It is a private computer network of an organization where the remote users can transmit encrypted information through the server of the organization.",
+    "It is a computer network across a public internet that provides users access to their organization's network while maintaining the security of the information transmitted.",
+    "It is a computer network in which users can access a shared pool of computing resources through a service provider.",
+    "None of the statements (a), (b) and (c) given above is correct description of virtual private network."
+  ],
+  "answerIndex": 1,
+  "answerText": "(b) It is a computer network across a public internet that provides users access to their organization's network while maintaining the security of the information transmitted.",
+  "explanation": "A VPN is fundamentally an encrypted tunnel across the public internet that lets remote users securely access a private organizational network. The key distinction is that it extends the organization's network through a public medium (the internet) while maintaining data security through encryption.",
+  "research": {
+    "summary": "The core concept UPSC is testing here is the defining characteristic of a VPN: it bridges the gap between public and private networks. Option A is incomplete because it describes remote transmission through an organization's server but does not emphasize that this happens across public internet infrastructure, which is VPN's central innovation. Option C describes cloud computing or computing resources as a service, which is a different concept altogether\u2014it refers to shared pools of resources managed by service providers, not secure access to an organization's existing private network.\n\nOption B is correct because it captures the essential paradox of a VPN: it is a private network extended across a public infrastructure (the internet). A VPN creates a virtual overlay network built on top of existing public networks using encryption and tunneling protocols. An employee in Delhi can work from home or a coffee shop and access the company's private network in Mumbai as if they were physically there, because the VPN creates a secure encrypted \"tunnel\" that masks traffic and ensures data confidentiality. The encryption prevents eavesdropping, while the tunneling protocols handle the routing of data. In 2011, when this question was asked, VPN adoption in India was still limited compared to today; however, the technical definition remained consistent. The question tests whether the aspirant understands that VPN is not simply encryption within an organization's own network, but specifically the extension of a private network through public networks while maintaining security. This distinction is important because it explains why VPNs became critical infrastructure for remote work, branch-to-branch connectivity, and secure access from untrusted networks.",
+    "facts": [
+      "A VPN uses tunneling protocols and encryption to establish secure communication across public networks, creating what appears to be a private network connection even when traversing the internet.",
+      "Remote-access VPNs connect individual users to corporate networks, while site-to-site VPNs connect entire branch offices\u2014both rely on the same principle of secure extension across public infrastructure.",
+      "In 2022, India's Ministry of Electronics and Information Technology mandated that VPN providers record and maintain customer data for five years, marking a shift in regulatory approach to VPN usage.",
+      "VPN differs from simple encryption in that it hides not just the content of communication but also the user's identity and location by masking the real IP address with the VPN server's IP address.",
+      "The first VPN was developed in 1996 by Microsoft employees including Gurdeep Singh Pall, making it a foundational technology for modern remote work and organizational security."
+    ],
+    "sources": [
+      {
+        "title": "Virtual private network - Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Virtual_private_network",
+        "whyUsed": "Provides the technical definition that VPN is an overlay network extending a private network across public networks via encryption and tunneling"
+      },
+      {
+        "title": "Virtual Private Network (VPN)- UPSC Current Affairs - PrepLadder",
+        "url": "https://www.prepladder.com/upsc-study-material/current-affairs/virtual-private-network-vpn-upsc-current-affairs",
+        "whyUsed": "Offers UPSC-specific context on VPN definitions, regulatory developments in India, and clarification on remote-access vs site-to-site VPN types"
+      },
+      {
+        "title": "Virtual Private Network - Drishti IAS",
+        "url": "https://www.drishtiias.com/daily-updates/daily-news-analysis/virtual-private-network",
+        "whyUsed": "Explains the core mechanism of VPN and provides historical context including the 2011 UPSC question itself with analysis"
+      }
+    ],
+    "searchMeta": {
+      "usedWebSearch": true,
+      "searchQueries": [
+        "VPN virtual private network definition UPSC"
+      ],
+      "confidence": "high"
+    }
+  },
+  "id": 34
+}

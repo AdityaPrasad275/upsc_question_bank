@@ -1,0 +1,57 @@
+{
+  "subject": "Economy",
+  "year": 1996,
+  "theme": "fiscal tools for income redistribution and reducing inequality",
+  "question_short_text": "Which combination best achieves income redistribution?",
+  "text": "A redistribution of income in a country can be best brought about through:",
+  "options": [
+    "(a) Progressive taxation combined with progressive expenditure",
+    "(b) Progressive taxation combined with regressive expenditure",
+    "(c) Regressive taxation combined with regressive expenditure",
+    "(d) Regressive taxation combined with progressive expenditure"
+  ],
+  "answerIndex": 0,
+  "answerText": "(a) Progressive taxation combined with progressive expenditure",
+  "explanation": "Income redistribution requires both collecting more from the wealthy through progressive taxation and directing spending benefits to lower-income groups through progressive expenditure. This two-pronged fiscal approach amplifies the redistributive effect.",
+  "research": {
+    "summary": "This question tests understanding of fiscal incidence\u2014the combined impact of taxation and expenditure on income distribution. Redistribution is not achieved by taxation alone; it requires complementary expenditure policy. Progressive taxation means higher earners pay a larger percentage of their income in taxes, reducing after-tax inequality. However, if those revenues are spent regressively\u2014providing more absolute benefit to higher-income groups\u2014redistribution fails. Progressive expenditure targets spending toward lower-income groups: public education, healthcare, subsidized food, housing assistance, and social welfare programs. When combined, progressive taxation raises redistributive resources from the wealthy, while progressive expenditure channels those resources back to disadvantaged groups, creating a net downward transfer of income. This is called fiscal progressivity. The question exposes a critical trap: students often think progressive taxation alone solves redistribution, but ignore how revenues are spent. Regressive taxation (like sales taxes) hits poor harder than rich; regressive expenditure (like luxury subsidies) benefits rich more than poor. Even mixing one progressive element with one regressive element fails\u2014option (b) with progressive tax but regressive spending would narrow the tax-to-rich but waste proceeds on the wealthy; option (d) with regressive tax and progressive spending would burden the poor while trying to help them. Only matching progressive tax collection with progressive expenditure achieves genuine redistribution. The empirical insight: India's income tax is technically progressive in structure, but modest redistributive effects persist partly due to collection challenges and expenditure leakage.",
+    "facts": [
+      "Fiscal incidence measures both tax burden and expenditure benefits together, not taxes in isolation.",
+      "Progressive expenditure includes transfers, subsidies, and public services targeted to lower-income groups.",
+      "A tax system's overall progressivity depends on the mix of direct taxes (like income tax, typically progressive) and indirect taxes (like sales tax, typically regressive).",
+      "The redistributive effect of taxation is amplified when combined with spending on basic services\u2014education, health, and social security\u2014that lower-income households depend on most.",
+      "Income inequality reduction requires closing both the revenue side (tax progressivity) and the spending side (benefit progressivity) of the fiscal equation."
+    ],
+    "sources": [
+      {
+        "title": "Progressive tax - Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Progressive_tax",
+        "whyUsed": "Confirmed the complementary nature of taxes and transfers in creating fiscal incidence and redistribution."
+      },
+      {
+        "title": "Regressive tax - Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Regressive_tax",
+        "whyUsed": "Clarified the mechanics of regressive vs. progressive tax incidence and how tax systems affect different income groups."
+      },
+      {
+        "title": "Sage Reference - Encyclopedia of Education Economics & Finance - Progressive and Regressive Tax",
+        "url": "https://sk.sagepub.com/ency/edvol/encyclopedia-of-education-economics-and-finance/chpt/progressive-tax-regressive-tax",
+        "whyUsed": "Explained the ability-to-pay principle and how fiscal policy addresses equitable redistribution."
+      },
+      {
+        "title": "Progressivity and redistributive effects of income taxes: evidence from India",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8536922/",
+        "whyUsed": "Provided empirical evidence that India's income tax progressivity translates into modest redistribution partly due to collection and expenditure factors."
+      }
+    ],
+    "searchMeta": {
+      "usedWebSearch": true,
+      "searchQueries": [
+        "progressive taxation regressive expenditure income redistribution",
+        "progressive taxation expenditure India redistribution policy"
+      ],
+      "confidence": "high"
+    }
+  },
+  "id": 46
+}

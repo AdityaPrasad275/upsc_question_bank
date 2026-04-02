@@ -1,0 +1,205 @@
+{
+  "name": "Electronics and IT",
+  "questions": [
+    {
+      "id": 1,
+      "short_text": "Which three of four elements usually make up EV battery cathodes?",
+      "file": "question_1.json"
+    },
+    {
+      "id": 2,
+      "short_text": "Majorana 1 chip developer and relationship between deep learning and machine learning",
+      "file": "question_2.json"
+    },
+    {
+      "id": 3,
+      "short_text": "Rare earth elements in flat screens: do phosphorescent properties explain their use?",
+      "file": "question_3.json"
+    },
+    {
+      "id": 5,
+      "short_text": "Radar use in narcotic detection, weather monitoring, and animal migration tracking",
+      "file": "question_5.json"
+    },
+    {
+      "id": 6,
+      "short_text": "Identify the correct term for interoperable 3D virtual worlds with property rights over digital assets",
+      "file": "question_6.json"
+    },
+    {
+      "id": 7,
+      "short_text": "How many of the three actions require an accelerometer?",
+      "file": "question_7.json"
+    },
+    {
+      "id": 8,
+      "short_text": "Which statements about NFT characteristics (digital assets, blockchain, fungibility, medium of exchange) are correct?",
+      "file": "question_8.json"
+    },
+    {
+      "id": 9,
+      "short_text": "Identifying which platforms among Aarogya Setu, CoWIN, DigiLocker, and DIKSHA are built on open-source digital platforms",
+      "file": "question_9.json"
+    },
+    {
+      "id": 10,
+      "short_text": "Identify correct statements about Web 3.0 user control, blockchain networks, and decentralized operation",
+      "file": "question_10.json"
+    },
+    {
+      "id": 11,
+      "short_text": "All three statements about SaaS features and examples are correct",
+      "file": "question_11.json"
+    },
+    {
+      "id": 12,
+      "short_text": "Identify which of three communication technologies (CCTV, RFID, WLAN) are classified as short-range devices",
+      "file": "question_12.json"
+    },
+    {
+      "id": 13,
+      "short_text": "Which activities can drones accomplish at present technological level: pesticide spraying, volcano crater inspection, whale breath sampling?",
+      "file": "question_13.json"
+    },
+    {
+      "id": 14,
+      "short_text": "Identify AI capabilities that were effectively operational in 2020 from a list of five options",
+      "file": "question_14.json"
+    },
+    {
+      "id": 15,
+      "short_text": "Identify correct statements about VLC technology spectrum, range, data speed, and electromagnetic properties",
+      "file": "question_15.json"
+    },
+    {
+      "id": 16,
+      "short_text": "Statement evaluation on blockchain as public ledger, data types, and permissionless application development",
+      "file": "question_16.json"
+    },
+    {
+      "id": 17,
+      "short_text": "Which cyber insurance benefits are covered for individuals in India beyond fund loss recovery?",
+      "file": "question_17.json"
+    },
+    {
+      "id": 18,
+      "short_text": "Distinguishing LTE marketing categorization from VoLTE technical capabilities",
+      "file": "question_18.json"
+    },
+    {
+      "id": 19,
+      "short_text": "Statement evaluation: AR vs VR definitions and user experience characteristics",
+      "file": "question_19.json"
+    },
+    {
+      "id": 20,
+      "short_text": "Identify correct statements about digital signature definition and function",
+      "file": "question_20.json"
+    },
+    {
+      "id": 21,
+      "short_text": "Wearable devices: location, sleep, hearing assistance",
+      "file": "question_21.json"
+    },
+    {
+      "id": 22,
+      "short_text": "Classification of WannaCry, Petya, and EternalBlue as cyber threats",
+      "file": "question_22.json"
+    },
+    {
+      "id": 23,
+      "short_text": "Match scientific technologies and experiments with their correct locations or descriptions",
+      "file": "question_23.json"
+    },
+    {
+      "id": 24,
+      "short_text": "Match Belle II experiment, blockchain, and CRISPR-Cas9 with their descriptions",
+      "file": "question_24.json"
+    },
+    {
+      "id": 25,
+      "short_text": "What does Aadhaar's open API provision enable?",
+      "file": "question_25.json"
+    },
+    {
+      "id": 26,
+      "short_text": "Which statements correctly reflect the aims of Digital India Plan?",
+      "file": "question_26.json"
+    },
+    {
+      "id": 27,
+      "short_text": "Identify the technology enabling smart home devices that respond automatically to user actions and environmental conditions",
+      "file": "question_27.json"
+    },
+    {
+      "id": 28,
+      "short_text": "Identifying which of five domains use 3D printing applications",
+      "file": "question_28.json"
+    },
+    {
+      "id": 29,
+      "short_text": "Which entities are legally required to report cyber incidents to CERT-In?",
+      "file": "question_29.json"
+    },
+    {
+      "id": 30,
+      "short_text": "Are both statements about Li-Fi correct?",
+      "file": "question_30.json"
+    },
+    {
+      "id": 31,
+      "short_text": "NFC technology statements \u2013 electromagnetic fields, communication range, and encryption",
+      "file": "question_31.json"
+    },
+    {
+      "id": 33,
+      "short_text": "Differences between Bluetooth and Wi-Fi in frequency bands, network types, and line-of-sight requirements",
+      "file": "question_33.json"
+    },
+    {
+      "id": 34,
+      "short_text": "Definition of Virtual Private Network and its primary function",
+      "file": "question_34.json"
+    },
+    {
+      "id": 35,
+      "short_text": "Which technology does NOT belong to the GSM family: EDGE, LTE, DSL, or both EDGE and LTE?",
+      "file": "question_35.json"
+    },
+    {
+      "id": 36,
+      "short_text": "Which devices operate in the 2.4\u20132.5 GHz frequency band?",
+      "file": "question_36.json"
+    },
+    {
+      "id": 37,
+      "short_text": "WiMAX technology classification",
+      "file": "question_37.json"
+    },
+    {
+      "id": 38,
+      "short_text": "Inventor of the World Wide Web (WWW)",
+      "file": "question_38.json"
+    },
+    {
+      "id": 39,
+      "short_text": "What do Dolby B and Dolby C on tape recorders refer to?",
+      "file": "question_39.json"
+    },
+    {
+      "id": 40,
+      "short_text": "Statement validity on smart cards, digital technology transmission media, and digital library accessibility.",
+      "file": "question_40.json"
+    },
+    {
+      "id": 41,
+      "short_text": "What does one byte consist of?",
+      "file": "question_41.json"
+    },
+    {
+      "id": 42,
+      "short_text": "World's fastest computer performance capability in December 1996",
+      "file": "question_42.json"
+    }
+  ]
+}

@@ -1,0 +1,51 @@
+{
+  "subject": "Science",
+  "year": 2023,
+  "theme": "Accelerometer applications in consumer electronics and safety systems",
+  "question_short_text": "How many of the three actions require an accelerometer?",
+  "text": "Consider the following actions:\n\n1. Detection of car crash/collision which results in the deployment of airbags almost instantaneously\n2. Detection of accidental free fall of a laptop towards the ground which results in the immediate turning off of the hard drive\n3. Detection of the tilt of the smartphone which results in the rotation of display between portrait and landscape mode\n\nIn how many of the above actions is the function of accelerometer required?",
+  "options": [
+    "Only one",
+    "Only two",
+    "All three",
+    "None"
+  ],
+  "answerIndex": 2,
+  "answerText": "(c) All three",
+  "explanation": "An accelerometer is required in all three actions: it detects rapid deceleration in vehicle crashes to trigger airbags, senses free fall in laptops to protect hard drives, and measures device tilt in smartphones to rotate the display.",
+  "research": {
+    "summary": "This question tests understanding of how accelerometers function across different detection scenarios by measuring proper acceleration\u2014the acceleration experienced relative to free fall. The key insight is that accelerometers can detect three distinct types of motion: dynamic impact forces (deceleration in crashes), gravitational shifts (free fall), and static orientation (gravity-based tilt). A common misconception is that accelerometers only measure motion; they equally measure the direction and magnitude of static gravitational force, which is why they can detect orientation.\n\nIn vehicle crash detection, accelerometers measure rapid deceleration exceeding a threshold (hundreds of g-forces in severe impacts), sending signals to the airbag control unit for instantaneous deployment. Modern cars integrate these as critical safety systems. In laptop protection, accelerometers detect the condition of free fall by measuring the absence of normal upward acceleration from a supporting surface\u2014when the laptop is dropped, the accelerometer reads zero as gravity acts unopposed, triggering the hard drive heads to park before impact prevents data loss. In smartphone orientation sensing, accelerometers exploit static gravitational acceleration (approximately 1 g at Earth's surface) to determine which direction is down; when you tilt the phone, the distribution of gravitational force across the three axes changes, allowing the system to calculate the new orientation and rotate the display accordingly.\n\nThe unifying principle is that accelerometers measure proper acceleration along multiple axes (typically 3D in smartphones), so they can detect both dynamic forces (crashes, drops) and static gravitational orientation. This versatility across impact detection, free-fall sensing, and orientation measurement explains why all three actions require accelerometer functionality.",
+    "facts": [
+      "Accelerometers are electromechanical MEMS devices that commonly use piezoelectric or capacitive sensing to convert mechanical motion into electrical signals measurable along one or more axes.",
+      "An accelerometer at rest on Earth's surface reads approximately 1 g of upward acceleration because the ground exerts a normal force against gravity\u2014this static reading enables orientation detection.",
+      "Free-fall sensors (FFS) are specialized accelerometers in laptops that detect when acceleration drops to near zero, indicating the absence of supporting force, triggering hard drive protection before impact.",
+      "Multi-axis accelerometers in smartphones measure gravitational distribution across three perpendicular directions, allowing the device to infer tilt angle and switch between portrait and landscape display modes.",
+      "Vehicle crash detection systems combine accelerometer data with other sensors to meet strict threshold requirements (typically 20+ g-force) before deploying airbags, ensuring protection without false triggers."
+    ],
+    "sources": [
+      {
+        "title": "Wikipedia \u2013 Accelerometer",
+        "url": "https://en.wikipedia.org/wiki/Accelerometer",
+        "whyUsed": "Verified technical definitions, free-fall sensor applications in laptops and hard drive protection, multi-axis accelerometer principles in MEMS devices, and smartphone orientation detection."
+      },
+      {
+        "title": "Live Science \u2013 Accelerometers: What They Are & How They Work",
+        "url": "https://www.livescience.com/40102-accelerometers.html",
+        "whyUsed": "Confirmed applications in car crash detection and airbag deployment, laptop drop detection and hard drive protection, and smartphone display rotation via tilt sensing."
+      },
+      {
+        "title": "M/C Journal \u2013 Three Degrees of \"G\"s: Airbag Deployment Sensor",
+        "url": "https://www.journal.media-culture.org.au/index.php/mcjournal/article/view/742",
+        "whyUsed": "Explained proper acceleration concept relative to free fall, the relationship between gravity measurement and orientation detection, and how accelerometers enable tilt control in consumer devices."
+      }
+    ],
+    "searchMeta": {
+      "usedWebSearch": true,
+      "searchQueries": [
+        "accelerometer applications car airbag free fall hard drive smartphone orientation"
+      ],
+      "confidence": "high"
+    }
+  },
+  "id": 7
+}

@@ -1,0 +1,57 @@
+{
+  "subject": "Science",
+  "year": 2015,
+  "theme": "Near Field Communication technology \u2013 technical specifications and operational distance",
+  "question_short_text": "NFC technology statements \u2013 electromagnetic fields, communication range, and encryption",
+  "text": "With reference to 'Near Field Communication (NFC) Technology', which of the following statements is/are correct?\n\n1. It is a contactless communication technology that uses electromagnetic radio fields\n2. NFC is designed for use by devices which can be at a distance of even a metre from each other\n3. NFC can use encryption when sending sensitive information.\n\nSelect the correct answer using the code given below.",
+  "options": [
+    "1 and 2 only",
+    "3 only",
+    "1 and 3 only",
+    "1, 2 and 3"
+  ],
+  "answerIndex": 2,
+  "answerText": "(c) 1 and 3 only",
+  "explanation": "Statement 1 is correct: NFC is a contactless communication technology operating on electromagnetic inductive coupling at 13.56 MHz. Statement 2 is incorrect: NFC operates at very short range (typically 4\u201310 cm at maximum), not a metre. Statement 3 is correct: NFC supports encryption protocols for secure data exchange in sensitive applications like contactless payments.",
+  "research": {
+    "summary": "The key to this question is understanding NFC's operating range and technical mechanism. Statement 1 is technically sound. NFC is indeed a contactless technology based on electromagnetic induction between two loop antennas, operating at 13.56 MHz in the unlicensed ISM band. The inductive coupling generates an alternating magnetic field that transfers both power and data. Statement 2 contains the critical misconception. A metre (100 cm) vastly overstates NFC's capability. According to official specifications, NFC operates reliably within 4 cm, with theoretical maximum distance around 10 cm under ideal conditions. The NFC Forum certifies compliant devices at 5 mm range. This extreme short-range is actually a security and design feature\u2014it prevents remote eavesdropping and ensures intentional, proximity-based interaction (the famous \"tap to pay\" experience). Confusing NFC with longer-range technologies like Bluetooth (10+ metres) or RFID systems (up to several metres) is the trap UPSC is testing. Statement 3 is correct. NFC explicitly supports encryption and higher-layer cryptographic protocols. Wikipedia and technical standards (ISO/IEC 18092) confirm \"secure communications are available by applying encryption algorithms, as is done for credit cards.\" This is fundamental to NFC payment applications. The answer is 1 and 3 only.",
+    "facts": [
+      "NFC standard frequency is 13.56 MHz in the unlicensed ISM band, with data rates from 106 to 424 kbit/s (up to 848 kbit/s in some modes).",
+      "NFC uses inductive coupling between electromagnetic coils, not far-field radio propagation; the magnetic field (not electric field) dominates at these distances.",
+      "Communication range is strictly limited: certified NFC Forum devices operate at 5 mm, practical range 4\u201310 cm maximum; Bluetooth, UWB, and standard RFID operate at much greater distances.",
+      "NFC supports three operational modes: Reader/Writer mode (device reads tags), Peer-to-Peer mode (device-to-device communication), and Card Emulation mode (device emulates a contactless card).",
+      "Passive NFC tags require no battery; they draw power from the initiator's electromagnetic field, enabling battery-free operation in cards, stickers, and small form factors."
+    ],
+    "sources": [
+      {
+        "title": "Near-field communication - Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Near-field_communication",
+        "whyUsed": "Confirmed that NFC operates at 4 cm or less, supports encryption, and uses electromagnetic inductive coupling at 13.56 MHz per ISO/IEC standards."
+      },
+      {
+        "title": "NFC Forum \u2013 NFC Technology",
+        "url": "https://nfc-forum.org/learn/nfc-technology/",
+        "whyUsed": "Official NFC Forum source stating typical range up to 2 cm and certified compliant range of 5 mm, clarifying that 1 metre is completely outside NFC design parameters."
+      },
+      {
+        "title": "Near Field Communication (NFC) \u2013 Android Developers",
+        "url": "https://developer.android.com/develop/connectivity/nfc",
+        "whyUsed": "Confirmed NFC typically requires distance of 4 cm or less to initiate connection, contrasting sharply with the 1 metre claim in statement 2."
+      },
+      {
+        "title": "Near Field Communication \u2013 STMicroelectronics",
+        "url": "https://www.st.com/content/st_com/en/support/learning/essentials-and-insights/connectivity/nfc.html",
+        "whyUsed": "Stated that NFC allows wireless communication between devices up to 10 centimeters apart, with encryption as a standard feature for secure transactions."
+      }
+    ],
+    "searchMeta": {
+      "usedWebSearch": true,
+      "searchQueries": [
+        "NFC Near Field Communication technology range distance specifications",
+        "NFC electromagnetic radio fields contactless communication technical specifications"
+      ],
+      "confidence": "high"
+    }
+  },
+  "id": 31
+}

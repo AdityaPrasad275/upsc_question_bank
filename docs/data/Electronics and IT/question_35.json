@@ -1,0 +1,57 @@
+{
+  "subject": "Science",
+  "year": 2010,
+  "theme": "Cellular wireless technology evolution and classification in the GSM family",
+  "question_short_text": "Which technology does NOT belong to the GSM family: EDGE, LTE, DSL, or both EDGE and LTE?",
+  "text": "Which among the following do / does not belong / belongs to the GSM family of wireless technologies?",
+  "options": [
+    "EDGE",
+    "LTE",
+    "DSL",
+    "Both EDGE and LTE"
+  ],
+  "answerIndex": 2,
+  "answerText": "(c) DSL",
+  "explanation": "DSL (Digital Subscriber Line) is a wired broadband technology that transmits data over copper telephone lines, not a cellular wireless standard. EDGE, LTE, and UMTS are all part of the GSM family's evolution as cellular technologies, while DSL operates through completely different infrastructure and standards.",
+  "research": {
+    "summary": "The GSM family of wireless technologies represents the evolution of cellular mobile communications across generations, standardized by 3GPP. The family includes: GSM (2G) as the foundational digital cellular standard; GPRS and EDGE (2.75G) as packet-switched enhancements to GSM networks; UMTS/WCDMA (3G) as the leap to Wideband Code Division Multiple Access; HSPA and HSPA+ (3.5G) as further 3G improvements; and LTE (4G) as the next-generation evolution path based on GSM/UMTS architecture. All of these are cellular air interface technologies developed and maintained by 3GPP as a coordinated family.\n\nDSL, by contrast, is fundamentally different in both infrastructure and purpose. DSL (Digital Subscriber Line) is a wired, fixed-line technology that leverages existing copper telephone infrastructure to deliver broadband internet. It uses frequency-division multiplexing to separate voice (0\u20134 kHz) from high-frequency data signals (25 kHz to 2.2 MHz), allowing simultaneous voice and internet use on the same twisted-pair copper line. DSL variants include ADSL (asymmetric, favoring downloads), SDSL (symmetric), and VDSL (very high bitrate), but all operate within the local loop between a customer premises and the telephone exchange\u2014not across a cellular network. The technology is standardized by ITU (G.992 series), not 3GPP, and serves a completely different use case: fixed-site broadband access rather than mobile cellular connectivity.\n\nThe trap in this question is that students may confuse DSL with other high-speed data technologies or assume any 'broadband' standard belongs to the wireless/cellular family. However, the GSM family is explicitly cellular\u2014all members support mobile handset connectivity across radio interfaces managed by base stations. DSL is wired, stationary, and relies on telephone line infrastructure entirely. This distinction is critical for distinguishing between cellular evolution (GSM \u2192 EDGE \u2192 UMTS \u2192 LTE) and separate broadband delivery mechanisms.",
+    "facts": [
+      "EDGE is standardized by 3GPP as part of GSM and represents a 2.75G upgrade, delivering ~384 kbps on existing GSM infrastructure without requiring new base stations or frequency allocations.",
+      "LTE is based on GSM/EDGE and 3G UMTS/HSPA standards, developed by 3GPP Release 8, and is the 4G evolution path for GSM carriers; it supports seamless handover with legacy GSM/UMTS networks.",
+      "UMTS and HSPA are part of the GSM family's 3G evolution because they inherit the GSM core network architecture (MAP) and use the same SIM card authentication scheme, even though they employ a different air interface (W-CDMA).",
+      "DSL was introduced commercially in the 1990s (HDSL) and is approved by ITU G.992 standards; it operates over local copper loops within a distance limit (~3.5 km for ADSL) and provides a dedicated connection unrelated to mobile networks.",
+      "The GSM family's primary advantage is its single global footprint\u2014by 2007 there were 2.6 billion GSM/HSPA customers worldwide, and EDGE, HSPA, and LTE all share interoperability within this ecosystem, whereas DSL is independent infrastructure entirely."
+    ],
+    "sources": [
+      {
+        "title": "EDGE (Enhanced Data rates for GSM Evolution) - Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Enhanced_Data_rates_for_GSM_Evolution",
+        "whyUsed": "Verified that EDGE is standardized by 3GPP as part of the GSM family and as an upgrade to GPRS, deployed on existing GSM networks."
+      },
+      {
+        "title": "LTE (Long-Term Evolution) - Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/LTE_(telecommunication)",
+        "whyUsed": "Confirmed that LTE is based on GSM/EDGE and 3G UMTS/HSPA standards, developed by 3GPP, and represents the 4G evolution for GSM carriers."
+      },
+      {
+        "title": "UMTS - Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/UMTS",
+        "whyUsed": "Verified that UMTS combines GSM's MAP core and GSM family speech codecs, and is maintained by 3GPP as a component of the GSM evolutionary path."
+      },
+      {
+        "title": "Digital Subscriber Line - Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Digital_subscriber_line",
+        "whyUsed": "Confirmed that DSL is a family of wired technologies using copper telephone lines, standardized by ITU G.992, unrelated to cellular standards."
+      }
+    ],
+    "searchMeta": {
+      "usedWebSearch": true,
+      "searchQueries": [
+        "GSM family wireless technologies EDGE LTE UMTS",
+        "DSL Digital Subscriber Line technology standard"
+      ],
+      "confidence": "high"
+    }
+  },
+  "id": 35
+}

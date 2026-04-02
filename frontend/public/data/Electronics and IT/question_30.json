@@ -1,0 +1,62 @@
+{
+  "subject": "Science & Technology",
+  "year": 2016,
+  "theme": "Li-Fi technology and visible light communication fundamentals",
+  "question_short_text": "Are both statements about Li-Fi correct?",
+  "text": "With reference to 'Li-Fi', recently in the news, which of the following statements is/are correct?\n\n1. It uses light as the medium for high-speed data transmission.\n2. It is a wireless technology and is several times faster than 'WiFi'.\n\nSelect the correct answer using the code given below.",
+  "options": [
+    "1 only",
+    "2 only",
+    "Both 1 and 2",
+    "Neither 1 nor 2"
+  ],
+  "answerIndex": 2,
+  "answerText": "(c) Both 1 and 2",
+  "explanation": "Li-Fi (Light Fidelity) uses visible light from LED bulbs to transmit data wirelessly by modulating light intensity at extremely high speeds. It is a wireless technology that achieves significantly higher data transfer rates than traditional Wi-Fi, potentially exceeding 100 times faster in some implementations. Therefore, both statements are correct.",
+  "research": {
+    "summary": "Li-Fi (Light Fidelity) is a wireless communication technology based on Visible Light Communication (VLC) that was formally introduced by Professor Harald Haas at TED Global in 2011, though the underlying VLC research dates back decades. Statement 1 is unambiguously correct: Li-Fi transmits data through modulating the intensity of light emitted from LED bulbs at ultra-high speeds\u2014imperceptible to the human eye\u2014encoding binary data into rapid light pulses that are received and decoded by photodetectors. This is fundamentally different from Wi-Fi, which uses radio frequencies. Statement 2 requires careful precision: Li-Fi is indeed wireless (it does not require cables for data transmission), and laboratory demonstrations have consistently shown vastly superior speeds compared to conventional Wi-Fi. As of 2013-2014, speeds exceeding 10 Gbps were achieved in laboratory conditions, and theoretical demonstrations reached 80+ Gbps, making Li-Fi many times faster than standard Wi-Fi (which typically delivers hundreds of Mbps to low Gbps). However, the tricky language 'several times faster' in the context of a 2016 UPSC question likely refers to the practical potential rather than overstating real-world deployments at that time. The technology offers other advantages beyond speed: it is not affected by electromagnetic interference, provides better security (light cannot penetrate walls), and operates in the vast visible light spectrum which is 10,000 times wider than the congested radio spectrum. The main limitation is range\u2014typically 10 meters indoors compared to Wi-Fi's 32 meters\u2014and the need for line-of-sight or near line-of-sight conditions, though reflections can compensate. For UPSC purposes, the key distinction is recognizing Li-Fi as a fundamentally different wireless medium (light-based, not RF-based) with demonstrably higher data-carrying capacity than Wi-Fi's radio frequency approach.",
+    "facts": [
+      "Li-Fi was formally introduced by Professor Harald Haas of the University of Edinburgh at TED Global 2011 with the concept 'wireless data from every light bulb'",
+      "VLC (Visible Light Communication), the underlying technology, has roots dating back to the 1880s, but modern high-speed Li-Fi implementations emerged after 2009",
+      "Laboratory demonstrations in 2012-2013 achieved speeds exceeding 1 Gbit/s and 10 Gbit/s respectively, and by 2014 Chinese manufacturers had demonstrated speeds up to 80 Gbps",
+      "Li-Fi operates on the IEEE 802.15.7 standard (later evolved), making it standardized wireless technology comparable in protocol-level architecture to Wi-Fi's 802.11",
+      "Li-Fi can transmit through reflective surfaces and does not require direct line-of-sight in all cases, making it more practical than pure laser-based optical communication"
+    ],
+    "sources": [
+      {
+        "title": "Li-Fi - Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Li-Fi",
+        "whyUsed": "Comprehensive technical overview of Li-Fi technology, historical development, transmission speeds, and how it compares to Wi-Fi; verified speed records and standardization details"
+      },
+      {
+        "title": "What is LiFi? | LiFi Group",
+        "url": "https://lifi.co/what-is-lifi/",
+        "whyUsed": "Official LiFi organization source explaining core mechanics of visible light communication, actual speed comparisons (100x faster claims supported by data), and advantages over Wi-Fi"
+      },
+      {
+        "title": "IEEE Spectrum - Why Li-Fi Might Be Better Than Wi-Fi",
+        "url": "https://spectrum.ieee.org/li-fi-better-than-wi-fi",
+        "whyUsed": "Peer-reviewed technical source on Li-Fi speed capabilities, standardization (ITU-T G.vlc chipset 2016), and practical implementation milestones"
+      },
+      {
+        "title": "Built In - What Is LiFi?",
+        "url": "https://builtin.com/articles/lifi",
+        "whyUsed": "Explains Li-Fi as bidirectional wireless communication using visible and infrared light, confirms ~100x faster than Wi-Fi claim, and clarifies the medium distinction from RF"
+      },
+      {
+        "title": "Visible Light Communication | LiFi Group",
+        "url": "https://lifi.co/visible-light-communication/",
+        "whyUsed": "Detailed explanation of VLC technology fundamentals, modulation techniques, and how Li-Fi as a commercial term relates to the broader VLC science"
+      }
+    ],
+    "searchMeta": {
+      "usedWebSearch": true,
+      "searchQueries": [
+        "Li-Fi light fidelity technology data transmission speed WiFi",
+        "Li-Fi visible light communication VLC wireless technology"
+      ],
+      "confidence": "high"
+    }
+  },
+  "id": 30
+}

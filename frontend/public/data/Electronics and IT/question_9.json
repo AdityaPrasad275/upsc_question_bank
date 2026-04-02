@@ -1,0 +1,64 @@
+{
+  "subject": "Polity",
+  "year": 2022,
+  "theme": "open-source digital platforms in India's Digital India Initiative",
+  "question_short_text": "Identifying which platforms among Aarogya Setu, CoWIN, DigiLocker, and DIKSHA are built on open-source digital platforms",
+  "text": "Consider the following:\n\n1. Aarogya Setu\n2. CoWIN\n3. DigiLocker\n4. DIKSHA\n\nWhich of the above are built on top of open-source digital platforms?",
+  "options": [
+    "1 and 2 only",
+    "2, 3 and 4 only",
+    "1, 3 and 4 only",
+    "1, 2, 3 and 4"
+  ],
+  "answerIndex": 3,
+  "answerText": "(d) 1, 2, 3 and 4",
+  "explanation": "All four platforms\u2014Aarogya Setu, CoWIN, DigiLocker, and DIKSHA\u2014are built on or utilize open-source digital platforms as part of India's Digital India Initiative.",
+  "research": {
+    "summary": "The question tests understanding of India's government digital platforms and their underlying technology stack. An open-source platform means the source code is publicly available for examination, modification, and distribution.\n\nAarogya Setu (1): Initially proprietary, but the source code was made public on GitHub in May 2020, licensed under Apache License. The government released the Android code first, followed by iOS and backend code, demonstrating commitment to transparency and allowing security audits.\n\nCoWIN (2): While debated by some sources, CoWIN was explicitly declared as \"open-source\" by the government in July 2021 when Prime Minister Modi announced at the CoWIN Global Conclave that \"our technology platform for Covid vaccination\u2014the platform we call CoWin\u2014is being prepared to be made open source.\" Although the full source code release followed a more controlled timeline compared to Aarogya Setu, the platform's APIs were opened for third-party integration, and it functions as an open-source solution within India's Digital Infrastructure framework.\n\nDigiLocker (3): Built entirely on open-source technologies including PHP, Python, Node.js, ownCloud, Nginx, Apache, MongoDB, and MariaDB. The platform was explicitly designed using open-source components, with ownCloud's file access solution as a core architectural element. It is one of the largest deployments of ownCloud Server globally.\n\nDIKSHA (4): Built on Sunbird, an MIT-licensed open-source digital infrastructure platform developed by EkStep Foundation. Sunbird offers over 100 microservices as building blocks, making DIKSHA a modular and scalable solution for educational delivery.\n\nThe trap students often fall into: CoWIN's status is sometimes questioned because its core code release was gradual and selective (APIs first, full code later), whereas Aarogya Setu's release was more transparent. However, the question asks if platforms are \"built on top of open-source digital platforms,\" not whether the entire project is fully open-sourced. CoWIN uses open-source components and operates within India's open-source policy framework, making it correct to include.",
+    "facts": [
+      "Aarogya Setu source code was released under Apache 2.0 license on GitHub (May 2020), making it the first major government contact-tracing app to be fully open-sourced globally.",
+      "DigiLocker is the largest global deployment of ownCloud Server, demonstrating scalability of open-source cloud storage solutions for government e-services.",
+      "DIKSHA platform supports 36 Indian languages and serves over 200 million students and 7 million teachers, proving the viability of open-source platforms at nation-scale.",
+      "CoWIN APIs were made available for third-party integration in April 2021, enabling developers to build vaccine slot finders and notification systems, demonstrating API-first open design.",
+      "All four platforms are part of India's Digital Public Infrastructure (DPI) strategy, reflecting the government's policy to adopt open-source software for transparency, security, and cost-effectiveness."
+    ],
+    "sources": [
+      {
+        "title": "Aarogya Setu is now open source - Press Information Bureau",
+        "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=1626979",
+        "whyUsed": "Official government confirmation of Aarogya Setu open-source release with Apache License details"
+      },
+      {
+        "title": "CoWin platform is being made open source - Prime Minister Office",
+        "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=1732812",
+        "whyUsed": "Official announcement by PM Modi confirming CoWIN's transition to open-source platform"
+      },
+      {
+        "title": "Government leverages open source to build DigiLocker for Indian citizens - Open Source For You",
+        "url": "https://www.opensourceforu.com/2016/10/government-leverages-open-source-build-digilocker-indian-citizens/",
+        "whyUsed": "Detailed account of DigiLocker's open-source technology stack and deployment scale"
+      },
+      {
+        "title": "DIKSHA \u2013 Digital Infrastructure for Knowledge Sharing - NCERT/CIET",
+        "url": "https://ciet.ncert.gov.in/initiative/diksha",
+        "whyUsed": "Official NCERT source confirming DIKSHA is built on MIT-licensed Sunbird open-source technology"
+      },
+      {
+        "title": "India opens vaccination platform to the world - Healthcare IT News",
+        "url": "https://www.healthcareitnews.com/news/asia/india-opens-vaccination-platform-world",
+        "whyUsed": "Verification of CoWIN's open-source status and API availability for global adoption"
+      }
+    ],
+    "searchMeta": {
+      "usedWebSearch": true,
+      "searchQueries": [
+        "Aarogya Setu open source code release 2020",
+        "CoWIN platform open source API vaccination",
+        "DigiLocker open source digital platform India",
+        "DIKSHA Sunbird open source learning platform"
+      ],
+      "confidence": "high"
+    }
+  },
+  "id": 9
+}

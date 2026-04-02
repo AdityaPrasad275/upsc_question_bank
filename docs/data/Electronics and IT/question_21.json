@@ -1,0 +1,63 @@
+{
+  "subject": "Science",
+  "year": 2019,
+  "theme": "capabilities and applications of wearable technology",
+  "question_short_text": "Wearable devices: location, sleep, hearing assistance",
+  "text": "In the context of wearable technology, which of the following tasks is/are accomplished by wearable devices?\n\n1. Location identification of a person\n2. Sleep monitoring of a person\n3. Assisting the hearing impaired person",
+  "options": [
+    "1 only",
+    "2 and 3 only",
+    "3 only",
+    "1, 2 and 3"
+  ],
+  "answerIndex": 3,
+  "answerText": "(d) 1, 2 and 3",
+  "explanation": "All three statements are true. Wearable devices can accomplish location identification using embedded GPS, sleep monitoring through motion and biosensor tracking, and assist hearing-impaired persons through various acoustic and amplification technologies.",
+  "research": {
+    "summary": "Wearable technology spans a broad spectrum of portable devices worn on the body or integrated into clothing, and the question tests recognition of three major application categories. Location identification is achieved through embedded GPS (Global Positioning System) technology in smartwatches and fitness trackers, which uses satellite signals to determine precise coordinates. Sleep monitoring leverages multiple sensors\u2014accelerometers, heart rate monitors via photoplethysmography, temperature sensors, and skin conductance measurements\u2014to detect sleep stages and duration; devices like Fitbit, Oura Ring, and Apple Watch use these biosignals and motion data to estimate total sleep time and sleep quality. For hearing assistance, wearables including behind-the-ear hearing aids, neck loops, and bone conduction devices function as assistive listening devices (ALDs) that can amplify sound and deliver it directly to the ear or through vibrations, helping hearing-impaired individuals communicate more effectively. The key misconception students sometimes have is that wearables are limited to fitness tracking; in reality, modern wearables have expanded into medical, safety, and accessibility domains. The early 2000s saw GPS miniaturization enable location tracking in consumer devices, while the past decade has witnessed exponential growth in health-monitoring wearables that now rival clinical actigraphy devices in detecting sleep patterns. Hearing-assistive wearables have similarly evolved from bulky body-worn hearing aids to discreet, wireless-enabled devices. By 2019, when this question was posed, all three applications were well-established and commercially available in consumer markets globally.",
+    "facts": [
+      "GPS wearables calculate position by triangulating signals from at least four satellites; smartwatches using A-GPS combine cellular data to reduce time-to-fix and battery consumption",
+      "Sleep trackers can detect binary sleep-wake states with \u226595% sensitivity, though discrimination between sleep stages varies widely across device types (50-86% sensitivity)",
+      "Hearing aids are self-contained amplifying systems containing a microphone, amplifier, and receiver; modern hearing assistive technologies include FM systems, induction loops, and infrared systems that work alongside or independent of traditional hearing aids",
+      "Wearable accelerometer-based motion sensors can infer sleep duration and estimate sleep efficiency through algorithms analyzing stillness patterns and heart rate variability",
+      "Modern wearable GPS devices integrate multiple satellite constellations (GPS, GLONASS, Galileo) to improve accuracy in urban and obstructed environments where single-constellation signals degrade"
+    ],
+    "sources": [
+      {
+        "title": "Wearable Tech For Location Tracking",
+        "url": "https://www.meegle.com/en_us/topics/wearable-technology/wearable-tech-for-location-tracking",
+        "whyUsed": "Verified capabilities of GPS wearables for location identification and real-time tracking applications"
+      },
+      {
+        "title": "Accuracy of 11 Wearable, Nearable, and Airable Consumer Sleep Trackers: Prospective Multicenter Validation Study",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10654909/",
+        "whyUsed": "Established peer-reviewed validation of sleep monitoring accuracy across major wearable devices (Fitbit, Apple Watch, Oura Ring, Google Pixel Watch)"
+      },
+      {
+        "title": "Assistive Devices for People with Hearing, Voice, Speech, or Language Disorders",
+        "url": "https://www.nidcd.nih.gov/health/assistive-devices-people-hearing-voice-speech-or-language-disorders",
+        "whyUsed": "Official NIDCD guidance on wearable and non-wearable assistive listening devices (ALDs, hearing loops, FM systems) for hearing-impaired persons"
+      },
+      {
+        "title": "Wearable Sleep Technology in Clinical and Research Settings",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC6579636/",
+        "whyUsed": "Comprehensive review of wearable sleep-tracker architecture, sensors (accelerometer, heart rate, skin conductance), and validation methodology"
+      },
+      {
+        "title": "Hearing Assistive Technology",
+        "url": "https://www.hearingloss.org/find-help/hearing-assistive-technology/",
+        "whyUsed": "Consumer-facing overview of hearing assistive technologies including wearable devices and systems used by hearing-impaired individuals"
+      }
+    ],
+    "searchMeta": {
+      "usedWebSearch": true,
+      "searchQueries": [
+        "wearable technology GPS location tracking 2019",
+        "wearable devices sleep monitoring fitness trackers",
+        "wearable hearing aids assistive technology hearing impaired"
+      ],
+      "confidence": "high"
+    }
+  },
+  "id": 21
+}

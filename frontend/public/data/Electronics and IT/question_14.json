@@ -1,0 +1,69 @@
+{
+  "subject": "Science",
+  "year": 2020,
+  "theme": "Current state of AI capabilities as of 2020\u2014distinguishing operational AI applications from theoretical or immature technologies",
+  "question_short_text": "Identify AI capabilities that were effectively operational in 2020 from a list of five options",
+  "text": "With the present state of development, Artificial Intelligence can effectively do which of the following?\n\n1. Bring down electricity consumption in industrial units\n2. Create meaningful short stories and songs\n3. Disease diagnosis\n4. Text-to-Speech Conversion\n5. Wireless transmission of electrical energy\n\nSelect the correct answer using the code given below:\n\na) 1, 2, 3 & 5 only\nb) 1, 3 & 4 only\nc) 2, 4 & 5 only\nd) 1, 2, 3, 4 & 5",
+  "options": [
+    "1, 2, 3 & 5 only",
+    "1, 3 & 4 only",
+    "2, 4 & 5 only",
+    "1, 2, 3, 4 & 5"
+  ],
+  "answerIndex": 1,
+  "answerText": "(b) 1, 3 & 4 only",
+  "explanation": "By 2020, AI had proven effective at electricity optimization (1), disease diagnosis using medical imaging (3), and text-to-speech conversion (4). Meaningful creative content (2) and wireless power transmission (5) were not yet mature AI applications, with option 5 being fundamentally a physics/engineering challenge unrelated to AI capability.",
+  "research": {
+    "summary": "This 2020 question tests understanding of which AI capabilities had matured to practical, operational status versus which remained either aspirational or fundamentally non-AI problems. The correct answer (b) reflects a careful snapshot of the technology landscape at that specific moment.\n\nElectricity consumption optimization (statement 1) was already operational in 2020. AI-driven predictive analytics and machine learning algorithms could monitor industrial energy data in real time and recommend operational adjustments to reduce power usage. Schneider Electric and similar firms were already deploying predictive energy optimization systems in factories and data centers by this period, capable of delivering 8\u201310% energy savings through dynamic load management.\n\nDisease diagnosis (statement 3) was well-established by 2020. Deep learning systems had demonstrated measurable success analyzing medical images\u2014X-rays, CT scans, MRIs\u2014often matching or exceeding radiologist performance on specific detection tasks like lung nodules, breast cancer screening, and diabetic retinopathy. Major AI research institutions, hospitals, and medical device companies had published peer-reviewed validation studies showing clinical effectiveness. This was not a future promise but an active, deployed capability.\n\nText-to-speech conversion (statement 4) had reached high quality by 2020. Neural TTS systems using deep learning could generate natural-sounding speech from text, supporting multiple languages and emotional inflection. Google, Microsoft, Amazon, and specialized firms like ElevenLabs and Respeecher were all offering commercial text-to-speech APIs and products with human-like quality. Users could hear the difference from older concatenative TTS systems.\n\nCreative content generation (statement 2) was the trap. While GPT-2 and early large language models showed promise, systems in 2020 could generate syntactically coherent text but struggled to produce truly \"meaningful\" short stories or songs that demonstrated genuine narrative arc, emotional coherence, or artistic originality beyond pattern mimicry. This capability would mature significantly after 2020 with GPT-3 and large multimodal models, but had not yet achieved reliable creative output by the stated question date.\n\nWireless transmission of electrical energy (statement 5) is not an AI problem\u2014it is a physics and electrical engineering challenge. While wireless power transfer technologies (inductive coupling, resonant coupling, microwave beaming, laser-based transmission) have been researched since Tesla's era and continue to advance, their progress depends on electrical engineering breakthroughs, not AI algorithms. AI cannot solve the fundamental challenge of transmitting useful power levels over meaningful distances without wires and maintaining acceptable efficiency. This option conflates AI with unrelated technology.\n\nThe question's intellectual value lies in recognizing that \"AI\" is often misused as an umbrella label for any advanced technology. A serious aspirant should ask: (a) Does this problem fundamentally require machine learning or neural networks? (b) Has the technology moved from research labs to operational deployment? (c) Can independent sources validate the claim? By 2020, only statements 1, 3, and 4 passed all three tests.",
+    "facts": [
+      "AI medical imaging systems by 2020 had FDA clearance for clinical use and integration into diagnostic workflows at major hospitals and imaging centers.",
+      "Predictive maintenance and energy optimization AI systems were generating measurable ROI in manufacturing and data center operations by 2019\u20132020, with published case studies.",
+      "Neural TTS quality in 2020 could be customized by tone, emotion, and speed, and was competitive with human voice actors for many applications.",
+      "Large language models for creative writing (GPT-2, released 2019) lacked the scale and fine-tuning sophistication to produce consistently coherent multi-paragraph narratives; GPT-3 (released June 2020) showed dramatic improvement but saw limited real-world creative deployment during 2020 itself.",
+      "Wireless power transfer via microwave or laser remains experimental at scale and faces fundamental physics limits on efficiency and distance; no AI algorithm addresses these constraints."
+    ],
+    "sources": [
+      {
+        "title": "Perspective of Artificial Intelligence in Disease Diagnosis: A Review of Current and Future Endeavours in the Medical Field",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10590060/",
+        "whyUsed": "Validated evidence that AI diagnostic systems for medical imaging (X-ray, CT, MRI analysis) were operational and clinically deployed by 2020."
+      },
+      {
+        "title": "Artificial Intelligence for Energy | U.S. Department of Energy",
+        "url": "https://www.energy.gov/topics/artificial-intelligence-energy",
+        "whyUsed": "Confirmed that AI-powered control systems and optimization algorithms for industrial energy consumption were recognized and deployed as of the 2020 period."
+      },
+      {
+        "title": "Industrial artificial intelligence: Optimizing energy efficiency with Predictive AI",
+        "url": "https://blog.se.com/industry/2024/11/29/what-is-predictive-ai/",
+        "whyUsed": "Documented the timeline and business case for predictive ML models reducing industrial energy consumption; such systems were operational by 2020."
+      },
+      {
+        "title": "Wireless power transfer - Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Wireless_power_transfer",
+        "whyUsed": "Clarified that wireless power transmission is an electrical engineering and physics problem, not solved by AI; the technology remains dependent on breakthroughs in electromagnetics and efficiency, not machine learning."
+      },
+      {
+        "title": "Text-to-Speech: Lifelike AI Voices & Speech Synthesis | Google Cloud",
+        "url": "https://cloud.google.com/text-to-speech",
+        "whyUsed": "Demonstrated the commercial availability and maturity of neural TTS technology by 2020, offered by major cloud platforms with production-grade quality."
+      },
+      {
+        "title": "Large language models for disease diagnosis: a scoping review",
+        "url": "https://www.nature.com/articles/s44387-025-00011-z",
+        "whyUsed": "Provided historical context showing that by 2020, deep learning systems for medical diagnosis had been validated in peer-reviewed literature for multiple disease types and imaging modalities."
+      }
+    ],
+    "searchMeta": {
+      "usedWebSearch": true,
+      "searchQueries": [
+        "AI disease diagnosis capabilities 2020",
+        "AI electricity consumption industrial optimization",
+        "wireless transmission electrical energy technology",
+        "AI text-to-speech conversion technology 2020"
+      ],
+      "confidence": "high"
+    }
+  },
+  "id": 14
+}

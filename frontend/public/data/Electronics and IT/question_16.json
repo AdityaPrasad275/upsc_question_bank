@@ -1,0 +1,63 @@
+{
+  "subject": "Science & Technology",
+  "year": 2020,
+  "theme": "blockchain technology: fundamental architecture and design principles",
+  "question_short_text": "Statement evaluation on blockchain as public ledger, data types, and permissionless application development",
+  "text": "With reference to \"Blockchain Technology\", consider the following statements:\n\n1. It is a public ledger that everyone can inspect, but which no single user controls.\n2. The structure and design of blockchain is such that all the data in it are about cryptocurrency only.\n3. Applications that depend on basic features of blockchain can be developed without anybody's permission.\n\nWhich of the statements given above is/are correct?",
+  "options": [
+    "1 only",
+    "1 and 2 only",
+    "2 only",
+    "1 and 3 only"
+  ],
+  "answerIndex": 3,
+  "answerText": "(d) 1 and 3 only",
+  "explanation": "Statement 1 is correct: blockchain operates as a decentralized public ledger where all participants can view transactions, but no single user or entity has central control. Statement 2 is false: blockchain data extends far beyond cryptocurrency to include supply chains, healthcare records, contracts, voting systems, and numerous other applications. Statement 3 is correct: decentralized applications (DApps) can be developed on permissionless blockchains without requiring approval from any central authority.",
+  "research": {
+    "summary": "This question tests a crucial distinction between blockchain's original narrow use case (cryptocurrency) and its actual technological scope. The core trap is Statement 2: aspirants often conflate blockchain with Bitcoin and cryptocurrency, but the technology's architecture is agnostic to data type. The fundamental design principles that make blockchain valuable\u2014decentralization, immutability, transparency, and consensus-based validation\u2014apply to any digital record, not just financial transactions.\n\nStatement 1 is precisely correct. Blockchain's defining feature is that it functions as a shared, distributed ledger maintained across a peer-to-peer network. Each node (participant) holds an identical copy of the ledger. While the ledger is \"public\" in the sense that participants can view transaction records, the structure prevents any single entity from controlling or unilaterally altering it. Modifications require consensus from the network majority, making the ledger resilient to tampering or censorship.\n\nStatement 2 fails because it artificially restricts blockchain's scope to cryptocurrency alone. In reality, blockchain has been successfully deployed for: supply chain provenance tracking (Walmart uses it to trace produce origins), healthcare record management (patient data stored immutably), legal contracts (enforced by smart contracts on Ethereum), voting systems (Estonia has experimented with blockchain-based elections), identity management, and intellectual property registration. The technology is completely indifferent to the type of data recorded; it only requires that transactions be timestamped and cryptographically hashed. Cryptocurrency was the first major use case, but it is not the only one, and blockchain's design does not constrain it to financial data.\n\nStatement 3 is correct and reflects a powerful feature: permissionless innovation. Public blockchains like Ethereum allow developers to write and deploy smart contracts (self-executing code) that power decentralized applications (DApps) without requesting permission from any intermediary, regulator, or central platform owner. This contrasts sharply with traditional app stores or financial platforms, which require approval. Developers deploy directly to the blockchain network, and the network's consensus mechanism validates the transaction. This permissionless nature is one of blockchain's most distinctive innovations and explains why thousands of DApps now operate across multiple blockchains for DeFi, gaming, NFTs, and other purposes.",
+    "facts": [
+      "Ethereum, launched in 2015, introduced programmable smart contracts and became the primary platform for DApp development, enabling thousands of applications beyond cryptocurrency.",
+      "Public blockchains (like Bitcoin and Ethereum) are permissionless and permissionless-validating: anyone can submit transactions and any node can participate in consensus without prior authorization.",
+      "Walmart, Maersk, and other enterprises use blockchain-based systems for supply chain traceability, where immutability ensures products cannot be retroactively misrepresented as to origin or handling.",
+      "A distributed ledger requires consensus algorithms (proof-of-work, proof-of-stake) to ensure agreement across nodes; no single node can overwrite past records without the majority of the network rejecting the change.",
+      "Smart contracts are self-executing programs stored on the blockchain that automatically enforce coded agreements when conditions are met, removing the need for intermediaries in transactions."
+    ],
+    "sources": [
+      {
+        "title": "Blockchain - Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Blockchain",
+        "whyUsed": "Verified core definition of blockchain as decentralized public ledger and confirmed diversity of applications beyond cryptocurrency."
+      },
+      {
+        "title": "Distributed ledger - Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Distributed_ledger",
+        "whyUsed": "Established that distributed ledger requires peer-to-peer consensus mechanisms and lacks central authority, and documented real-world examples (Veris, Singapore DLT pilots) across financial and non-financial use cases."
+      },
+      {
+        "title": "What are Decentralized Applications (dApps)? - Fireblocks",
+        "url": "https://www.fireblocks.com/glossary/decentralized-applications",
+        "whyUsed": "Confirmed that dApps operate on blockchain without centralized control or permission, with smart contracts enabling permissionless development and deployment."
+      },
+      {
+        "title": "Decentralized application - Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Decentralized_application",
+        "whyUsed": "Verified that DApps run on decentralized networks using smart contracts and are open to development without central gatekeeper approval, spanning finance, gaming, identity, and governance."
+      },
+      {
+        "title": "Blockchain Applications and Real-World Use Cases 2025 - Built In",
+        "url": "https://builtin.com/blockchain/blockchain-applications",
+        "whyUsed": "Documented practical blockchain applications in healthcare, supply chain, voting, identity, and media, proving blockchain utility far exceeds cryptocurrency."
+      }
+    ],
+    "searchMeta": {
+      "usedWebSearch": true,
+      "searchQueries": [
+        "blockchain technology public ledger decentralized design 2020",
+        "blockchain applications beyond cryptocurrency smart contracts supply chain",
+        "blockchain decentralized applications DApps permissionless development"
+      ],
+      "confidence": "high"
+    }
+  },
+  "id": 16
+}

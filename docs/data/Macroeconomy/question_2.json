@@ -1,0 +1,51 @@
+{
+  "subject": "Economy",
+  "year": 2024,
+  "theme": "Classification of capital assets in production: fixed vs. working capital",
+  "question_short_text": "Identifying fixed and working capital from a list of four items",
+  "text": "With reference to physical capital in Indian economy, consider the following pairs:\n\nItems \u2013 Category\n1. Farmer's plough \u2013 Working capital\n2. Computer \u2013 Fixed capital\n3. Yarn used by the weaver \u2013 Fixed capital\n4. Petrol \u2013 Working capital\n\nHow many of the above pairs are matched correctly?",
+  "options": [
+    "a) Only one",
+    "b) Only two",
+    "c) Only three",
+    "d) All four"
+  ],
+  "answerIndex": 1,
+  "answerText": "(b) Only two",
+  "explanation": "The correct pairs are Computer (fixed capital) and Petrol (working capital). A farmer's plough and yarn used by a weaver are both fixed capital because they are durable assets used repeatedly in production over time, not consumed in a single cycle.",
+  "research": {
+    "summary": "This question tests the core distinction between fixed and working capital based on durability and consumption patterns in production, not on complexity or cost. The trap is that students often conflate 'use in production' with 'fixed capital,' when the real criterion is whether the asset is consumed or depleted during the production cycle.\n\nFixed capital comprises durable, long-term assets with useful lives exceeding one year that support production repeatedly without being depleted. Both a farmer's plough and yarn used by a weaver are fixed capital: a plough is a durable tool used season after season, and yarn\u2014though perhaps unexpectedly\u2014is a raw material that the weaver treats as a productive asset held for ongoing use, not a consumable for a single garment. The key insight is that items become working capital only when they are consumed or depleted in the production process within a short time frame.\n\nWorking capital, by contrast, comprises items used up or depleted during production cycles: petrol is fuel consumed to power machines or vehicles during operations, and it must be continuously replenished. This short-term, consumable nature makes it working capital.\n\nComputer is correctly classified as fixed capital because it is a durable asset with a multi-year useful life that supports production operations repeatedly without depletion. Thus, exactly two pairs are correctly matched: Computer (fixed capital) and Petrol (working capital). The common mistake is misclassifying yarn and plough as working capital based on a surface-level assumption that raw materials are always 'working' assets, when in fact their classification depends on whether they are depleted in use.",
+    "facts": [
+      "Fixed capital is distinguished by a useful life exceeding one accounting period; it is used repeatedly without depletion over years or decades.",
+      "Working capital comprises short-term assets and consumables that are depleted, converted to cash, or used up within a single production or operational cycle.",
+      "The distinction between fixed and working capital is about durability and consumption pattern, not about the size, cost, or perceived importance of the asset.",
+      "Raw materials can be classified as either fixed or working capital depending on context: inventory for resale is working capital, but specialized production tools classified as raw materials may be fixed capital if durable.",
+      "Depreciation over time is a characteristic of fixed capital assets; working capital items either circulate rapidly (inventory, cash) or are consumed immediately (fuel, supplies)."
+    ],
+    "sources": [
+      {
+        "title": "Difference Between Fixed Capital and Working Capital",
+        "url": "https://www.recurclub.com/blog/difference-between-fixed-capital-and-working-capital-definition",
+        "whyUsed": "Provides clear definition that fixed capital is long-lasting and required for production, while working capital is short-term and covers operational expenses."
+      },
+      {
+        "title": "Fixed and Working Capital: All You Need to Know",
+        "url": "https://unacademy.com/content/cbse-class-11/study-material/business-studies/fixed-and-working-capital-all-you-need-to-know/",
+        "whyUsed": "Clarifies that fixed assets have useful life more than one year and supports the distinction based on durability and consumption cycles rather than type of asset."
+      },
+      {
+        "title": "Difference Between Fixed Capital And Working Capital",
+        "url": "https://www.nationalfunding.com/blog/fixed-working-capital/",
+        "whyUsed": "Distinguishes fixed capital as non-current assets used on ongoing basis versus working capital as current assets used for daily operations and short-term liquidity."
+      }
+    ],
+    "searchMeta": {
+      "usedWebSearch": true,
+      "searchQueries": [
+        "fixed capital working capital definition economics"
+      ],
+      "confidence": "high"
+    }
+  },
+  "id": 2
+}

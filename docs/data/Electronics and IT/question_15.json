@@ -1,0 +1,57 @@
+{
+  "subject": "Science",
+  "year": 2020,
+  "theme": "Optical wireless communication technology characteristics and classification",
+  "question_short_text": "Identify correct statements about VLC technology spectrum, range, data speed, and electromagnetic properties",
+  "text": "With reference to Visible Light Communication (VLC) technology, which of the following statements are correct?\n\n1. VLC uses electromagnetic spectrum wavelengths 375 to 780 nm.\n2. VLC is known as long-range optical wireless communication.\n3. VLC can transmit large amounts of data faster than Bluetooth.\n4. VLC has no electromagnetic interference.\n\nSelect the correct answer using the code given below:",
+  "options": [
+    "1, 2 & 3 only",
+    "1, 2 & 4 only",
+    "1, 3 & 4 only",
+    "2, 3 & 4 only"
+  ],
+  "answerIndex": 2,
+  "answerText": "(c) 1, 3 & 4 only",
+  "explanation": "VLC uses visible light wavelengths of 375\u2013780 nm (statement 1 is correct). However, VLC is fundamentally limited to short-range communication due to line-of-sight requirements and light's inability to penetrate opaque barriers (statement 2 is false). VLC achieves data rates of hundreds of Mbps to several Gbps, far exceeding Bluetooth's 2 Mbps (statement 3 is correct). Being based on light rather than radio frequency, VLC is immune to electromagnetic interference (statement 4 is correct). Statements 1, 3, and 4 are correct.",
+  "research": {
+    "summary": "The test here hinges on distinguishing VLC's technical specifications from its practical deployment constraints. Statement 1 is straightforward\u2014the visible light spectrum spans 375 to 780 nm, a physical fact that defines what VLC is. The trap lies in statement 2: VLC is often called 'optical wireless communication,' which can mislead students into conflating it with 'long-range' wireless. In reality, VLC is a medium-to-short-range technology. Light cannot penetrate opaque walls or obstacles, and the technology requires direct line-of-sight between transmitter and receiver. This is not a limitation to be overcome but rather a fundamental physical property of light. Real-world deployments confirm this: VLC excels in indoor positioning systems within confined spaces, not in bridging large distances. Statement 3 tests knowledge of data transmission capacity. Bluetooth operates at maximum 2 Mbps (or slightly higher in Bluetooth 5.2), while VLC laboratory setups have demonstrated speeds exceeding 10 Gbps, with practical implementations achieving hundreds of Mbps to several Gbps. This makes VLC dramatically faster. Statement 4 addresses a key advantage of VLC over radio-frequency communication. RF signals are susceptible to electromagnetic interference from congested spectrum, multiple competing technologies, and electronic devices. VLC, using light as the medium, is entirely free from RF electromagnetic interference. This is one reason VLC is attractive in hospitals, aircraft, and RF-sensitive environments. The question tests whether students understand that 'optical' and 'wireless' do not necessarily imply 'long-range' capability\u2014a critical conceptual distinction in this technology cluster.",
+    "facts": [
+      "VLC wavelengths of 375\u2013780 nm place it in the visible light region, distinct from infrared (IR) and ultraviolet (UV) optical communications.",
+      "Data rates in VLC depend heavily on line-of-sight distance; the achieved rate falls sharply as distance increases, making VLC a non-coherent, distance-limited technology.",
+      "VLC is standardized under IEEE 802.15.7 (Short-Range Wireless Optical Communication), emphasizing its short-range design purpose.",
+      "The dual advantage of VLC is intrinsic security (signals confined to a room) and zero RF electromagnetic interference, making it suitable for RF-restricted environments like hospitals and aircraft.",
+      "VLC's immunity to electromagnetic interference comes from operating in the optical spectrum rather than the radio spectrum, which is heavily congested (10,000 times more bandwidth than RF spectrum)."
+    ],
+    "sources": [
+      {
+        "title": "Visible light communication - Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Visible_light_communication",
+        "whyUsed": "Verified wavelength specification (375\u2013780 nm), definition of VLC as optical wireless, and confirmed short-range line-of-sight requirement."
+      },
+      {
+        "title": "Indoor Visible Light Communication: A Tutorial and Survey",
+        "url": "https://onlinelibrary.wiley.com/doi/10.1155/2020/8881305",
+        "whyUsed": "Confirmed VLC as medium-range technology limited by luminaire distance, verified immunity to RF electromagnetic interference, and IEEE 802.15.7 standardization details."
+      },
+      {
+        "title": "Fundamentals of Visible Light Communication Technology",
+        "url": "https://www.oledcomm.net/blog/fundamentals-of-visible-light-communication/",
+        "whyUsed": "Verified data transmission rates (hundreds of Mbps to Gbps), confirmed line-of-sight requirement, and explained short-range limitation due to light's inability to penetrate opaque objects."
+      },
+      {
+        "title": "Visible Light Communication System Technology Review: Devices, Architectures, and Applications",
+        "url": "https://www.mdpi.com/2073-4352/11/9/1098",
+        "whyUsed": "Confirmed ultra-high data rates and lack of electromagnetic interference as key VLC advantages over RF communication."
+      }
+    ],
+    "searchMeta": {
+      "usedWebSearch": true,
+      "searchQueries": [
+        "Visible Light Communication VLC technology specifications",
+        "VLC optical wireless communication range limitations"
+      ],
+      "confidence": "high"
+    }
+  },
+  "id": 15
+}

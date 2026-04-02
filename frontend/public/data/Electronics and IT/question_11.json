@@ -1,0 +1,56 @@
+{
+  "subject": "Science",
+  "year": 2022,
+  "theme": "Cloud computing service models and SaaS characteristics",
+  "question_short_text": "All three statements about SaaS features and examples are correct",
+  "text": "With reference to \"Software as a Service (SaaS)\", consider the following statements:\n\n1. SaaS buyers can customise the user interface and can change data fields.\n2. SaaS users can access their data through their mobile devices.\n3. Outlook, Hotmail and Yahoo! Mail are forms of SaaS.\n\nWhich of the statements given above are correct?",
+  "options": [
+    "1 and 2 only",
+    "2 and 3 only",
+    "1 and 3 only",
+    "1, 2 and 3"
+  ],
+  "answerIndex": 3,
+  "answerText": "(d) 1, 2 and 3",
+  "explanation": "All three statements are correct. SaaS applications are cloud-hosted software accessed via the internet, offering customization of UI and data fields, cross-device mobile access, and email services like Outlook, Hotmail, and Yahoo! Mail are classic SaaS examples.",
+  "research": {
+    "summary": "SaaS (Software as a Service) is a cloud-based software delivery model where applications are hosted by third-party providers and accessed via the internet, typically through a web browser. Understanding this model requires examining each statement carefully. Statement 1 is correct: modern SaaS applications typically offer customization capabilities. While the vendor maintains the core infrastructure and source code, most SaaS providers allow users to customize the user interface to their preferences, create custom dashboards, and modify data fields within the application framework to suit specific business or personal needs\u2014this is a key differentiator from purely rigid software. Statement 2 is correct: a defining characteristic of SaaS is that data is cloud-hosted and accessible from any internet-connected device. Since all data and processing occur on the provider's servers, users can seamlessly access their information and applications from desktops, laptops, tablets, and mobile phones, enabling the flexible and distributed workforce model that modern businesses rely on. This multi-device accessibility is a core advantage of the SaaS model. Statement 3 is correct: web-based email services are quintessential examples of SaaS. Outlook, Hotmail, and Yahoo! Mail represent the archetypal SaaS application\u2014users log in through a web browser, access the email application and their stored messages directly from the provider's servers without installing any local software, and pay on a subscription or free-with-ads basis. The trap in this question is that students sometimes conflate 'software customization' with 'development capabilities,' leading them to dismiss statement 1. However, UPSC intends customization in the user-facing sense (UI preferences, data field configuration), not deep source-code modification, which is beyond the SaaS user's scope. The recognition pattern here is simple: if it is delivered over the internet without local installation, hosted remotely, and allows data access from multiple devices, it is SaaS. Email services, Salesforce CRM, Google Workspace, and Microsoft 365 are all canonical examples.",
+    "facts": [
+      "SaaS uses a multitenant architecture where a single application instance serves multiple customers, optimizing infrastructure costs and updates across all users simultaneously.",
+      "The key distinction between SaaS, PaaS (Platform as a Service), and IaaS (Infrastructure as a Service) is the level of responsibility: SaaS users manage only data and usage, while vendors manage applications, infrastructure, and updates.",
+      "SaaS applications increasingly support mobile-first development with native or responsive interfaces optimized for phones and tablets, not just web browsers.",
+      "Customization in SaaS is limited to configuration and UI preferences within the vendor's framework; the underlying source code and core architecture remain controlled by the vendor, differentiating it from on-premise software.",
+      "By 2023, SaaS had become the dominant form of software application deployment, accounting for the majority of cloud computing adoption globally."
+    ],
+    "sources": [
+      {
+        "title": "Microsoft Azure - What is Software as a Service (SaaS)?",
+        "url": "https://azure.microsoft.com/en-us/resources/cloud-computing-dictionary/what-is-saas",
+        "whyUsed": "Verified SaaS core characteristics: multitenant architecture, cloud-hosted data access, mobile device support, and customization capabilities."
+      },
+      {
+        "title": "Creatio - What is SaaS (Software as a Service)?",
+        "url": "https://www.creatio.com/page/saas",
+        "whyUsed": "Confirmed statement 1 accuracy: SaaS allows user interface customization and data field modification within application framework."
+      },
+      {
+        "title": "TechTarget - What is SaaS?",
+        "url": "https://www.techtarget.com/searchcloudcomputing/definition/Software-as-a-Service",
+        "whyUsed": "Clarified the scope of SaaS customization (configuration-level, not source-code) and verified email services as canonical SaaS examples."
+      },
+      {
+        "title": "Wikipedia - Software as a Service",
+        "url": "https://en.wikipedia.org/wiki/Software_as_a_service",
+        "whyUsed": "Provided historical context on SaaS adoption, market dominance by 2023, and confirmed email services (Gmail, Yahoo Mail) as primary consumer SaaS products."
+      }
+    ],
+    "searchMeta": {
+      "usedWebSearch": true,
+      "searchQueries": [
+        "SaaS Software as a Service customization data fields mobile access"
+      ],
+      "confidence": "high"
+    }
+  },
+  "id": 11
+}

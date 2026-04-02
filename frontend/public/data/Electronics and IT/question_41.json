@@ -1,0 +1,51 @@
+{
+  "subject": "Science",
+  "year": 2000,
+  "theme": "Computing fundamentals: bits and bytes",
+  "question_short_text": "What does one byte consist of?",
+  "text": "The memory of a computer is commonly expressed in terms of Kilobytes or Megabytes. A byte is made up of:",
+  "options": [
+    "eight binary digits",
+    "eight decimal digits",
+    "two binary digits",
+    "two decimal digits"
+  ],
+  "answerIndex": 0,
+  "answerText": "(a) eight binary digits",
+  "explanation": "A byte is a group of 8 bits (binary digits). A bit is the smallest unit of data in computing, representing either 0 or 1. Eight bits combined form one byte, which is the fundamental unit for storing and processing data in computers.",
+  "research": {
+    "summary": "The question tests fundamental knowledge of computing units. A byte is standardized as exactly 8 bits (binary digits), where each bit can be either 0 or 1. This structure was historically significant\u2014a byte was designed to represent a single character of text in early computer architectures, which is why ASCII encoding uses 8-bit bytes. The trap in the question involves confusion between binary and decimal terminology: students might mistakenly think 'decimal digits' refers to the numerical values a byte can represent (0-255), but the question specifically asks about what a byte is \"made up of,\" meaning its physical composition. A byte made of eight binary digits can represent 256 distinct combinations (2^8), allowing it to encode everything from text characters to color values. This is why kilobytes and megabytes are multiples of bytes\u2014they maintain this base-8 structure for all memory calculations. The term 'bit' itself is a contraction of 'binary digit,' making options about decimal digits incorrect.",
+    "facts": [
+      "A bit is the smallest unit of information in computing, representing one of two states (0 or 1)",
+      "8 bits = 1 byte; 4 bits = 1 nibble (older terminology)",
+      "One byte (8 bits) can represent 256 unique values (0\u2013255), enough for ASCII characters, digits, and symbols",
+      "Historically, Werner Buchholz coined the term 'byte' in 1956 specifically to represent one character of text in binary encoding",
+      "Memory sizes (kilobytes, megabytes, gigabytes) are all built on the standard 8-bit byte structure"
+    ],
+    "sources": [
+      {
+        "title": "Bit - Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Bit",
+        "whyUsed": "Verified that a byte is historically and standardly defined as 8 bits, not strictly defined earlier but is 8 bits in modern usage"
+      },
+      {
+        "title": "What is bit (binary digit)? | TechTarget",
+        "url": "https://www.techtarget.com/whatis/definition/bit-binary-digit",
+        "whyUsed": "Confirmed that 8 bits form one byte and each bit represents 0 or 1, supporting the binary (not decimal) nature of byte composition"
+      },
+      {
+        "title": "Binary Digit - ScienceDirect",
+        "url": "https://www.sciencedirect.com/topics/engineering/binary-digit",
+        "whyUsed": "Technical verification that a byte is defined as 8 binary digits and provides context on character representation"
+      }
+    ],
+    "searchMeta": {
+      "usedWebSearch": true,
+      "searchQueries": [
+        "byte binary digit definition computing"
+      ],
+      "confidence": "high"
+    }
+  },
+  "id": 41
+}

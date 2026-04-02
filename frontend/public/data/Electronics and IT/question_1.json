@@ -1,0 +1,56 @@
+{
+  "subject": "Science",
+  "year": 2025,
+  "theme": "lithium-ion battery cathode composition and material distribution",
+  "question_short_text": "Which three of four elements usually make up EV battery cathodes?",
+  "text": "In the context of electric vehicle batteries, consider the following elements:\n\nI. Cobalt\nII. Graphite\nIII. Lithium\nIV. Nickel\n\nHow many of the above usually make up battery cathodes?",
+  "options": [
+    "Only one",
+    "Only two",
+    "Only three",
+    "All the four"
+  ],
+  "answerIndex": 2,
+  "answerText": "(c) Only three",
+  "explanation": "Cobalt, lithium, and nickel are the three elements that typically compose EV battery cathodes. Graphite is not used in cathodes; it is the standard anode material in lithium-ion batteries.",
+  "research": {
+    "summary": "The key insight here is understanding the functional separation between cathode and anode in lithium-ion batteries, and the specific roles of each element. In modern EV batteries, the cathode contains multiple elements organized as metal oxide compounds, while the anode remains fundamentally different in composition.\n\nLithium is the foundational active element in all cathode chemistries\u2014it forms compounds like lithium cobalt oxide (LiCoO\u2082), lithium nickel manganese cobalt oxide (LiNiMnCoO\u2082, commonly NMC), and lithium iron phosphate (LiFePO\u2084, or LFP). Lithium ions shuttle between cathode and anode during charging and discharging, making this element essential to battery function.\n\nCobalt enhances cathode stability and energy density. It appears in chemistries like lithium cobalt oxide and NMC/NCA formulations. However, due to cost and supply concerns from the Democratic Republic of Congo, the industry is gradually reducing cobalt content\u2014some next-generation cathodes use significantly less cobalt or omit it entirely.\n\nNickel is increasingly critical in modern EV cathodes because it increases energy density and extends driving range. Nickel-based chemistries (NMC and NCA, which stands for Nickel-Cobalt-Aluminum) accounted for 80% of battery capacity deployed in new EVs in 2021 and are now the dominant choice for long-range vehicles.\n\nGraphite is the critical material for the anode, not the cathode. It comprises the entire anode in lithium-ion batteries and is valued for its electrical conductivity, low cost, and stable structure. This is the main trap in the question\u2014students often confuse all four materials as interchangeable battery components when in fact graphite belongs to a completely different electrode.\n\nThe practical takeaway: most modern EV batteries rely on one of two cathode chemistries. NMC (Nickel-Manganese-Cobalt) was the dominant chemistry in 2020, but NCA (Nickel-Cobalt-Aluminum) is also common in high-performance EVs. Meanwhile, the emerging alternative is LFP, which uses iron and phosphate instead of cobalt and nickel, yet still requires lithium. In every single case, lithium is present, but the other transition metals vary. Graphite remains exclusively an anode material.",
+    "facts": [
+      "NMC (Nickel Manganese Cobalt) batteries accounted for 72% of EV batteries globally in 2020 and remain dominant due to their balance of energy density, power, and safety.",
+      "Nickel-based cathodes (NMC and NCA) represented 80% of battery capacity deployed in new plug-in EVs in 2021, reflecting the industry shift toward higher nickel content to reduce cobalt dependence.",
+      "Graphite comprises the entire anode in standard lithium-ion batteries and is the single-largest mineral component by weight, not a cathode material.",
+      "Cobalt content in future cathodes is projected to fall significantly (from ~200 g/kg to ~60 g/kg of cell weight) as manufacturers develop low-cobalt and cobalt-free chemistries to address cost and supply chain risks.",
+      "Lithium iron phosphate (LFP) is an emerging alternative cathode chemistry that uses iron and phosphate instead of cobalt and nickel, yet still requires lithium, showing that lithium is the only universal cathode element among the four options."
+    ],
+    "sources": [
+      {
+        "title": "Visualizing the Key Minerals in an EV Battery",
+        "url": "https://elements.visualcapitalist.com/the-key-minerals-in-an-ev-battery/",
+        "whyUsed": "Provided authoritative breakdown of cathode vs anode materials and confirmed that NMC cathodes contain nickel, manganese, and cobalt along with lithium, while graphite is the anode material."
+      },
+      {
+        "title": "What Are Battery Anode and Cathode Materials?",
+        "url": "https://www.aquametals.com/recyclopedia/lithium-ion-anode-and-cathode-materials/",
+        "whyUsed": "Confirmed common cathode materials (LiCoO\u2082, LiMn\u2082O\u2084, LiFePO\u2084, LiNiMnCoO\u2082) and verified that graphite is the most common anode material in lithium-ion batteries."
+      },
+      {
+        "title": "Lithium-ion Battery Cathode Types and Usage Areas",
+        "url": "https://recyclinginside.com/e-waste-recycling/lithium-ion-battery-cathode-types-and-usage-areas/",
+        "whyUsed": "Detailed specific cathode chemistries (Li-cobalt, NMC, NCA, LFP) and confirmed the functional separation between cathode and anode materials."
+      },
+      {
+        "title": "Lithium-Ion Battery Materials for Electric Vehicles and their Global Value Chains",
+        "url": "https://www.usitc.gov/publications/332/working_papers/gvc_overview_scott_ireland_508_final_061120.pdf",
+        "whyUsed": "U.S. government trade analysis confirming that lithium, cobalt, nickel, and graphite are key battery materials, with graphite used in anodes and the others in cathodes or throughout the battery system."
+      }
+    ],
+    "searchMeta": {
+      "usedWebSearch": true,
+      "searchQueries": [
+        "electric vehicle battery cathode composition cobalt lithium nickel graphite"
+      ],
+      "confidence": "high"
+    }
+  },
+  "id": 1
+}

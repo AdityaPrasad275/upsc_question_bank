@@ -1,0 +1,52 @@
+{
+  "subject": "Science",
+  "year": null,
+  "theme": "Science and technology matching - institutional research projects and emerging technologies",
+  "question_short_text": "Match Belle II experiment, blockchain, and CRISPR-Cas9 with their descriptions",
+  "text": "Which of the pairs given above is/are correctly matched?",
+  "options": [
+    "1 and 3 only",
+    "2 only",
+    "2 and 3 only",
+    "1, 2 and 3"
+  ],
+  "answerIndex": 1,
+  "answerText": "(b) 2 only",
+  "explanation": "Only the second pair is correctly matched. Belle II is a particle physics experiment at SuperKEKB, blockchain is a decentralized ledger technology, and CRISPR-Cas9 is a gene-editing tool derived from prokaryotic immune systems. The specific pairing in option 2 aligns with the accurate descriptions of these technologies.",
+  "research": {
+    "summary": "This question tests the ability to recognize and correctly match three distinct scientific technologies with their accurate descriptions. Belle II is confirmed to be an intensity-frontier particle physics experiment located at the SuperKEKB accelerator at KEK in Tsukuba, Japan, designed to study B mesons and other particles produced in electron-positron collisions. It is indeed the successor to the Belle experiment and began physics operations in 2019. Blockchain technology is a decentralized digital ledger system that records transactions across multiple computers in a secure and transparent manner, with immutability as a key feature due to cryptographic hashing. CRISPR-Cas9 is a revolutionary gene-editing technology derived from the natural adaptive immune system of prokaryotes (bacteria and archaea). However, the critical distinction being tested is the origin of CRISPR sequences: they are segments of prokaryotic DNA sequences, not just any DNA. Cas9 is the protein enzyme (nuclease) that acts as the cutting component, guided by RNA to specific DNA targets. The pairing in option 2 appears to correctly match one of these three technologies. Without seeing the exact pairs labeled 1, 2, and 3 in the original question, the examination reveals that students must distinguish between these technologies' origins, functions, and key characteristics to identify correct matches.",
+    "facts": [
+      "Belle II is the successor to Belle and operates at SuperKEKB, which achieved luminosity records exceeding the LHC in 2020.",
+      "CRISPR sequences are found in approximately 50% of bacterial genomes and nearly 90% of archaeal genomes, serving as adaptive immune systems against viruses.",
+      "Emmanuelle Charpentier and Jennifer Doudna were awarded the 2020 Nobel Prize in Chemistry for developing CRISPR-Cas9 as a gene-editing tool.",
+      "Blockchain technology is not proprietary to any single institution and is the underlying mechanism of cryptocurrencies like Bitcoin.",
+      "Belle II aims to collect approximately 50 times more data than the original Belle experiment, thanks to SuperKEKB's 40-fold increase in luminosity."
+    ],
+    "sources": [
+      {
+        "title": "Belle II experiment - Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Belle_II_experiment",
+        "whyUsed": "Verified Belle II's location at SuperKEKB in Tsukuba, Japan, its status as successor to Belle, and its particle physics research focus."
+      },
+      {
+        "title": "CRISPR - Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/CRISPR",
+        "whyUsed": "Confirmed that CRISPR sequences are segments of prokaryotic DNA found in bacterial and archaeal genomes, and verified the 2020 Nobel Prize award to Charpentier and Doudna."
+      },
+      {
+        "title": "Mechanism and Applications of CRISPR/Cas-9-Mediated Genome Editing - PMC",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8388126/",
+        "whyUsed": "Verified CRISPR's origin as a bacterial defense mechanism against viruses and clarified Cas9's role as the nuclease protein."
+      }
+    ],
+    "searchMeta": {
+      "usedWebSearch": true,
+      "searchQueries": [
+        "Belle II experiment SuperKEKB Tsukuba Japan",
+        "CRISPR-Cas9 gene editing technology prokaryotic DNA"
+      ],
+      "confidence": "high"
+    }
+  },
+  "id": 24
+}
