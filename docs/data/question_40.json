@@ -1,0 +1,50 @@
+{
+  "subject": "Economy",
+  "year": null,
+  "theme": "business cycle phases and their macroeconomic characteristics",
+  "question_short_text": "Match business cycle phases (boom, recession, depression, recovery) with their definitions",
+  "text": "Match the following:\n\nI. Boom\nII. Recession\nIII. Depression\nIV. Recovery\n\nA. A steady rise in the general level of prices, income, output, and employment, indicating an improvement in the economic conditions after a downturn\nB. A period of high business activity with increasing income, output, and employment at a macro level\nC. An unprecedented level of underemployment and unemployment, along with a drastic fall in income, output, and employment\nD. A gradual fall in income, output, and employment with business activity in a low gear",
+  "options": [
+    "I'A, II'B, III'C, IV'D",
+    "I'A, II'B, III'D, IV'C",
+    "I'B, II'A, III'D, IV'C",
+    "I'B, II'A, III'C, IV'D"
+  ],
+  "answerIndex": 0,
+  "answerText": "(a) I'A, II'B, III'C, IV'D",
+  "explanation": "Boom (I) matches with B - high business activity with rising income, output, and employment. Recession (II) matches with D - gradual fall in economic activity. Depression (III) matches with C - severe contraction with unprecedented unemployment. Recovery (IV) matches with A - steady improvement after downturn.",
+  "research": {
+    "summary": "This question tests precise understanding of the four primary phases of the business cycle and the specific macroeconomic indicators that characterize each phase. The trick is recognizing that while boom and recovery both represent positive periods, they differ fundamentally in their starting points and intensity. Boom is the peak of expansion\u2014an economy already at high activity levels with maximum employment and output growth. Recovery, by contrast, follows a depression; it is the early upswing from the trough, characterized by rising prices and output but beginning from a depressed baseline. The key to avoiding confusion is that depression is not simply a severe recession\u2014it represents an economy at its absolute worst, with unprecedented unemployment and drastic falls across all major indicators. Recession is the milder downswing phase, where activity slows gradually but remains above depression-level severity. The macroeconomic sequence is: Recovery \u2192 Boom (upswing) \u2192 Recession \u2192 Depression (downswing) \u2192 Recovery again. Recognizing these as distinct phases prevents mismatching recovery with boom or recession with depression. This distinction matters for policy responses: recovery requires stimulus measures, boom requires restraint to prevent overheating, recession requires moderate intervention, and depression requires aggressive corrective action.",
+    "facts": [
+      "Boom occurs when the economy surpasses full employment levels, leading to potential inflationary pressure and overutilization of productive capacity.",
+      "Depression differs from recession in severity and duration\u2014depression is a prolonged period of severe contraction, historically exemplified by the Great Depression (1929-1933).",
+      "The four phases form a complete cycle: recovery and boom constitute the upswing (expansion), while recession and depression constitute the downswing (contraction).",
+      "Economic indicators like GDP growth rate, unemployment rate, and inflation rate move in consistent patterns: positive and rising during boom, positive but slowing during recession onset, negative during depression, and positive but still below potential during recovery."
+    ],
+    "sources": [
+      {
+        "title": "Business Cycle Phases - Corporate Finance Institute",
+        "url": "https://corporatefinanceinstitute.com/resources/economics/business-cycle/",
+        "whyUsed": "Verified detailed definitions of boom, recession, depression, and recovery phases with emphasis on macroeconomic indicators and severity distinctions."
+      },
+      {
+        "title": "Business Cycle (Economic Cycle) - NEXT IAS",
+        "url": "https://www.nextias.com/blog/business-cycle/",
+        "whyUsed": "Clarified the relationship between recovery and boom phases, and provided context on the cyclical nature of business fluctuations relevant to UPSC economics."
+      },
+      {
+        "title": "Trade Cycle Phases - Your Article Library",
+        "url": "https://www.yourarticlelibrary.com/trade-2/trade-cycle-4-phases-of-trade-cycle-discussed/23414",
+        "whyUsed": "Detailed the upward (recovery-boom) and downward (recession-depression) phases of the business cycle, confirming the sequence and characteristics of each phase."
+      }
+    ],
+    "searchMeta": {
+      "usedWebSearch": true,
+      "searchQueries": [
+        "business cycle phases boom recession depression recovery"
+      ],
+      "confidence": "high"
+    }
+  },
+  "id": 40
+}

@@ -1,0 +1,51 @@
+{
+  "subject": "Economy",
+  "year": 2011,
+  "theme": "Phillips curve and the inflation-growth relationship",
+  "question_short_text": "Economic growth and its typical association with inflation or deflation",
+  "text": "Economic growth is usually coupled with?\n\na) Deflation\nb) Inflation\nc) Stagflation\nd) Hyperinflation",
+  "options": [
+    "Deflation",
+    "Inflation",
+    "Stagflation",
+    "Hyperinflation"
+  ],
+  "answerIndex": 1,
+  "answerText": "(b) Inflation",
+  "explanation": "Economic growth is typically coupled with inflation. Rising aggregate demand during growth periods puts upward pressure on prices, while expansionary monetary policies and increasing production costs contribute to inflationary pressures in the economy.",
+  "research": {
+    "summary": "This question tests understanding of the Phillips curve, the fundamental macroeconomic relationship between economic activity and inflation. The core mechanism is straightforward but often misunderstood: when an economy grows, aggregate demand increases faster than aggregate supply can expand, creating excess demand that drives prices upward. This is the short-run Phillips curve logic that shows an inverse relationship between unemployment and inflation. During growth phases, low unemployment and high factor utilization (labour, capital) force firms to bid up wages and raise prices to meet demand. The trap many students fall into is confusing the typical growth-inflation link with exceptions. Stagflation (option c) is a specific historical anomaly\u2014the 1970s combination of stagnant growth and high inflation caused by negative supply shocks like OPEC oil embargoes, not the normal coupling of growth with inflation. Deflation (option a) occurs during contraction, not growth. Hyperinflation (option d) is an extreme form of inflation caused by severe currency debasement or monetary instability, not a standard feature of healthy growth. The straightforward answer is inflation because growth mechanically generates demand-pull inflation via the output gap. When actual output exceeds potential output, the economy operates at or beyond full capacity, forcing prices upward.",
+    "facts": [
+      "The Phillips curve, developed by economist A.W. Phillips in 1958, originally measured the inverse relationship between wage inflation and unemployment in the UK over 150 years; modern versions link price inflation to output gaps.",
+      "Short-run Phillips curve shows inflation rises as unemployment falls during growth; long-run Phillips curve is vertical at NAIRU (non-accelerating inflation rate of unemployment), implying no permanent trade-off.",
+      "Stagflation in the 1970s shifted the Phillips curve upward due to supply shocks, breaking the simple inverse relationship and challenging the stable Phillips curve theory; economists like Friedman and Phelps predicted this outcome.",
+      "The Phillips curve has flattened since the 1980s in many advanced economies as inflation expectations became anchored by credible central bank inflation targeting, reducing the short-run sensitivity of inflation to output gaps.",
+      "Demand-pull inflation during growth occurs through two channels: (1) excess aggregate demand raising prices directly, and (2) tight labour markets raising wages, which firms pass through to prices in a wage-price spiral."
+    ],
+    "sources": [
+      {
+        "title": "Phillips Curve",
+        "url": "https://en.wikipedia.org/wiki/Phillips_curve",
+        "whyUsed": "Verified the historical development of the Phillips curve framework and the short-run vs long-run distinction in the inflation-growth relationship."
+      },
+      {
+        "title": "The Flattening of the Phillips Curve: Policy Implications Depend on the Cause",
+        "url": "https://www.clevelandfed.org/publications/economic-commentary/2019/ec-201911-flattening-phillips-curve",
+        "whyUsed": "Confirmed that strengthening of the economy is commonly associated with increasing inflation according to the Phillips curve relationship."
+      },
+      {
+        "title": "23.1: The Relationship Between Inflation and Unemployment - Social Sci LibreTexts",
+        "url": "https://socialsci.libretexts.org/Bookshelves/Economics/Economics_(Boundless)/23:_Inflation_and_Unemployment/23.1:_The_Relationship_Between_Inflation_and_Unemployment",
+        "whyUsed": "Clarified the stagflation anomaly of the 1970s as an exception caused by supply shocks, not the normal growth-inflation relationship."
+      }
+    ],
+    "searchMeta": {
+      "usedWebSearch": true,
+      "searchQueries": [
+        "economic growth inflation relationship Phillips curve"
+      ],
+      "confidence": "high"
+    }
+  },
+  "id": 22
+}

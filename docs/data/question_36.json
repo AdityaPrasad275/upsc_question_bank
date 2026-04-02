@@ -1,0 +1,57 @@
+{
+  "subject": "Economy",
+  "year": 2001,
+  "theme": "measures of national income and economic growth",
+  "question_short_text": "Best measure of a country's economic growth: GDP, NDP, NNP, or per capita real income?",
+  "text": "The most appropriate measure of a country's economic growth is its:\n\na) Gross Domestic Product\nb) Net Domestic Product\nc) Net National Product\nd) Per Capita Real Income",
+  "options": [
+    "Gross Domestic Product",
+    "Net Domestic Product",
+    "Net National Product",
+    "Per Capita Real Income"
+  ],
+  "answerIndex": 3,
+  "answerText": "(d) Per Capita Real Income",
+  "explanation": "Per Capita Real Income is the most appropriate measure because it divides national income by population and adjusts for inflation, reflecting average living standards rather than just total output. GDP, NDP, and NNP ignore how wealth is distributed across the population.",
+  "research": {
+    "summary": "The distinction between measuring total economic output and measuring actual individual prosperity is central to this question. GDP, NDP, and NNP all measure aggregate production\u2014either gross or net, domestic or national\u2014but none adjusts for population size or inflation, which are critical to understanding whether economic growth actually improves people's lives.\n\nGDP measures total production within a country's borders; NDP subtracts depreciation to show net production; NNP shifts focus to nationals regardless of location. These metrics can all increase while ordinary citizens become poorer if growth is captured by a shrinking elite or if the population is growing faster than output.\n\nPer Capita Real Income, by contrast, divides national income by population (yielding per capita income) and then adjusts for inflation using constant prices. This reveals whether the average person's purchasing power is actually rising. A country's GDP can grow 5% while per capita real income stagnates or falls if population grows rapidly or if inflation outpaces nominal growth. For UPSC, this is the key trap: aggregate measures look impressive but mask distributional reality and purchasing power erosion.\n\nReal (inflation-adjusted) measurement is essential because nominal per capita income can appear to grow while actual living standards decline if prices rise faster than wages. That inflation adjustment is why \"real\" income matters\u2014it reflects true economic welfare, not just money figures. This is why international institutions, development agencies, and economists use per capita real income as the standard for comparing living standards across countries and time periods. It personalizes growth and makes it meaningful to individual welfare rather than national accounting abstractions.",
+    "facts": [
+      "Per capita real income reveals average living standards by accounting for both population size and inflation; nominal growth can be misleading",
+      "GDP growth can co-exist with stagnant or declining per capita real income if population grows faster than production or inflation erodes purchasing power",
+      "NDP is better than GDP for understanding sustainable production (it excludes depreciation), but it still ignores population and purchasing power",
+      "Per Capita Real Income is one of the three pillars of the Human Development Index (HDI), alongside life expectancy and education, making it a standard development metric",
+      "Even when per capita income rises, unequal distribution means the median person's welfare may not improve\u2014a limitation acknowledged in development discourse"
+    ],
+    "sources": [
+      {
+        "title": "Per capita income - Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Per_capita_income",
+        "whyUsed": "Verified definition and key limitations of per capita income, including inflation adjustment and distribution issues"
+      },
+      {
+        "title": "Real GDP per capita - Economics Help",
+        "url": "https://www.economicshelp.org/blog/glossary/real-gdp-capita/",
+        "whyUsed": "Explained why real GDP per capita (adjusted for inflation) is more meaningful than nominal figures for tracking actual purchasing power changes"
+      },
+      {
+        "title": "Why is per capita real GDP a better measure of economic growth - Vaia",
+        "url": "https://www.vaia.com/en-us/textbooks/economics/economics-9-edition/chapter-16/problem-1-why-is-the-growth-of-per-capita-real-gdp-a-better-/",
+        "whyUsed": "Clarified that per capita real GDP measures individual income growth and standard of living, whereas aggregate GDP alone does not"
+      },
+      {
+        "title": "Difference between GDP, GNP, NNP, and Per Capita Income - Adda247",
+        "url": "https://currentaffairs.adda247.com/difference-between-gdp-gnp-nnp-and-per-capita-income/",
+        "whyUsed": "Provided clear formulas and examples distinguishing each measure, confirming per capita income's role in comparing living standards"
+      }
+    ],
+    "searchMeta": {
+      "usedWebSearch": true,
+      "searchQueries": [
+        "per capita real income economic growth measure",
+        "GDP NDP NNP per capita income difference"
+      ],
+      "confidence": "high"
+    }
+  },
+  "id": 36
+}

@@ -1,0 +1,56 @@
+{
+  "subject": "Economy",
+  "year": 1997,
+  "theme": "national income measurement and definitions",
+  "question_short_text": "Identify the correct definition of National Income",
+  "text": "National Income is the:",
+  "options": [
+    "Net National Product at market price",
+    "Net National Product at factor cost",
+    "Net Domestic Product at market price",
+    "Net Domestic Product at factor cost"
+  ],
+  "answerIndex": 1,
+  "answerText": "(b) Net National Product at factor cost",
+  "explanation": "National Income is defined as the Net National Product (NNP) at factor cost. This represents the total monetary value of all final goods and services produced by a nation's residents after accounting for depreciation, valued at the cost of production factors rather than market prices.",
+  "research": {
+    "summary": "This question tests understanding of the precise technical definition of National Income in Indian economics. The core concept being tested is the distinction between three pairs of measurement dimensions: domestic vs. national production scope, gross vs. net valuations, and market price vs. factor cost valuations.\n\nThe correct answer is NNP at factor cost because National Income, by definition, captures the income earned by a nation's residents (including nationals working abroad) rather than production within borders alone. This is why options 3 and 4 (NDP) are incorrect\u2014NDP measures only domestic production within a country's geographical boundaries and excludes net income from abroad earned by nationals. A farmer living in India who earns income from investments in Singapore would be counted in NNP but not in NDP.\n\nThe \"factor cost\" dimension is equally critical. Factor cost removes indirect taxes and adds subsidies to market price, isolating only the income that factors of production (land, labour, capital, entrepreneurship) actually receive. Market price includes indirect taxes like GST or excise duty that are levied by government but do not represent payments to productive factors. If a car costs \u20b910 lakh at market price but \u20b99 lakh in taxes and subsidies are adjusted, the factor cost of \u20b99 lakh reflects the true cost to produce that car. Option 1 (NNP at market price) fails this test because it conflates market valuations with actual factor income.\n\nThe \"net\" dimension (subtracting depreciation from gross) is also implicit in the correct answer. Unlike GNP, NNP accounts for wear and tear of capital goods, providing a more realistic measure of sustainable income available to residents rather than gross output that includes capital consumption.\n\nA practical way to solve this question is to recognize that National Income has a dual criterion: it must be (1) national in scope (including overseas earnings of residents), and (2) at factor cost (the actual income to productive factors). Only NNP at factor cost satisfies both.",
+    "facts": [
+      "In India, the National Statistical Office (NSO) under the Ministry of Statistics and Programme Implementation (MoSPI) officially measures National Income as Net National Income at factor cost, which forms the basis for policy-making in the Union Budget and Five-Year Plans.",
+      "Factor cost is calculated as: Factor Cost = Market Price \u2013 Net Indirect Taxes (where Net Indirect Taxes = Indirect Taxes \u2013 Subsidies); this formula isolates the true cost of production resources.",
+      "National income differs from GDP (Gross Domestic Product) in two ways: it includes net income earned by residents from abroad, and it subtracts depreciation; GDP counts only domestic production and is measured gross of capital wear.",
+      "Depreciation, also called consumption of fixed capital, represents the estimated value lost from using capital assets over time (machinery wear, building deterioration); subtracting it from GNP gives NNP, a more sustainable income measure.",
+      "Per capita income, used to compare living standards across nations, is derived by dividing National Income (NNP at factor cost) by total population; this makes the precise definition of National Income crucial for international economic comparisons."
+    ],
+    "sources": [
+      {
+        "title": "National Income Accounting \u2013 Vision IAS",
+        "url": "https://cdn.visionias.in/value_added_material/1466a-national-income-accounting.pdf",
+        "whyUsed": "Verified the precise relationship between NNP, NDP, depreciation, and factor cost; confirmed that National Income equals NNP at factor cost in Indian economic terminology."
+      },
+      {
+        "title": "National Income: Meaning, Measures, Accounting Methods \u2013 NEXT IAS",
+        "url": "https://www.nextias.com/blog/national-income/",
+        "whyUsed": "Clarified factor cost definition, the formula FC = MP \u2013 Net Indirect Taxes, and confirmed NSO's role in calculating National Income of India."
+      },
+      {
+        "title": "Net National Product at Factor Cost \u2013 Drishti CUET",
+        "url": "https://www.drishticuet.com/current-affairs/national-income-accounting-important-terminologies",
+        "whyUsed": "Verified the formula and the distinction between NNP at market price vs. factor cost for understanding the measurement of National Income."
+      },
+      {
+        "title": "Net National Product (NNP): Definition, Formula & Examples \u2013 Vedantu",
+        "url": "https://www.vedantu.com/commerce/net-national-product",
+        "whyUsed": "Confirmed the conceptual difference between National Income (NNP FC) and Domestic Income (NDP), clarifying why options 3 and 4 are incorrect."
+      }
+    ],
+    "searchMeta": {
+      "usedWebSearch": true,
+      "searchQueries": [
+        "National Income definition NNP factor cost India"
+      ],
+      "confidence": "high"
+    }
+  },
+  "id": 45
+}
