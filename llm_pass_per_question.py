@@ -13,14 +13,10 @@ import os
 import sys
 import json
 from anthropic import Anthropic
+from dotenv import load_dotenv
 
-def main():
-    if len(sys.argv) != 3:
-        print("Usage: python3 llm_pass_per_question.py <subject> <question_number>")
-        sys.exit(1)
-
-    subject = sys.argv[1]
-    question_number = int(sys.argv[2])
+def main(subject, question_number):
+    load_dotenv()  # Load environment variables from .env file
 
     # Read question file
     question_file = os.path.join(subject, "questions", f"question_{question_number}.md")
@@ -51,9 +47,10 @@ def main():
         }
     ]
 
-    # Call Claude
+    # Call Claude with structured JSON output schema
+    model_name = os.getenv("ANTHROPIC_MODEL", "claude-3.5-sonnet")
     response = anthropic_client.messages.create(
-        model="claude-3-5-sonnet-20241022",
+        model=model_name,
         max_tokens=8000,
         system=system_prompt,
         messages=[
@@ -62,7 +59,69 @@ def main():
                 "content": question_content
             }
         ],
-        tools=tools
+        tools=tools,
+        output_config={
+            "format": {
+                "type": "json_schema",
+                "schema": {
+                    "type": "object",
+                    "properties": {
+                        "subject": {"type": "string"},
+                        "year": {"type": ["integer", "null"]},
+                        "theme": {"type": "string"},
+                        "question_short_text": {"type": "string"},
+                        "text": {"type": "string"},
+                        "options": {
+                            "type": "array",
+                            "items": {"type": "string"}
+                        },
+                        "answerIndex": {"type": "integer"},
+                        "answerText": {"type": "string"},
+                        "explanation": {"type": "string"},
+                        "research": {
+                            "type": "object",
+                            "properties": {
+                                "summary": {"type": "string"},
+                                "facts": {
+                                    "type": "array",
+                                    "items": {"type": "string"}
+                                },
+                                "sources": {
+                                    "type": "array",
+                                    "items": {
+                                        "type": "object",
+                                        "properties": {
+                                            "title": {"type": "string"},
+                                            "url": {"type": "string"},
+                                            "whyUsed": {"type": "string"}
+                                        },
+                                        "required": ["title", "url", "whyUsed"],
+                                        "additionalProperties": False
+                                    }
+                                },
+                                "searchMeta": {
+                                    "type": "object",
+                                    "properties": {
+                                        "usedWebSearch": {"type": "boolean"},
+                                        "searchQueries": {
+                                            "type": "array",
+                                            "items": {"type": "string"}
+                                        },
+                                        "confidence": {"type": "string"}
+                                    },
+                                    "required": ["usedWebSearch", "searchQueries", "confidence"],
+                                    "additionalProperties": False
+                                }
+                            },
+                            "required": ["summary", "facts", "sources", "searchMeta"],
+                            "additionalProperties": False
+                        }
+                    },
+                    "required": ["subject", "year", "theme", "question_short_text", "text", "options", "answerIndex", "answerText", "explanation", "research"],
+                    "additionalProperties": False
+                }
+            }
+        }
     )
 
     # Get the final response
@@ -93,5 +152,11 @@ def main():
     print(f"Saved JSON to {output_file}")
 
 if __name__ == "__main__":
-    main()
+    if len(sys.argv) != 3:
+        print("Usage: python3 llm_pass_per_question.py <subject> <question_number>")
+        sys.exit(1)
+
+    subject_arg = sys.argv[1]
+    question_number_arg = int(sys.argv[2])
+    main(subject_arg, question_number_arg)
 
