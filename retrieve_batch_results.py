@@ -42,9 +42,10 @@ def main():
                         pass
 
                 try:
-                    # Parse JSON, add the ID, and save
+                    # Parse JSON, add the ID and usage, and save
                     result_json = json.loads(response_text)
                     result_json["id"] = int(question_number)
+                    result_json["usage"] = result.result.message.usage.model_dump() if hasattr(result.result.message.usage, 'model_dump') else result.result.message.usage
                     with open(output_file, "w") as f:
                         json.dump(result_json, f, indent=2)
                     saved_count += 1
