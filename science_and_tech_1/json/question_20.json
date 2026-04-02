@@ -1,0 +1,52 @@
+{
+  "subject": "Polity",
+  "year": 2019,
+  "theme": "Digital signatures under Information Technology Act, 2000 \u2013 definitions and scope",
+  "question_short_text": "Identify correct statements about digital signature definition and function",
+  "text": "Consider the following statements:\n\nA digital signature is\n\n1. An electronic record that identifies the certifying authority issuing it\n2. Used to serve as a proof of identity of an individual to access information or server on Internet\n3. An electronic method of signing an electronic document and ensuring that the original content is unchanged\n\nWhich of the statements given above is/are correct?",
+  "options": [
+    "1 only",
+    "2 and 3 only",
+    "3 only",
+    "1, 2 and 3"
+  ],
+  "answerIndex": 2,
+  "answerText": "(c) 3 only",
+  "explanation": "Statement 3 is the only correct definition of a digital signature. Statement 1 is incorrect because a digital signature itself is not an electronic record identifying the certifying authority\u2014rather, a digital certificate issued by the CA contains CA information, but the signature itself is a cryptographic method. Statement 2 is misleading because while digital signatures verify identity, they primarily authenticate documents, not serve as general identity proof for server access.",
+  "research": {
+    "summary": "The IT Act, 2000 defines a digital signature under Section 2(1)(p) as \"authentication of any electronic record by a subscriber by means of an electronic method or procedure in accordance with the provisions of Section 3.\" This is a technical definition that captures the core function: authenticating the integrity and origin of a document, not the signer's general identity. The trap in this question lies in confusing three distinct concepts: (1) the digital signature itself, (2) the digital certificate that enables it, and (3) the process of identity verification during certificate issuance. Statement 1 fails because it conflates the digital signature with the digital certificate. A digital certificate, issued by a Certifying Authority, does contain identifying information about the CA. However, a digital signature is the cryptographic output\u2014the mathematical function applied to the document content using the signer's private key. It does not itself \"identify\" the CA; rather, anyone holding the corresponding public key can verify that the signature was created using the private key paired with that certificate. Statement 2 is technically incomplete and potentially misleading. While digital signatures do authenticate identity in the sense that they bind the signer to the document (proving who signed it), they are not a general-purpose identity proof for accessing servers. That role belongs to digital certificates or authentication tokens. The misunderstanding here stems from conflating authentication (proving authorship of a specific document) with identification (proving who you are in general). Statement 3 alone correctly captures the essence of digital signature functionality: it is both a method of electronically signing a document AND a guarantee that the document content has not been altered. Under the IT Act Section 3, when a digital signature is affixed, it is created through two steps: first, a hash function converts the electronic record into a message digest (freezing its content), and second, the signer's private key signs this digest. Any tampering with the document after signing immediately invalidates the signature. This two-fold function\u2014authentication and integrity assurance\u2014is what makes digital signatures legally equivalent to handwritten signatures under Indian law (Section 5 of IT Act). The distinction between digital signatures and digital certificates is crucial for UPSC: a certificate is the credential issued by a CA that enables a signature to be created; the signature itself is the cryptographic proof. Confusing these two concepts is the main misconception UPSC tests in this question.",
+    "facts": [
+      "Section 2(1)(p) of IT Act 2000 defines digital signature as authentication of electronic record by a subscriber using an electronic method per Section 3.",
+      "Digital signatures use asymmetric cryptography: a private key (held by the signer) creates the signature, and the public key (distributed via a digital certificate) verifies it.",
+      "A digital signature is created in two steps: (1) the document is converted to a hash/message digest using a hash function, ensuring integrity, and (2) the hash is encrypted with the signer's private key to authenticate authorship.",
+      "Section 5 of IT Act 2000 gives digital signatures equal legal recognition as handwritten signatures, making them admissible as evidence in courts under Indian Evidence Act Section 65B.",
+      "Digital Signature Certificates (DSCs) are issued by licensed Certifying Authorities (CAs) regulated by the Controller of Certifying Authorities (CCA); the certificate enables the signature but is not itself the signature."
+    ],
+    "sources": [
+      {
+        "title": "Information Technology Act, 2000 - Official Text",
+        "url": "https://www.indiacode.nic.in/bitstream/123456789/13116/1/it_act_2000_updated.pdf",
+        "whyUsed": "Official government source for Section 2(1)(p) definition and Section 3 technical requirements for digital signatures"
+      },
+      {
+        "title": "Digital Signature Under IT Act 2000 - Indian Cyber Security",
+        "url": "https://www.indiancybersecurity.com/digital_signature_under_it_act_2000.php",
+        "whyUsed": "Detailed explanation of hash function process and two-step creation of digital signatures as per Section 3 of IT Act"
+      },
+      {
+        "title": "Validity of Digital Signatures - Lawyers Club India",
+        "url": "https://www.lawyersclubindia.com/articles/validity-of-digital-signatures-under-the-information-technology-act-2000-15846.asp",
+        "whyUsed": "Clarifies distinction between digital signature and digital certificate, and legal recognition under Section 4 and 5 of IT Act"
+      }
+    ],
+    "searchMeta": {
+      "usedWebSearch": true,
+      "searchQueries": [
+        "digital signature definition IT Act 2000 India",
+        "digital signature electronic record certifying authority"
+      ],
+      "confidence": "high"
+    }
+  },
+  "id": 20
+}

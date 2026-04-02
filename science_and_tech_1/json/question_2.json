@@ -1,0 +1,52 @@
+{
+  "subject": "Science",
+  "year": 2025,
+  "theme": "quantum computing architectures and foundational AI concepts",
+  "question_short_text": "Majorana 1 chip developer and relationship between deep learning and machine learning",
+  "text": "Consider the following statements:\n\nI. It is expected that Majorana 1 chip will enable quantum computing.\nII. Majorana 1 chip has been introduced by Amazon Web Services (AWS).\nIII. Deep learning is a subset of machine learning.\n\nWhich of the statements given above are correct?",
+  "options": [
+    "I and II only",
+    "II and III only",
+    "I and III only",
+    "I, II and III"
+  ],
+  "answerIndex": 2,
+  "answerText": "(c) I and III only",
+  "explanation": "Statement I is correct: Majorana 1 is designed to enable quantum computing through topological qubits. Statement II is incorrect: Majorana 1 was developed by Microsoft, not AWS. Statement III is correct: Deep learning is a subset of machine learning that uses neural networks.",
+  "research": {
+    "summary": "This question tests knowledge of two distinct technology domains: quantum computing hardware development and the hierarchical relationship between machine learning subfields.\n\nStatement I correctly identifies Majorana 1's purpose. Microsoft unveiled the Majorana 1 chip in February 2025 as a quantum processor powered by topological qubits designed to scale toward one million qubits on a single chip. The chip leverages topological superconductors and Majorana particles to create more stable and error-resistant qubits compared to conventional superconducting approaches used by competitors like IBM and Google. The goal is to enable quantum computers capable of solving industrial-scale problems within years rather than decades.\n\nStatement II is the trap. AWS (Amazon Web Services) has publicized quantum advancements and offers quantum computing services through partnerships, but AWS did not develop Majorana 1. Microsoft is unambiguously the developer. This distinction matters because students may conflate AWS's quantum initiatives with specific hardware developments. AWS promotes quantum computing but does not manufacture quantum chips; it partners with companies like IonQ. Microsoft, by contrast, manufactures its own quantum hardware and has a dedicated Station Q research group.\n\nStatement III correctly states that deep learning is a subset of machine learning. Deep learning is a specialized approach within machine learning that uses multi-layered artificial neural networks to automatically extract features from raw data. Machine learning is the broader field encompassing all statistical and algorithmic approaches to learning from data, including decision trees, support vector machines, random forests, and neural networks. This relationship is foundational to understanding AI hierarchy: AI \u2192 Machine Learning \u2192 Deep Learning.\n\nThe question simultaneously tests recognition of a recent quantum computing breakthrough and a fundamental AI concept hierarchy, making it useful for evaluating both breadth and precision in technology understanding.",
+    "facts": [
+      "Majorana 1 uses topological qubits based on Majorana particles, a new state of matter combining indium arsenide and aluminum\u2014fundamentally different from the superconducting qubits used by IBM, Google, and others.",
+      "Topological qubits encode information in the system's topological properties, making them inherently resistant to environmental noise and reducing error correction overhead\u2014a core advantage over conventional approaches.",
+      "Microsoft announced Majorana 1 in February 2025 after 17 years of research through Station Q, aiming for a fault-tolerant quantum computer by the early 2030s with DARPA backing.",
+      "Deep learning as a subset uses multiple layers of neural networks (hence 'deep'), enabling automatic feature extraction, while broader machine learning includes linear regression, clustering, and tree-based methods that do not require deep architectures.",
+      "AWS offers quantum computing access through cloud partnerships (notably with IonQ for trapped-ion systems) but does not develop proprietary quantum chips."
+    ],
+    "sources": [
+      {
+        "title": "Microsoft's Majorana 1 chip carves new path for quantum computing",
+        "url": "https://news.microsoft.com/source/features/innovation/microsofts-majorana-1-chip-carves-new-path-for-quantum-computing/",
+        "whyUsed": "Official Microsoft announcement confirming Majorana 1 as Microsoft's development, topological qubit architecture, and industrial-scale quantum computing goals."
+      },
+      {
+        "title": "Majorana 1 - Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Majorana_1",
+        "whyUsed": "Comprehensive reference verifying Majorana 1 is developed by Microsoft, clarifying topological superconductor technology and contrasting with superconducting approaches."
+      },
+      {
+        "title": "Microsoft unveils Majorana 1, the world's first quantum processor powered by topological qubits - Microsoft Azure Quantum Blog",
+        "url": "https://azure.microsoft.com/en-us/blog/quantum/2025/02/19/microsoft-unveils-majorana-1-the-worlds-first-quantum-processor-powered-by-topological-qubits/",
+        "whyUsed": "Primary Microsoft source detailing Majorana 1's topoconductor design, scaling roadmap, and integration into Azure cloud services."
+      }
+    ],
+    "searchMeta": {
+      "usedWebSearch": true,
+      "searchQueries": [
+        "Majorana 1 chip quantum computing",
+        "Majorana 1 chip Microsoft developer"
+      ],
+      "confidence": "high"
+    }
+  },
+  "id": 2
+}

@@ -1,0 +1,56 @@
+{
+  "subject": "Science",
+  "year": 2010,
+  "theme": "Radio frequency bands and device operating frequencies in ISM spectrum",
+  "question_short_text": "Which devices operate in the 2.4\u20132.5 GHz frequency band?",
+  "text": "Consider the following:\n\n1. Bluetooth device\n2. Cordless phone\n3. Microwave oven\n4. Wi-Fi device\n\nWhich of the above can operate between 2.4 and 2.5 GHz range of radio frequency band?",
+  "options": [
+    "1 and 2 only",
+    "3 and 4 only",
+    "1, 2 and 4 only",
+    "1, 2, 3 and 4"
+  ],
+  "answerIndex": 3,
+  "answerText": "(d) 1, 2, 3 and 4",
+  "explanation": "All four devices operate within the 2.4\u20132.5 GHz range. Bluetooth (2.400\u20132.485 GHz), cordless phones in 2.4 GHz mode (legacy models), microwave ovens (2.45 GHz), and Wi-Fi 2.4 GHz band (2.400\u20132.4835 GHz) all share this ISM frequency band.",
+  "research": {
+    "summary": "The trap in this question lies in recognizing that cordless phones do not have a single standard frequency\u2014they operate in multiple bands depending on design and market. In North America, modern cordless phones predominantly use DECT 6.0 technology on the 1.9 GHz band (1920\u20131930 MHz), which avoids the congested 2.4 GHz ISM band. However, legacy cordless phone models, and those designed for compatibility with other devices, do use the 2.4 GHz band (2400\u20132483.5 MHz). This question, from 2010, predates the widespread adoption of DECT 6.0 in North America and tests whether students understand that multiple cordless technologies exist. The 2.4 GHz ISM (Industrial, Scientific, Medical) band is unlicensed and shared by Bluetooth, Wi-Fi, many cordless phones, microwave ovens, and various wireless devices. Microwave ovens operate at exactly 2.45 GHz, a frequency chosen for its absorption by water molecules and its proximity to the ISM band. Bluetooth and Wi-Fi both use the 2.4 GHz band as a primary frequency, though Wi-Fi 5 GHz (5.150\u20135.825 GHz) offers an alternative for devices that support it. The proliferation of 2.4 GHz devices creates real-world interference issues\u2014cordless phones, baby monitors, and wireless security cameras all compete for airtime. Understanding which devices share frequency bands is essential for recognizing interference risks in home and office environments.",
+    "facts": [
+      "Cordless phones operate in multiple bands: 2.4 GHz (legacy), 900 MHz, 1.9 GHz (DECT 6.0), and 5.8 GHz, depending on model and regional regulations.",
+      "The 2.4 GHz ISM band is unlicensed and shared by an increasing number of devices, leading to potential interference between cordless phones, Wi-Fi, Bluetooth, and microwave ovens.",
+      "Microwave ovens use 2.45 GHz because the frequency is strongly absorbed by water molecules, making it efficient for heating food, though this also causes interference with nearby wireless devices.",
+      "DECT 6.0, introduced in North America around 2005, operates on 1.9 GHz (1920\u20131930 MHz) and was designed specifically to avoid interference with the congested 2.4 GHz band.",
+      "Wi-Fi standards evolved to include both 2.4 GHz (legacy, congested) and 5 GHz (less congested) bands; Wi-Fi 6E further added the 6 GHz band to reduce interference."
+    ],
+    "sources": [
+      {
+        "title": "DECT - Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/DECT",
+        "whyUsed": "Verified information on DECT operating bands and historical development of cordless phone standards across regions."
+      },
+      {
+        "title": "Cordless telephone - Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Cordless_telephone",
+        "whyUsed": "Confirmed that legacy cordless phones operate in 2.4 GHz and 5.8 GHz bands, while modern DECT 6.0 phones use 1.9 GHz."
+      },
+      {
+        "title": "HFUnderground - Cordless telephone",
+        "url": "https://www.hfunderground.com/wiki/index.php/Cordless_telephone",
+        "whyUsed": "Detailed frequency band allocations for cordless phones including 2.4 GHz legacy models and 5.8 GHz variants."
+      },
+      {
+        "title": "AT&T Cordless Phone Buying Guide",
+        "url": "https://telephones.att.com/buying-guide/cordless-phone-buying-guide",
+        "whyUsed": "Explained the three dominant cordless phone platforms (2.4 GHz, 5.8 GHz, DECT 6.0) and their frequency characteristics."
+      }
+    ],
+    "searchMeta": {
+      "usedWebSearch": true,
+      "searchQueries": [
+        "cordless phone frequency 2.4 GHz DECT"
+      ],
+      "confidence": "high"
+    }
+  },
+  "id": 36
+}

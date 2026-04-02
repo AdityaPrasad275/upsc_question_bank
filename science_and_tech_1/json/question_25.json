@@ -1,0 +1,56 @@
+{
+  "subject": "Science & Technology",
+  "year": 2018,
+  "theme": "API architecture and Aadhaar authentication ecosystem",
+  "question_short_text": "What does Aadhaar's open API provision enable?",
+  "text": "The identity platform 'Aadhar' provides open \"Application Programming Interfaces (APIs)\". What does it imply?\n\n1. It is integrated into an electronic device.\n2. Online authentication using iris is possible.",
+  "options": [
+    "1 only",
+    "2 only",
+    "Both 1 and 2",
+    "Neither 1 nor 2"
+  ],
+  "answerIndex": 2,
+  "answerText": "(c) Both 1 and 2",
+  "explanation": "Aadhaar's open APIs enable integration into electronic devices and support multiple biometric authentication modalities including iris, fingerprint, and demographic verification. Both statements are correct.",
+  "research": {
+    "summary": "The question tests understanding of what 'open APIs' mean in the context of Aadhaar and their functional implications. APIs (Application Programming Interfaces) are standardized rules and protocols that allow different software systems to communicate and share functionality. When Aadhaar provides 'open APIs,' it means developers and service providers can build their own applications and integrate Aadhaar authentication into their systems without needing to rebuild the entire authentication infrastructure.\n\nStatement 1 is correct because open APIs are specifically designed for integration. The architecture of Aadhaar APIs allows them to be embedded into any electronic device\u2014smartphones, tablets, laptops, ATMs, or biometric readers\u2014effectively making authentication possible across any connected device. The registered device framework supports both discrete devices (requiring connectivity to a host PC/laptop) and integrated devices (with sensors built directly into the device package).\n\nStatement 2 is correct because the Aadhaar Authentication API explicitly supports multiple biometric modalities. The official UIDAI API documentation specifies that biometric authentication can use FMR (Fingerprint Minutiae Record), FIR (Fingerprint Image Record), IIR (Iris Image Record), and FID (Facial Image Data). Iris-based authentication is one of the primary biometric modes supported, allowing online identity verification through iris scanning. This is not limited to fingerprints alone.\n\nThe practical implication of open APIs is that any authorized entity\u2014banks, telecom providers, government agencies, insurance firms\u2014can integrate Aadhaar authentication directly into their customer-facing systems. The tricky part many students miss is that 'open' here doesn't mean 'unrestricted access'; it means the APIs are published and available for legitimate integration, with UIDAI maintaining security controls and registered device requirements. The openness refers to the availability of the interface standard itself, not the absence of security protocols.",
+    "facts": [
+      "Aadhaar supports four main authentication modes: Demographic (name/DOB/address matching), OTP-based, Biometric-based (fingerprint and iris), and Multi-factor authentication combining two or more methods.",
+      "The UIDAI mandates that all biometric devices used for Aadhaar authentication must be 'Registered Devices' that digitally sign captured data within the device to prevent tampering or replay attacks.",
+      "Iris-based authentication (IIR) is specifically supported alongside fingerprint authentication and is used by financial institutions, government welfare schemes, and telecom operators requiring high-security in-person verification.",
+      "The e-KYC service powered by Aadhaar APIs enables paperless digital identity verification and has been operational since 2013, enabling rapid onboarding for banking and government services.",
+      "APIs are agnostic to the underlying device hardware\u2014they define the communication protocol, allowing the same API to work on smartphones with integrated sensors, standalone biometric scanners, ATMs, or microATM devices."
+    ],
+    "sources": [
+      {
+        "title": "UIDAI Authentication Ecosystem Official",
+        "url": "https://uidai.gov.in/en/ecosystem/authentication-ecosystem.html",
+        "whyUsed": "Official UIDAI source confirming biometric authentication modes including fingerprint and iris-based authentication, and multi-factor authentication capability."
+      },
+      {
+        "title": "Aadhaar Authentication API Documentation (UIDAI)",
+        "url": "https://uidai.gov.in/images/resource/Aadhaar_Authentication_API-2.5_Revision-1_of_January_2022.pdf",
+        "whyUsed": "Official API specification document detailing valid biometric types (FMR, FIR, IIR, FID) and confirming iris authentication is supported in API design."
+      },
+      {
+        "title": "UIDAI Biometric Devices Official",
+        "url": "https://uidai.gov.in/en/ecosystem/authentication-devices-documents/biometric-devices.html",
+        "whyUsed": "Official UIDAI documentation on registered devices, discrete vs. integrated device architecture, and fingerprint/iris capture capabilities."
+      },
+      {
+        "title": "Aadhaar Authentication API Overview",
+        "url": "https://examrobot.com/content/identity-platform-aadhar-provides-open-application-programming-interfaces-apis-what-does-it",
+        "whyUsed": "Source confirming that Aadhaar APIs support multiple biometric factors and integration into electronic devices."
+      }
+    ],
+    "searchMeta": {
+      "usedWebSearch": true,
+      "searchQueries": [
+        "Aadhar API open authentication iris fingerprint"
+      ],
+      "confidence": "high"
+    }
+  },
+  "id": 25
+}

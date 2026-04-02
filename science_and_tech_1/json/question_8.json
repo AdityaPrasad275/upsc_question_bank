@@ -1,0 +1,57 @@
+{
+  "subject": "Science & Technology",
+  "year": 2022,
+  "theme": "Understanding Non-Fungible Tokens (NFTs) and their defining characteristics",
+  "question_short_text": "Which statements about NFT characteristics (digital assets, blockchain, fungibility, medium of exchange) are correct?",
+  "text": "With reference to Non-Fungible Tokens (NFTs), consider the following statements:\n\n1. They enable the digital representation of physical assets.\n2. They are unique cryptographic tokens that exist on a blockchain.\n3. They can be traded or exchanged at equivalency and therefore can be used as a medium of commercial transactions.\n\nWhich of the statements given above are correct?",
+  "options": [
+    "1 and 2 only",
+    "2 and 3 only",
+    "1 and 3 only",
+    "1, 2 and 3"
+  ],
+  "answerIndex": 0,
+  "answerText": "(a) 1 and 2 only",
+  "explanation": "Statements 1 and 2 are correct. Statement 3 is incorrect because NFTs are non-fungible\u2014they cannot be exchanged at equivalency like cryptocurrencies can, and therefore cannot serve as a general medium of exchange. Unlike fungible tokens such as Bitcoin or Ethereum, each NFT is unique and has its own distinct value.",
+  "research": {
+    "summary": "The UPSC question tests the core distinction between fungible and non-fungible tokens, a crucial conceptual boundary in blockchain technology. Statement 1 is correct: NFTs do enable digital representation of physical assets (Nike's CryptoKicks system for authenticating physical products, virtual real estate, and property ownership are real-world examples). Statement 2 is also correct: NFTs are indeed unique cryptographic tokens stored on blockchains using standards like ERC-721 on Ethereum, with each token containing a unique identifier and metadata. However, statement 3 contains the fundamental misconception UPSC is testing. NFTs are specifically designed to be non-fungible, meaning they cannot be exchanged on a one-to-one basis with equivalency, unlike fungible cryptocurrencies such as Bitcoin or Ethereum where one unit always equals another. Because each NFT has distinct value and attributes determined by market demand, they function as collectible assets or proof-of-ownership certificates rather than as a medium of commercial exchange. Fungible tokens (which can be divided, substituted, and traded at parity) are suited for transactions and commerce. Non-fungible tokens serve the opposite purpose\u2014proving uniqueness and provenance. This distinction is critical: fungible cryptocurrencies power payments and commerce; NFTs prove ownership of unique, irreplaceable items. The trap in this question is confusing tradability (NFTs can be bought and sold on marketplaces) with fungibility (the ability to exchange at equivalency as a medium of exchange). An NFT can absolutely be traded for money or other assets, but it cannot replace another NFT at equal value or serve as a general currency.",
+    "facts": [
+      "NFTs typically use the ERC-721 standard on Ethereum, which formalized the non-fungibility specification and ensures no two tokens are alike",
+      "Fungible tokens like Bitcoin operate on the principle that one unit always equals another, making them suitable for transactions; NFTs operate on uniqueness principle, making them unsuitable as currency",
+      "NFTs can represent both digital assets (art, music, videos) and physical assets (real estate, authenticated products), but ownership of an NFT does not necessarily convey copyright or full intellectual property rights to the underlying asset",
+      "The Financial Action Task Force (FATF) defines NFTs as digital assets used as collectibles rather than as payment or investment instruments, distinguishing them from fungible cryptocurrencies",
+      "Nike's 2019 CryptoKicks patent demonstrates NFT use for authenticating physical products by issuing a digital token certificate alongside the physical item"
+    ],
+    "sources": [
+      {
+        "title": "Non-Fungible Token - Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Non-fungible_token",
+        "whyUsed": "Provided authoritative definition of NFTs as unique cryptographic tokens, confirmation that they cannot be mutually interchangeable, and clarification that unlike cryptocurrencies, NFTs are not fungible"
+      },
+      {
+        "title": "What are Non-Fungible Tokens Explained - AWS Web3",
+        "url": "https://aws.amazon.com/web3/nfts-explained/",
+        "whyUsed": "Defined fungibility as the ability to exchange equivalently, explained how NFTs differ from cryptocurrencies, and clarified that NFTs are designed for unique asset representation rather than as medium of exchange"
+      },
+      {
+        "title": "Understanding Cryptocurrencies and Non-Fungible Tokens - Financial Crime Academy",
+        "url": "https://financialcrimeacademy.org/cryptocurrencies-and-non-fungible-tokens/",
+        "whyUsed": "Explicitly contrasted fungible tokens (which can serve as medium of commercial transactions) with non-fungible tokens (which cannot be traded at equivalency), directly addressing why statement 3 is incorrect"
+      },
+      {
+        "title": "Fungible vs Non-Fungible Tokens Explained - TrustWallet",
+        "url": "https://trustwallet.com/blog/nft/fungible-vs-non-fungible-tokens-explained",
+        "whyUsed": "Clarified that NFTs cannot be exchanged on one-to-one basis and are designed as unique assets, contrasting with fungible tokens like Bitcoin and Ethereum which serve as media of exchange"
+      }
+    ],
+    "searchMeta": {
+      "usedWebSearch": true,
+      "searchQueries": [
+        "NFT non-fungible token characteristics blockchain definition",
+        "NFT fungible vs non-fungible medium of exchange commercial transactions"
+      ],
+      "confidence": "high"
+    }
+  },
+  "id": 8
+}

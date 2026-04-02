@@ -1,0 +1,63 @@
+{
+  "subject": "Science",
+  "year": 2024,
+  "theme": "Radar technology: detection principles and applications",
+  "question_short_text": "Radar use in narcotic detection, weather monitoring, and animal migration tracking",
+  "text": "Consider the following activities:\n\n1. Identification of narcotics on passengers at airports or in aircraft\n2. Monitoring of precipitation\n3. Tracking the migration of animals\n\nIn how many of the above activities can the radars be used?",
+  "options": [
+    "Only one",
+    "Only two",
+    "All three",
+    "None"
+  ],
+  "answerIndex": 1,
+  "answerText": "(b) Only two",
+  "explanation": "Radar is effectively used for monitoring precipitation (activity 2) and tracking animal migration (activity 3). However, narcotics identification at airports (activity 1) relies primarily on X-ray scanners, chemical trace detection, and metal detectors\u2014not radar technology. Radar detects objects through reflected electromagnetic signals, not chemical composition.",
+  "research": {
+    "summary": "This question tests understanding of radar's core functional principle and its legitimate applications. Radar (Radio Detection and Ranging) detects objects and their movement using electromagnetic waves\u2014it measures distance, speed, and sometimes shape by analyzing signal reflections, but it cannot detect chemical composition. This fundamental limitation explains why it cannot identify narcotics.\n\nActivity 2 (precipitation monitoring) is a textbook radar application. Weather radars, especially Doppler variants, emit radio waves that bounce off water droplets, ice crystals, and hail particles. The returning signals reveal precipitation intensity, type (rain, snow, hail), movement, and spatial distribution. This is the most widespread meteorological use of radar globally, supporting weather forecasting and severe weather warnings.\n\nActivity 3 (animal migration tracking) is less well-known but scientifically established since World War II. Radar can detect and track birds, bats, and insects during migration because these organisms reflect radio waves. Modern weather surveillance radars and specialized ornithological radars quantify migration intensity, direction, altitude, and wing-beat frequency. Programs like BirdCast use NEXRAD weather radar data across North America to track billions of birds in real-time. The radar detects the animals themselves\u2014their shape, size, and reflectivity\u2014not their chemical nature.\n\nActivity 1 (narcotics detection at airports) is the trap. While millimeter-wave body scanners use radio-wave technology and are sometimes loosely grouped with radar-related systems, they are not radar in the technical sense. Airport security primarily uses X-ray machines for baggage, metal detectors for weapons, and chemical trace-detection (ion mobility spectrometry) for explosives and drugs. These methods detect physical presence or chemical signatures, not electromagnetic reflections. Radar's inability to distinguish chemical composition makes it unsuitable for narcotics detection.",
+    "facts": [
+      "Doppler weather radars have been operational since the 1950s and now cover entire countries in networked systems (NEXRAD in the US, for example) for real-time precipitation monitoring and severe weather warning.",
+      "Radar detection of bird migration was first discovered accidentally during World War II when 'phantom signals' on radar screens were later identified as migrating birds.",
+      "Modern polarimetric weather radars can distinguish precipitation type (rain, snow, sleet, hail) and even separate biological echoes (birds, insects) from meteorological echoes using polarization information.",
+      "X-ray scanning and chemical trace detection (not radar) are the established airport security methods for narcotics detection because they can identify material composition, not just spatial presence.",
+      "The same weather surveillance radar network used by meteorologists for precipitation forecasting is now being repurposed by ornithologists to study large-scale bird migration patterns and conservation."
+    ],
+    "sources": [
+      {
+        "title": "The Use of Radar in the Study of Animal Migration",
+        "url": "https://www.nature.com/scitable/knowledge/library/the-use-of-radar-in-the-study-of-animal-migration-84825627/",
+        "whyUsed": "Authoritative explanation of how radar detects and tracks birds, bats, and insects during migration using electromagnetic signal reflections."
+      },
+      {
+        "title": "ForumIAS - Radar Applications Discussion",
+        "url": "https://forumias.com/blog/question/consider-the-following-activities-1-identification-of-narcotics-on-passengers-at-airports-or-in-aircraft-2-monitoring-of-precipitation-3-tracking-the-migration-of-animals-in-how-many-of-the-above/",
+        "whyUsed": "Confirmed that narcotics detection uses X-ray and metal detectors at airports, not radar; verified correct answer is 'only two.'"
+      },
+      {
+        "title": "NEXRAD - Next Generation Weather Radar",
+        "url": "https://www.ncei.noaa.gov/products/radar/next-generation-weather-radar",
+        "whyUsed": "Technical confirmation that weather radars detect and map precipitation patterns, intensity, and movement in real-time."
+      },
+      {
+        "title": "BirdCast - Live Bird Migration Detection with Radar",
+        "url": "https://birdcast.org/migration-tools/live-migration-maps/",
+        "whyUsed": "Real-world example of how weather radar data is used to track and forecast bird migration at continental scale."
+      },
+      {
+        "title": "National Academies Press - Passenger Screening Technologies",
+        "url": "https://nap.nationalacademies.org/read/5116/chapter/5",
+        "whyUsed": "Confirmed that airport passenger screening uses X-ray imaging, metal detectors, and chemical trace detection\u2014not radar technology."
+      }
+    ],
+    "searchMeta": {
+      "usedWebSearch": true,
+      "searchQueries": [
+        "radar detection narcotics passengers airports",
+        "radar technology weather precipitation monitoring",
+        "radar tracking animal migration birds"
+      ],
+      "confidence": "high"
+    }
+  },
+  "id": 5
+}

@@ -1,0 +1,62 @@
+{
+  "subject": "Science & Technology",
+  "year": 2025,
+  "theme": "rare earth elements and their phosphorescent properties in display technologies",
+  "question_short_text": "Rare earth elements in flat screens: do phosphorescent properties explain their use?",
+  "text": "Consider the following statements:\n\nStatement I: Some rare earth elements are used in the manufacture of flat television screens and computer monitors.\n\nStatement II: Some rare earth elements have phosphorescent properties.\n\nWhich one of the following is correct in respect of the above statements?",
+  "options": [
+    "Both Statement I and Statement II are correct and Statement II explains Statement I",
+    "Both Statement I and Statement II are correct but Statement II does not explain Statement I",
+    "Statement I is correct but Statement II is not correct",
+    "Statement I is not correct but Statement II is correct"
+  ],
+  "answerIndex": 0,
+  "answerText": "(a) Both Statement I and Statement II are correct and Statement II explains Statement I",
+  "explanation": "Both statements are factually correct. Europium, terbium, and yttrium are used as phosphors in flat screens and monitors. These elements possess phosphorescent properties\u2014they emit light when energized by electrons. This light-emission ability is precisely why they are chosen for display technologies, making Statement II the causal explanation for Statement I.",
+  "research": {
+    "summary": "This question tests understanding of the causal link between rare earth element properties and their technological application. Both statements are verifiably correct, but the question's real cognitive demand lies in recognizing that Statement II explains Statement I, not merely supporting it.\n\nRare earth elements like europium, terbium, and yttrium are the workhorses of display technology because of their unique luminescent properties rooted in their 4f-electron configurations. When energized by an electron beam (in older CRT technology) or electrical current (in modern LCD/LED displays), these elements emit specific wavelengths of light. Europium is used for red phosphors, terbium for green, and yttrium serves as a structural host lattice. This colour-producing capability is not incidental to their use\u2014it is the fundamental reason they are selected for displays.\n\nThe trap many students fall into is treating the two statements as separate facts without recognizing the explanatory relationship. Yes, some rare earths are used in screens (Statement I), and yes, some rare earths have phosphorescent properties (Statement II), but the question demands that you understand that the second statement explains why the first is true. The phosphorescent property is not merely a coincidental attribute; it is the operating principle that makes these elements valuable for displays.\n\nIn modern flat-panel technology (LCD, LED, OLED), rare earth phosphors convert electrical or light energy into visible light with high efficiency and color purity. The unpaired 4f electrons in lanthanides enable 4f-4f or 4f-5d transitions, producing the precise, bright, long-lasting light emission required for vivid displays. This is why the same elements appear repeatedly in lighting and display contexts across different question types.",
+    "facts": [
+      "Europium is the premier red-emitter in display phosphors and is also used in nuclear control rods due to its neutron absorption capacity.",
+      "Terbium produces vivid green luminescence in displays and is also used to improve magnetic stability in electric vehicle motors at high temperatures.",
+      "In legacy CRT technology, approximately 7 grams of phosphor powder coats the screen; modern flat panels use similar rare earth compounds but in more efficient configurations.",
+      "Rare earth elements are classified by two groups: light rare earths (La through Eu, atomic numbers 57\u201363) and heavy rare earths (Gd through Lu, atomic numbers 64\u201371), with yttrium grouped with the heavy rare earths despite lower atomic weight.",
+      "China produces approximately 70% of the world's rare earth supply, creating geopolitical supply-chain dependency for display and renewable-energy technologies."
+    ],
+    "sources": [
+      {
+        "title": "How do we use rare earth elements? - Geoscience Profession",
+        "url": "https://profession.americangeosciences.org/society/intersections/faq/how-do-we-use-rare-earth-elements/",
+        "whyUsed": "Directly confirms europium, terbium, and yttrium phosphors in televisions and light panels, establishing the factual basis for Statement I."
+      },
+      {
+        "title": "Discover 7 Rare Earths in Displays: Essential Guide",
+        "url": "https://rareearthexchanges.com/rare-earths-in-displays/",
+        "whyUsed": "Details the role of europium and terbium phosphors in display color accuracy and the specific wavelengths of light emission, demonstrating the causal link between phosphorescent properties and display application."
+      },
+      {
+        "title": "Recovering rare earths from old TVs and computer screens",
+        "url": "https://solvomet.eu/2018/12/01/recovering-rare-earths-from-old-tvs-and-computer-screens/",
+        "whyUsed": "Provides concrete technical detail: yttrium and europium in red phosphor Y2O2S:Eu3+, confirming Statement I and the phosphorescent mechanism underlying its use."
+      },
+      {
+        "title": "Process development for the recovery of europium and yttrium from computer monitor screens",
+        "url": "https://www.sciencedirect.com/science/article/abs/pii/S0892687514003197",
+        "whyUsed": "Peer-reviewed source confirming europium-yttrium compounds in red phosphors and terbium-zinc sulfide in green phosphors for CRT and monitor displays, validating both statements."
+      },
+      {
+        "title": "Critical Minerals in Lighting and Phosphors",
+        "url": "https://www.sfa-oxford.com/knowledge-and-insights/critical-minerals-in-low-carbon-and-future-technologies/critical-minerals-in-electronics/critical-minerals-in-lighting-and-phosphors/",
+        "whyUsed": "Comprehensive technical analysis of how rare earth luminescent properties (4f and 5d electron transitions) enable color generation and light manipulation in modern display technologies."
+      }
+    ],
+    "searchMeta": {
+      "usedWebSearch": true,
+      "searchQueries": [
+        "rare earth elements flat screens monitors europium terbium yttrium",
+        "rare earth elements phosphorescent properties display technology"
+      ],
+      "confidence": "high"
+    }
+  },
+  "id": 3
+}

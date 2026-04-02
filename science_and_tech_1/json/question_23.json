@@ -1,0 +1,53 @@
+{
+  "subject": "Science",
+  "year": 2018,
+  "theme": "emerging technology classification and institutional locations",
+  "question_short_text": "Match scientific technologies and experiments with their correct locations or descriptions",
+  "text": "Consider the following pairs:\n\n1. Belle II experiment \u2014 CERN\n2. Blockchain technology \u2014 decentralized digital ledger\n3. CRISPR-Cas9 \u2014 gene editing technology\n\nWhich of the above pair(s) is/are correctly matched?",
+  "options": [
+    "(a) 1, 2 and 3",
+    "(b) Only 2 and 3",
+    "(c) 1 and 2 only",
+    "(d) Only 1"
+  ],
+  "answerIndex": 1,
+  "answerText": "(b) Only 2 and 3",
+  "explanation": "The Belle II experiment is located at SuperKEKB accelerator in Tsukuba, Japan, not at CERN. Both blockchain and CRISPR-Cas9 are correctly described.",
+  "research": {
+    "summary": "This question tests understanding of major contemporary technologies and where landmark experiments are conducted\u2014a critical distinction for aspirants following cutting-edge science policy and global research infrastructure. The trap is geographic: Belle II is often confused with CERN experiments because both are particle physics facilities at the intensity frontier, but Belle II is actually Japan's SuperKEKB, not Europe's CERN. Belle II began taking physics data in 2019 at KEK in Tsukuba after commissioning in 2018, studying CP violation and matter-antimatter asymmetry through electron-positron collisions with 40 times higher luminosity than its predecessor Belle. Blockchain is correctly characterized as a decentralized digital ledger\u2014a system where multiple nodes maintain identical copies of transaction records without central authority, with cryptographic hashing ensuring immutability and security. CRISPR-Cas9 is accurately described as gene-editing technology: Cas9 functions as molecular scissors, guided by RNA sequences to cut DNA at precise locations, allowing correction of genetic errors or insertion of new sequences. The 2012 breakthrough by Doudna and Charpentier, recognized with the 2020 Nobel Prize, made the technology accessible and rapid. Both blockchain and CRISPR exemplify transformative technologies that UPSC tests for current-affairs awareness and functional understanding, while the Belle II mismatch exploits the common confusion between international particle physics experiments.",
+    "facts": [
+      "Belle II expected to collect 50 times more data than the original Belle experiment (1999-2010), enabling rare decay studies impossible before.",
+      "Blockchain uses peer-to-peer consensus mechanisms (Proof of Work or Proof of Stake) to validate transactions without intermediaries like banks.",
+      "CRISPR-Cas9 received its first FDA-approved therapeutic application in December 2023 for treating sickle cell disease (Casgevy).",
+      "Belle II's CP violation research seeks to explain matter-antimatter asymmetry, directly relevant to understanding why the universe is predominantly matter.",
+      "CRISPR technology was approved for human therapy development in under a decade from the 2012 Doudna-Charpentier paper, representing extraordinary speed in biotech translation."
+    ],
+    "sources": [
+      {
+        "title": "Belle II experiment \u2014 Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Belle_II_experiment",
+        "whyUsed": "Verified Belle II location at SuperKEKB in Tsukuba, Japan, operational timeline starting 2018-2019"
+      },
+      {
+        "title": "Blockchain \u2014 Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Blockchain",
+        "whyUsed": "Confirmed blockchain as decentralized digital ledger with immutability and consensus mechanisms"
+      },
+      {
+        "title": "CRISPR/Cas9 gene editing \u2014 Nature and PMC",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4975809/",
+        "whyUsed": "Verified CRISPR-Cas9 as precise gene-editing technology with clinical applications and 2020 Nobel Prize context"
+      }
+    ],
+    "searchMeta": {
+      "usedWebSearch": true,
+      "searchQueries": [
+        "Belle II experiment CERN particle physics",
+        "blockchain decentralized ledger technology features",
+        "CRISPR-Cas9 gene editing technology"
+      ],
+      "confidence": "high"
+    }
+  },
+  "id": 23
+}
