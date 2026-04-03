@@ -1,0 +1,51 @@
+{
+  "subject": "Science",
+  "year": 1998,
+  "theme": "Planetary positions and characteristics in the solar system",
+  "question_short_text": "Match planetary characteristics with their correct planet names",
+  "text": "Match List I with List II and select the correct answer by using the codes given below the lists:\n\n| List I (Special Characteristic) | List II (Name of Planet) |\n| --- | --- |\n| I. Farthest planet from the sun | A) Mercury |\n| II. Largest planet of the solar system | B) Venus |\n| III. Planet second from the Sun in the solar system | C) Jupiter |\n| IV. Planet nearest to the Sun | D) Pluto |\n| | E) Saturn |\n\nCodes:\na) I-B, II-C, III-E, IV-A\nb) I-C, II-E, III-A, IV-B\nc) I-D, II-A, III-B, IV-C\nd) I-D, II-C, III-B, IV-A",
+  "options": [
+    "I-B, II-C, III-E, IV-A",
+    "I-C, II-E, III-A, IV-B",
+    "I-D, II-A, III-B, IV-C",
+    "I-D, II-C, III-B, IV-A"
+  ],
+  "answerIndex": 3,
+  "answerText": "(d) I-D, II-C, III-B, IV-A",
+  "explanation": "The correct matches are: I (Farthest planet) = D (Pluto), II (Largest planet) = C (Jupiter), III (Second from Sun) = B (Venus), IV (Nearest to Sun) = A (Mercury). Note: Pluto's status was reclassified as a dwarf planet in 2006.",
+  "research": {
+    "summary": "This 1998 matching question tests basic knowledge of planetary positions and characteristics. At the time the question was written, Pluto was still classified as the ninth and farthest planet, making D the correct choice for statement I. Jupiter remains uncontestedly the largest planet by mass and diameter\u2014roughly eleven times wider than Earth and containing more mass than all other planets combined. Venus orbits as the second planet from the Sun, with Mercury as the closest. However, a critical shift occurred in 2006 when the International Astronomical Union formally defined a planet and reclassified Pluto as a dwarf planet due to its failure to clear its orbital neighborhood of debris. Since 2006, Neptune\u2014the ice giant discovered in 1846\u2014is technically the farthest planet from the Sun at 4.5 billion kilometers away. The question anchors itself in pre-2006 astronomical understanding, which is why Pluto is the intended answer despite its later demotion. Students solving this question must recognize that answer D maps all four characteristics correctly according to 1998 planetary knowledge. The modern shift\u2014from Pluto to Neptune as the outermost body\u2014illustrates how scientific definitions and classifications evolve with improved understanding, a principle UPSC tests implicitly through questions that reference established knowledge at a specific point in time.",
+    "facts": [
+      "Jupiter is the largest planet in the solar system, roughly 11 times wider than Earth and containing more than twice the mass of all other planets combined.",
+      "Venus, the second planet from the Sun, is often called Earth's 'sister planet' due to similar size, but has a caustic atmosphere with surface temperatures exceeding 460\u00b0C.",
+      "Mercury, closest to the Sun, orbits in just 88 Earth days and has no atmosphere to retain heat, resulting in extreme temperature swings.",
+      "Neptune, discovered through mathematical prediction in 1846, became the recognized outermost planet after Pluto's reclassification in 2006 following the IAU's three-criterion definition of a planet.",
+      "Pluto's highly elliptical orbit occasionally brings it closer to the Sun than Neptune for roughly 20-year periods, most recently between 1979 and 1999."
+    ],
+    "sources": [
+      {
+        "title": "Neptune - Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Neptune",
+        "whyUsed": "Verified that Neptune is the current farthest planet since 2006, and confirmed Pluto's reclassification as a dwarf planet by the IAU in 2006."
+      },
+      {
+        "title": "Guinness World Records - Farthest planet in the Solar System",
+        "url": "https://www.guinnessworldrecords.com/world-records/farthest-planet-in-the-solar-system",
+        "whyUsed": "Confirmed Neptune as the official farthest planet and provided historical context on Pluto losing its planetary status in 2006."
+      },
+      {
+        "title": "Sky at Night Magazine - What's the farthest planet from Earth?",
+        "url": "https://www.skyatnightmagazine.com/space-science/farthest-planet-from-earth",
+        "whyUsed": "Clarified that Neptune is the farthest planet after Pluto's 2006 reclassification and provided current astronomical understanding."
+      }
+    ],
+    "searchMeta": {
+      "usedWebSearch": true,
+      "searchQueries": [
+        "farthest planet solar system current 2024"
+      ],
+      "confidence": "high"
+    }
+  },
+  "id": 63
+}

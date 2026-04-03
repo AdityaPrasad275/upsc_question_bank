@@ -1,0 +1,52 @@
+{
+  "subject": "Science",
+  "year": 2009,
+  "theme": "lunar exploration and moon impact probes by country",
+  "question_short_text": "Country that landed a moon impact probe before India's Chandrayaan-1 mission in 2008",
+  "text": "India has recently landed its Moon Impact Probe on the Moon. Among the following countries, which one landed such probe on the Moon earlier?",
+  "options": [
+    "Australia",
+    "Canada",
+    "China",
+    "Japan"
+  ],
+  "answerIndex": 3,
+  "answerText": "(d) Japan",
+  "explanation": "Japan's Hiten spacecraft reached the Moon in 1993, making it the first among the listed countries to reach the lunar surface. However, it was a flyby mission, not a deliberate impact probe like India's Moon Impact Probe.",
+  "research": {
+    "summary": "This question hinges on a critical distinction: what counts as a 'Moon Impact Probe' versus other types of lunar missions. India's Chandrayaan-1 Moon Impact Probe (MIP) impacted the lunar surface on November 14, 2008, making India the fifth national space agency to reach the Moon's surface. Before India, the Soviet Union (Luna 2, 1959), United States (Ranger 3, 1962), Japan (Hiten, 1993), and the European Space Agency (Smart-1, 2006) had reached the lunar surface. Among the four options given\u2014Australia, Canada, China, and Japan\u2014Japan is the only one that had previously landed a spacecraft on the Moon. Japan's Hiten spacecraft completed a lunar flyby and controlled impact in 1993. China's first lunar mission, Chang'e 1, was an orbiter launched in 2007 and later intentionally impacted the Moon on March 1, 2009\u2014after India's Moon Impact Probe. Australia and Canada have never sent spacecraft to the Moon. The trap in this question is that students may confuse Chang'e 1's impact (March 2009) with earlier missions, or may not realize that Japan achieved a lunar impact before China. The question tests whether students know the chronology of Asian lunar programs and can distinguish between different types of lunar missions (orbiter, flyby, controlled impact).",
+    "facts": [
+      "Japan's Hiten spacecraft achieved lunar impact in 1993, becoming the first Asian country to reach the Moon.",
+      "China's Chang'e 1 orbiter impacted the Moon on March 1, 2009, more than four months after India's Moon Impact Probe (November 14, 2008).",
+      "India became the fifth national space agency to reach the lunar surface with the Moon Impact Probe, after USSR (1959), USA (1962), Japan (1993), and ESA (2006).",
+      "The Moon Impact Probe was a deliberate hard-impact mission that carried instruments including a radar altimeter, video imaging system, and mass spectrometer (CHACE), enabling scientific measurements during descent.",
+      "Chandrayaan-1's MIP discovered evidence of water molecules in the lunar atmosphere during its 25-minute descent before impact near the Shackleton Crater at the lunar south pole."
+    ],
+    "sources": [
+      {
+        "title": "Moon Impact Probe - Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Moon_Impact_Probe",
+        "whyUsed": "Comprehensive timeline of all nations reaching the lunar surface, confirming Japan's 1993 Hiten impact and India's 2008 Moon Impact Probe as the fifth agency to reach the Moon."
+      },
+      {
+        "title": "Chandrayaan-1 Mission - NASA Science",
+        "url": "https://science.nasa.gov/mission/chandrayaan-1/",
+        "whyUsed": "Official NASA source confirming Chandrayaan-1 launch date (October 22, 2008) and Moon Impact Probe impact date (November 14, 2008), as well as ISRO becoming the fifth space agency to reach the lunar surface."
+      },
+      {
+        "title": "Exploration of the Moon - Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Exploration_of_the_Moon",
+        "whyUsed": "Timeline data showing China's Chang'e 1 orbiter launch (October 24, 2007) and controlled impact on the Moon (March 1, 2009), confirming it occurred after India's Moon Impact Probe."
+      }
+    ],
+    "searchMeta": {
+      "usedWebSearch": true,
+      "searchQueries": [
+        "Chandrayaan-1 Moon impact probe 2008 2009",
+        "which countries landed moon impact probe before 2009"
+      ],
+      "confidence": "high"
+    }
+  },
+  "id": 36
+}

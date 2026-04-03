@@ -1,0 +1,57 @@
+{
+  "subject": "Science",
+  "year": 2025,
+  "theme": "mechanisms and applications of monoclonal antibodies in immunotherapy",
+  "question_short_text": "Correctness of statements on monoclonal antibody composition, function, and viral infection treatment",
+  "text": "With reference to monoclonal antibodies, often mentioned in news, consider the following statements:\n\nI. They are man-made proteins.\n\nII. They stimulate immunological function due to their ability to bind to specific antigens.\n\nIII. They are used in treating viral infections like that of Nipah virus.\n\nWhich of the statements given above are correct?",
+  "options": [
+    "a) I and II only",
+    "b) II and III only",
+    "c) I and III only",
+    "d) I, II and III"
+  ],
+  "answerIndex": 3,
+  "answerText": "(d) I, II and III",
+  "explanation": "All three statements are correct. Monoclonal antibodies are laboratory-engineered proteins that bind to specific antigens to enhance immune responses, and they have been demonstrated to treat viral infections including Nipah virus.",
+  "research": {
+    "summary": "Monoclonal antibodies (mAbs) are entirely synthetic molecules engineered in laboratories from single B-cell clones, making Statement I definitively correct. Unlike the body's natural immune response which produces diverse, polyclonal antibodies, mAbs are identical clones with uniform binding specificity. For Statement II, the mechanism is precise: mAbs bind to specific epitopes (target sites) on antigens, and this targeted binding directly enhances immunological function through multiple pathways\u2014they can block signaling, induce apoptosis, trigger complement activation, and recruit immune effector cells. This binding specificity is what makes them 'magic bullets' in modern immunotherapy. Statement III is strongly supported by clinical research: monoclonal antibodies have been actively developed and tested against Nipah virus, a WHO-designated priority pathogen with fatality rates up to 90%. The mAb m102.4 targets the viral G glycoprotein and has been administered to 18 patients on an emergency-use basis since 2010. More recently, the hu1F5 antibody targeting the fusion (F) glycoprotein has shown 100% protection in preclinical trials even when administered five days post-infection. These represent actual therapeutic applications, not mere experimental concepts. The key distinction UPSC tests here is that mAbs work through passive immunization\u2014they provide immediate immune protection upon entering the bloodstream, unlike vaccines which require time for an adaptive immune response. This is why they are being developed for outbreak response in endemic regions like Bangladesh and India.",
+    "facts": [
+      "Monoclonal antibodies were first successfully produced in 1975 by Kohler and Milstein using hybridoma technology, fusing myeloma cells with B cells to create immortal antibody-producing cells.",
+      "The mAb m102.4 against Nipah virus has been given emergency-use authorization to 18 patients globally since 2010 and targets the G glycoprotein spike of the virus.",
+      "Newer Nipah mAbs like hu1F5 targeting the fusion (F) glycoprotein achieved 100% protection in preclinical studies even when administered five days post-infection in nonhuman primates.",
+      "Monoclonal antibodies provide passive immunization offering immediate immune protection within hours, unlike vaccines which typically require weeks to induce sufficient adaptive immunity.",
+      "Currently there are no licensed vaccines or approved therapeutics for Nipah virus clinical use, making mAb development a critical pandemic preparedness tool for endemic regions in South Asia."
+    ],
+    "sources": [
+      {
+        "title": "Potent Human Monoclonal Antibodies against SARS CoV, Nipah and Hendra Viruses - PMC",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC2705284/",
+        "whyUsed": "Established that monoclonal antibodies against Nipah virus have been identified and show potential for treatment, prophylaxis, and diagnosis"
+      },
+      {
+        "title": "USU-developed monoclonal antibody against Nipah virus recognized as top health innovation - DHA.mil",
+        "url": "https://www.dha.mil/News/2025/04/25/14/04/USU-developed-monoclonal-antibody-against-Nipah-virus-recognized-as-top-innovation",
+        "whyUsed": "Verified clinical deployment of m102.4 mAb to 18 patients since 2010 and recent breakthrough with hu1F5 achieving 100% protection in preclinical studies"
+      },
+      {
+        "title": "Understanding How Monoclonal Antibodies Work - StatPearls - NCBI Bookshelf",
+        "url": "https://www.ncbi.nlm.nih.gov/books/NBK572118/",
+        "whyUsed": "Confirmed that mAbs are synthetic molecules produced from single B-cell clones and act through specific antigen binding to enhance immune responses"
+      },
+      {
+        "title": "Potent human neutralizing antibodies against Nipah virus derived from two ancestral antibody heavy chains | Nature Communications",
+        "url": "https://www.nature.com/articles/s41467-024-47213-8",
+        "whyUsed": "Documented recent 2024 research on neutralizing antibodies against Nipah virus and their protective efficacy in animal models"
+      }
+    ],
+    "searchMeta": {
+      "usedWebSearch": true,
+      "searchQueries": [
+        "monoclonal antibodies viral infection treatment Nipah",
+        "monoclonal antibodies mechanism binding antigens immunological"
+      ],
+      "confidence": "high"
+    }
+  },
+  "id": 3
+}

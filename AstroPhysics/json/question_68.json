@@ -1,0 +1,63 @@
+{
+  "subject": "Science",
+  "year": 1997,
+  "theme": "astrobiological conditions on Mars - habitability requirements",
+  "question_short_text": "Most relevant condition for presence of life on Mars?",
+  "text": "Which one of the following conditions is most relevant for the presence of life on Mars?",
+  "options": [
+    "Atmospheric composition",
+    "Thermal conditions",
+    "Occurrence of ice caps and frozen water",
+    "Occurrence of ozone"
+  ],
+  "answerIndex": 2,
+  "answerText": "(c) Occurrence of ice caps and frozen water",
+  "explanation": "Water in any form (ice, frozen, subsurface) is the most critical requirement for life as we understand it. Mars possesses over 5 million km\u00b3 of ice at or near the surface, enough to cover the entire planet to 35 meters depth. While the thin CO\u2082-dominated atmosphere and extreme cold make surface survival impossible, water ice provides both a resource and a potential habitat for microbial life, either frozen or in subsurface liquid conditions.",
+  "research": {
+    "summary": "This 1997 question tests a fundamental principle in the search for extraterrestrial life: water is the essential prerequisite. NASA's \"Follow the Water\" strategy, adopted after this question was written, confirms that the presence of water\u2014in any state\u2014remains the primary indicator of habitability on Mars.\n\nThe trap here is conflating atmospheric composition with habitability. Mars' atmosphere is 95% CO\u2082 with only trace oxygen; it is far too thin to breathe and too thin to maintain liquid water on the surface. Many students choose (a) thinking a breathable atmosphere is necessary for life. However, Earth's early biosphere thrived for billions of years without atmospheric oxygen, and microbial life on Mars would be extremophilic\u2014adapted to freezing, radiation, and chemical conditions we cannot easily imagine.\n\nThermal conditions on Mars are brutal: average surface temperatures of \u221262\u00b0C (\u221280\u00b0F). Yet even here, water remains more critical than warmth. Life on Earth exists in frozen polar regions and deep ocean hydrothermal vents; cold does not rule out life. What cold does is preserve it: subsurface ice on Mars can protect organic molecules from radiation and desiccation for tens of millions of years, as confirmed by recent NASA studies.\n\nOzone is important for Earth life because it shields the surface from ultraviolet radiation. Mars lacks a substantial ozone layer, which is why any surface exposure to UV is lethal. But Mars' ice deposits lie beneath the surface or in polar caps, naturally shielded. Subsurface microbial habitats would not depend on ozone.\n\nWater ice abundance is the key. Mars contains approximately 5+ million km\u00b3 of water ice\u20141.6 million km\u00b3 in each polar cap, plus extensive subsurface deposits. Even more ice may be locked in the cryosphere. Recent discoveries indicate liquid water may exist beneath the south polar ice cap, sustained by geothermal heating. Most importantly, ice can preserve biomarkers of past life, make water available for extraction (crucial for human missions), and create transient liquid environments where photosynthetic microbial life could potentially exist within dusty ice exposed to seasonal solar heating.",
+    "facts": [
+      "Mars polar ice caps contain water ice totaling ~3.2 million km\u00b3 combined, with subsurface deposits adding significantly more, far exceeding any other water reservoir on the planet.",
+      "Ice deposits in the Utopia Planitia region alone contain a volume equivalent to Lake Superior, discovered by Mars Reconnaissance Orbiter's SHARAD radar instrument.",
+      "Recent NASA studies (2025\u20132026) show that amino acids in pure water ice can survive 50 million years of cosmic radiation exposure on Mars, making ice the ideal substrate for preserving biosignatures.",
+      "Solar radiation can penetrate Martian ice deposits 6\u20139 meters deep, potentially creating subsurface liquid water pockets that could support photosynthetic microbial life under seasonal warming cycles.",
+      "Deuterium enrichment measurements of Martian polar ice indicate the planet lost a volume of water 6.5 times larger than currently stored in ice caps, suggesting Mars was once warm and wet for extended periods."
+    ],
+    "sources": [
+      {
+        "title": "Water on Mars - Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Water_on_Mars",
+        "whyUsed": "Comprehensive overview of water ice distribution, volumes, and subsurface deposits on Mars; confirmed 5+ million km\u00b3 figure and evidence for past liquid water."
+      },
+      {
+        "title": "Water Ice in the Subsurface and Polar Caps of Mars",
+        "url": "https://link.springer.com/article/10.1007/s11214-025-01259-2",
+        "whyUsed": "Recent peer-reviewed review of Mars water inventory, cryosphere distribution, and astrobiological implications; confirms ice as primary water reservoir."
+      },
+      {
+        "title": "Could Life Exist Below Mars Ice? NASA Study Proposes Possibilities",
+        "url": "https://www.nasa.gov/solar-system/planets/mars/could-life-exist-below-mars-ice-nasa-study-proposes-possibilities/",
+        "whyUsed": "Recent NASA research on ice as potential microbial habitat; documents photosynthesis depth calculations and subsurface liquid water formation mechanisms."
+      },
+      {
+        "title": "NASA study finds ancient life could survive 50 million years in Martian ice",
+        "url": "https://www.sciencedaily.com/releases/2026/02/260225081147.htm",
+        "whyUsed": "Latest 2026 NASA research demonstrating long-term preservation of organic molecules in pure Martian ice under cosmic radiation."
+      },
+      {
+        "title": "Martian polar ice caps - Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Martian_polar_ice_caps",
+        "whyUsed": "Detailed data on polar ice cap composition, volumes, seasonal dynamics, and potential subsurface liquid water beneath south polar cap."
+      }
+    ],
+    "searchMeta": {
+      "usedWebSearch": true,
+      "searchQueries": [
+        "water ice Mars life conditions astrobiological",
+        "Mars atmospheric composition oxygen carbon dioxide",
+        "Mars ice caps frozen water subsurface volume"
+      ],
+      "confidence": "high"
+    }
+  },
+  "id": 68
+}

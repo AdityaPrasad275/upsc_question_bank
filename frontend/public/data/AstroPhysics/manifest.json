@@ -12,6 +12,11 @@
       "file": "question_2.json"
     },
     {
+      "id": 3,
+      "short_text": "Correctness of statements on monoclonal antibody composition, function, and viral infection treatment",
+      "file": "question_3.json"
+    },
+    {
       "id": 4,
       "short_text": "Giant stars vs dwarf stars: lifespan and nuclear reaction rates comparison",
       "file": "question_4.json"
@@ -172,6 +177,11 @@
       "file": "question_35.json"
     },
     {
+      "id": 36,
+      "short_text": "Country that landed a moon impact probe before India's Chandrayaan-1 mission in 2008",
+      "file": "question_36.json"
+    },
+    {
       "id": 37,
       "short_text": "Location of ISRO cryogenic engine test-stand from 2007 test",
       "file": "question_37.json"
@@ -302,6 +312,11 @@
       "file": "question_62.json"
     },
     {
+      "id": 63,
+      "short_text": "Match planetary characteristics with their correct planet names",
+      "file": "question_63.json"
+    },
+    {
       "id": 64,
       "short_text": "Definition of Astronomical Unit (AU) and its reference distance",
       "file": "question_64.json"
@@ -320,6 +335,11 @@
       "id": 67,
       "short_text": "Which star is nearest to Earth?",
       "file": "question_67.json"
+    },
+    {
+      "id": 68,
+      "short_text": "Most relevant condition for presence of life on Mars?",
+      "file": "question_68.json"
     },
     {
       "id": 69,
