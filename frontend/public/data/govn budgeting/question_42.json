@@ -1,0 +1,57 @@
+{
+  "subject": "Economy",
+  "year": 1995,
+  "theme": "Non-plan expenditure classification in Indian budget",
+  "question_short_text": "Identify items classified as non-plan expenditure: defence, subsidies, past plan liabilities, interest",
+  "text": "Which of the following are among the non-plan expenditures of the Government of India?\n\nI. Defence expenditure\nII. Subsidies\nIII. All expenditures linked with the previous plan periods\nIV. Interest payment",
+  "options": [
+    "I and II",
+    "I and III",
+    "II and IV",
+    "I, II, III and IV"
+  ],
+  "answerIndex": 3,
+  "answerText": "(d) I, II, III and IV",
+  "explanation": "All four items are non-plan expenditures. Non-plan expenditure includes all government spending not directly tied to the current Five-Year Plan, such as defence, subsidies, interest payments, and the maintenance and operating expenses of infrastructure created in previous plan periods.",
+  "research": {
+    "summary": "Non-plan expenditure is a fundamental budget classification in India that covers all government spending not directly linked to the current Five-Year Plan. The distinction, in place from 1951 until its abolition in 2017-18, separated developmental spending (plan) from routine, maintenance, and obligatory spending (non-plan).\n\nAnalyzing each statement: (I) Defence expenditure is explicitly non-plan because it represents ongoing operational and security spending that is mandatory regardless of plan status. (II) Subsidies on food, fertilisers, petroleum, and other essentials are routine fiscal obligations meeting social and economic policy goals, not tied to specific plan objectives. (III) This is the critical statement that often confuses aspirants. Expenditures linked to previous plan periods\u2014such as operating costs, maintenance, and staffing of roads, schools, hospitals, and irrigation systems built during earlier plans\u2014are classified as non-plan in subsequent plan periods. For instance, a road built as plan expenditure in the 5th Plan becomes a non-plan maintenance cost in the 7th Plan. (IV) Interest payments on government borrowings are obligatory recurring expenses, among the largest components of non-plan expenditure.\n\nThe common misconception is that \"previous plan expenditures\" should somehow be plan expenditure. However, the system distinguishes by time: once a plan period ends, all ongoing or maintenance-related costs shift to non-plan. This classification explains why non-plan expenditure historically grew larger than plan expenditure\u2014as more infrastructure was created, the burden of maintaining and operating it accumulated.",
+    "facts": [
+      "Non-plan expenditure components historically included salary and pensions for regular government staff, police, defence services, maintenance of existing assets, and grants to states for non-developmental purposes.",
+      "The plan/non-plan distinction was abandoned in 2017-18 and replaced with Capital and Revenue expenditure classification following the C. Rangarajan Committee recommendation (2011).",
+      "In 1995, India was in the 8th Five-Year Plan period (1992-1997), so non-plan expenditure would have included obligations from the 1st through 7th Plans.",
+      "A key effect of the plan/non-plan split was that maintenance and operations of older assets were systematically deprioritized compared to new plan schemes, leading to infrastructure degradation.",
+      "Non-plan expenditure by definition could be both revenue (wages, interest, subsidies) or capital (maintenance of existing roads, dams, power stations) in nature."
+    ],
+    "sources": [
+      {
+        "title": "Non-Plan Expenditure 2001-2002 - India Budget Archives",
+        "url": "https://www.indiabudget.gov.in/budget_archive/ub2001-02/eb/npe.pdf",
+        "whyUsed": "Official government budget document clearly listing defence, subsidies, interest, and maintenance expenses as non-plan components."
+      },
+      {
+        "title": "Plan and Non-Plan Expenditure - Economics Discussion",
+        "url": "https://www.economicsdiscussion.net/government/plan-and-non-plan-expenditure-of-indian-government-micro-economics/767",
+        "whyUsed": "Explained the conceptual basis for classifying expenditures and the role of maintenance costs from previous plans in non-plan budgets."
+      },
+      {
+        "title": "Merging Plan and Non-Plan - CBGA India",
+        "url": "https://www.cbgaindia.org/blog/merging-plan-non-plan/",
+        "whyUsed": "Clarified that expenditures on maintenance of infrastructure built in previous plans are classified as non-plan in subsequent plan periods, and provided examples."
+      },
+      {
+        "title": "Plan and Non-plan Expenditure Classification - Edukemy",
+        "url": "https://edukemy.com/blog/plan-and-non-plan-expenditure-classification-upsc-economy-notes/",
+        "whyUsed": "Defined non-plan expenditure as recurring expenses for administrative functions, maintenance, interest, and subsidies essential for government operations."
+      }
+    ],
+    "searchMeta": {
+      "usedWebSearch": true,
+      "searchQueries": [
+        "plan expenditure non-plan expenditure Government India definition",
+        "India budget plan non-plan classification 1995 2000"
+      ],
+      "confidence": "high"
+    }
+  },
+  "id": 42
+}

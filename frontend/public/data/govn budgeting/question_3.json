@@ -1,0 +1,57 @@
+{
+  "subject": "Economy",
+  "year": 2025,
+  "theme": "Primary deficit calculation and relationship with fiscal deficit and interest payments",
+  "question_short_text": "Calculate gross primary deficit given fiscal deficit, interest payments, and non-debt capital receipts",
+  "text": "A country's fiscal deficit stands at \u20b950,000 crores. It is receiving \u20b910,000 crores through non-debt creating capital receipts. The country's interest liabilities are \u20b91,500 crores. What is the gross primary deficit?",
+  "options": [
+    "\u20b948,500 crores",
+    "\u20b951,500 crores",
+    "\u20b958,500 crores",
+    "None of the above"
+  ],
+  "answerIndex": 0,
+  "answerText": "(a) \u20b948,500 crores",
+  "explanation": "Primary Deficit = Fiscal Deficit \u2013 Interest Payments = \u20b950,000 crores \u2013 \u20b91,500 crores = \u20b948,500 crores. Non-debt capital receipts are already excluded in fiscal deficit calculation and do not affect the primary deficit formula.",
+  "research": {
+    "summary": "This question tests a precise distinction between three critical deficit concepts in Indian government budgeting. The trap is that students often forget that fiscal deficit already excludes non-debt capital receipts and worry that they should factor it into the primary deficit calculation\u2014they should not. Fiscal deficit = Total Expenditure \u2212 (Revenue Receipts + Non-debt Capital Receipts). By definition, it already accounts for all non-borrowing sources of income. The primary deficit then isolates the current year's borrowing need by removing interest obligations on past debt. Primary Deficit = Fiscal Deficit \u2212 Interest Payments. Here, the calculation is straightforward: \u20b950,000 \u2212 \u20b91,500 = \u20b948,500 crores. The key conceptual insight is that primary deficit reveals only the borrowing attributable to current spending exceeding current income, excluding what the government owes for accumulated past debt. This matters for fiscal sustainability assessment\u2014a high fiscal deficit might simply reflect mounting interest costs on old debt, while a high primary deficit signals the government is spending beyond its means today, which is the real warning sign. The non-debt capital receipts mentioned in the question are a red herring: they reduce fiscal deficit but play no direct role in the primary deficit calculation because they are already stripped out when fiscal deficit was computed.",
+    "facts": [
+      "Non-debt capital receipts (loans recovery and disinvestment proceeds) do not create debt obligations and are already netted out of fiscal deficit, so they do not appear in the primary deficit formula.",
+      "Gross primary deficit = Gross fiscal deficit \u2212 Net interest liabilities; if interest received exceeded interest paid, you would use net interest liabilities, but in this question only liabilities are mentioned.",
+      "A declining primary deficit suggests the government is pulling back from new borrowing for current spending, indicating improving fiscal discipline; in contrast, a declining fiscal deficit with rising primary deficit suggests the deficit is being driven by past debt servicing, not new spending.",
+      "Primary deficit is used to assess whether government borrowing is being used for consumption (bad long-term indicator) or productive investment; interest payments on past debt are non-discretionary and do not reflect current fiscal choices.",
+      "The fiscal deficit target under the Fiscal Responsibility and Budget Management (FRBM) Act 2003 is set at 4.5% of GDP by 2025-26; the primary deficit target is 2.3% of GDP, showing policy focus on both total borrowing and new borrowing needs."
+    ],
+    "sources": [
+      {
+        "title": "Insights on India - Types of Deficit",
+        "url": "https://www.insightsonindia.com/indian-economy-3/fiscal-policy/deficit/types-of-deficit/",
+        "whyUsed": "Verified the exact definition and formula: Gross Primary deficit = Fiscal deficit \u2212 Interest payments"
+      },
+      {
+        "title": "Drishti IAS - India's Fiscal Deficit Targets",
+        "url": "https://www.drishtiias.com/daily-updates/daily-news-analysis/india-fiscal-deficit-targets",
+        "whyUsed": "Confirmed the relationship between primary deficit and fiscal deficit, and verified India's fiscal and primary deficit targets under FRBM"
+      },
+      {
+        "title": "Vedantu - Primary Deficit",
+        "url": "https://www.vedantu.com/commerce/primary-deficit",
+        "whyUsed": "Clarified the distinction between fiscal deficit and primary deficit, and explained why students confuse these concepts"
+      },
+      {
+        "title": "School of Money - Non-Debt Capital Receipts",
+        "url": "https://www.schoolofmoney.co/blog/understanding-non-debt-capital-receipts-a-comprehensive-guide",
+        "whyUsed": "Verified that non-debt capital receipts do not increase debt obligation and are sources like disinvestment and loan recovery"
+      }
+    ],
+    "searchMeta": {
+      "usedWebSearch": true,
+      "searchQueries": [
+        "fiscal deficit primary deficit interest payments India definition",
+        "non-debt creating capital receipts fiscal deficit definition"
+      ],
+      "confidence": "high"
+    }
+  },
+  "id": 3
+}

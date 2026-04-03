@@ -1,0 +1,57 @@
+{
+  "subject": "Polity",
+  "year": 2001,
+  "theme": "components and classification of India's internal debt",
+  "question_short_text": "Identify which borrowing instruments compose India's internal debt",
+  "text": "Consider the following:\n\nI. Market borrowing\nII. Treasury bills\nIII. Special securities issued to RBI\n\nWhich of these is/are component(s) of internal debt?",
+  "options": [
+    "I only",
+    "I and II",
+    "II only",
+    "I, II and III"
+  ],
+  "answerIndex": 3,
+  "answerText": "(d) I, II and III",
+  "explanation": "All three components\u2014market borrowing, treasury bills, and special securities issued to RBI\u2014are components of internal debt because they represent borrowings from domestic sources.",
+  "research": {
+    "summary": "Internal debt is all borrowing by the government from domestic lenders and institutions. The key distinction from external debt is geography, not instrument type: internal debt is borrowed in rupees from Indian residents, banks, institutions, and the central bank. Market borrowing refers to when the government issues dated securities (government bonds with fixed maturity like 5, 10, or 30 years) to the public, banks, and institutional investors in the open market\u2014these are the backbone of India's market borrowing program. Treasury bills are short-term government securities maturing in 91, 182, or 364 days, issued at a discount and redeemed at face value; they are part of the government's short-term cash management and are part of internal debt regardless of who holds them (commercial banks, state governments, or RBI). Special securities issued to RBI represent a direct borrowing arrangement between the government and the central bank\u2014though this practice was curtailed after 1997 (ending ad-hoc T-bills to RBI to prevent automatic monetization of the deficit), special securities issued to RBI remained part of the internal debt classification structure. The trap in this question is thinking that borrowing from RBI is somehow different from internal debt or that only market instruments count. In reality, the Indian budgetary classification is clear: internal debt includes market loans, special securities issued to RBI, treasury bills (issued to various parties), and other securities issued to domestic institutions. What matters is the source of funds (domestic vs. foreign), not the instrument's tradability or maturity. This classification is distinct from 'other liabilities'\u2014which include small savings deposits, provident funds, and other non-debt obligations\u2014making this a precise question about budgetary terminology used in India's receipt budget.",
+    "facts": [
+      "Internal debt is classified in India's budget into marketable debt (dated securities and T-bills) and non-marketable debt (special securities, compensation bonds), all sourced domestically.",
+      "India's RBI Act (1934) designates the RBI as the government's debt manager for internal debt and gives it responsibility for managing the government's banking and debt operations.",
+      "Market borrowing has grown as a source of fiscal deficit financing: from 21% in 1991-92 to over 70% by the early 2000s, partly driven by reduction in forced bank holdings (SLR and CRR reductions).",
+      "Treasury bills issued to the RBI were discontinued as 'ad-hoc' borrowing in 1997 to prevent automatic monetization of the fiscal deficit, though special securities to RBI remain part of internal debt classification.",
+      "External debt comprises loans from foreign governments, multilateral bodies (World Bank, ADB, IMF), and foreign commercial banks\u2014a fundamentally different category from internal debt."
+    ],
+    "sources": [
+      {
+        "title": "Guidelines for Public Debt Management - India Chapter (IMF)",
+        "url": "https://www.elibrary.imf.org/display/book/9781589061941/ch006.xml",
+        "whyUsed": "Authoritative source defining internal debt components: 'Internal debt includes market loans; special securities issued to the RBI; compensation and other bonds; treasury bills issued to the RBI, state governments, commercial banks, and other parties.'"
+      },
+      {
+        "title": "RBI Internal Debt Management Department Overview",
+        "url": "https://rbidocs.rbi.org.in/rdocs/Publications/PDFs/RIA160609.pdf",
+        "whyUsed": "Official RBI documentation on its role managing government securities and treasury bills as part of internal debt management."
+      },
+      {
+        "title": "Ministry of Finance - Status Paper on Government Debt 2023-24",
+        "url": "http://dea.gov.in/files/public_debt_management_documents/Status%20Paper%20on%20Government%20Debt%20for%202023-24.pdf",
+        "whyUsed": "Recent government source confirming composition of internal debt: dated securities, Treasury Bills, non-marketable securities to NSSF and institutions."
+      },
+      {
+        "title": "UPSC-focused Economics Notes - Clarity UPSC",
+        "url": "https://clarityupsc.com/economy-upsc-notes/public-debt-india-internal-external-debt-sustainability",
+        "whyUsed": "Specific confirmation that internal debt includes market loans (dated G-Secs), T-bills, and other domestic instruments."
+      }
+    ],
+    "searchMeta": {
+      "usedWebSearch": true,
+      "searchQueries": [
+        "India internal debt components market borrowing treasury bills RBI",
+        "internal debt external debt India definition government borrowing"
+      ],
+      "confidence": "high"
+    }
+  },
+  "id": 35
+}

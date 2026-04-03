@@ -1,0 +1,57 @@
+{
+  "subject": "Environment",
+  "year": 2011,
+  "theme": "bio-based alternatives to petroleum products and sustainability in road construction",
+  "question_short_text": "Identify statements about bio-asphalt importance and Union Budget 2011-12 customs exemption",
+  "text": "In the union budget 2011-12, a full exemption from the basic customs duty was extended to the bio-based asphalt (biosphalt). What is the importance of this material?\n\n1. Unlike traditional asphalt, bio-asphalt is not based on fossil fuels.\n2. Biosphalt can be made from non-renewable resources.\n3. Bioasphalt can be made from organic waste materials.\n4. It is eco-friendly to use bioasphalt for surfacing of the roads.\n\nWhich of the statements given above are correct?",
+  "options": [
+    "1, 2 and 3 only",
+    "1, 3 and 4 only",
+    "2 and 4 only",
+    "1, 2, 3 and 4"
+  ],
+  "answerIndex": 1,
+  "answerText": "(b) 1, 3 and 4 only",
+  "explanation": "Statements 1, 3, and 4 are correct. Statement 2 is incorrect because bio-asphalt is made specifically from renewable resources, not non-renewable ones. Bio-asphalt is a non-petroleum based alternative derived from biomass like vegetable oils, agricultural waste, and organic waste materials.",
+  "research": {
+    "summary": "Bio-asphalt represents a shift toward sustainable road construction by replacing petroleum-based bitumen with binders derived from renewable biological sources. The core trap in this question lies in statement 2, which reverses the defining characteristic of bio-asphalt\u2014it is valuable precisely because it uses renewable resources, not non-renewable ones. Traditional asphalt is extracted from crude oil, a finite fossil fuel. In contrast, bio-asphalt can be produced from diverse renewable feedstocks including sugar, molasses, vegetable oils (particularly waste oils and canola), agricultural residues, lignin, cellulose, palm and coconut waste, recycled materials, and even sewage sludge\u2014making it a true circular-economy solution. Statement 1 is correct: the fundamental distinction is the shift from fossil fuel dependency. Statement 3 is correct: organic waste utilization is central to bio-asphalt's appeal, as it diverts materials from landfills and incineration while reducing waste accumulation. Statement 4 is correct: from an environmental standpoint, bio-asphalt reduces greenhouse gas emissions during production (studies show up to 30% reduction in energy-intensive manufacturing), lowers carbon footprint compared to petroleum extraction and refining, and can provide better crack resistance and durability characteristics. The 2011 customs exemption reflected India's commitment to green infrastructure and renewable energy alternatives, positioning bio-asphalt as an environment-friendly building material. This question tests both factual knowledge of material properties and the ability to distinguish between renewable and non-renewable resource sourcing.",
+    "facts": [
+      "Bio-asphalt can be derived from wood-based pyrolysis, where biomass is rapidly heated in the absence of oxygen to break down into vapors that form bio-oil, which is then processed into usable binders.",
+      "Research at Iowa State University demonstrated that bio-oil fractions can directly replace petroleum-based liquid asphalt as modifiers or extenders in existing paving applications, making retrofitting technically feasible.",
+      "Some bio-asphalt formulations use municipal sludge (a secondary pollutant from wastewater treatment) converted through hydrothermal treatment, turning a waste disposal problem into a resource.",
+      "Bioasphalt production typically lowers the manufacturing temperature of hot-mix asphalt, which can reduce paving costs by approximately 20% while simultaneously cutting greenhouse gas emissions.",
+      "The most common feedstocks globally for bio-asphalt development include pine wood, agricultural waste, waste cooking oil, and animal manure-based bio-oils produced through pyrolysis or hydrothermal liquefaction."
+    ],
+    "sources": [
+      {
+        "title": "Bioasphalt - Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Bioasphalt",
+        "whyUsed": "Provided authoritative definition and comprehensive list of renewable feedstocks used in bio-asphalt production, including vegetable oils, agricultural waste, and recycled materials."
+      },
+      {
+        "title": "India Budget 2011-12 Customs Memorandum - Department of Revenue",
+        "url": "https://www.indiabudget.gov.in/budget2011-2012/ub2011-12/mem/mem2.pdf",
+        "whyUsed": "Official government source confirming the customs duty exemption for bio-based asphalt sealer, preservation agents, and related equipment in the 2011-12 budget."
+      },
+      {
+        "title": "A comprehensive review of bio-oil, bio-binder and bio-asphalt materials",
+        "url": "https://www.sciencedirect.com/science/article/pii/S2095756422000228",
+        "whyUsed": "Peer-reviewed technical review confirming biomass sources (wood fiber, waste oil, animal manure types), production methods, and performance characteristics of bio-asphalt compared to petroleum asphalt."
+      },
+      {
+        "title": "Green roads ahead: a critical examination of bio-bitumen for sustainable infrastructure - Frontiers",
+        "url": "https://www.frontiersin.org/journals/materials/articles/10.3389/fmats.2024.1382014/full",
+        "whyUsed": "Recent comprehensive source documenting bio-oil derivation from biomass including wood, agricultural waste, animal manure, and waste cooking oil, plus the sustainability and economic drivers for bio-asphalt adoption."
+      }
+    ],
+    "searchMeta": {
+      "usedWebSearch": true,
+      "searchQueries": [
+        "bio-asphalt biosphalt material composition feedstock",
+        "India Union Budget 2011-12 customs duty bio-asphalt exemption"
+      ],
+      "confidence": "high"
+    }
+  },
+  "id": 18
+}

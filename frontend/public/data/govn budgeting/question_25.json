@@ -1,0 +1,56 @@
+{
+  "subject": "Polity",
+  "year": 2010,
+  "theme": "Institutional structure and functions of the Ministry of Finance in budget preparation",
+  "question_short_text": "Which department prepares and presents the Union Budget to Parliament?",
+  "text": "Which one of the following is responsible for the preparation and presentation of Union Budget to the Parliament?",
+  "options": [
+    "a) Department of Revenue",
+    "b) Department of Economic Affairs",
+    "c) Department of Financial Services",
+    "d) Department of Expenditure"
+  ],
+  "answerIndex": 1,
+  "answerText": "(b) Department of Economic Affairs",
+  "explanation": "The Budget Division of the Department of Economic Affairs (DEA) is the primary body responsible for preparing and presenting the Union Budget to Parliament. It coordinates with other finance departments to compile budget estimates and finalize the budget documents.",
+  "research": {
+    "summary": "The Union Budget preparation is one of the most institutionalized functions of the Government of India, and UPSC frequently tests understanding of which department does what. The trap here lies in the fact that multiple departments within the Ministry of Finance have overlapping roles, but only the Department of Economic Affairs (DEA) holds the overarching coordination responsibility.\n\nThe Department of Economic Affairs, specifically its Budget Division, is the nodal body for the entire budget-making process. This includes compiling budget estimates from various spending ministries and departments, coordinating fiscal targets, and finalizing the budget documents for parliamentary presentation. While the Department of Expenditure scrutinizes expenditure proposals and the Department of Revenue manages tax policies and collection, neither of these takes the lead role in overall budget preparation. The Department of Financial Services oversees banking, insurance, and pension policies\u2014not budget formulation.\n\nA common misconception is that the Department of Expenditure, being responsible for monitoring expenditure, prepares the budget. However, expenditure monitoring is different from budget preparation. Similarly, the Department of Revenue formulates taxation policy and manages tax collection, but does not coordinate the overall budget compilation.\n\nThe Budget Division operates under the principle of secrecy during the budget-making process. Approximately one week before presentation, a \"lock-in\" period begins during which all officials involved are isolated, and the famous Halwa ceremony marks the commencement of budget printing. This institutional secrecy emphasizes the centrality of the DEA's role in budget management. The presentation to Parliament is done by the Finance Minister, but the entire preparation and coordination apparatus rests with the DEA's Budget Division.",
+    "facts": [
+      "The Budget Division of the DEA is responsible not only for the Union Budget but also for supplementary demands, excess demands for grants, and public debt management.",
+      "Prior to 2016, the Union Budget was presented on the last working day of February; since 2017, it is presented on February 1 to allow implementation before the new financial year begins on April 1.",
+      "The FRBM Act (Fiscal Responsibility and Budget Management Act, 2003) administration also falls under the Budget Division, which requires half-yearly reviews and fiscal policy statements to be presented to Parliament.",
+      "The Department of Expenditure focuses on scrutinizing spending proposals and providing guidance on financial propriety, while the Department of Revenue handles direct and indirect tax policies through the CBDT and CBIC.",
+      "Article 112 of the Constitution mandates the presentation of the Annual Financial Statement (Union Budget) showing estimated receipts and expenditure, but does not specify which department prepares it\u2014a detail left to institutional practice."
+    ],
+    "sources": [
+      {
+        "title": "Union budget of India - Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Union_budget_of_India",
+        "whyUsed": "Verified that the Budget Division of the Department of Economic Affairs is the primary body responsible for preparing the Union Budget."
+      },
+      {
+        "title": "Budget Division | Department of Economic Affairs",
+        "url": "http://dea.gov.in/budget-divisions",
+        "whyUsed": "Official government source confirming the Budget Division's responsibilities for Union Budget preparation, supplementary demands, and FRBM Act administration."
+      },
+      {
+        "title": "Union Budget (Annual Financial Statement) - UnderStand UPSC",
+        "url": "https://www.understandupsc.com/union-budget-annual-financial-statement/",
+        "whyUsed": "UPSC-focused educational resource clarifying the roles of different departments and confirming the DEA's primary responsibility."
+      },
+      {
+        "title": "Union Budget 2024 - Vajiram & Ravi",
+        "url": "https://vajiramandravi.com/upsc-exam/union-budget-2024/",
+        "whyUsed": "Verified that the Department of Economic Affairs under the Ministry of Finance is the nodal body for budget preparation."
+      }
+    ],
+    "searchMeta": {
+      "usedWebSearch": true,
+      "searchQueries": [
+        "Department of Economic Affairs Union Budget preparation India"
+      ],
+      "confidence": "high"
+    }
+  },
+  "id": 25
+}

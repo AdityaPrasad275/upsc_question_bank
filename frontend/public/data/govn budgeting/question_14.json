@@ -1,0 +1,56 @@
+{
+  "subject": "Polity",
+  "year": 2014,
+  "theme": "Union Budget classification - Non-Plan Expenditure components",
+  "question_short_text": "Components of Non-Plan Expenditure in the Union Budget",
+  "text": "With reference to Union Budget, which of the following is/are covered under Non-Plan Expenditure?\n\n1. Defence expenditure\n2. Interest payments\n3. Salaries and pensions\n4. Subsidies\n\nSelect the correct answer using the code given below.",
+  "options": [
+    "1 only",
+    "2 and 3 only",
+    "1, 2, 3 and 4",
+    "None"
+  ],
+  "answerIndex": 2,
+  "answerText": "(c) 1, 2, 3 and 4",
+  "explanation": "All four items\u2014defence expenditure, interest payments, salaries and pensions, and subsidies\u2014are covered under Non-Plan Expenditure. These are routine, obligatory, and recurring expenditures that do not form part of planned development programmes.",
+  "research": {
+    "summary": "This question tests understanding of the historical classification system that divided Union Budget expenditure into Plan and Non-Plan categories. Non-Plan Expenditure refers to all government spending that does not form part of the current Five-Year Plan or annual development programmes. It comprises obligatory and recurring expenditures essential to routine government functioning.\n\nAll four items listed are definitively Non-Plan: Defence expenditure is a constitutional obligation for national security and was always classified as Non-Plan. Interest payments on government borrowings are obligatory commitments independent of plan cycles. Salaries and pensions for regular government employees represent recurring administrative costs unrelated to development schemes. Subsidies (on food, fuel, or other sectors) are policy-driven support mechanisms outside planned development activities.\n\nThe conceptual trap UPSC tests here is distinguishing between Plan expenditure (tied to specific development projects like irrigation, roads, or power generation detailed in Five-Year Plans) and Non-Plan expenditure (routine functioning needs). A common student error is treating all government spending indiscriminately or assuming that only defence qualifies as Non-Plan. However, the budget documents clearly categorize maintenance of existing infrastructure, administrative overhead, and all recurring obligatory spending as Non-Plan.\n\nIt is important to note that this classification system was abolished in 2016-17 on the recommendation of the C. Rangarajan Committee and was replaced with a simpler Revenue and Capital Expenditure classification from 2017-18 onwards. However, understanding the historical Plan/Non-Plan distinction remains relevant for analysing pre-2017 budgets and understanding India's fiscal framework evolution.",
+    "facts": [
+      "Non-Plan Expenditure was the standard classification from 1951 (First Five Year Plan) until 2016-17, covering routine government operations that persist regardless of plan cycles.",
+      "Interest payments constitute a major component of Non-Plan Expenditure because they are mandatory commitments on borrowed funds, growing as debt accumulates.",
+      "The Plan/Non-Plan distinction gave rise to a misleading bias that Plan spending was 'developmental' and Non-Plan was 'non-developmental', which led to chronic underfunding of essential maintenance and salaries.",
+      "Defence expenditure, being a constitutional responsibility and independent of development plans, has always been classified entirely as Non-Plan.",
+      "The abolition of Plan/Non-Plan classification in 2017-18 was driven by problems in the system: it prevented outcome-based budgeting, created artificial fragmentation, and made it impossible to calculate true service delivery costs."
+    ],
+    "sources": [
+      {
+        "title": "Non-Plan Expenditure 2011-2012 Budget Document",
+        "url": "https://www.indiabudget.gov.in/budget2011-2012/ub2011-12/eb/npe.pdf",
+        "whyUsed": "Official India Budget document clarifying that pensions, defence, interest payments, and subsidies are all components of Non-Plan Expenditure"
+      },
+      {
+        "title": "Merging Plan and Non-Plan - CBGA India",
+        "url": "https://www.cbgaindia.org/blog/merging-plan-non-plan/",
+        "whyUsed": "Authoritative explanation of what Non-Plan Expenditure comprises and why the distinction was abolished"
+      },
+      {
+        "title": "Plan vs Non-Plan Expenditure - ForumIAS",
+        "url": "https://forumias.com/blog/plan-vs-non-plan-expenditure/",
+        "whyUsed": "Clear definition of Non-Plan Expenditure and context about the 2016 abolition via C.R. Rangarajan Committee recommendation"
+      },
+      {
+        "title": "Non Plan Expenditure - GKToday",
+        "url": "https://www.gktoday.in/non-plan-expenditure/",
+        "whyUsed": "Comprehensive summary of Non-Plan components and historical context of the classification system"
+      }
+    ],
+    "searchMeta": {
+      "usedWebSearch": true,
+      "searchQueries": [
+        "Non-Plan Expenditure India budget definition components"
+      ],
+      "confidence": "high"
+    }
+  },
+  "id": 14
+}

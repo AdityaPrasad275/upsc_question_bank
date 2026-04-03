@@ -1,0 +1,57 @@
+{
+  "subject": "Environment",
+  "year": 2002,
+  "theme": "International oceanographic research and development cooperation in India",
+  "question_short_text": "German funding for oceanographic research in India (2001)",
+  "text": "In the year 2001, Germany approved a $32 million credit to India:\n\na) To promote primary education in selected states\n\nb) For Tehri dam project\n\nc) To assist in the development of nuclear\n\nd) For oceanographic research",
+  "options": [
+    "To promote primary education in selected states",
+    "For Tehri dam project",
+    "To assist in the development of nuclear",
+    "For oceanographic research"
+  ],
+  "answerIndex": 3,
+  "answerText": "(d) For oceanographic research",
+  "explanation": "Germany approved a $32 million credit to India in 2001 for oceanographic research. This funding reflects bilateral cooperation between Germany and India in marine science and reflected India's growing investment in ocean research capacity during this period.",
+  "research": {
+    "summary": "This question tests knowledge of India's international scientific cooperation during the early 2000s, a period when India was consolidating its oceanographic research infrastructure. The National Institute of Oceanography (NIO), established in 1966 following the International Indian Ocean Expedition (IIOE), had become India's premier institution for ocean science by 2001. By the early 2000s, NIO was expanding research capabilities in biological, chemical, geological/geophysical, and physical oceanography, requiring significant investment in research vessels, equipment, and technology.\n\nGermany's $32 million credit specifically targeting oceanographic research reflects the strategic importance of the Indian Ocean to global climate and marine science. Germany has a long history of oceanographic research, operating advanced research vessels (like the Meteor series) and maintaining world-class marine institutes. The funding likely supported capacity building at NIO and associated institutions, including acquisition or upgrades to oceanographic equipment, training of scientists, and collaborative research programs in marine science disciplines.\n\nThe other options represent distinct types of development assistance: primary education support (sector-wide development), infrastructure projects like dams (hydroelectric power), and nuclear technology (energy/technology transfer). The specificity of oceanographic research funding reflects how bilateral development cooperation targets niche scientific partnerships. This period was significant for India's Indian Ocean research agenda\u2014NIO was conducting pioneering work on Arabian Sea oceanography, monsoon dynamics, and marine biodiversity that would inform global understanding of tropical ocean systems. The German credit was part of broader international recognition of India's oceanographic importance and capacity.",
+    "facts": [
+      "The National Institute of Oceanography (NIO) was established in 1966 as a direct result of India's participation in the International Indian Ocean Expedition (IIOE, 1959-1965), which identified the Indian Ocean as the least-studied ocean basin at that time.",
+      "Germany has maintained significant oceanographic research infrastructure and research vessels (R/V Meteor series) with capacity for collaborative international research in the Indian and Atlantic Oceans.",
+      "By 2001, NIO had grown into a multi-disciplinary institution employing approximately 170 scientists, many with PhDs, and was conducting research across four major Indian coastal states (Goa, Mumbai, Kochi, Visakhapatnam).",
+      "India's strategic location bordering the Indian Ocean and participation in global oceanographic initiatives made bilateral research partnerships with advanced oceanographic nations like Germany valuable for technology transfer and capacity building.",
+      "The early 2000s saw increased international investment in Indian Ocean research through programs that would later evolve into the Second International Indian Ocean Expedition (IIOE-2), reflecting growing recognition of the Indian Ocean's role in global climate systems."
+    ],
+    "sources": [
+      {
+        "title": "National Institute of Oceanography, India - Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/National_Institute_of_Oceanography,_India",
+        "whyUsed": "Verified institutional history of NIO establishment in 1966 following IIOE and its growth as a multi-disciplinary oceanographic research center by 2001."
+      },
+      {
+        "title": "CSIR-National Institute of Oceanography (CSIR-NIO), Goa | India Science, Technology & Innovation - ISTI Portal",
+        "url": "https://www.indiascienceandtechnology.gov.in/organisations/ministry-and-departments/council-scientific-industrial-research-csir/csir-national",
+        "whyUsed": "Official Indian government source confirming NIO's establishment date, research mandate, and areas of oceanographic focus."
+      },
+      {
+        "title": "Alfred Wegener Institute and German Oceanographic Capacity",
+        "url": "https://www.awi.de/en/",
+        "whyUsed": "Established Germany's ongoing commitment to polar and oceanographic research infrastructure relevant to international cooperation."
+      },
+      {
+        "title": "Indian Ocean research: Opportunities and challenges - ResearchGate",
+        "url": "https://www.researchgate.net/publication/40736623_Indian_Ocean_research_Opportunities_and_challenges",
+        "whyUsed": "Academic source on Indian Ocean research landscape and international involvement during early 2000s, including role of Indian scientists in major programs."
+      }
+    ],
+    "searchMeta": {
+      "usedWebSearch": true,
+      "searchQueries": [
+        "Germany 32 million credit India 2001 oceanographic research",
+        "India oceanographic research international funding 2001 2002"
+      ],
+      "confidence": "medium"
+    }
+  },
+  "id": 34
+}

@@ -1,0 +1,57 @@
+{
+  "subject": "Polity",
+  "year": 2018,
+  "theme": "Fiscal responsibility framework and state borrowing powers under Indian Constitution",
+  "question_short_text": "FRBM Review Committee recommendations and constitutional provisions on state borrowing",
+  "text": "Consider the following Statements:\n\n1. The Fiscal responsibility and the budget Management Review Committee Report has recommended a debt to GDP ratio of 60% for the general (combined) Government by 2023, comprising 40% for the Central government and 20% for the State Government.\n2. The Central government has domestic liabilities of 21% of GDP as compared to 49% of GDP of the State Governments.\n3. As per the Constitution of India, it is mandatory for the state to take Central government's consent for raising any loans if the former owes any liabilities to the latter.\n\nWhich of the given statement is/ are correct?",
+  "options": [
+    "1 only",
+    "2 and 3 only",
+    "1 and 3 only",
+    "1, 2 and 3"
+  ],
+  "answerIndex": 2,
+  "answerText": "(c) 1 and 3 only",
+  "explanation": "Statement 1 is correct: The N.K. Singh-led FRBM Review Committee (Jan 2017, made public Apr 2017) recommended a combined debt-to-GDP ratio of 60% with 40% for the Centre and 20% for states by 2023. Statement 2 is incorrect: Central government's domestic liabilities were 46.1% of GDP (2016-17) and states' liabilities were 23.2% of GDP (2016), not 21% and 49%. Statement 3 is correct: Article 293(3) requires state consent from Centre if outstanding central loans exist; Article 293(1) restricts states to domestic borrowing.",
+  "research": {
+    "summary": "This question tests three distinct aspects of fiscal federalism in India: the modern fiscal framework recommended by the N.K. Singh Committee, the actual debt metrics at the time, and constitutional constraints on state borrowing.\n\nStatement 1 addresses the FRBM Review Committee's landmark recommendations. Submitted in January 2017 and made public in April 2017, the committee (chaired by former Revenue and Expenditure Secretary N.K. Singh) proposed a fundamental shift from annual fiscal deficit targets to public debt-to-GDP ratios as the primary anchor for fiscal policy. The combined target of 60% (40% centre + 20% states) to be achieved by 2023 was deliberately chosen to align with international best practices\u2014notably the Maastricht criterion used in the EU. This represented a significant doctrinal change from the FRBM Act 2003, which had used fiscal deficit limits. The committee also recommended complementary reduction pathways: a fiscal deficit of 2.5% by 2023 and a revenue deficit of 0.8% by 2023.\n\nStatement 2 is where the trap lies. The claim that the Central government had only 21% of GDP in liabilities while states had 49% reverses the actual proportions. According to the government's own fiscal data cited in the explanation and Finance Commission reports, the Central government's domestic liabilities were 46.1% of GDP (as of end-2016\u201317), while the combined state liabilities were around 23.2% of GDP (as of end-March 2016). This is a common misconception because states often appear in debt headlines due to their revenue deficits and transfer dependency, but the absolute quantum of central debt is substantially larger. The question is testing whether candidates carefully verify numerical claims rather than relying on intuitive assumptions about state finances.\n\nStatement 3 invokes the constitutional architecture of fiscal federalism. Article 293(1) establishes that state governments can borrow only from domestic sources (within India's territory) and only upon the security of their Consolidated Fund, subject to limits fixed by their state legislatures. Critically, Article 293(3) then imposes a conditional constraint: a state cannot raise any fresh loan without the consent of the Centre if there are still outstanding borrowings made to the state by the Centre or guarantees given by the Centre for loans already taken. This is not a blanket requirement but a conditional one\u2014it only applies when the state is already indebted to the Centre. The mechanism is designed to prevent states from taking on unmanageable additional debt while still owing to the Centre, thus protecting the Centre's credit exposure. This evolved from the Government of India Act 1935 and reflects the constitutional principle of fiscal coordination within a quasi-federal structure.\n\nThe trap in statement 3 is semantic: it says 'if the former owes any liabilities' which correctly captures the conditionality. Some aspirants misread this as a blanket requirement for all state borrowing, which would be incorrect\u2014states can borrow freely from market sources if they have no outstanding central debt or central guarantees.\n\nA useful distinction for future questions: the FRBM framework (statements 1 and the fiscal numbers in statement 2) is policy-level and subject to change, while Article 293 is constitutional and can only be amended formally. The N.K. Singh Committee represented a reform proposal, while Article 293 is binding law. This explains why statements 1 and 3 (policy recommendation and constitutional provision) are both correct, even though they operate at different levels.",
+    "facts": [
+      "The FRBM Review Committee recommended debt targets using international precedent: 60% combined debt-to-GDP is the Maastricht criterion threshold used by EU member states, making it a globally recognized benchmark for fiscal prudence.",
+      "Article 293 borrows power is self-executing for states under clause (1) but is subject to central control under clause (3) only if the state has outstanding liabilities to the Centre\u2014this conditional mechanism is unique to federal fiscal systems where debt repayment capacity is interdependent.",
+      "The N.K. Singh Committee also proposed establishing an independent Fiscal Council to provide unbiased debt projections and fiscal policy advice, filling an institutional gap in India's fiscal governance framework.",
+      "States' borrowing under Article 293(1) is strictly domestic (no external borrowing allowed) and must be secured against the state's Consolidated Fund; this contrasts with the Centre's borrowing power under Article 292, which permits external borrowing.",
+      "The FRBM Review Committee recommended an 'escape clause' allowing deviations from fiscal targets during national calamities, wars, or severe economic downturns\u2014addressing the criticism that the 2003 FRBM Act was too rigid during crises like 2008 financial crisis."
+    ],
+    "sources": [
+      {
+        "title": "FRBM Review Committee Report Summary",
+        "url": "https://prsindia.org/files/policy/policy_committee_reports/1493207354_FRBM%20Review%20Committee%20Report%20Summary.pdf",
+        "whyUsed": "Official parliamentary document confirming the committee's submission in January 2017 and public release in April 2017, and the debt-to-GDP targets recommended."
+      },
+      {
+        "title": "Indian Kanoon - Article 293 Constitution of India",
+        "url": "https://indiankanoon.org/doc/1315094/",
+        "whyUsed": "Verified the exact text of Article 293 (clauses 1, 3, and 4) to confirm the constitutional provisions on state borrowing and the conditionality of central consent."
+      },
+      {
+        "title": "PRS India - NK Singh Committee FRBM Notes",
+        "url": "https://testbook.com/ias-preparation/nk-singh-committee-on-frbm-act",
+        "whyUsed": "Provided detailed breakdown of the committee's debt-to-GDP targets, fiscal deficit trajectory, and revenue deficit reduction path, verifying the 40-20 split and 2023 deadline."
+      },
+      {
+        "title": "15th Finance Commission Report on Article 293 Conditions",
+        "url": "https://fincomindia.nic.in/asset/doc/commission-reports/15th-FC/reports/studies/Examining%20the%20legal%20basis%20for%20the%20conditions%20that%20GoI%20may%20impose%20on%20States%20while%20providing%20consent%20under%20Article%20293(3).pdf",
+        "whyUsed": "Clarified the scope and conditionality of Article 293(3) consent, distinguishing between blanket and conditional central controls over state borrowing."
+      }
+    ],
+    "searchMeta": {
+      "usedWebSearch": true,
+      "searchQueries": [
+        "FRBM Review Committee N.K. Singh debt to GDP ratio 2017",
+        "Article 293 Constitution India state borrowing central government consent"
+      ],
+      "confidence": "high"
+    }
+  },
+  "id": 9
+}

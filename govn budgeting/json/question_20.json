@@ -1,0 +1,57 @@
+{
+  "subject": "Polity",
+  "year": 2011,
+  "theme": "Parliamentary control over government finances and the Consolidated Fund authorization mechanism",
+  "question_short_text": "Authority required to withdraw funds from Consolidated Fund of India",
+  "text": "The authorization for the withdrawal of funds from the consolidated fund of India must come from?",
+  "options": [
+    "The president of India.",
+    "The parliament of India.",
+    "The prime minister of India.",
+    "The union finance minister."
+  ],
+  "answerIndex": 1,
+  "answerText": "(b) The parliament of India.",
+  "explanation": "No funds can be withdrawn from the Consolidated Fund of India without authorization from Parliament. This is mandated by Article 266(3) of the Constitution, which ensures parliamentary control over all government expenditure.",
+  "research": {
+    "summary": "The Consolidated Fund of India, established under Article 266(1) of the Constitution, is the principal repository for all government revenues (tax and non-tax), loans raised, and loan repayments. Article 266(3) explicitly states: 'No moneys out of the Consolidated Fund of India shall be appropriated except in accordance with law and for the purposes and in the manner provided in this Constitution.'\n\nThis constitutional requirement channels all fund withdrawals through Parliament, not the executive. The mechanism operates as follows: Parliament passes an Appropriation Act (usually as part of the budget process) that explicitly authorizes the government to withdraw specified amounts for defined purposes during a financial year. Without this parliamentary authorization, no withdrawal is legally permissible. The Finance Minister may present the budget and manage day-to-day finances, but the power to authorize fund withdrawal is vested exclusively in Parliament through legislation.\n\nThe trap in this question lies in confusing executive roles with legislative authority. The President, while constitutionally important, does not authorize Consolidated Fund withdrawals\u2014that is a legislative prerogative, not an executive one. The Contingency Fund (Article 267) is the sole exception where the President can make withdrawals without prior parliamentary approval for unforeseen emergencies, but those amounts must later be recouped from the Consolidated Fund with parliamentary sanction. This distinction reveals why UPSC specifically tests knowledge of which fund requires which approval authority.",
+    "facts": [
+      "The three central government funds are: Consolidated Fund (Article 266(1)), Public Account (Article 266(2)), and Contingency Fund (Article 267). Only the Consolidated Fund requires parliamentary authorization for withdrawals.",
+      "The Appropriation Bill passed by Parliament is the legal mechanism that grants withdrawal authority for the Consolidated Fund. It specifies the amount and purpose for each ministry or department.",
+      "Unlike the Consolidated Fund, the Public Account of India (Article 266(2)) contains deposits where government acts as a banker (provident funds, small savings). Withdrawals from it do not require parliamentary approval.",
+      "The Contingency Fund of India (Article 267) is held by the President as an imprest for unforeseen emergencies. The President can authorize withdrawals without prior parliamentary approval, but the amount withdrawn must be recouped from the Consolidated Fund later.",
+      "Charged expenditures (salaries of President, judges, CAG, debt charges) are non-votable and deducted from the Consolidated Fund without requiring a parliamentary vote, though they remain subject to the Appropriation Act."
+    ],
+    "sources": [
+      {
+        "title": "Article 266 - Consolidated Funds and public accounts of India and of the States",
+        "url": "https://www.constitutionofindia.net/articles/article-266-consolidated-funds-and-public-accounts-of-india-and-of-the-states/",
+        "whyUsed": "Provided official constitutional text establishing the Consolidated Fund and the requirement that no moneys be appropriated except in accordance with law."
+      },
+      {
+        "title": "The Appropriation Bill - Drishti IAS",
+        "url": "https://www.drishtiias.com/daily-news-analysis/the-appropriation-bill",
+        "whyUsed": "Explained how Parliament authorizes withdrawals through the Appropriation Act and clarified the distinction between the three government funds."
+      },
+      {
+        "title": "Types of Funds in India - BYJUS IAS Prep",
+        "url": "https://byjus.com/free-ias-prep/types-of-funds-in-india/",
+        "whyUsed": "Provided comprehensive comparison of Consolidated Fund, Contingency Fund, and Public Account, clarifying which require parliamentary authorization."
+      },
+      {
+        "title": "Consolidated Fund of India - Prepp",
+        "url": "https://prepp.in/question/the-authorization-of-the-withdrawal-of-funds-from-6436ef8abc33b4565070ba69",
+        "whyUsed": "Analyzed why each option (President, PM, Finance Minister) does not have authority, reinforcing parliamentary supremacy over fund authorization."
+      }
+    ],
+    "searchMeta": {
+      "usedWebSearch": true,
+      "searchQueries": [
+        "Consolidated Fund of India constitution authorization withdrawal",
+        "Article 266 267 Consolidated Fund India parliament"
+      ],
+      "confidence": "high"
+    }
+  },
+  "id": 20
+}

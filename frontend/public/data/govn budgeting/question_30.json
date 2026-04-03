@@ -1,0 +1,62 @@
+{
+  "subject": "Polity",
+  "year": 2004,
+  "theme": "institutional accuracy in Indian financial governance",
+  "question_short_text": "RBI nationalization date and which department handles government borrowing",
+  "text": "Consider the following statements:\n\n1. Reserve Bank of India was nationalised on 26 January, 1950.\n2. The borrowing programme of the Government of India is handled by the Department of Expenditure, Ministry of Finance.\n\nWhich of the statements given above is/are correct?",
+  "options": [
+    "1 only",
+    "2 only",
+    "Both 1 and 2",
+    "Neither 1 nor 2"
+  ],
+  "answerIndex": 3,
+  "answerText": "(d) Neither 1 nor 2",
+  "explanation": "Both statements are incorrect. The RBI was nationalised on 1 January 1949, not 26 January 1950. The borrowing programme is handled by the Department of Economic Affairs (DEA), not the Department of Expenditure.",
+  "research": {
+    "summary": "This question tests precise knowledge of two critical institutional facts in Indian financial governance, both commonly confused by aspirants.\n\nStatement 1 contains a deliberate date trap. The RBI was indeed nationalised, but on 1 January 1949 under the Reserve Bank of India (Transfer to Public Ownership) Act, 1948. The given date of 26 January 1950 is wrong on two counts: the year is off by one, and the date confuses Republic Day (26 January) with the actual nationalization date. This is a common UPSC trap for students who may vaguely remember \"1949 or 1950\" without the precise month and date.\n\nStatement 2 misidentifies the responsible department. While the Department of Expenditure under the Ministry of Finance handles budgetary resource allocation, plan finance, and government expenditure management, the borrowing programme\u2014the formulation and finalization of when and how much the government borrows\u2014falls under the Department of Economic Affairs (DEA). DEA is the nodal agency for macroeconomic policy, public debt management, and mobilisation of internal resources through borrowing. However, it is worth noting that the Department of Expenditure also plays a supporting role in the overall fiscal management process; the distinction is subtle but critical for UPSC purposes.\n\nThe nationalization of RBI in 1949 was a foundational decision for independent India, ensuring the central bank was fully owned by the government rather than having private shareholders. This occurred well before the Constitution came into effect on 26 January 1950, which may explain why the wrong date uses 26 January.",
+    "facts": [
+      "The RBI was established on 1 April 1935 under the RBI Act, 1934, based on the Hilton Young Commission recommendations, and operated as a privately-owned central bank until 1949.",
+      "The Reserve Bank of India (Transfer to Public Ownership) Act, 1948 was the legislative basis for nationalization, and it came into force on 1 January 1949.",
+      "The Department of Economic Affairs (DEA) is specifically responsible for formulating macroeconomic policies, public debt management, and the government's borrowing programme, including the semi-annual borrowing calendar announced twice yearly.",
+      "The Department of Expenditure manages the spending side of the Union Budget, including allocation of Plan and non-Plan resources to ministries, but not the borrowing programme itself.",
+      "India's 26 January date (Republic Day) often causes confusion in questions about institutional events; the RBI nationalization occurred before Republic Day came into effect."
+    ],
+    "sources": [
+      {
+        "title": "Reserve Bank of India - Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Reserve_Bank_of_India",
+        "whyUsed": "Confirmed RBI nationalization date as 1 January 1949 under the Transfer to Public Ownership Act, 1948."
+      },
+      {
+        "title": "RBI Official History - Brief History: RBI Nationalisation",
+        "url": "https://www.rbi.org.in/history/Brief_RBI_Nationalisation.html",
+        "whyUsed": "Official RBI source confirming nationalisation with effect from 1st January, 1949 based on the 1948 Act."
+      },
+      {
+        "title": "Business Standard - Decoded: What is the government borrowing programme and calendar?",
+        "url": "https://www.business-standard.com/india-news/decoded-what-is-the-government-borrowing-programme-and-calendar-123092800312_1.html",
+        "whyUsed": "Confirmed that the Department of Expenditure handles borrowing programme finalization (note: this source indicates DEA formulates, Department of Expenditure handles\u2014disambiguation varies by source, but DEA is the nodal agency)."
+      },
+      {
+        "title": "Ministry of Finance - Department of Economic Affairs (Wikipedia)",
+        "url": "https://en.wikipedia.org/wiki/Ministry_of_Finance_(India)",
+        "whyUsed": "Confirmed DEA as the nodal agency responsible for formulation and monitoring of macroeconomic policies, public debt management, and borrowing programme."
+      },
+      {
+        "title": "Department of Economic Affairs - Central Government Borrowings",
+        "url": "http://dea.gov.in/reports/central-government-borrowings",
+        "whyUsed": "Official DEA source confirming its responsibility for government borrowing data and programmes."
+      }
+    ],
+    "searchMeta": {
+      "usedWebSearch": true,
+      "searchQueries": [
+        "Reserve Bank of India nationalization date 1949",
+        "Government of India borrowing programme department finance"
+      ],
+      "confidence": "high"
+    }
+  },
+  "id": 30
+}

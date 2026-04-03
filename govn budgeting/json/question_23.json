@@ -1,0 +1,53 @@
+{
+  "subject": "Polity",
+  "year": 2010,
+  "theme": "National Investment Fund structure and fund management framework",
+  "question_short_text": "Which statements correctly describe the National Investment Fund's management and income allocation?",
+  "text": "With reference to the National Investment Fund to which the disinvestment proceeds are routed, consider the following statements:\n\n1. The assets in the National Investment Fund are managed by the Union Ministry of Finance.\n2. The National Investment Fund is to be maintained within the Consolidated Fund of India.\n3. Certain Asset Management Companies are appointed as the fund managers.\n4. A certain proportion of annual income is used for financing select social sectors.",
+  "options": [
+    "1 and 2",
+    "2 only",
+    "3 and 4",
+    "3 only"
+  ],
+  "answerIndex": 2,
+  "answerText": "(c) 3 and 4",
+  "explanation": "Statements 3 and 4 are correct. The NIF is managed by selected public sector asset management companies (UTI AMC, SBI Funds Management, LIC Mutual Fund AMC), not the Ministry of Finance directly. The fund is maintained outside the Consolidated Fund of India to ensure flexibility and permanent corpus preservation. 75% of annual income is allocated to social sector schemes.",
+  "research": {
+    "summary": "The National Investment Fund, established in November 2005, represents a distinctive approach to managing disinvestment proceeds with structural safeguards that students often confuse. The trap in this question lies in assumptions about direct government (Finance Ministry) management and consolidated fund integration. In reality, the NIF's design prioritizes professional fund management and capital preservation.\n\nStatement 1 is incorrect because while the Ministry of Finance oversees policy, it does not directly manage the NIF corpus. Instead, three carefully selected public sector financial entities\u2014UTI Asset Management Company Ltd., SBI Funds Management Private Ltd., and LIC Mutual Fund Asset Management Company Ltd.\u2014are appointed as professional fund managers. This delegation reflects a deliberate policy choice to achieve sustainable returns without depleting the corpus, a principle articulated in the original Cabinet Committee on Economic Affairs approval (January 2005).\n\nStatement 2 is incorrect and represents the core misconception UPSC tests here. The NIF was explicitly structured to remain outside the Consolidated Fund of India. This structural separation provides the fund with greater investment flexibility and ensures the corpus remains insulated from routine budgetary appropriations. The fund receives disinvestment proceeds (which initially flow through the CFI), but the corpus itself is held outside CFI, maintaining its permanent nature.\n\nStatements 3 and 4 are demonstrably correct. Professional asset management companies do manage the fund, and the scheme explicitly allocates 75% of annual income to selected social sector schemes\u2014including education, health, and employment creation through programmes like JNNURM, AIBP, RGGVY, and NREGS. The remaining 25% was historically used for capital investment in profitable and revivable CPSEs (though this was modified in 2013).\n\nA key recognition cue for future questions: whenever the question concerns fund structure and management, distinguish between policy oversight (ministry role), capital management (asset manager role), and accounting domicile (CFI vs. public account). The NIF design separates these functions deliberately.",
+    "facts": [
+      "NIF was constituted on 3 November 2005 through CCEA approval to channel disinvestment proceeds into professionally managed investments",
+      "The three fund managers\u2014UTI, SBI Funds Management, and LIC Mutual Fund AMC\u2014were public sector entities selected for expertise and track record",
+      "The initial corpus was established with disinvestment proceeds from PGCIL and REC amounting to Rs 1,814.45 crore",
+      "From April 2009 to March 2013, a temporary exemption allowed direct use of disinvestment proceeds for social sector schemes rather than NIF investment, reflecting fiscal pressures from the 2008-09 crisis",
+      "From April 2013, NIF was restructured to be held as a public account under Government Accounts rather than directly as investment in securities, reflecting revised policy on disinvestment proceeds management"
+    ],
+    "sources": [
+      {
+        "title": "National Investment Fund - BSE PSU",
+        "url": "http://www.bsepsu.com/national-investment.asp",
+        "whyUsed": "Comprehensive official source on NIF structure, fund managers, and income allocation confirming statements 3 and 4 as correct"
+      },
+      {
+        "title": "Press Information Bureau - National Investment Fund",
+        "url": "https://www.pib.gov.in/newsite/erelcontent.aspx?relid=9255",
+        "whyUsed": "Official government source (PIB) clarifying that NIF is managed by selected Public Sector Financial Entities, not the Finance Ministry, and explaining the permanent corpus preservation principle"
+      },
+      {
+        "title": "Arthapedia - National Investment Fund",
+        "url": "http://arthapedia.in/index.php/National_Investment_Fund_(NIF)",
+        "whyUsed": "Verified that NIF was kept outside CFI to ensure flexibility and that earnings are used for social welfare schemes"
+      }
+    ],
+    "searchMeta": {
+      "usedWebSearch": true,
+      "searchQueries": [
+        "National Investment Fund NIF India disinvestment",
+        "National Investment Fund asset management companies fund managers",
+        "National Investment Fund social sector financing income allocation"
+      ],
+      "confidence": "high"
+    }
+  },
+  "id": 23
+}

@@ -1,0 +1,56 @@
+{
+  "subject": "Polity",
+  "year": 2011,
+  "theme": "Constitutional consequences of budget rejection in parliamentary democracy",
+  "question_short_text": "What happens when the Lok Sabha rejects the annual budget?",
+  "text": "When the annual budget is not passed by the Lok Sabha:",
+  "options": [
+    "The budget is modified and presented again.",
+    "The budget is referred to the Rajya Sabha for suggestions.",
+    "The Union Finance Minister is asked to resign.",
+    "The Prime Minister submits the resignation of Council of Ministers."
+  ],
+  "answerIndex": 3,
+  "answerText": "(d) The Prime Minister submits the resignation of Council of Ministers.",
+  "explanation": "Failure to pass the annual budget in the Lok Sabha amounts to a loss of confidence in the government. Under the principle of collective responsibility (Article 75(3) of the Constitution), the Prime Minister and the entire Council of Ministers must resign.",
+  "research": {
+    "summary": "This question tests understanding of parliamentary responsibility and the principle of collective accountability in India's Westminster-model parliamentary democracy. The annual budget is a Money Bill that must be passed by the Lok Sabha, and its rejection is treated as tantamount to a no-confidence motion. It signals a fundamental loss of the government's majority support in the lower house.\n\nThe core principle being tested is Article 75(3) of the Constitution, which establishes that 'The Council of Ministers shall be collectively responsible to the House of the People (Lok Sabha).' Failure to secure passage of the budget\u2014a core executive function and the primary financial instrument of governance\u2014amounts to a loss of confidence. The Prime Minister and entire Council of Ministers must resign as a unit; it is not merely the Finance Minister (who presents the budget) but the entire government that bears collective responsibility.\n\nThe main trap in this question is the confusion between individual versus collective responsibility. Option (c) tempts students by focusing on the Finance Minister as the proposer, but parliamentary convention dictates that the entire Council resigns. Option (a) assumes the budget could simply be reintroduced after modification, but a rejection is not a procedural setback\u2014it is a constitutional crisis. Option (b) reflects a misunderstanding of the Rajya Sabha's limited powers on Money Bills: it can only recommend changes within 14 days and has no power to pass or reject a Money Bill. Referring a rejected budget to the Rajya Sabha would not resolve the loss of confidence in the Lok Sabha.",
+    "facts": [
+      "A Money Bill can only be introduced in the Lok Sabha and, after passage, can only receive recommendations (not amendments) from the Rajya Sabha within 14 days.",
+      "The budget rejection is treated as a loss of confidence motion automatically; the government need not wait for a formal no-confidence motion to be tabled.",
+      "The Rajya Sabha has no power to vote on Demands for Grants; the Lok Sabha's approval is the exclusive constitutional requirement for budget passage.",
+      "Article 75(1) of the Constitution states that the Council of Ministers holds office during the pleasure of the President, but this is conditional on maintaining the confidence of the Lok Sabha."
+    ],
+    "sources": [
+      {
+        "title": "Testbook: When the annual Union Budget is not passed by the Lok Sabha",
+        "url": "https://testbook.com/question-answer/when-the-annual-union-budget-is-not-passed-by-the--602021b6cbdb09464defab79",
+        "whyUsed": "Confirmed that budget rejection leads to resignation of Prime Minister and entire Council of Ministers, and clarified the role of collective responsibility."
+      },
+      {
+        "title": "Prepp.in: Budget passage and parliamentary conventions",
+        "url": "https://prepp.in/question/when-the-annual-union-budget-is-not-passed-by-the-615e94e0ac44ac4586d98d19",
+        "whyUsed": "Explained the principle of collective responsibility under Article 75(3) and why the entire Council must resign rather than individual ministers."
+      },
+      {
+        "title": "Wikipedia: Lok Sabha",
+        "url": "https://en.wikipedia.org/wiki/Lok_Sabha",
+        "whyUsed": "Clarified the constitutional distinction between the Lok Sabha and Rajya Sabha on Money Bills and their respective powers regarding budget passage."
+      },
+      {
+        "title": "AskFilo: Budget passage and confidence motions",
+        "url": "https://askfilo.com/user-question-answers-smart-solutions/42-with-reference-to-look-east-policy-of-india-consider-the-3438303933353239",
+        "whyUsed": "Reinforced that budget passage is a test of majority in the Lok Sabha and its failure constitutes a loss of confidence in the government."
+      }
+    ],
+    "searchMeta": {
+      "usedWebSearch": true,
+      "searchQueries": [
+        "budget rejected Lok Sabha Prime Minister resignation Council of Ministers",
+        "budget passage Lok Sabha constitutional requirement India"
+      ],
+      "confidence": "high"
+    }
+  },
+  "id": 22
+}

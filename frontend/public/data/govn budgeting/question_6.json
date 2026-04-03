@@ -1,0 +1,52 @@
+{
+  "subject": "Polity",
+  "year": 2020,
+  "theme": "Fiscal framework and budget documents mandated by legislation vs constitutional convention",
+  "question_short_text": "Which law mandates the Macro Economic Framework Statement presented alongside the budget?",
+  "text": "Along with the Budget, the Finance Minister also places other documents before the Parliament which include 'The Macro Economic Framework Statement'. The aforesaid document is presented because this is mandated by:",
+  "options": [
+    "Long standing parliamentary convention",
+    "Article 112 and Article 110(1) of the Constitution of India",
+    "Article 113 of the Constitution of India",
+    "Provisions of the Fiscal Responsibility and Budget Management Act, 2003"
+  ],
+  "answerIndex": 3,
+  "answerText": "(d) Provisions of the Fiscal Responsibility and Budget Management Act, 2003",
+  "explanation": "The Macroeconomic Framework Statement is mandated under Section 3(5) of the FRBM Act, 2003, not by constitutional articles. It provides an assessment of growth prospects and underlying macroeconomic assumptions for the budget.",
+  "research": {
+    "summary": "The critical distinction tested here is between constitutional documents and statutory (legislation-based) documents. Articles 112, 110(1), and 113 of the Constitution mandate the Annual Financial Statement, Money Bills, and the budget procedure itself\u2014these are foundational constitutional requirements. However, the Macroeconomic Framework Statement is a statutory requirement created under the Fiscal Responsibility and Budget Management Act, 2003, specifically Section 3(5). The Act, enacted to institutionalize fiscal discipline and ensure inter-generational equity in fiscal management, requires the government to present three key documents alongside the budget: the Macroeconomic Framework Statement, the Fiscal Policy Strategy Statement, and the Medium-Term Fiscal Policy Statement. The Macroeconomic Framework Statement specifically contains assessments of the economy's growth prospects, underlying assumptions about GDP growth, inflation, fiscal balance of the central government, and external sector balance. The FRBM Act was itself a legislative response to India's high fiscal deficits in the 1990s and represents a move toward transparency and medium-term fiscal planning\u2014a layer beyond what the Constitution originally mandated. Therefore, while Articles 112 and 113 relate to the Annual Financial Statement and budget procedure (constitutional instruments), the Macroeconomic Framework Statement is a creature of statute (FRBM Act), making option (d) correct. This distinction is crucial for aspirants: constitutional articles govern core budget architecture; the FRBM Act governs modern fiscal discipline frameworks and supplementary transparency documents.",
+    "facts": [
+      "Section 3(5) of the FRBM Act specifically mandates the presentation of the Macroeconomic Framework Statement to Parliament alongside the budget each financial year.",
+      "Article 112 of the Constitution mandates the Annual Financial Statement (the basic budget document showing estimated receipts and expenditure), not the Macroeconomic Framework Statement.",
+      "The FRBM Act, 2003 also mandates the Fiscal Policy Strategy Statement and Medium-Term Fiscal Policy Statement, making a set of three fiscal framework documents beyond those required by the Constitution.",
+      "The FRBM Act came into force on 5 July 2004 and was designed to reduce fiscal deficit, eliminate revenue deficit, and ensure long-term macroeconomic stability and inter-generational equity.",
+      "UPSC often tests the difference between constitutional mandates (Articles 112, 113, 114) and statutory mandates (FRBM Act) to ensure aspirants understand the layered structure of India's fiscal governance."
+    ],
+    "sources": [
+      {
+        "title": "Fiscal Responsibility and Budget Management Act 2003 (Official)",
+        "url": "https://www.indiabudget.gov.in/doc/frbm1.pdf",
+        "whyUsed": "Official government document confirming that the Macroeconomic Framework Statement is presented under Section 3(5) of the FRBM Act and is part of the mandatory FRBM policy statements."
+      },
+      {
+        "title": "Article 112: Annual Financial Statement - Constitution of India",
+        "url": "https://www.constitutionofindia.net/articles/article-112-annual-financial-statement/",
+        "whyUsed": "Official source confirming that Article 112 mandates the Annual Financial Statement (basic budget), not the Macroeconomic Framework Statement, clarifying the constitutional vs statutory distinction."
+      },
+      {
+        "title": "Understanding the FRBM Act: Key Features and Objectives",
+        "url": "https://lunanotes.io/summary/understanding-the-frbm-act-of-2003-key-features-and-objectives",
+        "whyUsed": "Confirmed that the FRBM Act mandates the Macroeconomic Framework Statement and Medium-Term Fiscal Policy Statement as supplementary fiscal discipline documents."
+      }
+    ],
+    "searchMeta": {
+      "usedWebSearch": true,
+      "searchQueries": [
+        "Macroeconomic Framework Statement FRBM Act 2003",
+        "Article 112 113 Constitution budget parliament India"
+      ],
+      "confidence": "high"
+    }
+  },
+  "id": 6
+}

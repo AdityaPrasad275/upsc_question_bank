@@ -1,0 +1,61 @@
+{
+  "subject": "Polity",
+  "year": 2002,
+  "theme": "constitutional role of Finance Commission in Centre-State fiscal relations",
+  "question_short_text": "Authority recommending principles for grants-in-aid to states from Consolidated Fund",
+  "text": "Which one of the following authorities recommends the principles governing the grants-in-aid of the revenues to the states out of the Consolidated Fund of India?",
+  "options": [
+    "Finance Commission",
+    "Inter-State Council",
+    "Union Ministry of Finance",
+    "Public Accounts Committee"
+  ],
+  "answerIndex": 0,
+  "answerText": "(a) Finance Commission",
+  "explanation": "Article 280(3)(b) of the Indian Constitution explicitly mandates that the Finance Commission recommend the principles which should govern the grants-in-aid of the revenues of the States out of the Consolidated Fund of India.",
+  "research": {
+    "summary": "This question tests the constitutional structure of Centre-State fiscal relations in India. The Finance Commission is a constitutional body established under Article 280 with a specific mandate to recommend the principles governing grants-in-aid to states. Grants-in-aid are financial transfers from the Centre to states that go beyond the revenue-sharing arrangements (devolution of taxes). They are specifically used to support states facing revenue deficits or requiring support for specific welfare purposes, particularly for Scheduled Tribes and Scheduled Areas under Article 275. The main trap in this question is confusing the Finance Commission's role with other institutions: the Inter-State Council is a cooperative body for coordination between Centre and states but does not make financial recommendations; the Union Ministry of Finance is an administrative ministry that implements the Finance Commission's recommendations but does not formulate the principles; the Public Accounts Committee is a parliamentary committee focused on audit and accountability, not fiscal distribution. Article 280(3) clearly specifies the Finance Commission's three primary duties: (a) recommending distribution of net tax proceeds between Union and States, (b) recommending principles for grants-in-aid of state revenues from the Consolidated Fund, and (bb) recommending measures to supplement resources of Panchayats and Municipalities. This constitutional role was reaffirmed in judicial precedent, particularly in Union of India v. State of Kerala (1979), where the Court upheld the binding nature of the Finance Commission's principles regarding grants-in-aid. The Finance Commission typically constitutes recommendations every five years, with each new Commission reviewing the financial position of both Union and States to determine appropriate grant allocations for the ensuing award period.",
+    "facts": [
+      "Article 275 of the Constitution governs the actual dispensation of grants-in-aid; the Finance Commission recommends the principles, the President approves them, and they are implemented through Article 275.",
+      "Grants-in-aid from the Consolidated Fund constitute approximately 12% of central transfers to states, distinct from the larger component of revenue-sharing through tax devolution.",
+      "The 14th Finance Commission (2015-2020) differentiated grant-in-aid into three categories: grants for specific purposes (like Scheduled Areas welfare), grants for state revenue deficit support, and grants to local bodies.",
+      "Unlike tax-sharing (which is automatic once the Finance Commission's devolution formula is approved), grants-in-aid are discretionary transfers designed for targeted financial support to specific state situations or purposes.",
+      "The Finance Commission's recommendations on grants-in-aid must be laid before Parliament by the President along with an explanatory memorandum, as per Article 281, but the President is not bound to accept them\u2014though political convention usually ensures adoption."
+    ],
+    "sources": [
+      {
+        "title": "Article 280 in Constitution of India",
+        "url": "https://indiankanoon.org/doc/559924/",
+        "whyUsed": "Official constitutional text confirming Finance Commission's duty under Article 280(3)(b) to recommend principles for grants-in-aid"
+      },
+      {
+        "title": "Article 280: Finance Commission - Constitution of India",
+        "url": "https://www.constitutionofindia.net/articles/article-280-finance-commission/",
+        "whyUsed": "Detailed explanation of Article 280(3) and the Finance Commission's specific mandate on grants-in-aid principles and historical constitutional debate"
+      },
+      {
+        "title": "Article 280 \u2013 GKToday",
+        "url": "https://www.gktoday.in/article-280/",
+        "whyUsed": "Clarification of related articles (Article 275, 281, 282) and judicial precedents establishing the binding nature of Finance Commission's grant-in-aid recommendations"
+      },
+      {
+        "title": "Finance Commission of India, Article 280 of Indian Constitution - Drishti Judiciary",
+        "url": "https://www.drishtijudiciary.com/to-the-point/ttp-constitution-of-india/finance-commission",
+        "whyUsed": "Comprehensive breakdown of Article 280 duties including grants-in-aid principles and composition of Finance Commission"
+      },
+      {
+        "title": "[Solved] On whose recommendation the central government grants Grants",
+        "url": "https://testbook.com/question-answer/on-whose-recommendation-the-central-government-gra--5dca8551f60d5d469c914954",
+        "whyUsed": "Verification that Article 280 specifically provides Finance Commission's role in recommending aid/grants from Consolidated Fund, with contextual information on grants-in-aid as 12% of central transfers"
+      }
+    ],
+    "searchMeta": {
+      "usedWebSearch": true,
+      "searchQueries": [
+        "Finance Commission grants-in-aid Article 280 Constitution"
+      ],
+      "confidence": "high"
+    }
+  },
+  "id": 32
+}

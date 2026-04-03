@@ -1,0 +1,47 @@
+{
+  "subject": "Economy",
+  "year": 2002,
+  "theme": "composition and structure of India's external debt",
+  "question_short_text": "Reason for external debt increase from March 2000 to March 2001",
+  "text": "India's external debt increased from US $98,158 million as at the end of March 2000 to US $100,225 million as at the end of March 2001 due to increase in:",
+  "options": [
+    "Multilateral and bilateral debt",
+    "Rupee debt",
+    "Commercial borrowings and NRI deposits",
+    "Borrowing from International Monetary Fund"
+  ],
+  "answerIndex": 0,
+  "answerText": "(a) Multilateral and bilateral debt",
+  "explanation": "The increase in India's external debt during this period was driven by multilateral and bilateral debt. Multilateral debt includes loans from institutions like the World Bank and ADB, while bilateral debt comprises loans from foreign governments. These official sources of external finance dominated the debt portfolio in 2000\u20132001.",
+  "research": {
+    "summary": "This question tests understanding of how India's external debt portfolio was composed in the early 2000s, specifically the relative contribution of different creditor categories to debt growth. The key period (March 2000 to March 2001) is part of the post-liberalisation decade when India maintained policy focus on borrowing from concessional sources\u2014multilateral (World Bank, ADB, IFAD) and bilateral (foreign government) creditors\u2014rather than commercial sources. This was part of a deliberate external sector policy to manage debt sustainability by prioritising loans with longer tenors and lower costs. The trap here is that students often assume commercial borrowings and NRI deposits were the primary sources of external debt growth, but in this period, official creditors (multilateral and bilateral) were still the dominant contributors. Commercial borrowings only later rose significantly in absolute terms (reaching US $24.2 billion by 2001 from US $10.2 billion in 1991), but the marginal increase from 2000 to 2001 came from multilateral and bilateral sources. Notably, India classified IMF borrowings separately from multilateral debt, making this an important distinction when evaluating the options. The Government of India maintained concessional external assistance as the largest component of sovereign external debt during the 1990s and early 2000s, following post-1991 reform priorities. Between 1991 and 2001, external debt grew at only around 2 percent per annum on average, reflecting prudent debt management.",
+    "facts": [
+      "India's external debt stock grew from US $83.8 billion in March 1991 to US $101.1 billion in March 2001, averaging 2 percent annual growth",
+      "Concessional debt (largely from multilateral and bilateral sources) declined as a share of total debt from 42.9% in 1991\u20132000 to 28.1% in 2001\u20132010, but these sources remained the dominant marginal source of sovereign debt in 2000\u20132001",
+      "IMF borrowings are classified separately from multilateral debt under the IMF head, not included in the 'multilateral debt' category in India's external debt classification system",
+      "Commercial borrowings rose from US $10.2 billion in 1991 to US $24.2 billion by 2001, but the period 2000\u20132001 saw modest commercial debt growth relative to bilateral and multilateral increases",
+      "The debt service ratio fell from 35.3% in 1990\u201391 to 13.4% in 2001\u201302, reflecting India's ability to service external obligations despite growing absolute debt stock"
+    ],
+    "sources": [
+      {
+        "title": "India's External Debt A Status Report (2003\u201304)",
+        "url": "https://dea.gov.in/files/external_debt_documents/ExtDebtReportEng.pdf",
+        "whyUsed": "Official DEA status report with detailed compositional breakdown and historical trends for the exact period (March 2000\u20132001) with verified figures for multilateral, bilateral, commercial, and NRI debt components"
+      },
+      {
+        "title": "External Debt of India - Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/External_debt_of_India",
+        "whyUsed": "Provides classification framework distinguishing IMF debt from multilateral debt and confirms that multilateral includes IDA, ADB, IBRD, IFAD, which aligns with the composition in 2000\u20132001"
+      }
+    ],
+    "searchMeta": {
+      "usedWebSearch": true,
+      "searchQueries": [
+        "India external debt 2000 2001 multilateral bilateral composition",
+        "India external debt components March 2001 RBI data"
+      ],
+      "confidence": "high"
+    }
+  },
+  "id": 31
+}

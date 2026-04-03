@@ -1,0 +1,51 @@
+{
+  "subject": "Polity",
+  "year": 1998,
+  "theme": "Government institutions and publications - Economic Survey",
+  "question_short_text": "Publishing authority of the Economic Survey in India",
+  "text": "Economic Survey in India is published officially, every year by the:",
+  "options": [
+    "(a) Reserve Bank of India",
+    "(b) Planning Commission of India",
+    "(c) Ministry of Finance, Government of India",
+    "(d) Ministry of Industries, Government of India"
+  ],
+  "answerIndex": 2,
+  "answerText": "(c) Ministry of Finance, Government of India",
+  "explanation": "The Economic Survey is an annual official document published by the Ministry of Finance, Government of India. It is presented before the Union Budget in Parliament by the Department of Economic Affairs under the Ministry of Finance, and is prepared under the guidance of the Chief Economic Adviser.",
+  "research": {
+    "summary": "The Economic Survey is a flagship annual document of the Ministry of Finance, Government of India, presented to Parliament just before the Union Budget. This is often confused because students may associate economic analysis with the Reserve Bank of India (RBI's monetary analysis) or the Planning Commission (now NITI Aayog's planning role), but publication responsibility rests exclusively with the Ministry of Finance through its Department of Economic Affairs. The distinction matters: the RBI publishes monetary policy statements and financial stability reports; the Planning Commission/NITI Aayog publishes development plans; the Ministry of Industries publishes sector-specific reports. The Economic Survey, however, is the government's comprehensive review of macroeconomic performance, sectoral trends, and forward outlook, tabled in both Houses of Parliament. First presented in 1950-51 as part of the Budget, it was separated as an independent document in 1964, reinforcing its role as the formal economic assessment preceding budgetary decisions. The Chief Economic Adviser prepares it in consultation with economists and analysts, making it a coordinated fiscal-economic planning tool rather than a central bank or planning ministry function. A practical recognition aid: the Economic Survey is presented one day before the budget speech, positioning it as the diagnostic document that contextualizes the government's fiscal choices.",
+    "facts": [
+      "The Economic Survey was first presented in 1950-51 as part of the Union Budget and separated as an independent document in 1964.",
+      "The Department of Economic Affairs under the Ministry of Finance is responsible for drafting the Economic Survey under the guidance of the Chief Economic Adviser.",
+      "The Economic Survey is presented in Parliament by the Union Finance Minister (or Minister of Finance and Corporate Affairs) in both Houses during the Budget Session.",
+      "The Survey reviews macroeconomic performance, sectoral developments, policy initiatives, and provides forward-looking economic outlook and recommendations.",
+      "While the Economic Survey does not announce new schemes or laws, it serves as the intellectual foundation for the Union Budget's policy direction and fiscal allocations."
+    ],
+    "sources": [
+      {
+        "title": "Economic Survey - Official Government of India Portal",
+        "url": "https://www.indiabudget.gov.in/economicsurvey/",
+        "whyUsed": "Confirms Ministry of Finance as the official publishing authority and current publication details."
+      },
+      {
+        "title": "Economic survey of India - Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Economic_survey_of_India",
+        "whyUsed": "Verified that the Department of Economic Affairs under Ministry of Finance prepares and presents the Economic Survey, and that it was separated from the Budget in 1964."
+      },
+      {
+        "title": "Department of Economic Affairs - Ministry of Finance",
+        "url": "http://dea.gov.in/index.php/publications/economic-survey",
+        "whyUsed": "Confirmed that the Department of Economic Affairs is the official custodian of the Economic Survey publication."
+      }
+    ],
+    "searchMeta": {
+      "usedWebSearch": true,
+      "searchQueries": [
+        "Economic Survey India published Ministry of Finance"
+      ],
+      "confidence": "high"
+    }
+  },
+  "id": 39
+}

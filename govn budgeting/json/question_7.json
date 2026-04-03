@@ -1,0 +1,57 @@
+{
+  "subject": "Economy",
+  "year": 2020,
+  "theme": "classification of debt by sector of borrower: financial vs. non-financial debt",
+  "question_short_text": "Which of these three\u2014housing loans, credit card debt, and treasury bills\u2014are non-financial debt?",
+  "text": "In the context of the Indian economy, non-financial debt includes which of the following?\n\n1. Housing loans owed by households\n2. Amounts outstanding on credit cards\n3. Treasury bills\n\nSelect the correct answer using the code given below:",
+  "options": [
+    "1 only",
+    "1 and 2 only",
+    "3 only",
+    "1, 2 and 3"
+  ],
+  "answerIndex": 3,
+  "answerText": "(d) 1, 2 and 3",
+  "explanation": "All three items constitute non-financial debt because they are debts owed by entities outside the financial sector: households (items 1 and 2) and the government (item 3).",
+  "research": {
+    "summary": "Non-financial debt is fundamentally about sector classification of the borrower, not the type or purpose of the debt. The key trap UPSC tests here is distinguishing between 'who owes the debt' versus 'what kind of debt it is.' The economy is typically divided into financial and non-financial sectors. The financial sector includes banks, insurance companies, and other institutions whose primary function is financial intermediation. The non-financial sector includes households, non-financial corporations, and the government\u2014entities whose primary purpose is NOT lending money. Non-financial debt is any debt issued by or owed by these non-financial entities. Housing loans owed by households are clearly non-financial debt because households are a non-financial sector; the borrower is not a financial institution. Credit card outstanding balances work the same way\u2014the cardholder (household or non-financial entity) owes the debt to a bank, but because the debtor is non-financial, it counts as non-financial debt. Treasury bills are issued by the government, which is also classified as non-financial for this accounting purpose, so government debt qualifies as non-financial debt. The misunderstanding often arises because students confuse 'non-financial debt' with 'consumer debt' or 'unsecured debt.' A financial institution taking a loan would create financial debt; a household or government taking the same type of loan creates non-financial debt. What matters is the sector of the debtor, not the loan type, maturity, or collateral. In India's macroeconomic analysis, tracking non-financial debt helps measure overall leverage in the household, corporate, and government sectors and assess vulnerability to financial shocks. Recent RBI data show non-housing retail loans (credit cards, personal loans, auto loans) now comprise about 55% of total household debt, reflecting a shift toward consumption-driven borrowing alongside traditional housing debt at 29%.",
+    "facts": [
+      "Non-financial debt aggregates debt from households, non-financial corporations, and government sectors; financial sector debt (debt owed by banks, insurers, NBFCs for relending) is excluded.",
+      "Treasury bills are short-term government securities with maturities up to 365 days; they are a core component of government borrowing classified as non-financial debt.",
+      "Credit card debt and personal loans form the fastest-growing segment of Indian household debt, now accounting for 54.9% of total household debt as of March 2025, outpacing housing loan growth.",
+      "India's household debt-to-GDP ratio stood at 17.6% as of March 2025, lower than many emerging market economies, but the composition has shifted significantly toward consumption-driven unsecured borrowing.",
+      "Economic accounting frameworks divide the economy into sectors to track leverage and systemic risk; non-financial debt is a key stability indicator used by RBI and other central banks."
+    ],
+    "sources": [
+      {
+        "title": "Non-Financial Debt in India Explained | UPSC Economy",
+        "url": "https://prepp.in/question/in-the-context-of-the-indian-economy-non-financial-615466dcac44ac4586d9601f",
+        "whyUsed": "Clear conceptual explanation of sector-based debt classification, breakdown of all three statement types, and the distinction between financial and non-financial sectors."
+      },
+      {
+        "title": "Indian Economy: What is Non-Financial Debt?",
+        "url": "https://prepp.in/question/in-the-context-of-the-indian-economy-non-financial-6453b61f3c1bc691f01fe7e9",
+        "whyUsed": "Detailed analysis of economic sector frameworks and practical application to each statement, confirming government is classified as non-financial for debt accounting."
+      },
+      {
+        "title": "India Household Debt Landscape (HDFC)",
+        "url": "https://hdfc-tru.com/resources/primer/primer-listing/indias-household-debt-landscape/",
+        "whyUsed": "Recent March 2025 data on composition of household debt, confirming that non-housing retail loans including credit cards now represent 54.9% of total household debt."
+      },
+      {
+        "title": "Rising Household Debt in India | Drishti IAS",
+        "url": "https://www.drishtiias.com/daily-updates/daily-news-analysis/rising-household-debt-in-india",
+        "whyUsed": "RBI Financial Stability Report data on household debt composition, growth rates, and macroeconomic context relevant to understanding non-financial debt trends."
+      }
+    ],
+    "searchMeta": {
+      "usedWebSearch": true,
+      "searchQueries": [
+        "non-financial debt definition Indian economy RBI",
+        "household debt credit card housing loans India classification"
+      ],
+      "confidence": "high"
+    }
+  },
+  "id": 7
+}

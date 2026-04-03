@@ -1,0 +1,57 @@
+{
+  "subject": "Polity",
+  "year": 2025,
+  "theme": "Budget classification: Revenue and Capital Receipts in Indian Government Finance",
+  "question_short_text": "Identify correct statements about capital receipts, borrowings, disinvestment, and interest received",
+  "text": "Consider the following statements:\n\nI. Capital receipts create a liability or cause a reduction in the assets of the Government.\n\nII. Borrowings and disinvestment are capital receipts.\n\nIII. Interest received on loans creates a liability of the Government.\n\nWhich of the statements given above are correct?",
+  "options": [
+    "I and II only",
+    "II and III only",
+    "I and III only",
+    "I, II and III"
+  ],
+  "answerIndex": 0,
+  "answerText": "(a) I and II only",
+  "explanation": "Statements I and II are correct. Statement I accurately defines capital receipts as transactions that either create government liabilities or reduce assets. Statement II correctly identifies borrowings (debt) and disinvestment (asset sales) as capital receipts. Statement III is incorrect because interest received is revenue receipt, not capital receipt\u2014it is income for the government without creating any liability.",
+  "research": {
+    "summary": "This question tests the critical distinction between capital and revenue receipts, a cornerstone of government budget classification under Article 112 of the Indian Constitution. The defining principle is simple but often misunderstood: capital receipts change the government's balance sheet (either by increasing liabilities or decreasing assets), while revenue receipts do not.\n\nStatement I is the definition itself. Capital receipts operate through two mechanisms: borrowings (loans, bonds, treasury bills) create liabilities that must be repaid with interest, while disinvestment or recovery of loans reduces the asset side of the balance sheet. This is why the budget distinguishes them\u2014they affect the government's net financial position, unlike regular tax or non-tax revenue.\n\nStatement II correctly pairs the two largest types of capital receipts. Borrowings include market loans from the public, RBI advances, external loans, and small savings schemes (PPF, NSC)\u2014all of which represent money the government owes. Disinvestment refers to the government selling its equity stakes in Public Sector Undertakings (PSUs), which reduces government-owned assets. Both are classified as capital receipts because they reshape the government's financial structure.\n\nStatement III is the trap. Interest received on loans\u2014whether lent to states, union territories, or foreign governments\u2014is straightforward income. It does not increase the government's obligations; it increases its resources. Interest received belongs entirely to revenue receipts (specifically, non-tax revenue), not capital receipts. Students often confuse this because they see the word \"interest\" and assume it relates to government debt, but the question is asking what happens when the government collects interest as a creditor, not when it pays interest as a debtor.\n\nA practical elimination cue: Ask yourself whether the receipt causes the government to owe something or own less. Interest received does neither. The government receives cash without incurring any new obligation.",
+    "facts": [
+      "Capital receipts exclude revenue receipts like taxes, dividends, fees, and interest income\u2014all of which do not change the government's asset-liability position.",
+      "Disinvestment is often used as a fiscal tool to raise revenue without increasing debt; the government has periodically set disinvestment targets (e.g., PSU stake sales) to manage fiscal deficits.",
+      "Small savings schemes (PPF, NSC, KVP) are capital receipts because they create a government liability to repay deposits with interest; they are not regular tax or non-tax revenue.",
+      "Recovery of loans (when states or other entities repay borrowed money) is also a capital receipt under non-debt category because it reduces the government's outstanding loan assets.",
+      "Interest paid by the government on its own borrowings is revenue expenditure (a cost), while interest received by the government is revenue receipt (income)\u2014this distinction is crucial for budget classification."
+    ],
+    "sources": [
+      {
+        "title": "CGA - Government of India Accounts",
+        "url": "https://cga.gov.in/writereaddata/aag-chap2.htm",
+        "whyUsed": "Official government source defining the classification of revenue receipts (interest, dividends, fees) and capital receipts (borrowings, disinvestment, loan recoveries)."
+      },
+      {
+        "title": "India Budget 2026-27 Receipt Budget - Ministry of Finance",
+        "url": "https://www.indiabudget.gov.in/doc/rec/allrec.pdf",
+        "whyUsed": "Official budget document showing how borrowings, disinvestment, and other capital receipts are actually recorded and distinguished from revenue receipts in practice."
+      },
+      {
+        "title": "Inclusive IAS - Budget Classification",
+        "url": "https://inclusiveias.com/upsc-economy-budget-classification-revenue-receipts-capital-receipts/",
+        "whyUsed": "Clear UPSC-focused explanation confirming that capital receipts create liabilities or reduce assets, while revenue receipts do not, with concrete examples."
+      },
+      {
+        "title": "PREPP - Capital Receipts in Indian Economy",
+        "url": "https://prepp.in/question/consider-the-following-statements-i-capital-receip-6832c9a2c76ef31452b00f89",
+        "whyUsed": "UPSC-oriented analysis of the exact same question format, disambiguating interest received (revenue) from interest paid (expenditure) and explaining why Statement III is incorrect."
+      }
+    ],
+    "searchMeta": {
+      "usedWebSearch": true,
+      "searchQueries": [
+        "capital receipts revenue receipts government India budget",
+        "borrowings disinvestment capital receipts definition"
+      ],
+      "confidence": "high"
+    }
+  },
+  "id": 1
+}

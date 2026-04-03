@@ -1,0 +1,77 @@
+{
+  "subject": "Polity",
+  "year": 2012,
+  "theme": "Constitutional mechanisms of parliamentary control over public finance",
+  "question_short_text": "Identify valid methods of parliamentary control over public finance",
+  "text": "Which of the following are the methods of Parliamentary control over public finance in India:\n\n1. Placing Annual Financial Statement before the Parliament\n2. Withdrawal of moneys from Consolidated Fund of India only after passing the Appropriation Bill\n3. Provisions of supplementary grants and vote-on-account\n4. A periodic or at least a mid-year review of programme of the Government against macroeconomic forecasts and expenditure by a Parliamentary Budget Office\n5. Introducing Finance Bill in the Parliament",
+  "options": [
+    "1, 2, 3 & 5 Only",
+    "1, 2 & 4 only",
+    "3, 4 & 5 Only",
+    "1, 2, 3, 4 & 5 Only"
+  ],
+  "answerIndex": 0,
+  "answerText": "(a) 1, 2, 3 & 5 Only",
+  "explanation": "Statements 1, 2, 3, and 5 are valid constitutional mechanisms of parliamentary control over public finance. Statement 4 is incorrect because India did not have a formal Parliamentary Budget Office in 2012; such mid-year reviews are typically executive functions under the Fiscal Responsibility and Budget Management (FRBM) Act, not parliamentary control mechanisms.",
+  "research": {
+    "summary": "This question tests understanding of the constitutional architecture through which Parliament exerts financial oversight in India. The correct answer excludes statement 4 not because parliamentary oversight is unimportant, but because a Parliamentary Budget Office (PBO) does not exist as a formal institution in India. Most democracies\u2014US (Congressional Budget Office), Canada, Australia, UK, Ireland\u2014have PBOs as independent analytical units reporting to legislatures, but India's Parliament relies instead on statutory committees (Public Accounts Committee, Estimates Committee) and executive mechanisms like the FRBM Act for mid-year reviews.\n\nThe four correct methods are anchored in specific constitutional provisions. Article 112 mandates the Annual Financial Statement, Article 114 requires Appropriation Bill approval before any withdrawal from the Consolidated Fund, Article 116 provides for supplementary grants and vote-on-account, and the Finance Bill (linked to taxation under Articles 108-109) gives Parliament control over revenue proposals. These are not advisory channels; they are gating mechanisms. No money moves without parliamentary authorization, no tax is imposed without parliamentary sanction. This is the constitutional bedrock of the parliamentary system.\n\nThe trap here is subtle. Statement 4 uses language that sounds plausible\u2014periodic review against macroeconomic forecasts\u2014and mirrors what advanced democracies do. But UPSC is testing whether candidates know the actual institutional landscape of India as of 2012 (or even today). The absence of a PBO is not a minor detail; it reflects a deliberate institutional choice: India relies on the executive to forecast and the committees to scrutinize after the fact, rather than on an independent legislative body conducting real-time analysis. Some argue this is a gap in India's fiscal governance; the point here is that it is not yet a formal parliamentary control method.",
+    "facts": [
+      "Article 112 of the Constitution requires the President to lay the Annual Financial Statement (Union Budget) before both Houses of Parliament, specifying estimated receipts and expenditure.",
+      "Article 114 establishes that no money can be withdrawn from the Consolidated Fund of India except under an appropriation made by law\u2014a cardinal rule of parliamentary sovereignty.",
+      "Article 116 provides for votes-on-account (to permit interim spending before full budget approval), supplementary grants, and votes of credit, all approved by Parliament.",
+      "The Finance Bill is the money bill that gives legal effect to taxation proposals and is subject to Lok Sabha's exclusive control as per Article 109.",
+      "As of 2012 and beyond, India has no dedicated Parliamentary Budget Office; financial committees like the Public Accounts Committee and Estimates Committee perform post-budget scrutiny, but no independent legislative budget analysis unit exists modelled on the US CBO or UK OBR."
+    ],
+    "sources": [
+      {
+        "title": "IAS 2012 Q60 Discussion: Methods of Parliamentary Control",
+        "url": "https://examrobot.com/ias/2012/polity-governance/methods-parliamentary-control-over-public-finance-india-placing-annual-financial-parliament",
+        "whyUsed": "Verified the statement-by-statement analysis and confirmed that statement 4 was incorrectly listed as a parliamentary control method in 2012 because no PBO existed in India at that time."
+      },
+      {
+        "title": "Parliamentary Budget Office Resources: Why India Needs a PBO",
+        "url": "https://www.linkedin.com/pulse/why-india-needs-parliamentary-budget-office-pbo-kaushiki-sanyal",
+        "whyUsed": "Provided context on PBOs in other democracies and confirmed the absence of a formal PBO in India, establishing why statement 4 cannot be a method of parliamentary control."
+      },
+      {
+        "title": "Role of Parliament in Budgetary Process",
+        "url": "https://www.shankariasparliament.com/current-affairs/role-of-parliament-in-budgetary-process",
+        "whyUsed": "Clarified that India currently lacks the institutional mechanism of a Parliamentary Budget Office for conducting independent mid-year reviews against macroeconomic forecasts."
+      },
+      {
+        "title": "Financial Oversight by Parliament \u2013 PRS India",
+        "url": "https://prsindia.org/files/parliament/discussion_papers/1370585243_Financial%20Oversight%20by%20Parliament.pdf",
+        "whyUsed": "Provided detailed overview of India's actual mechanisms of parliamentary control and post-budget oversight through statutory committees, not through a PBO."
+      },
+      {
+        "title": "Parliamentary Control of Public Expenditure \u2013 IAS Exam Portal",
+        "url": "https://iasexamportal.com/sample-material/ias-mains-public-administration/parliamentary-control-of-public-expenditure",
+        "whyUsed": "Verified constitutional articles (112, 114, 115, 116) that ground statements 1, 2, and 3 in the constitutional framework."
+      },
+      {
+        "title": "Functions of Parliament in India \u2013 BYJUS",
+        "url": "https://byjus.com/free-ias-prep/functions-of-the-parliament/",
+        "whyUsed": "Confirmed that no single pie can be spent by the executive without parliamentary approval, establishing the principle underlying all four correct methods."
+      },
+      {
+        "title": "About the PBO \u2013 Parliament of Australia",
+        "url": "https://www.aph.gov.au/About_Parliament/Parliamentary_departments/%20Parliamentary_departments/About_the_PBO",
+        "whyUsed": "Provided reference point: Australia's PBO was established in 2012, showing the model exists elsewhere but not in India at that time."
+      },
+      {
+        "title": "EXECUTIVE \u2013 ITS ACCOUNTABILITY TO PARLIAMENT (Rajya Sabha)",
+        "url": "https://cms.rajyasabha.nic.in/UploadedFiles/Procedure/PracticeAndProcedure/English/26/EXECUTIVE.pdf",
+        "whyUsed": "Established that parliamentary control over public finance\u2014power to levy/modify taxes and vote supplies and grants\u2014is one of the most important checks against executive power."
+      }
+    ],
+    "searchMeta": {
+      "usedWebSearch": true,
+      "searchQueries": [
+        "Parliamentary Budget Office India establishment when",
+        "methods parliamentary control public finance India constitution"
+      ],
+      "confidence": "high"
+    }
+  },
+  "id": 16
+}

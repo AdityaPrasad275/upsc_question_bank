@@ -1,0 +1,57 @@
+{
+  "subject": "Economy",
+  "year": 2015,
+  "theme": "government policies to reduce fiscal deficit",
+  "question_short_text": "Which actions can reduce a persistent fiscal deficit\u2014revenue cuts, new schemes, subsidy rationalization, or industry expansion?",
+  "text": "There has been a persistent deficit budget year after year. Which of the following actions can be taken by the government to reduce the deficit?\n\n1. Reducing revenue expenditure\n2. Introducing new welfare schemes\n3. Rationalizing subsidies\n4. Expanding industries\n\nSelect the correct answer using the code given below.",
+  "options": [
+    "1 and 3 only",
+    "2 and 3 only",
+    "1 only",
+    "1, 2, 3 and 4"
+  ],
+  "answerIndex": 0,
+  "answerText": "(a) 1 and 3 only",
+  "explanation": "A persistent fiscal deficit means total government expenditure exceeds total receipts (excluding borrowings). To reduce it, the government must either increase revenue or cut expenditure. Reducing revenue expenditure (statement 1) directly lowers spending and thus reduces the deficit. Rationalizing subsidies (statement 3) also cuts expenditure. However, introducing new welfare schemes increases spending, and expanding industries is a long-term growth strategy that does not immediately reduce the deficit.",
+  "research": {
+    "summary": "This question tests understanding of fiscal deficit mechanics and the distinction between actions that directly reduce the deficit versus those that have indirect or counterproductive effects. A fiscal deficit is fundamentally a gap between total government expenditure and total non-debt receipts. To narrow this gap, the government has two levers: increase revenue or reduce expenditure.\n\nStatement 1 (reducing revenue expenditure) is correct because it directly cuts government spending on consumption and operations\u2014salaries, interest payments, pensions, subsidies. Lower revenue expenditure means the gap between total spending and receipts narrows immediately. This is a direct, short-term deficit-reduction measure.\n\nStatement 2 (introducing new welfare schemes) is incorrect because welfare schemes are new spending commitments that increase revenue expenditure. They expand the gap between expenditure and receipts, not narrow it. The misconception here is that welfare schemes might generate indirect long-term growth; however, UPSC is asking what actions reduce the deficit itself, not what generates growth.\n\nStatement 3 (rationalizing subsidies) is correct because rationalization means evaluating and trimming inefficient or excessive subsidies. Food, fuel, and fertilizer subsidies represent major expenditure items in India's budget. Reducing them cuts revenue expenditure directly and shrinks the fiscal deficit. This is especially relevant to India's fiscal context, where subsidy bills have been a persistent drag on fiscal health.\n\nStatement 4 (expanding industries) is incorrect. While industrial expansion can boost long-term tax revenue and GDP, it does not directly reduce the deficit in the short term. The government may need to invest to expand industries (increasing expenditure), or wait years for tax returns. It is a growth strategy, not a deficit-reduction tool. The trap is confusing long-term growth effects with immediate deficit mechanics.\n\nThe core lesson: deficit reduction requires either revenue enhancement or expenditure rationalization. Welfare schemes and industrial expansion are policy priorities, but they do not directly shrink the fiscal deficit.",
+    "facts": [
+      "India's fiscal deficit target under the Fiscal Responsibility and Budget Management Act (FRBM, 2003) was originally 3% of GDP; revised targets have been 4.5% by 2025\u201326 and 4.3% by 2026\u201327.",
+      "Revenue expenditure (salaries, interest, subsidies) differs from capital expenditure (infrastructure, asset acquisition); cutting revenue expenditure reduces the deficit, while capital expenditure cuts may hinder long-term growth.",
+      "Subsidy rationalization is a key tool in India's fiscal consolidation strategy; discontinuing or means-testing schemes like PMGKAY (Pradhan Mantri Garib Kalyan Anna Yojana) has visibly reduced expenditure burdens.",
+      "The fiscal deficit formula is Total Expenditure (Revenue + Capital) minus Total Receipts (excluding borrowings); revenue deficit (revenue expenditure minus revenue receipts) is a component of fiscal deficit and more immediately harmful to daily government operations.",
+      "Expanding industries, while valuable for economic growth, requires upfront government investment or foregone revenue (tax incentives), thus temporarily widening the deficit rather than reducing it."
+    ],
+    "sources": [
+      {
+        "title": "Fiscal Deficit: Meaning, Calculation & Components | Bajaj FinServ",
+        "url": "https://www.bajajfinserv.in/fiscal-deficit",
+        "whyUsed": "Clarified the relationship between revenue expenditure, subsidies, and fiscal deficit reduction mechanisms with reference to India's FRBM targets."
+      },
+      {
+        "title": "Difference Between Revenue Deficit and Fiscal Deficit | Testbook",
+        "url": "https://testbook.com/key-differences/difference-between-revenue-deficit-and-fiscal-deficit",
+        "whyUsed": "Explained the role of reducing revenue expenditure and subsidies as direct deficit-reduction measures, distinguishing them from growth strategies."
+      },
+      {
+        "title": "Union Budget 2023-24: Analysis of Major Demands | PRS India",
+        "url": "https://prsindia.org/budgets/parliament/union-budget-2023-24-analysis-of-major-demands",
+        "whyUsed": "Provided concrete context on subsidy rationalization (e.g., discontinuation of PMGKAY) as a fiscal consolidation measure in India's actual budgets."
+      },
+      {
+        "title": "What Is Fiscal Deficit? | BlinkX",
+        "url": "https://blinkx.in/en/knowledge-base/budget/fiscal-deficit",
+        "whyUsed": "Verified the distinction between expenditure control (cutting subsidies, reducing bureaucracy) versus growth measures (economic expansion, PPPs) in deficit reduction."
+      }
+    ],
+    "searchMeta": {
+      "usedWebSearch": true,
+      "searchQueries": [
+        "fiscal deficit reduction government measures India budget",
+        "revenue expenditure working capital subsidies fiscal deficit"
+      ],
+      "confidence": "high"
+    }
+  },
+  "id": 13
+}

@@ -1,0 +1,62 @@
+{
+  "subject": "Economy",
+  "year": 2011,
+  "theme": "government fiscal policy instruments during economic slowdowns",
+  "question_short_text": "Definition of fiscal stimulus and its purpose in economic policy",
+  "text": "Which one of the following statements appropriately describes the \"fiscal stimulus\"?\n\na) It is a massive investment by the government in manufacturing sector to ensure the supply of goods to meet the demand surge caused by rapid economic growth.\n\nb) It is an intense affirmative action of the government to boost economic activity in the country.\n\nc) It is government's intensive action on financial institutions to ensure disbursement of loans to agriculture and allied sectors to promote greater food production and contain food inflation.\n\nd) It is an extreme affirmative action by the government to pursue its policy of financial inclusion",
+  "options": [
+    "It is a massive investment by the government in manufacturing sector to ensure the supply of goods to meet the demand surge caused by rapid economic growth.",
+    "It is an intense affirmative action of the government to boost economic activity in the country.",
+    "It is government's intensive action on financial institutions to ensure disbursement of loans to agriculture and allied sectors to promote greater food production and contain food inflation.",
+    "It is an extreme affirmative action by the government to pursue its policy of financial inclusion"
+  ],
+  "answerIndex": 1,
+  "answerText": "(b) It is an intense affirmative action of the government to boost economic activity in the country.",
+  "explanation": "Fiscal stimulus refers to government actions\u2014increased spending, tax cuts, or both\u2014designed to boost aggregate demand and economic activity, particularly during slowdowns or recessions. Option (b) captures this essence most accurately as a broad governmental action to stimulate the economy.",
+  "research": {
+    "summary": "Fiscal stimulus is fundamentally about using government spending and taxation as tools to inject demand into a sluggish economy. The key distinction UPSC is testing here is that fiscal stimulus is a *demand-side macroeconomic intervention*, not sector-specific investment or institutional lending guidance. Option (a) is tempting because it mentions government investment, but it narrowly targets manufacturing and assumes rapid growth as the baseline\u2014fiscal stimulus is actually used when growth is slowing, not during demand surges. Option (c) mistakes fiscal stimulus for directed credit policy\u2014it describes specific institutional directives to banks, which is regulatory control over financial institutions, not fiscal stimulus. Option (d) conflates fiscal stimulus with financial inclusion policy, which is about expanding access to banking services, not cyclical demand management. The 2008 global financial crisis provides the historical context for this 2011 question: India's government announced three successive fiscal stimulus packages (December 2008\u2013February 2009, totaling Rs 80,100 crore) that increased government expenditure and reduced indirect taxes to boost consumption and investment demand across the economy. These were broad, economy-wide interventions, not manufacturing-focused or sector-specific mandates. The answer works because fiscal stimulus is deliberately general and aggregate in scope\u2014it aims to increase overall purchasing power and confidence in the economy during weakness, which option (b) captures with \"intense affirmative action of the government to boost economic activity in the country.\"",
+    "facts": [
+      "Fiscal stimulus operates through increased government spending, tax cuts, or transfers that boost aggregate demand, especially during recessions when private spending is weak.",
+      "India's government deployed fiscal stimulus during the 2008 financial crisis with packages totaling Rs 80,100 crore across infrastructure, textiles, exports, housing, automobiles, and SMEs, demonstrating economy-wide rather than sector-specific focus.",
+      "Fiscal stimulus differs from monetary policy (central bank interest rate changes) and from directed credit policy (institutional mandates to lend to specific sectors like agriculture).",
+      "The effectiveness of fiscal stimulus depends on its timing, composition, and ability to raise consumer and business spending; poorly timed stimulus can cause inflation if the economy is already at full capacity.",
+      "Fiscal stimulus is temporary and cyclical\u2014it should be withdrawn as the economy recovers to avoid long-term fiscal deficits and crowding out of private investment."
+    ],
+    "sources": [
+      {
+        "title": "Fiscal Stimulus | Center on Budget and Policy Priorities",
+        "url": "https://www.cbpp.org/research/fiscal-stimulus",
+        "whyUsed": "Provided authoritative definition of fiscal stimulus as government spending increases or tax cuts to boost demand."
+      },
+      {
+        "title": "India's Response to Financial Crisis",
+        "url": "https://www.economicsdiscussion.net/india/financial-crisis/indias-response-to-financial-crisis/11093",
+        "whyUsed": "Documented India's actual fiscal stimulus packages of 2008\u20132009, confirming economy-wide scope across infrastructure, textiles, exports, and SMEs rather than sector-specific mandates."
+      },
+      {
+        "title": "Fiscal Policy in India, Objectives, Instruments, Types, Role",
+        "url": "https://vajiramandravi.com/current-affairs/fiscal-policy-in-india/",
+        "whyUsed": "Clarified that fiscal stimulus is an economy-wide tool used during slowdowns, distinct from directed credit policy or financial inclusion initiatives."
+      },
+      {
+        "title": "The Hutchins Center Explains: Fiscal stimulus and the Fed",
+        "url": "https://www.brookings.edu/articles/the-hutchins-center-explains-fiscal-stimulus-and-the-fed/",
+        "whyUsed": "Explained that fiscal stimulus is any deficit-increasing policy (tax cuts, spending, transfers) aimed at increasing aggregate demand, not targeted sector investment."
+      },
+      {
+        "title": "Global financial crisis and India: A look at the decade gone by",
+        "url": "https://www.ideasforindia.in/topics/macroeconomics/global-financial-crisis-and-india-a-look-at-the-decade-gone-by",
+        "whyUsed": "Confirmed India's response to 2008 crisis used fiscal stimulus to boost domestic demand alongside monetary policy relaxation, establishing historical context for the question."
+      }
+    ],
+    "searchMeta": {
+      "usedWebSearch": true,
+      "searchQueries": [
+        "fiscal stimulus definition government economic policy",
+        "fiscal stimulus 2008 India economic slowdown government spending"
+      ],
+      "confidence": "high"
+    }
+  },
+  "id": 19
+}

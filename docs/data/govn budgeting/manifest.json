@@ -1,0 +1,210 @@
+{
+  "name": "govn budgeting",
+  "questions": [
+    {
+      "id": 1,
+      "short_text": "Identify correct statements about capital receipts, borrowings, disinvestment, and interest received",
+      "file": "question_1.json"
+    },
+    {
+      "id": 2,
+      "short_text": "Identify correct statements about revenue deficit, fiscal deficit, and primary deficit from given budget figures",
+      "file": "question_2.json"
+    },
+    {
+      "id": 3,
+      "short_text": "Calculate gross primary deficit given fiscal deficit, interest payments, and non-debt capital receipts",
+      "file": "question_3.json"
+    },
+    {
+      "id": 4,
+      "short_text": "Who presents the Annual Financial Statement and what is required for demands for grants?",
+      "file": "question_4.json"
+    },
+    {
+      "id": 5,
+      "short_text": "Are both statements about household savings channeling to government debt and dated securities forming internal debt correct?",
+      "file": "question_5.json"
+    },
+    {
+      "id": 6,
+      "short_text": "Which law mandates the Macro Economic Framework Statement presented alongside the budget?",
+      "file": "question_6.json"
+    },
+    {
+      "id": 7,
+      "short_text": "Which of these three\u2014housing loans, credit card debt, and treasury bills\u2014are non-financial debt?",
+      "file": "question_7.json"
+    },
+    {
+      "id": 8,
+      "short_text": "Verify two statements on India's external debt: government ownership and US dollar denomination",
+      "file": "question_8.json"
+    },
+    {
+      "id": 9,
+      "short_text": "FRBM Review Committee recommendations and constitutional provisions on state borrowing",
+      "file": "question_9.json"
+    },
+    {
+      "id": 10,
+      "short_text": "Which government actions can reduce budget deficit: expenditure reduction, new welfare schemes, subsidy rationalization, or import duty cuts?",
+      "file": "question_10.json"
+    },
+    {
+      "id": 12,
+      "short_text": "Budget preparation responsibility and authorization for fund withdrawals from Consolidated Fund and Public Account",
+      "file": "question_12.json"
+    },
+    {
+      "id": 13,
+      "short_text": "Which actions can reduce a persistent fiscal deficit\u2014revenue cuts, new schemes, subsidy rationalization, or industry expansion?",
+      "file": "question_13.json"
+    },
+    {
+      "id": 14,
+      "short_text": "Components of Non-Plan Expenditure in the Union Budget",
+      "file": "question_14.json"
+    },
+    {
+      "id": 15,
+      "short_text": "Purpose of deficit financing in India",
+      "file": "question_15.json"
+    },
+    {
+      "id": 16,
+      "short_text": "Identify valid methods of parliamentary control over public finance",
+      "file": "question_16.json"
+    },
+    {
+      "id": 17,
+      "short_text": "Vote-on-account vs interim budget: distinguish by user and scope",
+      "file": "question_17.json"
+    },
+    {
+      "id": 18,
+      "short_text": "Identify statements about bio-asphalt importance and Union Budget 2011-12 customs exemption",
+      "file": "question_18.json"
+    },
+    {
+      "id": 19,
+      "short_text": "Definition of fiscal stimulus and its purpose in economic policy",
+      "file": "question_19.json"
+    },
+    {
+      "id": 20,
+      "short_text": "Authority required to withdraw funds from Consolidated Fund of India",
+      "file": "question_20.json"
+    },
+    {
+      "id": 21,
+      "short_text": "Fund into which all union government revenues (taxes and other receipts) are credited",
+      "file": "question_21.json"
+    },
+    {
+      "id": 22,
+      "short_text": "What happens when the Lok Sabha rejects the annual budget?",
+      "file": "question_22.json"
+    },
+    {
+      "id": 23,
+      "short_text": "Which statements correctly describe the National Investment Fund's management and income allocation?",
+      "file": "question_23.json"
+    },
+    {
+      "id": 24,
+      "short_text": "Which measures directly control fiscal deficit: FDI, privatization, bureaucracy downsizing, or PSU disinvestment?",
+      "file": "question_24.json"
+    },
+    {
+      "id": 25,
+      "short_text": "Which department prepares and presents the Union Budget to Parliament?",
+      "file": "question_25.json"
+    },
+    {
+      "id": 26,
+      "short_text": "Identify which government actions constitute fiscal stimulus during economic recession",
+      "file": "question_26.json"
+    },
+    {
+      "id": 27,
+      "short_text": "Which provision was NOT included in the FRBM Act, 2003?",
+      "file": "question_27.json"
+    },
+    {
+      "id": 28,
+      "short_text": "What deficits does the FRBM Act address?",
+      "file": "question_28.json"
+    },
+    {
+      "id": 29,
+      "short_text": "Which statements about Public Account disbursements, Constitutional funds, and Railway Budget control are correct?",
+      "file": "question_29.json"
+    },
+    {
+      "id": 30,
+      "short_text": "RBI nationalization date and which department handles government borrowing",
+      "file": "question_30.json"
+    },
+    {
+      "id": 31,
+      "short_text": "Reason for external debt increase from March 2000 to March 2001",
+      "file": "question_31.json"
+    },
+    {
+      "id": 32,
+      "short_text": "Authority recommending principles for grants-in-aid to states from Consolidated Fund",
+      "file": "question_32.json"
+    },
+    {
+      "id": 33,
+      "short_text": "Correct statements on Union Budget external liabilities, real interest rates, fiscal deficit, and interest payments",
+      "file": "question_33.json"
+    },
+    {
+      "id": 34,
+      "short_text": "German funding for oceanographic research in India (2001)",
+      "file": "question_34.json"
+    },
+    {
+      "id": 35,
+      "short_text": "Identify which borrowing instruments compose India's internal debt",
+      "file": "question_35.json"
+    },
+    {
+      "id": 36,
+      "short_text": "Match fiscal, budget, revenue, and primary deficits with their definitions",
+      "file": "question_36.json"
+    },
+    {
+      "id": 37,
+      "short_text": "Duration of tax holiday for North-Eastern Region industries in Budget 2000",
+      "file": "question_37.json"
+    },
+    {
+      "id": 38,
+      "short_text": "Is fiscal deficit greater than budgetary deficit? Does it include RBI borrowings?",
+      "file": "question_38.json"
+    },
+    {
+      "id": 39,
+      "short_text": "Publishing authority of the Economic Survey in India",
+      "file": "question_39.json"
+    },
+    {
+      "id": 40,
+      "short_text": "Identify all non-plan expenditure items from subsidies, interest, defence, and maintenance",
+      "file": "question_40.json"
+    },
+    {
+      "id": 41,
+      "short_text": "Revenue expenditure breakdown 1989-90 vs 1994-95; which indicates poor economic health",
+      "file": "question_41.json"
+    },
+    {
+      "id": 42,
+      "short_text": "Identify items classified as non-plan expenditure: defence, subsidies, past plan liabilities, interest",
+      "file": "question_42.json"
+    }
+  ]
+}

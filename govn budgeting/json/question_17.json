@@ -1,0 +1,56 @@
+{
+  "subject": "Polity",
+  "year": 2011,
+  "theme": "Budget procedure and parliamentary financial approval mechanisms",
+  "question_short_text": "Vote-on-account vs interim budget: distinguish by user and scope",
+  "text": "What is the difference between \"vote-on-account\" and interim budget?\n\n1. The provision of a \"vote-on-account\" is used by a regular government, while an \"interim budget\" is a provision used by a caretaker government.\n2. A \"vote-on-account\" only deals with the expenditure in government's budget, while an \"interim budget\" includes both expenditure and receipts.\n\nWhich of the statements given above is/are correct?",
+  "options": [
+    "1 only",
+    "2 only",
+    "Both 1 and 2",
+    "Neither 1 nor 2"
+  ],
+  "answerIndex": 1,
+  "answerText": "(b) 2 only",
+  "explanation": "Statement 1 is incorrect because both vote-on-account and interim budget can be used by any government\u2014regular or caretaker. Statement 2 is correct: a vote-on-account seeks only expenditure approval for a limited period, while an interim budget presents a complete financial statement covering both expenditure and receipts for the fiscal year.",
+  "research": {
+    "summary": "The core distinction UPSC tests here is the scope of financial information presented, not the type of government using them. This is a common misconception because interim budgets are more frequently presented during election years by caretaker governments, leading students to assume they are exclusively for caretakers.\n\nStatement 1 fails because both mechanisms exist within the constitutional framework (Articles 114-116) for parliamentary oversight of expenditure. A vote-on-account is neither locked to regular governments nor an interim budget locked to caretaker governments. A regular government may present a vote-on-account if the full budget delays past the financial year start (before 2017, budgets were typically presented in late February, making timely passage difficult). An interim budget is presented by the outgoing government during election years, but the authorization it contains includes a vote-on-account.\n\nStatement 2 captures the real structural difference. A vote-on-account is a narrow approval mechanism under Article 116: it seeks permission to withdraw funds from the Consolidated Fund of India for a limited period (typically 2 months, extendable to 4) to cover essential recurring expenditure\u2014salaries, pensions, ongoing projects. It presents no economic data, no revenue estimates, no policy framework. An interim budget, by contrast, is presented as a full financial statement (Annual Financial Statement) that includes both estimated receipts and estimated expenditures for the entire fiscal year, economic review, and contextual data. Although the Election Commission restricts policy announcements in an interim budget during elections, the interim budget itself is structurally comprehensive.\n\nThe trap is confusing frequency of use with exclusive eligibility. Students see interim budgets mainly in election years and assume only caretaker governments use them. They must instead recognize that the distinction is institutional scope: vote-on-account is expenditure-only and temporary; interim budget is full financial planning (including revenue) and valid for the fiscal year.",
+    "facts": [
+      "Vote-on-account is authorized under Article 116 of the Indian Constitution; interim budget follows the full budget framework but is presented for election-year transitions",
+      "A vote-on-account typically covers 2 months (from 1 April onwards) but can be extended to 4 months in exceptional circumstances, whereas an interim budget is valid throughout the entire fiscal year",
+      "Both vote-on-account and interim budget are subject to Election Commission constraints during elections, preventing major tax and policy announcements to avoid influencing voters",
+      "When an interim budget is presented, a vote-on-account is embedded within it as the authorization mechanism for drawing funds during the transition; they are not mutually exclusive",
+      "Historically, the 2024 experience clarified this distinction when the government chose to present a vote-on-account rather than an interim budget, emphasizing focused expenditure approval over full financial planning"
+    ],
+    "sources": [
+      {
+        "title": "Difference between Interim Budget & Vote-On-Account",
+        "url": "https://byjus.com/free-ias-prep/interim-budget/",
+        "whyUsed": "Clarified that vote-on-account and interim budget can be used by any government depending on timing; interim budget includes both expenditure and receipts"
+      },
+      {
+        "title": "Vote on Account vs Interim Budget: What is the Difference?",
+        "url": "https://www.kotaklife.com/insurance-guide/savingstax/vote-on-account-vs-interim-budget-in-election-year",
+        "whyUsed": "Confirmed that vote-on-account covers expenditure only while interim budget is comprehensive financial outlook; interim budget is subject to full discussion"
+      },
+      {
+        "title": "Vote on Account, Features, Significance, Difference From Interim Budget",
+        "url": "https://vajiramandravi.com/current-affairs/vote-on-account/",
+        "whyUsed": "Clarified constitutional basis (Article 116), validity periods, and scope differences; emphasizing vote-on-account validity is 2-4 months vs interim budget full year"
+      },
+      {
+        "title": "What is the difference between an Interim Budget and Vote-On-Account?",
+        "url": "https://vajiramandravi.com/current-affairs/interim-budget-and-vote-on-account/",
+        "whyUsed": "Detailed breakdown showing interim budget can propose tax changes while vote-on-account cannot; emphasized interim budget presented for entire year while vote-on-account is temporary"
+      }
+    ],
+    "searchMeta": {
+      "usedWebSearch": true,
+      "searchQueries": [
+        "vote on account interim budget difference India"
+      ],
+      "confidence": "high"
+    }
+  },
+  "id": 17
+}

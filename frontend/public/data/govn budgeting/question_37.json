@@ -1,0 +1,47 @@
+{
+  "subject": "Economy",
+  "year": 2001,
+  "theme": "Tax incentives for industrial promotion in underdeveloped regions",
+  "question_short_text": "Duration of tax holiday for North-Eastern Region industries in Budget 2000",
+  "text": "The Union Budget, 2000 awarded a Tax Holiday for the North-Eastern Region to promote industrialisation for:",
+  "options": [
+    "5 years",
+    "7 years",
+    "9 years",
+    "10 years"
+  ],
+  "answerIndex": 3,
+  "answerText": "(d) 10 years",
+  "explanation": "The Union Budget 2000 introduced a 10-year tax holiday for new industrial undertakings established in the North-Eastern Region to accelerate industrialisation and promote economic development in this backward region.",
+  "research": {
+    "summary": "The Budget 2000 announced a ten-year tax holiday for industries set up in the North-Eastern Region under Section 80-IC of the Income Tax Act. This was a significant policy measure aimed at attracting private investment and promoting industrial development in a region that, at that time, was industrially the most backward in the country. The tax holiday was structured as a complete exemption from income tax on profits and gains for the full ten-year period, commencing from the year of production of the industrial undertaking. This provision was more generous than the standard five-year tax holiday available to small scale industries in other parts of the country, reflecting the government's commitment to regional economic development. The ten-year duration was specifically chosen to provide sufficient incentive for entrepreneurs to take on the higher risks and logistical challenges associated with establishing industries in the North-Eastern states. Unlike later schemes which bundled multiple incentives (capital investment, interest, insurance, GST reimbursement), the 2000 budget measure was a straightforward and robust income tax exemption designed to be the primary fiscal lever for attracting industry to the region.",
+    "facts": [
+      "Section 80-IC was the specific provision that codified the ten-year tax holiday for North-Eastern industrial undertakings",
+      "The North-Eastern Region at the turn of the millennium had no significant manufacturing base and was heavily dependent on agriculture",
+      "The Budget 2000 was presented by Finance Minister Yashwant Sinha on February 29, 2000, and was styled as the 'Millennium Budget'",
+      "This tax holiday applied to new industrial undertakings engaged in manufacturing activities specified in the Fourteenth Schedule of the Income Tax Act",
+      "The tax holiday was available to industries in all North-Eastern states: Arunachal Pradesh, Assam, Manipur, Meghalaya, Mizoram, Nagaland, Sikkim, and Tripura"
+    ],
+    "sources": [
+      {
+        "title": "Union Budget 1999-2000: Economic Survey - Chapter 23 on Tax Measures",
+        "url": "https://www.indiabudget.gov.in/budget_archive/es99-2000/chap23.pdf",
+        "whyUsed": "Official source confirming ten-year tax holiday for North-Eastern industries as a budget measure"
+      },
+      {
+        "title": "Union Budget 2000-2001: Tax Measures and Finance Bill Provisions",
+        "url": "https://www.indiabudget.gov.in/budget_archive/ub2000-01/bh/bhigh1.pdf",
+        "whyUsed": "Official budget highlights document that listed North-East industrial incentives"
+      }
+    ],
+    "searchMeta": {
+      "usedWebSearch": true,
+      "searchQueries": [
+        "Union Budget 2000 tax holiday North-Eastern Region industrialisation",
+        "site:indiabudget.gov.in 2000 North East industrial tax holiday"
+      ],
+      "confidence": "high"
+    }
+  },
+  "id": 37
+}

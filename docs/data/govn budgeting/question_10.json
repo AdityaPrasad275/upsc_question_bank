@@ -1,0 +1,52 @@
+{
+  "subject": "Polity",
+  "year": 2016,
+  "theme": "Fiscal deficit reduction mechanisms and government budgeting tools",
+  "question_short_text": "Which government actions can reduce budget deficit: expenditure reduction, new welfare schemes, subsidy rationalization, or import duty cuts?",
+  "text": "There has been a persistent deficit budget year after year. Which action/actions of the following can be taken by the Government to reduce the deficit?\n\n1. Reducing revenue expenditure\n2. Introducing new welfare schemes\n3. Rationalizing subsidies\n4. Reducing import duty\n\nSelect the correct answer using the code given below.",
+  "options": [
+    "1 only",
+    "2 and 3 only",
+    "1 and 3 only",
+    "1, 2, 3 and 4"
+  ],
+  "answerIndex": 2,
+  "answerText": "(c) 1 and 3 only",
+  "explanation": "A budget deficit is reduced by cutting expenditure or raising revenue. Reducing revenue expenditure (1) directly cuts government spending. Rationalizing subsidies (3) also reduces expenditure. Introducing new welfare schemes (2) increases expenditure, worsening the deficit. Reducing import duty (4) decreases government revenue, which also worsens the deficit.",
+  "research": {
+    "summary": "Budget deficit occurs when government spending exceeds revenue. The fundamental economics of deficit reduction requires either expenditure reduction or revenue increase\u2014or both. This question tests understanding of which tools actually achieve these outcomes. Reducing revenue expenditure directly cuts government spending, so it helps reduce the deficit. Rationalizing subsidies (meaning reviewing and reducing subsidy payments on food, fuel, fertilizer, etc.) also represents a cut in government expenditure and is a proven deficit-reduction tool. Both strategies address the spending side of the equation. Introducing new welfare schemes, conversely, increases government expenditure, making the deficit worse, not better\u2014regardless of the social merit of such schemes. This is a common trap because students sometimes conflate 'welfare' with positive outcomes, forgetting that in a deficit context, any new spending adds to the problem unless it is offset by cuts elsewhere. Reducing import duty is equally counterproductive because import duties are a source of government revenue (customs revenue). Lower import duties mean less revenue collection, which widens the deficit further. This is true even if lower duties might help consumers or exporters in other ways. The elimination strategy here is straightforward: only options that cut expenditure or raise revenue help reduce a deficit. Options 2 and 4 do neither.",
+    "facts": [
+      "Revenue expenditure includes salaries, pensions, interest payments, and subsidies\u2014all recurring costs. Capital expenditure (on infrastructure, assets) is different and typically not the primary target in deficit reduction because of its productive role.",
+      "Subsidies on food, fuel, and fertilizer represent a major expenditure burden in countries like India. Rationalization involves means-testing, targeted delivery, or gradual phasing out to reduce fiscal drain.",
+      "Import duties are a significant revenue source for governments. Customs revenue is counted as tax revenue and contributes to the government's general revenue pool. Reducing duties loses this revenue.",
+      "Deficit reduction via expenditure cuts alone is politically harder than via revenue increases or economic growth, which is why governments often pursue a mix of both approaches.",
+      "The timing of deficit reduction matters: austerity (spending cuts and tax increases) during recession can worsen economic contraction and lower tax revenues (cyclical effect), making the deficit paradoxically harder to reduce temporarily."
+    ],
+    "sources": [
+      {
+        "title": "Center on Budget and Policy Priorities - Framework for Deficit Reduction",
+        "url": "https://www.cbpp.org/research/a-framework-for-deficit-reduction-principles-and-cautions",
+        "whyUsed": "Verified that deficit reduction fundamentally requires outlay reductions (spending cuts) or revenue increases; confirmed that introducing new programs contradicts deficit goals, and that scaling back existing spending (including subsidies) is a primary deficit-reduction tool."
+      },
+      {
+        "title": "Economics Help - Policies to Reduce Budget Deficit",
+        "url": "https://www.economicshelp.org/blog/6011/economics/policies-to-reduce-budget-deficit/",
+        "whyUsed": "Confirmed the basic principle that deficit reduction is achieved by cutting government spending and/or raising taxes; verified that lower import duties reduce government revenue and do not help reduce deficits."
+      },
+      {
+        "title": "India Government Budget 2025-26 - Receipt Budget and Customs Duty Information",
+        "url": "https://www.indiabudget.gov.in/doc/rec/tr.pdf",
+        "whyUsed": "Verified that customs duties (import duties) are revenue sources for the Indian government and contribute to tax revenue collections; confirmed the fiscal role of customs revenue."
+      }
+    ],
+    "searchMeta": {
+      "usedWebSearch": true,
+      "searchQueries": [
+        "budget deficit reduction government fiscal policy revenue expenditure subsidies",
+        "import duty fiscal revenue government India budget"
+      ],
+      "confidence": "high"
+    }
+  },
+  "id": 10
+}

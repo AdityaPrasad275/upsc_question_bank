@@ -1,0 +1,61 @@
+{
+  "subject": "Economy",
+  "year": 1996,
+  "theme": "fiscal unsustainability through rising interest payment burden on government revenue",
+  "question_short_text": "Revenue expenditure breakdown 1989-90 vs 1994-95; which indicates poor economic health",
+  "text": "The following Table shows the percentage distribution of revenue expenditure of Government of India in 1989-90 and 1994-95:\n\n| Expenditure Head (percent to total) | 1989-90 | 1994-95 |\n|---|---|---|\n| Defence | 15.1 | 13.6 |\n| Interest Payments | 27.7 | 38.7 |\n| Subsidies | 16.3 | 8 |\n| Grants to States/UTs | 13.6 | 16.7 |\n| Others | 27.4 | 23 |\n\nBased on this table, it can be said that the Indian economy is in poor shape because the Central Government continues to be under pressure to",
+  "options": [
+    "Reduce expenditure of defence",
+    "Spend more and more on interest payments",
+    "Reduce expenditure on subsidies",
+    "Spend more and more as grants-in-aid to State Governments/Union Territories"
+  ],
+  "answerIndex": 1,
+  "answerText": "(b) Spend more and more on interest payments",
+  "explanation": "Interest payments jumped from 27.7% to 38.7% of revenue expenditure between 1989-90 and 1994-95, indicating a mushrooming debt service burden that crowds out productive spending and signals fiscal strain.",
+  "research": {
+    "summary": "This question tests recognition of a critical fiscal pathology: when interest payments consume an increasing share of government revenue, it signals unsustainable debt accumulation and structural imbalance. The trap is assuming any single spending cut is a sign of poor health\u2014subsidies dropped from 16.3% to 8%, which might seem positive\u2014but the correct indicator of economic distress is the explosive 11 percentage-point rise in interest payments to 38.7%. This is symptomatic of the deep fiscal crisis India faced in the late 1980s and early 1990s. During the 1980s, fiscal indiscipline had spiraled: the government financed growing current expenditure through borrowing at rising interest rates. As debt stock accumulated and borrowing costs increased (especially on external debt), interest payments became a self-perpetuating commitment, consuming progressively more of finite revenue. By 1989-90, interest payments already stood at 27.7% of revenue expenditure\u2014already alarmingly high. The further jump to 38.7% by 1994-95 (shortly after the 1991 balance of payments crisis) indicates the economy had fallen into a vicious cycle: high deficits required high borrowing; high borrowing at elevated rates created massive interest obligations; these obligations squeezed space for capital expenditure, productive spending, and development. This directly precipitated India's 1991 balance of payments crisis. The reduction in subsidies from 16.3% to 8% was a necessary retrenchment, but not the root problem. The real pathology is that interest payments leave the government with progressively less room to invest, deliver public goods, or respond to new priorities\u2014a hallmark of fiscal unsustainability. The question is testing whether students recognize that rising interest burdens, not isolated spending categories, reveal true fiscal distress.",
+    "facts": [
+      "By 1990-91, interest payments comprised 29% of total revenue expenditure share\u2014nearly matching the 30% baseline of committed expenditure that most governments consider dangerous",
+      "Interest payments to GDP rose from 3.8% in 1990-91 to 4.7% by 2001-02 for the Centre alone, reflecting the compound impact of both debt accumulation and higher interest rates during the 1990s",
+      "The fiscal deficit exceeded 7% of GDP in both 1989-90 and 1990-91, driven primarily by the inability to control non-planned current expenditure, especially interest commitments",
+      "Interest rate deregulation in the 1990s and the government's shift to market borrowing (instead of ad hoc treasury bills discontinued in April 1997) both increased the cost of servicing existing debt",
+      "Subsidies fell because the government was forced to retrench them as a fiscal adjustment measure, not because the economy improved\u2014this was a symptom of crisis management, not health"
+    ],
+    "sources": [
+      {
+        "title": "Reserve Bank of India - Structural Evolution and Macroeconomic Performance",
+        "url": "https://www.rbi.org.in/scripts/PublicationReportDetails.aspx?ID=326",
+        "whyUsed": "Verified interest payments ratios to GDP and the compounding debt servicing crisis through the 1990s"
+      },
+      {
+        "title": "A Decade of Economic Reforms in India: the Unfinished Agenda (Nirupam Bajpai, Harvard)",
+        "url": "https://www.hks.harvard.edu/sites/default/files/centers/cid/files/publications/faculty-working-papers/89.pdf",
+        "whyUsed": "Documented the self-propelling nature of revenue expenditure through borrowed funds and the fiscal imbalances of the late 1980s"
+      },
+      {
+        "title": "India's 1991 Balance of Payments Crisis Context",
+        "url": "https://medium.com/@megha0111/indias-1991-bop-crisis-a-quick-revision-to-the-past-68df10f81a0b",
+        "whyUsed": "Confirmed the expenditure breakdown showing interest payments at 29% by 1990-91, validating the trajectory shown in the question"
+      },
+      {
+        "title": "India Before 1991 - 1991 Crisis Documentation",
+        "url": "http://indiabefore91.in/1991-crisis",
+        "whyUsed": "Detailed fiscal indiscipline metrics and the structural causes of the crisis, including fiscal deficit exceeding 7% of GDP"
+      },
+      {
+        "title": "Ideas for India - India's Debt Dilemma",
+        "url": "https://www.ideasforindia.in/topics/macroeconomics/india-s-debt-dilemma.html",
+        "whyUsed": "Clarified the mechanism by which interest payments absorb progressively larger shares of government revenue, crowding out productive spending"
+      }
+    ],
+    "searchMeta": {
+      "usedWebSearch": true,
+      "searchQueries": [
+        "India government revenue expenditure interest payments debt 1990s fiscal pressure"
+      ],
+      "confidence": "high"
+    }
+  },
+  "id": 41
+}

@@ -1,0 +1,52 @@
+{
+  "subject": "Polity",
+  "year": 2010,
+  "theme": "Provisions and targets stipulated in the Fiscal Responsibility and Budget Management Act, 2003",
+  "question_short_text": "Which provision was NOT included in the FRBM Act, 2003?",
+  "text": "Which one of the following was not stipulated in the Fiscal Responsibility and Budget Management Act, 2003?\n\n",
+  "options": [
+    "Elimination of revenue deficit by the end of the Fiscal year 2007-2008.",
+    "Non borrowing by the central government from Reserve Bank of India except under certain Circumstance.",
+    "Elimination of Primary deficit by the end of the fiscal year 2008-2009.",
+    "Fixing government Guarantees in any financial year as a percentage of GDP."
+  ],
+  "answerIndex": 2,
+  "answerText": "(c) Elimination of Primary deficit by the end of the fiscal year 2008-2009.",
+  "explanation": "The FRBM Act, 2003 did not stipulate a specific target for elimination of the primary deficit by 2008-2009. The Act focused on elimination of revenue deficit and reduction of fiscal deficit, but did not set a separate mandatory target for primary deficit elimination.",
+  "research": {
+    "summary": "The FRBM Act, 2003, enacted to institutionalize fiscal discipline in India, established clear targets for revenue deficit elimination and fiscal deficit reduction, but notably did not include a specific provision for eliminating the primary deficit by 2008-2009 or any other fixed date. The Act's primary targets were: (1) elimination of revenue deficit by 31 March 2008, with a minimum annual reduction of 0.5% of GDP; (2) reduction of fiscal deficit to 3% of GDP by 31 March 2009, with a minimum annual reduction of 0.3% of GDP; (3) prohibition of non-exceptional borrowing from RBI, limiting government reliance on central bank financing; and (4) limiting government guarantees to 0.5% of GDP in any financial year. The primary deficit\u2014which is fiscal deficit minus interest payments\u2014was never a statutory target in the original 2003 Act. This is the conceptual trap UPSC tests: while primary deficit is an important fiscal indicator that economists monitor (as it excludes the burden of past debt), it was never formally mandated by the legislation. The question distinguishes between targets actually written into the statute versus conceptually important indicators that may have been discussed but not legally stipulated. Revenue deficit elimination and fiscal deficit reduction were the two pillars of the Act's fiscal consolidation strategy, while government guarantees were explicitly limited as a contingent liability control measure. Primary deficit targeting came later through the 2016 NK Singh Committee recommendations and subsequent amendments.",
+    "facts": [
+      "Revenue deficit is revenue expenditure exceeding revenue receipts, while fiscal deficit includes capital expenditure; the FRBM Act 2003 targeted elimination of revenue deficit but not primary deficit.",
+      "The original 2003 Act intended to bring fiscal deficit down to 3% of GDP by 2008, but the 2007-08 global financial crisis led to postponement and subsequent suspension of these targets in 2009.",
+      "Primary deficit = Fiscal deficit \u2013 Interest payments; monitoring primary deficit shows how much of the deficit is structural (excluding interest on past borrowing) versus merely servicing debt.",
+      "The government guarantee limit of 0.5% of GDP per financial year was intended to control contingent liabilities that could become explicit liabilities later.",
+      "The 2016 NK Singh Committee review recommended debt-to-GDP ratio as a primary fiscal target rather than strict deficit targets, reflecting a shift away from the 2003 Act's emphasis on deficit elimination."
+    ],
+    "sources": [
+      {
+        "title": "Fiscal Responsibility and Budget Management Act, 2003 - Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Fiscal_Responsibility_and_Budget_Management_Act,_2003",
+        "whyUsed": "Verified the original provisions and targets of the FRBM Act 2003, confirming that revenue deficit elimination by 2008 and fiscal deficit reduction to 3% by 2009 were stipulated, while primary deficit elimination was not."
+      },
+      {
+        "title": "FRBM Act: Fiscal Deficit & Fiscal Responsibility & Budget Management Act - PMF IAS",
+        "url": "https://www.pmfias.com/frbm-act/",
+        "whyUsed": "Confirmed the four key provisions of the FRBM Act including non-borrowing from RBI except under circumstances and the 0.5% GDP limit on government guarantees, establishing that these were indeed stipulated."
+      },
+      {
+        "title": "ClearIAS - FRBM Act",
+        "url": "https://www.clearias.com/frbm-act/",
+        "whyUsed": "Detailed breakdown of original FRBM Act targets for revenue deficit (elimination by March 31, 2009), fiscal deficit (3% of GDP by March 31, 2009), and contingent liabilities (0.5% of GDP), confirming these were stipulated but primary deficit was not."
+      }
+    ],
+    "searchMeta": {
+      "usedWebSearch": true,
+      "searchQueries": [
+        "Fiscal Responsibility Budget Management Act 2003 provisions targets",
+        "FRBM Act 2003 primary deficit revenue deficit elimination targets"
+      ],
+      "confidence": "high"
+    }
+  },
+  "id": 27
+}

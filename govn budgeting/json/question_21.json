@@ -1,0 +1,57 @@
+{
+  "subject": "Polity",
+  "year": 2011,
+  "theme": "Constitutional funds structure - classification and purpose of government funds",
+  "question_short_text": "Fund into which all union government revenues (taxes and other receipts) are credited",
+  "text": "All revenues received by the union government by way of taxes and other receipts for the conduct of government business are credited to the?",
+  "options": [
+    "Contingency fund of India",
+    "Public account",
+    "Consolidated fund of India",
+    "Deposits and advances fund"
+  ],
+  "answerIndex": 2,
+  "answerText": "(c) Consolidated fund of India",
+  "explanation": "The Consolidated Fund of India under Article 266(1) of the Constitution is the principal account where all revenues received by the Government of India\u2014including taxes, duties, and other receipts\u2014are credited. All government expenditure is made from this fund with parliamentary appropriation.",
+  "research": {
+    "summary": "This question tests understanding of how the Indian government structures its three constitutional funds\u2014a distinction that UPSC revisits regularly in different forms. The trap is that many students conflate these funds or do not grasp the precise criterion for what goes where.\n\nThe Consolidated Fund of India is the **main revenue and expenditure account** of the central government. Under Article 266(1), all revenues received by the government\u2014including all direct taxes (income tax, corporate tax), indirect taxes (GST, customs, excise), and other receipts like fees and dividends\u2014flow into this fund. Loans raised by the government and money received from loan repayments also form part of the Consolidated Fund. Critically, **no expenditure can be made from this fund without parliamentary appropriation**. Every rupee spent must be authorized by Parliament through an Appropriation Act or similar legislation. This is the mechanism through which Parliament controls government spending.\n\nThe Contingency Fund (Article 267) is fundamentally different\u2014it exists for **emergency and unforeseen expenditure** that cannot wait for parliamentary approval. The President can authorize withdrawal immediately, but the expenditure must be reported to Parliament later for recoupment. This is a small, separate reserve, not a general revenue account.\n\nThe Public Account (Article 266(2)) is a third bucket. It holds monies where the government acts as a **trustee or banker**\u2014provident fund deposits, postal savings, small savings schemes, and similar items. These are not government revenues; they are funds held temporarily on behalf of beneficiaries. Payments from the Public Account **do not require parliamentary approval** because the government is merely returning the money to its rightful owners.\n\nThe correct answer is therefore unambiguous: revenues received for conducting government business go to the Consolidated Fund. This is the workhorse account. The Contingency Fund is for emergencies only; the Public Account is for trustee transactions.",
+    "facts": [
+      "Article 266(1) establishes the Consolidated Fund and mandates that all revenues and loans raised by the government form one unified account controlled by Parliament",
+      "The Consolidated Fund is divided into Revenue and Capital sections in the budget, but both are the same constitutional fund for accounting purposes",
+      "All 'charged expenditures' (non-votable, like salaries of constitutional authorities) still come from the Consolidated Fund; Parliament's control is structural, not line-by-line",
+      "The Contingency Fund was increased from Rs 50 crore (initial) to Rs 500 crore in 2005, and further to Rs 30,000 crore by Finance Bill 2021",
+      "Article 266(2) explicitly states that all other public moneys received (other than those forming the Consolidated Fund) are credited to the Public Account, making it a residual category"
+    ],
+    "sources": [
+      {
+        "title": "Article 266: Consolidated Funds and public accounts of India and of the States - Constitution of India",
+        "url": "https://www.constitutionofindia.net/articles/article-266-consolidated-funds-and-public-accounts-of-india-and-of-the-states/",
+        "whyUsed": "Official constitutional text clarifying that all revenues received by the Government of India form the Consolidated Fund, directly answering the question"
+      },
+      {
+        "title": "Consolidated Fund of India (Article 266) - The Legal Quotient",
+        "url": "https://thelegalquotient.com/constitutional-law/consolidated-fund-of-india/3400/",
+        "whyUsed": "Comprehensive explanation of fund structure, composition, and parliamentary control mechanisms"
+      },
+      {
+        "title": "Overview of Accounts - CGA (Controller General of Accounts)",
+        "url": "https://cga.nic.in/Page/Overview-of-Accounts.aspx",
+        "whyUsed": "Official government accounting authority confirming the three-fund structure and clarifying that the Consolidated Fund receives all revenues for government business"
+      },
+      {
+        "title": "Contingency Fund of India - Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Contingency_fund",
+        "whyUsed": "Explains the distinction between Contingency Fund (for emergencies) and Consolidated Fund (for regular revenue), clarifying why option (a) is incorrect"
+      }
+    ],
+    "searchMeta": {
+      "usedWebSearch": true,
+      "searchQueries": [
+        "Consolidated Fund of India revenues taxes Article 266",
+        "Contingency Fund India Public Account differences"
+      ],
+      "confidence": "high"
+    }
+  },
+  "id": 21
+}

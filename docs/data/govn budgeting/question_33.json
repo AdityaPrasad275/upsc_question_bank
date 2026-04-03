@@ -1,0 +1,53 @@
+{
+  "subject": "Economy",
+  "year": 2002,
+  "theme": "Indian Public Finance: External Liabilities, Fiscal Deficit, Crowding Out, and Interest Payments",
+  "question_short_text": "Correct statements on Union Budget external liabilities, real interest rates, fiscal deficit, and interest payments",
+  "text": "With reference to the Indian Public Finance consider the following statements:\n\n1. External liabilities reported in Union Budget are based on historical exchange rates\n2. The continued high borrowing has kept the real interest rates high in the economy\n3. The upward trend in the ratio of Fiscal Deficit to GDP in recent years has an adverse effect to private investments.\n4. Interest payments is the single largest component of the non-plan revenue expenditure of the Union Government.\n\nWhich of these statements are correct?",
+  "options": [
+    "1, 2 and 3",
+    "1 and 4",
+    "2, 3 and 4",
+    "1, 2, 3 and 4"
+  ],
+  "answerIndex": 2,
+  "answerText": "(c) 2, 3 and 4",
+  "explanation": "Statement 1 is incorrect\u2014external liabilities are reported at current exchange rates, not historical rates. Statements 2, 3, and 4 are all correct regarding government borrowing pressuring interest rates, fiscal deficit crowding out private investment, and interest payments being the largest component of non-plan revenue expenditure.",
+  "research": {
+    "summary": "This question tests the core mechanisms of Indian public finance as understood in 2002, focusing on how government deficit financing affects the broader economy. The critical trap is Statement 1, which reverses the actual exchange rate convention: external liabilities in Union Budgets are recorded at current (spot) exchange rates to reflect true outstanding debt burden. Using historical rates would understate forex-denominated debt when the rupee has depreciated.\n\nStatement 2 is correct and reflects a fundamental macroeconomic channel: when government borrowing increases, it competes with private borrowers in financial markets for available funds. High government demand for credit pushes interest rates upward, raising the real cost of borrowing for businesses. This is crowding out in its most direct form\u2014government borrowing directly displaces private investment by making credit more expensive.\n\nStatement 3 is correct and describes the crowding-out effect empirically. When the fiscal deficit-to-GDP ratio rises persistently, the government absorbs an increasing share of national savings. This shrinks the pool of funds available for private capital formation. Firms facing higher borrowing costs reduce investment in factories, equipment, and R&D. Over time, lower private investment retards productivity growth and long-term GDP potential. This was a central concern in Indian fiscal debates of the late 1990s and early 2000s.\n\nStatement 4 is correct. Interest payments on accumulated government debt have historically been the single largest component of non-plan revenue expenditure in India's budget. This reflects the cumulative debt burden and shows how much of current revenue receipts are committed to servicing past borrowing rather than funding productive activities or social programs. This crowding effect operates not just through interest rates but also through budget constraint\u2014high interest payments leave less fiscal space for discretionary spending on health, education, or infrastructure.\n\nThe connective theme: all three correct statements illustrate how government deficit financing creates economic friction. High borrowing pushes up real rates, crowds out private investment, and ties up revenue through interest servicing. In the context of early-2000s India, this was seen as a brake on potential growth.",
+    "facts": [
+      "External liabilities are reported at current (spot) exchange rates on the balance sheet date under both Indian and international accounting standards to accurately reflect outstanding debt burden.",
+      "The crowding-out mechanism operates through both price (interest rates rise) and quantity (less investable funds available) channels, reducing private capital formation when government deficits are sustained.",
+      "Interest payments as a share of revenue expenditure typically exceeded 20\u201330% in Indian Union Budgets of the late 1990s and early 2000s, making it the single largest component ahead of defense, subsidies, or wages.",
+      "Fiscal deficit-to-GDP ratios above 5\u20136% are commonly associated with measurable crowding-out effects in developing economies, though the magnitude depends on economy-wide savings rates and foreign capital inflows.",
+      "The shift from plan to non-plan expenditure distinction (abolished in 2017) meant that non-plan revenue expenditure historically included mandatory items like interest, defense, and pensions\u2014all largely outside short-term discretionary control."
+    ],
+    "sources": [
+      {
+        "title": "Crowding out (economics) - Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Crowding_out_(economics)",
+        "whyUsed": "Authoritative explanation of crowding-out mechanism via interest rate channel and its effect on private investment in response to government borrowing."
+      },
+      {
+        "title": "Union Budget 2023-24 Analysis - Press Information Bureau",
+        "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=1895279",
+        "whyUsed": "Official government source confirming that interest payments are the largest single component of revenue expenditure (30.8% in 2023-24), validating Statement 4."
+      },
+      {
+        "title": "Which is the largest item under Non-plan Expenditure - Testbook",
+        "url": "https://testbook.com/question-answer/which-is-the-largest-item-under-non-plan-expenditu--607fff8cb47e950a5c5ab87c",
+        "whyUsed": "Confirms that interest payments and debt servicing are the largest components of non-plan revenue expenditure, directly supporting Statement 4."
+      }
+    ],
+    "searchMeta": {
+      "usedWebSearch": true,
+      "searchQueries": [
+        "Union Budget external liabilities exchange rate reporting convention",
+        "fiscal deficit crowding out private investment real interest rates",
+        "interest payments non-plan revenue expenditure Union Government largest component"
+      ],
+      "confidence": "high"
+    }
+  },
+  "id": 33
+}

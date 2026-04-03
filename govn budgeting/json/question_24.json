@@ -1,0 +1,52 @@
+{
+  "subject": "Economy",
+  "year": 2010,
+  "theme": "fiscal deficit control measures in India",
+  "question_short_text": "Which measures directly control fiscal deficit: FDI, privatization, bureaucracy downsizing, or PSU disinvestment?",
+  "text": "In the context of governance, consider the following:\n\n1. Encouraging Foreign Direct Investment inflows.\n2. Privatization of higher educational Institutions.\n3. Down \u2013 sizing of bureaucracy.\n4. Selling / offloading the shares of Public Sector Undertakings.\n\nWhich of the above can be used as measures to control the fiscal deficit in India?",
+  "options": [
+    "1, 2 and 3",
+    "2, 3 and 4",
+    "1, 2 and 4",
+    "3 and 4 only"
+  ],
+  "answerIndex": 1,
+  "answerText": "(b) 2, 3 and 4",
+  "explanation": "Privatization, downsizing bureaucracy, and selling PSU shares directly reduce government expenditure or generate revenue, both of which control fiscal deficit. FDI does not have a direct immediate impact on the deficit; it influences the economy long-term through growth and tax revenue.",
+  "research": {
+    "summary": "The fiscal deficit is defined as the excess of government expenditure over government revenue (excluding borrowings). The key to controlling it lies in either reducing government spending or increasing government revenue. This distinction is fundamental to evaluating these four options.\n\nForeign Direct Investment (FDI) is often misunderstood as a deficit-control measure. While FDI can contribute to long-term economic growth, tax collection, and foreign exchange reserves, it does not directly reduce the fiscal deficit in the short term. FDI inflows are capital account transactions, not government revenue; they do not appear in the government's budget as income. The growth and tax benefits from FDI take years to materialize and are indirect. This is the key trap in the question.\n\nPrivatization of higher educational institutions works because government currently bears the full cost of maintaining these institutions. By privatizing them, the government eliminates this recurring expenditure, directly shrinking its spending and thus narrowing the fiscal deficit. This is an immediate, direct measure.\n\nDownsizing the bureaucracy directly reduces government expenditure on salaries, pensions, allowances, and administrative overhead. This is one of the most straightforward expenditure control measures and has a direct, immediate impact on the deficit.\n\nSelling or offloading shares of Public Sector Undertakings (PSUs) generates revenue for the government. These are called non-debt capital receipts or disinvestment proceeds. When the government sells PSU shares, it receives cash that can be used to cover the fiscal deficit, reducing the need for borrowing. This is a revenue-side measure.\n\nTwo important distinctions: (1) FDI is a private capital inflow that does not enter the government budget; it differs from PSU disinvestment, which is government property being sold. (2) Fiscal deficit is specifically about government finances, not the current account or overall economy. The question is testing whether aspirants understand the mechanics of fiscal deficit\u2014what directly moves the needle on government revenue and expenditure\u2014versus measures that support the economy more broadly but lack immediate fiscal impact. The 2010 question predates major concerns about crowding-out and interest rates, so the focus is on straightforward deficit mechanics. PSU disinvestment was and remains a key tool used by the Indian government to meet fiscal targets under the FRBM Act.",
+    "facts": [
+      "Fiscal deficit = Total expenditure \u2013 Total receipts (excluding borrowings); controlling it requires reducing spending, raising revenue, or both.",
+      "PSU disinvestment (share sales) is classified as non-debt capital receipts and is explicitly used by the Indian government to manage fiscal deficit within FRBM targets.",
+      "FDI inflows appear in the balance of payments capital account, not in the government's budget; they are private investments in the economy, not government revenue.",
+      "The FRBM Act, 2003 (amended 2012) institutionalized fiscal consolidation in India, with a target of 3% fiscal deficit to GDP; the government uses multiple levers including expenditure rationalization and asset sales.",
+      "Disinvestment revenue has been a recurring component of Indian government receipts; in recent budgets, it helps offset deficits without raising taxes or cutting critical services."
+    ],
+    "sources": [
+      {
+        "title": "Fiscal Deficit and its Management",
+        "url": "https://www.drishtiias.com/daily-updates/daily-news-analysis/fiscal-deficit-and-its-management",
+        "whyUsed": "Confirms definition of fiscal deficit and measures to control it; explicitly notes that expenditure rationalization and disinvestment are policy tools."
+      },
+      {
+        "title": "Fiscal Responsibility and Budget Management Act, 2003",
+        "url": "https://en.wikipedia.org/wiki/Fiscal_Responsibility_and_Budget_Management_Act,_2003",
+        "whyUsed": "Provides institutional context for India's fiscal deficit framework and confirms the role of government expenditure control and revenue measures like disinvestment."
+      },
+      {
+        "title": "How Should India Prioritize Fiscal Health",
+        "url": "https://www.ey.com/en_in/insights/tax/economy-watch/how-should-india-prioritize-fiscal-health-deficit-control-or-debt-reduction",
+        "whyUsed": "Confirms the mechanics of fiscal deficit control and differentiates between direct expenditure/revenue measures and broader economic growth measures."
+      }
+    ],
+    "searchMeta": {
+      "usedWebSearch": true,
+      "searchQueries": [
+        "fiscal deficit reduction measures India government",
+        "FDI Foreign Direct Investment impact fiscal deficit"
+      ],
+      "confidence": "high"
+    }
+  },
+  "id": 24
+}

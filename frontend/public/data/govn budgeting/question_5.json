@@ -1,0 +1,52 @@
+{
+  "subject": "Polity",
+  "year": 2022,
+  "theme": "government borrowing and internal debt mechanisms in India",
+  "question_short_text": "Are both statements about household savings channeling to government debt and dated securities forming internal debt correct?",
+  "text": "With reference to the Indian economy, consider the following statements:\n\n1. A share of the household financial savings goes towards government borrowings.\n2. Dated securities issued at market-related rates in auctions form a large component of internal debt.\n\nWhich of the above statements is/are correct?",
+  "options": [
+    "1 only",
+    "2 only",
+    "Both 1 and 2",
+    "Neither 1 nor 2"
+  ],
+  "answerIndex": 2,
+  "answerText": "(c) Both 1 and 2",
+  "explanation": "Both statements are correct. Household financial savings are channeled into government borrowing through various instruments including government securities and small savings schemes. Dated securities, issued through RBI-conducted auctions at market-determined rates, form a major component of India's internal debt.",
+  "research": {
+    "summary": "This question tests how the government finances its fiscal deficit through two critical channels: household savings and debt instruments. Statement 1 is correct because household financial savings\u2014which include bank deposits, provident funds, insurance, and small savings schemes like PPF and NSC\u2014form the underlying pool of domestic resources. Financial intermediaries (banks mandated by Statutory Liquidity Ratio rules to hold government securities, insurance companies, pension funds) act as conduits, channeling these savings into government securities. The phrase 'goes towards government borrowings' captures this indirect but systematic flow: households don't directly buy all government debt, but their deposits are invested in government securities by the institutions holding them. Statement 2 is correct because dated securities (government bonds with fixed maturity dates ranging from 3 to 50 years) are the primary market-based borrowing instrument. The RBI conducts auctions where interest rates are determined by demand and supply, reflecting current market conditions. As of March 2024, dated securities accounted for approximately 66.3% of India's public debt. The trap many students miss is conflating 'dated securities' with all government borrowing\u2014while they are indeed the largest single component of internal debt, they are not the only component. Other components include treasury bills (short-term), small savings schemes, provident funds, and special securities. The question's strength lies in testing whether students understand the intermediation chain (how household savings reach government) and the distinction between various debt instruments (why dated securities specifically are the major market instrument).\n\nKey recognition point: If internal debt is described as comprising multiple instruments but a question asks which forms 'a large component,' dated securities is the correct answer because they represent the largest share issued through transparent market auctions. This distinction matters because treasury bills serve different maturities and policy functions, while dated securities are the backbone of long-term government financing.",
+    "facts": [
+      "Dated securities accounted for 66.3% of India's public debt as of March 2024, with maturities ranging from 3 to 50 years, predominantly fixed-rate instruments",
+      "Banks are mandated by the Statutory Liquidity Ratio (SLR) rule to hold a portion of their net demand and time liabilities in government securities, making them the largest institutional holders of dated securities",
+      "Household financial savings stood at 11.6% of GDP in 2022-23, with significant portions invested directly or indirectly in government securities and small savings schemes",
+      "Internal debt constitutes over 93% of India's total public debt, classified into marketable debt (dated G-Secs and T-Bills issued through auctions) and non-marketable debt (small savings, provident funds, special securities)",
+      "RBI conducts half-yearly auction calendars (April-September and October-March) for dated securities, where the bid-cover ratio (competitive bids received against notified amount) indicates market demand and confidence"
+    ],
+    "sources": [
+      {
+        "title": "Status Paper on Government Debt 2023-24, Ministry of Finance",
+        "url": "http://dea.gov.in/files/public_debt_management_documents/Status%20Paper%20on%20Government%20Debt%20for%20%202023-24.pdf",
+        "whyUsed": "Official government source confirming dated securities as 66.3% of public debt and detailing auction mechanisms"
+      },
+      {
+        "title": "The Internal Debt Management Department, Reserve Bank of India",
+        "url": "https://www.rbi.org.in/commonman/Upload/English/Content/PDFs/RIA160609.pdf",
+        "whyUsed": "Authoritative RBI source on how RBI manages government debt, conducts auctions, and coordinates with state governments"
+      },
+      {
+        "title": "Dated Securities \u2013 GKToday",
+        "url": "https://www.gktoday.in/dated-securities/",
+        "whyUsed": "Comprehensive explanation of dated securities as primary long-term borrowing tool, their role in benchmark yield curve, and SLR requirements"
+      }
+    ],
+    "searchMeta": {
+      "usedWebSearch": true,
+      "searchQueries": [
+        "household financial savings government securities India debt",
+        "dated securities internal debt India government borrowing"
+      ],
+      "confidence": "high"
+    }
+  },
+  "id": 5
+}

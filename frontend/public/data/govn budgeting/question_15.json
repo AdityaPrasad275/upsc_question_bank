@@ -1,0 +1,57 @@
+{
+  "subject": "Economy",
+  "year": 2013,
+  "theme": "Government fiscal policy and deficit financing as a development tool",
+  "question_short_text": "Purpose of deficit financing in India",
+  "text": "In India deficit financing is used for raising resources for?",
+  "options": [
+    "Economic development",
+    "Redemption of public debt",
+    "Adjusting the balance of payments",
+    "Reducing the foreign debt"
+  ],
+  "answerIndex": 0,
+  "answerText": "(a) Economic development",
+  "explanation": "Deficit financing in India is used to raise resources for economic development. It allows the government to spend beyond its revenue by borrowing or printing money, directing these funds toward developmental projects and growth initiatives.",
+  "research": {
+    "summary": "Deficit financing is fundamentally a mechanism to bridge the gap between government revenue and planned expenditure, and in India's context, its primary purpose is to fund economic development. This distinction is critical because students often confuse deficit financing with debt redemption or balance of payments adjustment. When the government runs a deficit, it is not primarily trying to pay off old debt or fix external imbalances\u2014it is deliberately injecting resources into the economy to fund productive investments. In India, deficit financing was introduced during the First Five Year Plan (1951-56) as a deliberate policy tool to mobilize resources for infrastructure, industrial development, and welfare schemes when domestic savings were insufficient. The mechanism works as follows: when tax revenues and non-debt receipts fall short of planned expenditure, the government bridges this gap through three methods\u2014external aid (least inflationary), external borrowing (second-best), internal borrowing via bonds (third-best), or monetized deficit (least preferred, printing currency). The rationale for India using deficit financing, particularly in its early planning period, was that developing economies face a genuine savings constraint: domestic savings were below 9% of GDP, insufficient to fund the massive investment needed for infrastructure, irrigation, power generation, and industrial capacity. Private investment alone could not cover these long-gestation projects. Therefore, deficit financing became necessary to activate idle resources and divert them toward productive sectors, thereby raising national income. The trap UPSC often tests is whether students understand that deficit financing is primarily a development tool, not a debt-management or balance-of-payments tool. Options (b) redemption of public debt and (c) adjusting balance of payments are consequences or side-effects in certain contexts, but they are not the primary purpose. Option (d) reducing foreign debt is conceptually unrelated\u2014deficit financing typically creates more liabilities, not fewer.",
+    "facts": [
+      "India introduced deficit financing during the First Five Year Plan with initial deficit financing of Rs. 333 crore, which increased money supply by 22%, demonstrating its role in capital formation rather than consumption",
+      "The Fiscal Responsibility and Budget Management (FRBM) Act 2003 later restricted the practice of monetized deficit (RBI directly printing money), shifting India toward market-linked borrowings to maintain fiscal discipline while still permitting deficit spending for development",
+      "Deficit-led inflation was a recognized trade-off in India's planning model: price rise was considered 'a lesser evil' compared to lower growth, but this made managing inflation a persistent policy challenge from the 1960s onward",
+      "Before 1997, India relied heavily on what was called 'monetized deficit'\u2014direct borrowing from the RBI against Treasury Bills\u2014but this practice was largely discontinued to control inflation, and the government now depends more on bond issuances and market borrowing",
+      "Deficit financing activates idle resources and increases aggregate demand, but only yields real growth if productive capacity can expand; if supply cannot respond, it merely generates inflation without corresponding output gains"
+    ],
+    "sources": [
+      {
+        "title": "Deficit Financing \u2013 Meaning, Working, Benefits, and Risks - InclusiveIAS",
+        "url": "https://inclusiveias.com/upsc-economy-deficit-financing/",
+        "whyUsed": "Verified India-specific context on deficit financing objectives, the history of monetized deficit pre-1997, and the shift to market-linked borrowing under FRBM Act"
+      },
+      {
+        "title": "Deficit Financing - Unacademy",
+        "url": "https://unacademy.com/content/upsc/economy-notes/deficit-financing/",
+        "whyUsed": "Confirmed the historical context of deficit financing in India's first five-year plan and the rationale for using deficit financing when domestic savings and tax revenues were insufficient"
+      },
+      {
+        "title": "LotusArise - Q. In India, deficit financing is used for raising resources for",
+        "url": "https://lotusarise.com/qna/upsc/q-in-india-deficit-financing-is-used-for-raising-resources-for",
+        "whyUsed": "Validated the official answer and explained the basic intention behind deficit financing in India as providing impetus to economic growth"
+      },
+      {
+        "title": "Deficit Financing - Indian Economy Notes - Egyankmosh",
+        "url": "https://egyankosh.ac.in/bitstream/123456789/19311/1/Unit-14.pdf",
+        "whyUsed": "Provided historical data on deficit financing amounts across India's five-year plans and documented the relationship between deficit financing and price rise, confirming the documented trade-off between inflation and growth"
+      }
+    ],
+    "searchMeta": {
+      "usedWebSearch": true,
+      "searchQueries": [
+        "India deficit financing purpose economic development UPSC",
+        "deficit financing objectives government spending revenue gap"
+      ],
+      "confidence": "high"
+    }
+  },
+  "id": 15
+}

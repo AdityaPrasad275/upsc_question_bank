@@ -1,0 +1,62 @@
+{
+  "subject": "Polity",
+  "year": 1997,
+  "theme": "Union budget classification: Plan and Non-Plan expenditure",
+  "question_short_text": "Identify all non-plan expenditure items from subsidies, interest, defence, and maintenance",
+  "text": "Which of the following come under Non-plan expenditure?\n\nI. Subsidies\nII. Interest payments\nIII. Defence expenditure\nIV. Maintenance expenditure for the infrastructure created in the previous plans\n\nChoose the correct answer using the codes given below:",
+  "options": [
+    "a) I and II",
+    "b) I and III",
+    "c) II and IV",
+    "d) I, II, III and IV"
+  ],
+  "answerIndex": 3,
+  "answerText": "(d) I, II, III and IV",
+  "explanation": "All four items\u2014subsidies, interest payments, defence expenditure, and maintenance expenditure for previously created infrastructure\u2014are classified as non-plan expenditure because they are recurring governmental obligations not directed toward new planned development projects.",
+  "research": {
+    "summary": "This question tests understanding of a critical distinction in India's budgetary framework that existed from 1951 to 2017: the classification of government expenditures into plan and non-plan categories. The distinction hinged on one fundamental criterion: whether the expenditure was linked to creating new assets and programs outlined in the Five-Year Plans (plan expenditure) or whether it was recurring, obligatory spending not tied to planned development (non-plan expenditure).\n\nThe question's core logic becomes clear when you examine each item: Subsidies are direct financial transfers (food, fertilizers, petroleum) aimed at supporting sectors or groups without funding new developmental infrastructure. Interest payments represent the government's mandatory debt servicing obligations arising from past borrowings\u2014these have no connection to current development projects. Defence expenditure covers salaries, pensions, equipment, and operations of the armed forces\u2014essential for national security but not part of planned economic development. Maintenance expenditure for previously created infrastructure is the operational upkeep of assets (roads, buildings, power stations) that were built in earlier plan periods; once an asset exists, maintaining it becomes a recurring non-plan obligation rather than a development activity.\n\nA critical misconception the exam is testing here is the notion that only \"active new construction\" counts as non-plan. Many students incorrectly assume that maintenance of existing infrastructure should somehow be classified as plan expenditure because infrastructure itself is developmental. The error is in confusing the nature of the asset with the classification of current expenditure. The planning framework explicitly classified maintenance as non-plan because it represented the operational cost of managing existing capacity, not the creation of new capacity.\n\nThe adverse consequence of this classification became apparent over decades: because non-plan expenditure was culturally and bureaucratically treated as \"less important than plan expenditure,\" governments increasingly neglected maintenance budgets. This led to deteriorating public infrastructure, understaffed services, and deferred repairs\u2014a core reason why the Rangarajan Committee in 2011 and the government in 2016 eventually abolished the distinction, replacing it with Capital and Revenue expenditure classification (2017-18 onwards). But in 1997, when this question was asked, the plan/non-plan distinction was standard and powerful.",
+    "facts": [
+      "Plan expenditure covered new asset creation (dams, roads, schools, hospitals) and was decided in consultation with the Planning Commission; non-plan covered everything else.",
+      "The misclassification bias\u2014treating plan as \"good\" and non-plan as \"bad\"\u2014led to chronic underfunding of maintenance, resulting in deterioration of previously built public assets and services.",
+      "Non-plan revenue expenditure comprised interest, subsidies, salaries, pensions, grants to states, and police and economic services; non-plan capital expenditure included defence, loans to public enterprises, and loans to states and foreign governments.",
+      "By the 2011-12 budget, non-plan expenditure accounted for nearly 65% of total central expenditure, with defence alone consuming about a quarter of non-plan spending.",
+      "The Plan and Non-Plan classification was formally abolished from the 2017-18 budget following the C. Rangarajan Committee recommendation, replaced by a unified Revenue and Capital expenditure framework to enable better outcome-based budgeting."
+    ],
+    "sources": [
+      {
+        "title": "Non-Plan Expenditure 2001-2002 Budget Document",
+        "url": "https://www.indiabudget.gov.in/budget_archive/ub2001-02/eb/npe.pdf",
+        "whyUsed": "Official government budget document confirming that maintenance of assets created in previous Plans is treated as non-plan expenditure."
+      },
+      {
+        "title": "Plan and Non-plan Expenditure Classification - UPSC Economy Notes",
+        "url": "https://edukemy.com/blog/plan-and-non-plan-expenditure-classification-upsc-economy-notes/",
+        "whyUsed": "Educational source providing clear definition of plan vs non-plan distinction and its historical evolution, including the Rangarajan Committee recommendation."
+      },
+      {
+        "title": "GKToday \u2013 Non Plan Expenditure",
+        "url": "https://www.gktoday.in/non-plan-expenditure/",
+        "whyUsed": "Reliable reference source detailing components of non-plan expenditure and explaining the abolition of the classification in 2017-18."
+      },
+      {
+        "title": "Merging Plan and Non-Plan \u2013 CBGA India",
+        "url": "https://www.cbgaindia.org/blog/merging-plan-non-plan/",
+        "whyUsed": "Analysis of the distortions created by the plan/non-plan distinction, particularly the neglect of maintenance expenditure and its eventual reform."
+      },
+      {
+        "title": "Arthapedia \u2013 Non Plan Expenditure",
+        "url": "http://www.arthapedia.in/index.php?title=Non_Plan_Expenditure",
+        "whyUsed": "Institutional reference explaining the historical composition and rationale of non-plan expenditure classification in Indian budgeting."
+      }
+    ],
+    "searchMeta": {
+      "usedWebSearch": true,
+      "searchQueries": [
+        "plan expenditure non-plan expenditure India budget classification",
+        "non-plan expenditure subsidies interest defence maintenance 1997"
+      ],
+      "confidence": "high"
+    }
+  },
+  "id": 40
+}

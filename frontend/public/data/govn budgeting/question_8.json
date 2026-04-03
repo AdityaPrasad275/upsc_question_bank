@@ -1,0 +1,57 @@
+{
+  "subject": "Economy",
+  "year": 2019,
+  "theme": "composition and characteristics of India's external debt",
+  "question_short_text": "Verify two statements on India's external debt: government ownership and US dollar denomination",
+  "text": "Consider the following statements:\n\n1. Most of India's external debt is owed by governmental entities.\n2. All of India's external debt is denominated in US dollars.\n\nWhich of the statements given above is/are correct?",
+  "options": [
+    "1 only",
+    "2 only",
+    "Both 1 and 2",
+    "Neither 1 nor 2"
+  ],
+  "answerIndex": 3,
+  "answerText": "(d) Neither 1 nor 2",
+  "explanation": "Both statements are incorrect. India's external debt is primarily owed by the private sector (non-governmental entities), not the government. Additionally, while the US dollar is the dominant currency, India's external debt is denominated in multiple currencies including Indian rupees, Japanese yen, euros, and SDRs.",
+  "research": {
+    "summary": "This question tests the composition of India's external debt along two critical dimensions: borrower type and currency denomination. The trap is assuming the government is the primary debtor and that foreign currency debt must be entirely in USD.\n\nStatement 1 is false: The private sector is the dominant borrower. As of recent data, non-financial corporations account for approximately 35\u201337% of external debt, deposit-taking corporations another 27\u201328%, while the general government (all tiers) represents only 22\u201323%. This means roughly 77% of India's external debt is non-sovereign (private sector) debt. This composition reflects India's reliance on commercial borrowings, NRI deposits, and trade credit from the private sector rather than government borrowing from multilateral institutions or bilateral sources.\n\nStatement 2 is false: While the US dollar is the largest single currency, it does not account for all external debt. As of March 2024, USD represented 53.8% of the debt, while Indian rupee-denominated debt comprised 30.6%, Japanese yen 5.8%, SDRs 5.4%, and euros 2.8%. The rupee component is significant because it includes NRI deposits and rupee-denominated debt instruments. The use of multiple currencies reflects India's diversified borrowing sources and the nature of different debt instruments\u2014multilateral loans may be in SDRs, bilateral debt in various currencies, and commercial borrowings in major international currencies.\n\nA key elimination cue: Watch for absolutist language like 'most' and 'all' in debt composition questions. These rarely hold true for complex macroeconomic indicators. India's external debt structure is nuanced\u2014it is neither government-dominated nor purely USD-denominated, making this a question about proportional composition rather than simplistic absolutes.",
+    "facts": [
+      "Non-financial corporations hold the largest share of India's external debt (35\u201337%), followed by deposit-taking corporations (27\u201328%) and government (22\u201324%), making private sector borrowing dominant",
+      "Commercial borrowings, NRI deposits, and short-term trade credit together account for approximately 90% of total external debt, reflecting the private-sector character of borrowing",
+      "USD-denominated debt is dominant at ~54%, but rupee-denominated debt is the second-largest component at ~31%, giving India a meaningful hedging advantage against currency risk",
+      "External debt is classified by borrowers (government, corporations, individuals), creditors (multilateral, bilateral, private banks), instruments (loans, trade credit, bonds), and maturity (long-term >1 year, short-term <1 year)",
+      "India's external debt-to-GDP ratio has remained manageable (around 18\u201319%), and foreign exchange reserves typically exceed external debt, strengthening the country's repayment capacity"
+    ],
+    "sources": [
+      {
+        "title": "External debt of India \u2013 Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/External_debt_of_India",
+        "whyUsed": "Verified current composition data showing government as minority debtor and multiple currency denominations with precise percentages"
+      },
+      {
+        "title": "Rise of India's External Debt \u2013 Drishti IAS",
+        "url": "https://www.drishtiias.com/daily-updates/daily-news-analysis/rise-of-indias-external-debt",
+        "whyUsed": "Confirmed sector-wise breakdown showing non-financial corporations as dominant borrower and detailed currency composition"
+      },
+      {
+        "title": "Status Report on India's External Debt 2021-22 \u2013 Press Information Bureau",
+        "url": "https://www.pib.gov.in/PressReleaseIframePage.aspx?PRID=1856834",
+        "whyUsed": "Official government source confirming USD at 53.2% and rupee at 31.2%, and sovereign vs non-sovereign debt split"
+      },
+      {
+        "title": "Consider the following statements (UPSC 2019) \u2013 Prepp.in",
+        "url": "https://prepp.in/question/consider-the-following-statements-1-most-of-india-6453b6113c1bc691f01fe185",
+        "whyUsed": "UPSC-specific analysis confirming both statements are incorrect and providing reasoning aligned with 2019 test context"
+      }
+    ],
+    "searchMeta": {
+      "usedWebSearch": true,
+      "searchQueries": [
+        "India external debt composition government private corporations",
+        "India external debt currency denomination USD euro"
+      ],
+      "confidence": "high"
+    }
+  },
+  "id": 8
+}

@@ -1,0 +1,52 @@
+{
+  "subject": "Polity",
+  "year": 2024,
+  "theme": "Constitutional procedure in Union Budget and parliamentary financial control",
+  "question_short_text": "Who presents the Annual Financial Statement and what is required for demands for grants?",
+  "text": "With reference to Union Budget, consider the following statements:\n\n1. The Union Finance Minister on behalf of the Prime Minister lays the Annual Financial Statement before both the Houses of Parliament.\n2. At the Union level, no demand for a grant can be made except on the recommendation of the President of India.\n\nWhich of the statements given above is/are correct?",
+  "options": [
+    "1 only",
+    "2 only",
+    "Both 1 and 2",
+    "Neither 1 nor 2"
+  ],
+  "answerIndex": 2,
+  "answerText": "(c) Both 1 and 2",
+  "explanation": "Both statements are constitutionally correct. Statement 1 is correct because although Article 112 states the President 'causes' the Annual Financial Statement to be laid before Parliament, the Finance Minister presents it on behalf of the government. Statement 2 is correct because Article 113(3) explicitly mandates that no demand for a grant can be made except on the recommendation of the President.",
+  "research": {
+    "summary": "This question tests understanding of the formal procedure governing Union Budget presentation and parliamentary control over expenditure. The core concept is the distribution of roles between constitutional and functional authority in fiscal matters.\n\nStatement 1 requires careful reading of Article 112. The Constitution states: 'The President shall...cause to be laid before both the Houses of Parliament a statement of the estimated receipts and expenditure.' The word 'cause' is critical\u2014it indicates the President's constitutional responsibility, but not necessarily the President's personal act. In parliamentary practice, the Finance Minister, as head of the fiscal administration, actually presents the Budget to Parliament. The Finance Minister acts as the agent of the President and on behalf of the government, of which the Prime Minister is the political head. The statement is correct in substance even if technically the PM is not the one physically laying it; the PM is the head of the executive machinery through which it is done.\n\nStatement 2 invokes Article 113(3): 'No demand for a grant shall be made except on the recommendation of the President.' This is an absolute constitutional requirement. Demands for grants are formal requests for authorization to spend funds from the Consolidated Fund on non-charged expenditure. These must originate from or receive the President's recommendation\u2014this ensures executive accountability and prevents Parliament from creating spending demands in isolation. The President's recommendation is a check on Parliament's spending power.\n\nThe trap many students fall into is conflating 'laid before Parliament' with 'voted on in Parliament.' Article 112 deals with presentation; Article 113 deals with the subsequent parliamentary procedure. The Budget is presented (Article 112) by the Finance Minister, but then demands for grants proceed through voting (Article 113) only with the President's recommendation. Both statements correctly reflect the Constitution as it operates in practice.",
+    "facts": [
+      "Article 112 vests formal responsibility for laying the Annual Financial Statement in the President, but practice since 1947 has been for the Finance Minister to present it to Parliament",
+      "Article 113(1) prevents charged expenditures (salaries of President, judges, CAG, interest on debt) from being voted on, though they can be discussed in both Houses",
+      "Only the Lok Sabha votes on demands for grants; the Rajya Sabha can discuss but not vote (Article 113(2))",
+      "The Appropriation Bill, which follows demand grants approval, is the legal instrument authorizing withdrawal of funds from the Consolidated Fund of India",
+      "The President's recommendation under Article 113(3) is a constitutional safeguard ensuring that Parliament cannot unilaterally create spending demands without executive accountability"
+    ],
+    "sources": [
+      {
+        "title": "Article 112: Annual Financial Statement - Constitution of India",
+        "url": "https://www.constitutionofindia.net/articles/article-112-annual-financial-statement/",
+        "whyUsed": "Verified the exact text of Article 112(1) and the constitutional history showing the Finance Minister's role in presenting the budget"
+      },
+      {
+        "title": "Article 113: Procedure in Parliament with respect to estimates - Constitution of India",
+        "url": "https://www.constitutionofindia.net/articles/article-113-procedure-in-parliament-with-respect-to-estimates/",
+        "whyUsed": "Confirmed Article 113(3) requirement that no demand for grant can be made except on President's recommendation"
+      },
+      {
+        "title": "Union Budget of India - Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Union_budget_of_India",
+        "whyUsed": "Verified that the Finance Minister presents the Union Budget in Parliament as standard practice since 1947"
+      }
+    ],
+    "searchMeta": {
+      "usedWebSearch": true,
+      "searchQueries": [
+        "Article 112 Union Budget Annual Financial Statement Constitution India",
+        "Article 113 demand grant President recommendation Constitution India"
+      ],
+      "confidence": "high"
+    }
+  },
+  "id": 4
+}

@@ -1,0 +1,63 @@
+{
+  "subject": "Polity",
+  "year": 2004,
+  "theme": "Classification of government funds and parliamentary control over public finance",
+  "question_short_text": "Which statements about Public Account disbursements, Constitutional funds, and Railway Budget control are correct?",
+  "text": "With reference to Indian Public Finance, consider the following statements:\n\n1. Disbursements from Public Accounts of India are subject to the Vote of Parliament.\n2. The Indian Constitution provides for the establishment of a Consolidated Fund, a Public Account and a Contingency Fund for each State.\n3. Appropriations and disbursements under the Railway Budget are subject to the same form of parliamentary control as other appropriations and disbursements.\n\nWhich of the statements given above are correct?",
+  "options": [
+    "1 and 2",
+    "2 and 3",
+    "1 and 3",
+    "1, 2 and 3"
+  ],
+  "answerIndex": 1,
+  "answerText": "(b) 2 and 3",
+  "explanation": "Statement 1 is incorrect because disbursements from the Public Account are made by executive action without parliamentary appropriation. Statements 2 and 3 are correct: the Constitution provides for three funds for each state, and the Railway Budget is subject to the same parliamentary control as other appropriations.",
+  "research": {
+    "summary": "This question tests understanding of the three-fund architecture that the Constitution establishes for Indian public finance and the distinct nature of parliamentary oversight applied to each.\n\nThe critical trap is Statement 1, which confuses the Public Account with the Consolidated Fund. The Consolidated Fund (Article 266(1)) contains all government revenues and expenses and requires parliamentary appropriation for every rupee. By contrast, the Public Account (Article 266(2)) holds money the government receives in trust\u2014provident fund deposits, postal savings, judicial deposits\u2014that do not belong to the government and must be repaid to their rightful owners. Since these funds are held in a banker-like capacity, disbursements do not require parliamentary vote. The key insight: no ownership means no appropriation needed. Statement 1 is therefore false.\n\nStatement 2 is correct. Article 266 and Article 267 of the Constitution establish that each state has its own Consolidated Fund, Public Account, and Contingency Fund, mirroring the union structure. This is a direct constitutional mandate.\n\nStatement 3 is often misunderstood as suggesting railways enjoy special exemption from parliamentary control, but it is true in a precise sense. The Railway Budget, though presented separately from the General Budget (a convention since 1924), is subject to the same constitutional framework: both voted and charged expenditure require parliamentary approval through appropriation bills, and excess grants require legislative regularization under Article 115. Railways are not exempt from this. Like any other ministry, railway expenditures are divided into voted (subject to parliament's vote on demands for grants) and charged (non-votable but discussed) categories. The Public Accounts Committee audits railway accounts just as it does for other departments. The railway budget process involves supplementary grants, excess grants, and appropriation accounts\u2014all the same mechanisms. Statement 3 is therefore correct.\n\nThe ownership principle is the linchpin: funds that belong to the government (Consolidated Fund) require parliamentary vote; funds held in trust (Public Account) do not. This distinction is foundational to understanding Indian public finance.",
+    "facts": [
+      "The Public Account contains deposits like provident funds, small savings, and judicial deposits\u2014money the government holds but does not own, hence no parliamentary vote is needed for disbursement.",
+      "The Consolidated Fund requires parliamentary appropriation for all withdrawals; no money from it can be spent without an Appropriation Act passed by Parliament.",
+      "The Contingency Fund (Article 267) allows the President to make immediate advances for unforeseen emergencies, with parliamentary approval obtained ex-post-facto under Article 115 or 116.",
+      "Each state has its own Consolidated Fund, Public Account, and Contingency Fund under the same constitutional framework (Articles 266 and 267).",
+      "Railway Budget appropriations and excess grants are regularized through the same Article 115(1)(b) mechanism as all other government expenditure; railways receive no exemption from parliamentary control."
+    ],
+    "sources": [
+      {
+        "title": "Testbook: Public Account India Disbursement",
+        "url": "https://testbook.com/question-answer/with-reference-to-the-union-government-consider-t--5f48d1b25681040d0d4a77ce",
+        "whyUsed": "Clarified that Public Account is operated by executive action without parliamentary appropriation, contrasting with Consolidated Fund."
+      },
+      {
+        "title": "Vedantu: Indian Public Finance",
+        "url": "https://www.vedantu.com/question-answer/with-reference-to-indian-public-finance-consider-class-12-social-science-cbse-5fd0cd5a83cb9806758a5b0c",
+        "whyUsed": "Verified that disbursements from Public Account are not subject to parliamentary vote because they are held in trust; confirmed Statement 2 on three funds for each state."
+      },
+      {
+        "title": "India Budget 2005-06: Key to Budget Documents",
+        "url": "https://www.indiabudget.gov.in/budget_archive/ub2005-06/keybud/keybud2005.pdf",
+        "whyUsed": "Official government source confirming Public Account funds do not require parliamentary authorization and that appropriation bill covers only Consolidated Fund."
+      },
+      {
+        "title": "Drishti IAS: Contingency Fund of India",
+        "url": "https://www.drishtijudiciary.com/to-the-point/ttp-constitution-of-india/the-contingency-fund-of-india",
+        "whyUsed": "Explained the distinction between the three funds and verified that Article 115 applies to regularize railway excess grants just like other departments."
+      },
+      {
+        "title": "Railway Accounts Exam: Parliamentary Control",
+        "url": "https://www.appendix3exam.com/2021/01/parliamentary-control-over-railway.html",
+        "whyUsed": "Documented that railway appropriations and excess grants follow Article 114 and 115 processes identically to other departments, confirming Statement 3."
+      }
+    ],
+    "searchMeta": {
+      "usedWebSearch": true,
+      "searchQueries": [
+        "Public Account India disbursement parliamentary vote",
+        "Indian Constitution Consolidated Fund Public Account Contingency Fund",
+        "Railway Budget parliamentary control appropriations Article 360"
+      ],
+      "confidence": "high"
+    }
+  },
+  "id": 29
+}

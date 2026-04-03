@@ -1,0 +1,52 @@
+{
+  "subject": "Polity",
+  "year": 2006,
+  "theme": "FRBM Act 2003 scope and targets for deficit reduction",
+  "question_short_text": "What deficits does the FRBM Act address?",
+  "text": "Which one of the following statements is correct? Fiscal Responsibility and Budget Management Act (FRBMA) concerns:",
+  "options": [
+    "Fiscal deficit only",
+    "Revenue deficit only",
+    "Both fiscal and revenue deficit",
+    "Neither fiscal deficit nor revenue deficit"
+  ],
+  "answerIndex": 2,
+  "answerText": "(c) Both fiscal and revenue deficit",
+  "explanation": "The FRBM Act, enacted in 2003, sets targets for reducing both fiscal deficit and revenue deficit. The Act aimed to eliminate revenue deficit entirely and reduce fiscal deficit to 3% of GDP by March 2008.",
+  "research": {
+    "summary": "The core misconception that UPSC tests here is whether students understand that the FRBM Act addresses two distinct types of deficits, not just one. The fiscal deficit is the overall gap between total government expenditure and total revenue, while the revenue deficit is the narrower concept where the government's own revenue receipts fall short of its non-debt expenditure (day-to-day operations). Many students mistakenly think the Act only targets fiscal deficit because it is more commonly discussed, but the Act explicitly mandates targets for both. The Act's original objectives included eliminating revenue deficit entirely by March 2008 and reducing fiscal deficit to 3% of GDP by the same date. This dual approach reflects the government's concern in 2003 that India was borrowing excessively even for routine operations, not just for capital expenditure. The distinction matters strategically: revenue deficit elimination is harder because it requires the government to fund its daily expenses entirely from its own receipts, while fiscal deficit reduction can be achieved through borrowing for productive purposes. The Act therefore set more ambitious targets for revenue deficit (complete elimination) than for fiscal deficit (reduction to 3% of GDP). In 2006, when this question was asked, the Act had been in force for only two years, and both targets were actively being pursued, though the 2008 financial crisis would later force postponement.",
+    "facts": [
+      "The FRBM Act came into force on 5 July 2004, making 2006 an early period of implementation.",
+      "Revenue deficit occurs when government's revenue receipts are insufficient even to cover its non-debt expenditure (salaries, subsidies, pensions), forcing borrowing for routine operations.",
+      "Fiscal deficit is the overall imbalance: total expenditure minus total revenue, including both debt-financed current and capital spending.",
+      "The Act originally set a target of zero revenue deficit and 3% fiscal deficit (as percentage of GDP) by March 2008, reflecting the severity of India's fiscal situation in 2003 when borrowing was consuming nearly half of tax revenues for interest payments.",
+      "The Act mandates presentation of four fiscal indicators in medium-term statements: revenue deficit as % of GDP, fiscal deficit as % of GDP, tax revenue as % of GDP, and total outstanding liabilities as % of GDP."
+    ],
+    "sources": [
+      {
+        "title": "Fiscal Responsibility and Budget Management Act, 2003 - Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Fiscal_Responsibility_and_Budget_Management_Act,_2003",
+        "whyUsed": "Official background on FRBM Act objectives and original targets for both fiscal and revenue deficit elimination."
+      },
+      {
+        "title": "FRBM Act: Fiscal Deficit & Fiscal Responsibility & Budget Management Act - PMF IAS",
+        "url": "https://www.pmfias.com/frbm-act/",
+        "whyUsed": "Detailed explanation of dual deficit targets and fiscal indicators mandated under the Act."
+      },
+      {
+        "title": "Fiscal Responsibility & Budget Management (FRBM) Act, Objectives - Vajira Mandravi",
+        "url": "https://vajiramandravi.com/current-affairs/fiscal-responsibility-budget-management-act/",
+        "whyUsed": "Verified information on the Act's main purpose to eliminate revenue deficit and reduce fiscal deficit to 3% of GDP by March 2008."
+      }
+    ],
+    "searchMeta": {
+      "usedWebSearch": true,
+      "searchQueries": [
+        "FRBM Act 2003 fiscal revenue deficit targets scope",
+        "Fiscal Responsibility Budget Management Act provisions deficits"
+      ],
+      "confidence": "high"
+    }
+  },
+  "id": 28
+}

@@ -12,7 +12,7 @@ def main():
 
     client = Anthropic(api_key=os.getenv("ANTHROPIC_API_KEY"))
 
-    batch_id = "msgbatch_015A6K8iTy6KhKuooQDf6PnD"
+    batch_id = "msgbatch_01EbMrNLj2LvxHYqutHoz747"
 
     # Model: claude-haiku-4-5-20251001
     INPUT_PRICE_PER_MTOK = 0.50  # Batch pricing

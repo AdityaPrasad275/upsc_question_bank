@@ -1,0 +1,58 @@
+{
+  "subject": "Polity",
+  "year": 2015,
+  "theme": "Union Government financial management and fund authorization procedures",
+  "question_short_text": "Budget preparation responsibility and authorization for fund withdrawals from Consolidated Fund and Public Account",
+  "text": "With reference to the Union Government consider the following statements:\n\n1. The Department of Revenue is responsible for the preparation of Union Budget that is presented to the parliament\n2. No amount can be withdrawn from the Consolidated Fund of India without the authorization of Parliament of India.\n3. All the disbursements made from Public Account also need the Authorization from the Parliament of India\n\nWhich of the following statements given above is/are correct?",
+  "options": [
+    "1 and 2 only",
+    "2 and 3 only",
+    "2 only",
+    "1, 2 and 3"
+  ],
+  "answerIndex": 2,
+  "answerText": "(c) 2 only",
+  "explanation": "Only statement 2 is correct. The Department of Economic Affairs (not Revenue) prepares the budget. Withdrawals from the Consolidated Fund require parliamentary authorization, but disbursements from the Public Account do not\u2014they are made by executive action.",
+  "research": {
+    "summary": "This question tests the understanding of India's three distinct government funds and their authorization procedures\u2014a critical distinction in UPSC Polity. Statement 1 is incorrect because the Department of Revenue is responsible for tax collection through CBDT and CBIC, not budget preparation. The Budget Division of the Department of Economic Affairs under the Ministry of Finance holds primary responsibility for preparing and presenting the Union Budget to Parliament. Statement 2 is correct: Article 266(1) of the Constitution mandates that no amount can be withdrawn from the Consolidated Fund of India without Parliament's authorization, typically granted through the Appropriation Bill after voting on demands for grants. This ensures parliamentary control over all government spending from the main revenue account. Statement 3 is incorrect\u2014this is the key trap in the question. The Public Account of India (Article 266(2)) holds funds that do not belong to the government but are held in trust: provident fund deposits, small savings collections, judicial deposits, remittances, etc. Since the government acts as a banker for these funds, they must eventually be returned to their rightful owners. Disbursements from the Public Account are therefore made by executive action without parliamentary authorization, as these are banking transactions rather than government expenditure. Students often confuse the strict parliamentary control over the Consolidated Fund with similar control over the Public Account, but the constitutional structure treats them entirely differently. The Contingency Fund (Article 267) operates similarly to the Public Account\u2014by executive action\u2014though it serves emergency expenditure pending subsequent parliamentary ratification.",
+    "facts": [
+      "Budget Division of Department of Economic Affairs is the nodal agency for budget preparation, not Department of Revenue which handles tax collection.",
+      "Consolidated Fund holds all government receipts (taxes, loans, non-tax revenue) and requires parliamentary approval via Appropriation Bill for any withdrawal.",
+      "Public Account holds funds in trust (provident funds, small savings, judicial deposits) and disbursements are made by executive action without parliamentary authorization.",
+      "Contingency Fund (\u20b9500 crore corpus, recently enhanced to \u20b930,000 crore) is an imprest at the President's disposal for unforeseen expenditure, operated by executive action pending parliamentary ratification.",
+      "Parliamentary control in Article 114 of the Constitution specifically mandates appropriation from the Consolidated Fund, distinguishing it from the other two funds established under Article 266 and 267."
+    ],
+    "sources": [
+      {
+        "title": "Ministry of Finance (India) - Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Ministry_of_Finance_(India)",
+        "whyUsed": "Confirmed that Department of Economic Affairs (not Revenue) is responsible for budget preparation"
+      },
+      {
+        "title": "Budget Division | Department of Economic Affairs",
+        "url": "http://dea.gov.in/budget-divisions",
+        "whyUsed": "Official government source clarifying Budget Division's role in budget preparation and submission to Parliament"
+      },
+      {
+        "title": "Public Account (India) - Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Public_Account_(India)",
+        "whyUsed": "Explained that Public Account disbursements do not require parliamentary approval as funds are held in trust"
+      },
+      {
+        "title": "Testbook - Consolidated Fund Authorization",
+        "url": "https://testbook.com/question-answer/with-reference-to-the-union-government-consider-t--5f48d1b25681040d0d4a77ce",
+        "whyUsed": "Confirmed that Public Account is operated by executive action without parliamentary appropriation"
+      }
+    ],
+    "searchMeta": {
+      "usedWebSearch": true,
+      "searchQueries": [
+        "Union Budget preparation responsibility Ministry Finance Department Revenue India",
+        "Consolidated Fund India withdrawal Parliament authorization",
+        "Public Account India disbursements Parliament authorization"
+      ],
+      "confidence": "high"
+    }
+  },
+  "id": 12
+}

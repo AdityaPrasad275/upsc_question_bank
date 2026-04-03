@@ -1,0 +1,61 @@
+{
+  "subject": "Economy",
+  "year": 2025,
+  "theme": "Government budget deficits: revenue, fiscal, and primary deficit classifications",
+  "question_short_text": "Identify correct statements about revenue deficit, fiscal deficit, and primary deficit from given budget figures",
+  "text": "Suppose the revenue expenditure is \u20b980,000 crores and the revenue receipts of the Government are \u20b960,000 crores. The Government budget also shows borrowings of \u20b910,000 crores and interest payments of \u20b96,000 crores. Which of the following statements are correct?\n\nI. Revenue deficit is \u20b920,000 crores.\nII. Fiscal deficit is \u20b910,000 crores.\nIII. Primary deficit is \u20b94,000 crores.",
+  "options": [
+    "I and II only",
+    "II and III only",
+    "I and III only",
+    "I, II and III"
+  ],
+  "answerIndex": 3,
+  "answerText": "(d) I, II and III",
+  "explanation": "All three statements are correct. Revenue deficit = \u20b980,000 \u2013 \u20b960,000 = \u20b920,000 cr. Fiscal deficit = \u20b910,000 cr (the borrowing required). Primary deficit = \u20b910,000 \u2013 \u20b96,000 = \u20b94,000 cr.",
+  "research": {
+    "summary": "This question tests the foundational distinction between three critical budget deficit measures that assess different dimensions of fiscal health. Revenue deficit (\u20b920,000 cr) reveals a structural problem: the government cannot meet even its day-to-day operational and transfer expenses from tax and non-tax revenues. This is the most immediate red flag for fiscal deterioration because it shows reliance on borrowing for non-asset-creating activities like salaries, pensions, and subsidies\u2014money spent but producing no capital asset. Fiscal deficit (\u20b910,000 cr) is broader: it captures the total borrowing requirement after accounting for all sources of non-borrowed receipts. The critical insight here is that fiscal deficit is always lower than or equal to revenue deficit plus capital expenditure, because while revenue spending must be financed partly through borrowing, capital expenditure can be financed through capital receipts (asset sales, disinvestment, recovery of loans). Primary deficit (\u20b94,000 cr) isolates the new borrowing need independent of past debt burdens. By excluding the \u20b96,000 cr interest payment from fiscal deficit, primary deficit shows what the government is borrowing purely to fund current and capital expenditure, not to service old debt. The key trap UPSC tests is conflating these measures: students often confuse fiscal and revenue deficit by failing to account for the role of interest payments and capital receipts. The statement-based format here forces recognition that all three operate simultaneously in the budget\u2014they are not alternatives but complementary measures of different fiscal dimensions. A high revenue deficit combined with a lower fiscal deficit (as here) suggests capital expenditure is substantial relative to revenue shortfall, which is preferable for growth; conversely, when fiscal deficit is close to revenue deficit, it indicates minimal capital spending, signaling weak investment-led growth potential.",
+    "facts": [
+      "Revenue deficit indicates the government is borrowing to finance day-to-day operations; even one rupee of revenue deficit means current consumption exceeds current income and must be financed from past savings or new borrowing.",
+      "Fiscal deficit is the most comprehensive measure of government's total financing requirement and is the target specified in the Fiscal Responsibility and Budget Management (FRBM) Act; India's fiscal deficit target is below 4.5% of GDP by FY 2025-26.",
+      "Primary deficit is considered a better indicator of fiscal sustainability than fiscal deficit because it strips away the mechanical burden of servicing old debt, showing whether the government's current policies are sustainable independent of inherited liabilities.",
+      "A high primary deficit signals the government is spending excessively even ignoring past borrowings, whereas a low or zero primary deficit with a high fiscal deficit means most new borrowing is driven by mandatory interest obligations, not new profligacy.",
+      "The relationship is strictly mechanical: fiscal deficit = revenue deficit + (capital expenditure \u2013 non-debt capital receipts), and primary deficit = fiscal deficit \u2013 interest payments; these hierarchies structure Indian budget analysis and appear repeatedly in policy discussions."
+    ],
+    "sources": [
+      {
+        "title": "Revenue Deficit vs Fiscal Deficit Definitions",
+        "url": "https://www.vedantu.com/commerce/primary-deficit",
+        "whyUsed": "Verified the core formula distinctions between revenue, fiscal, and primary deficit with worked examples."
+      },
+      {
+        "title": "Types of Deficit in India",
+        "url": "https://vajiramandravi.com/current-affairs/types-of-deficit/",
+        "whyUsed": "Confirmed that revenue deficit isolates current operations while fiscal deficit includes capital transactions, and primary deficit removes interest burden."
+      },
+      {
+        "title": "India Fiscal Deficit Targets",
+        "url": "https://www.drishtiias.com/daily-updates/daily-news-analysis/india-fiscal-deficit-targets",
+        "whyUsed": "Verified FRBM Act targets and confirmed that primary deficit focuses on fiscal stance independent of past debt obligations."
+      },
+      {
+        "title": "Government Deficits - Revenue, Fiscal & Primary Deficit",
+        "url": "https://inclusiveias.com/upsc-economy-government-deficits-revenue-deficit-fiscal-deficit-primary-deficit/",
+        "whyUsed": "Reinforced why revenue deficit is considered harmful (borrowing for non-asset-creating expense) and the policy significance of each measure."
+      },
+      {
+        "title": "Fiscal Deficit and Its Impact on the Indian Economy",
+        "url": "https://cleartax.in/s/fiscal-deficit-and-its-impact-on-indian-economy",
+        "whyUsed": "Confirmed India's fiscal deficit consolidation trajectory and the distinction between financing sources for revenue vs. capital deficits."
+      }
+    ],
+    "searchMeta": {
+      "usedWebSearch": true,
+      "searchQueries": [
+        "revenue deficit fiscal deficit primary deficit definitions India budget"
+      ],
+      "confidence": "high"
+    }
+  },
+  "id": 2
+}

@@ -1,0 +1,57 @@
+{
+  "subject": "Economy",
+  "year": 2010,
+  "theme": "fiscal stimulus measures and expansionary fiscal policy",
+  "question_short_text": "Identify which government actions constitute fiscal stimulus during economic recession",
+  "text": "Consider the following actions by the Government:\n\n1. Cutting the tax rates\n2. Increasing the government spending\n3. Abolishing the subsidies\n\nIn the context of economic recession, which of the above actions can be considered a part of the \"fiscal stimulus\" package?",
+  "options": [
+    "1 and 2 only",
+    "2 only",
+    "1 and 3 only",
+    "1, 2 and 3"
+  ],
+  "answerIndex": 0,
+  "answerText": "(a) 1 and 2 only",
+  "explanation": "Fiscal stimulus consists of tax cuts and increased government spending designed to boost aggregate demand during a recession. Abolishing subsidies reduces government spending, which is contractionary rather than expansionary.",
+  "research": {
+    "summary": "Fiscal stimulus is defined as government spending increases or tax reductions aimed at expanding aggregate demand during periods of economic weakness. The key principle is that stimulus actions must inject demand into the economy or leave more purchasing power in private hands, both of which increase consumption and investment. Tax cuts (action 1) directly increase disposable income for households and businesses, enabling greater spending. Increased government spending (action 2) represents a direct injection of demand into the economy through public investment, transfers, or purchases. Both of these are core components of expansionary fiscal policy and are well-documented tools used in major stimulus packages like the American Recovery and Reinvestment Act of 2009 during the Great Recession. Abolishing subsidies (action 3), however, represents a reduction in government spending and transfers. While removal of inefficient subsidies may improve long-term fiscal health, it is contractionary in the short term\u2014it reduces demand rather than stimulating it. During a recession, when private demand is already weak, cutting subsidies would further reduce aggregate demand and worsen the downturn. The distinction is crucial: fiscal stimulus is about expanding the deficit to boost demand, not about improving fiscal consolidation. Any measure that reduces government outlays operates counter to the stimulus objective during a recession.",
+    "facts": [
+      "Fiscal stimulus effectiveness depends on the multiplier effect\u2014each dollar of well-targeted stimulus can generate more than $1 in additional economic output through increased spending rounds in the economy.",
+      "Tax cuts are generally less effective as stimulus than direct government spending or transfers to low-income individuals, because higher-income earners tend to save rather than spend the extra income.",
+      "Government spending on infrastructure, social programs, and direct transfers (unemployment benefits, food assistance) are considered highly effective stimulus with multipliers often exceeding 1.5, especially when demand is weak.",
+      "Subsidies can sometimes serve as stimulus if designed to support specific sectors or vulnerable groups, but abolition of subsidies is inherently contractionary and reduces aggregate demand.",
+      "Fiscal stimulus is temporary and discretionary, distinct from automatic stabilizers like unemployment insurance that automatically expand during downturns without requiring new legislation."
+    ],
+    "sources": [
+      {
+        "title": "Fiscal Stimulus | Center on Budget and Policy Priorities",
+        "url": "https://www.cbpp.org/research/economy/fiscal-stimulus",
+        "whyUsed": "Authoritative definition and components of fiscal stimulus, including tax cuts and government spending as key tools."
+      },
+      {
+        "title": "Stimulus (economics) - Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Stimulus_(economics)",
+        "whyUsed": "Comprehensive overview confirming fiscal stimulus refers to increasing government consumption or transfers or lowering taxes."
+      },
+      {
+        "title": "What characteristics make fiscal stimulus most effective? | Tax Policy Center",
+        "url": "https://taxpolicycenter.org/briefing-book/what-characteristics-make-fiscal-stimulus-most-effective",
+        "whyUsed": "Detailed analysis of stimulus characteristics showing that effective fiscal stimulus requires timely and targeted increases in demand, not reductions in spending."
+      },
+      {
+        "title": "Introduction to U.S. Economy: Fiscal Policy | Congress.gov",
+        "url": "https://www.congress.gov/crs-product/IF11253",
+        "whyUsed": "Official Congressional overview of expansionary fiscal policy confirming that stimulus involves increased spending or decreased tax revenue, not spending cuts."
+      }
+    ],
+    "searchMeta": {
+      "usedWebSearch": true,
+      "searchQueries": [
+        "fiscal stimulus package definition government spending tax cuts",
+        "fiscal stimulus measures recession economic policy"
+      ],
+      "confidence": "high"
+    }
+  },
+  "id": 26
+}
