@@ -1,0 +1,62 @@
+{
+  "subject": "Science",
+  "year": 1995,
+  "theme": "Cryogenic technology and rocket propulsion",
+  "question_short_text": "Which is the primary application of cryogenic engines?",
+  "text": "Cryogenic engines find applications in:",
+  "options": [
+    "Sub-marine propulsion",
+    "Frost-free refrigerators",
+    "Rocket technology",
+    "Researches in superconductivity"
+  ],
+  "answerIndex": 2,
+  "answerText": "(c) Rocket technology",
+  "explanation": "Cryogenic engines use liquefied gases (typically liquid hydrogen and liquid oxygen) stored at extremely low temperatures as propellants. Their primary and most significant application is in rocket technology for space exploration, where they provide superior efficiency and performance.",
+  "research": {
+    "summary": "Cryogenic engines are rocket engines that burn cryogenic propellants\u2014fuels and oxidizers liquefied and stored at extremely low temperatures. The defining characteristic that makes them essential to rocket technology is their superior efficiency measured by specific impulse (Isp). When liquid hydrogen fuel and liquid oxygen oxidizer are combined, they produce one of the highest energy outputs of any propellant combination, with specific impulse values reaching up to 450 seconds\u2014far superior to solid or conventional liquid propellants. This efficiency translates directly to the ability to carry heavier payloads into orbit with less fuel mass, a critical advantage in space exploration. The liquefaction process allows oxygen and hydrogen gases to occupy much smaller, denser volumes than they would as pressurized gases, enabling manageable tank sizes that make orbital spaceflight feasible. Historically, cryogenic engines were first successfully flown on the US Atlas-Centaur and were instrumental in NASA's Apollo program\u2014the Saturn V rocket used cryogenic engines in all of its main stages to reach the Moon. Today, all major space-faring nations (United States, Russia, India, Japan, France, and China) operate cryogenic rocket engines on boosters and upper stages including NASA's Space Launch System, ESA's Ariane 6, ISRO's GSLV and LVM3, and JAXA's H-II. The other options represent common misconceptions: submarine propulsion relies on nuclear reactors or conventional fuel systems, frost-free refrigerators use small mechanical cooling systems far less demanding than cryogenic management, and while liquid nitrogen is used in some superconductivity research, cryogenic engines themselves are not designed for that purpose. The 1995 exam date places this question in an era when India had just begun its cryogenic engine development program, making rocket technology an especially timely focus for UPSC aspirants.",
+    "facts": [
+      "The most efficient cryogenic combination (LH\u2082 + LOX) achieves specific impulse of up to 450 seconds, making it superior to all other tested propellant combinations for high-performance spaceflight.",
+      "Liquid hydrogen must be stored below \u2212253\u00b0C (20.1 K) and liquid oxygen below \u2212183\u00b0C (90.1 K), requiring specialized insulated tanks and complex handling infrastructure.",
+      "ISRO's CE-20 engine, developed for the GSLV Mk-III and Gaganyaan program, represents India's indigenous cryogenic engine capability and demonstrates the strategic importance of this technology for national space programs.",
+      "The Saturn V rocket's success in the Apollo program was fundamentally enabled by cryogenic engines using liquid hydrogen-oxygen combination, establishing the benchmark for modern heavy-lift launch vehicles.",
+      "Regenerative cooling in cryogenic engines allows the ultra-cold propellant to circulate through engine walls before combustion, simultaneously cooling the engine and preheating the fuel\u2014a design principle still used in modern engines like the Space Shuttle Main Engine and SLS."
+    ],
+    "sources": [
+      {
+        "title": "Cryogenic rocket engine - Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Cryogenic_rocket_engine",
+        "whyUsed": "Authoritative reference on cryogenic engine technology, operational examples across global space agencies, and historical context from Atlas-Centaur to modern systems."
+      },
+      {
+        "title": "CE-20 - Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/CE-20",
+        "whyUsed": "Primary source on India's indigenous cryogenic engine development for GSLV and Gaganyaan, directly relevant to UPSC context for 1995 question."
+      },
+      {
+        "title": "Original Cryogenic Engine Still Powers Exploration - NASA Spinoff",
+        "url": "https://spinoff.nasa.gov/Spinoff2018/t_3.html",
+        "whyUsed": "Detailed technical explanation of RL10 engine efficiency gains, expander cycle design, and role in Apollo program success reaching the Moon."
+      },
+      {
+        "title": "Cryogenic propellant management in space - npj Microgravity",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10954726/",
+        "whyUsed": "Peer-reviewed source on cryogenic propellant advantages (high specific impulse, non-toxic, in-situ production capability) for deep space exploration missions."
+      },
+      {
+        "title": "Cryogenic Engines in Space - Eureka PatSnap",
+        "url": "https://eureka.patsnap.com/blog/what-is-cryogenic-engine/",
+        "whyUsed": "Contemporary synthesis of cryogenic engine applications across major global launch vehicles and the distinction from other rocket propulsion types."
+      }
+    ],
+    "searchMeta": {
+      "usedWebSearch": true,
+      "searchQueries": [
+        "cryogenic engines applications rocket technology",
+        "cryogenic propellants liquid hydrogen liquid oxygen space"
+      ],
+      "confidence": "high"
+    }
+  },
+  "id": 73
+}

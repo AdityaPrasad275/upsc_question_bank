@@ -1,0 +1,61 @@
+{
+  "subject": "Science",
+  "year": 2007,
+  "theme": "Interplanetary space missions and comet exploration",
+  "question_short_text": "Which comet did NASA's Deep Impact mission impact in 2005?",
+  "text": "NASA's Deep Impact space mission was employed to take detailed pictures of which comet nucleus?",
+  "options": [
+    "(a) Halley's Comet",
+    "(b) Hale-Bopp",
+    "(c) Hyakutake",
+    "(d) Tempel 1"
+  ],
+  "answerIndex": 3,
+  "answerText": "(d) Tempel 1",
+  "explanation": "NASA's Deep Impact mission, launched on January 12, 2005, successfully impacted the nucleus of comet Tempel 1 on July 4, 2005. The impactor collided with the comet at 23,000 mph, excavating a crater and revealing the comet's interior composition and structure.",
+  "research": {
+    "summary": "Deep Impact was the first space mission designed not merely to observe a comet but to deliberately collide with one to study its interior composition. The mission consisted of two spacecraft: a flyby probe and a smaller impactor probe. On July 4, 2005, at 05:52 UTC, the impactor\u2014a 370-kg copper-fortified probe traveling at approximately 37,000 km/h (23,000 mph)\u2014struck Tempel 1, a Jupiter-family comet discovered in 1867 with an orbital period of 5.6 years. The collision released 19 gigajoules of kinetic energy (equivalent to 4.8 tons of TNT), excavating a crater estimated at about 150 meters (490 feet) in diameter. The flyby spacecraft captured high-resolution images of the impact and the debris plume. Results revealed surprising findings: Tempel 1's nucleus is highly porous and fluffy, composed largely of fine dust weaker than powder snow but held together by gravity. The comet proved to be much dustier and less icy than previously expected. The mission also detected water ice, carbon dioxide, carbon monoxide, and organic materials within the comet. This data supported the hypothesis that comets like Tempel 1 may have transported water and organic compounds to early Earth, playing a role in planetary formation and the origin of life. The spectacular July 4 impact occurred just one day before the comet's perihelion passage. The mission's success lay not in capturing a sharp image of the crater immediately after impact\u2014debris obscured the formation\u2014but in the spectrographic analysis of the ejecta plume and in a follow-up visit by the Stardust spacecraft in February 2011, which finally imaged the impact crater clearly.",
+    "facts": [
+      "Tempel 1 (9P/Tempel) is a periodic comet with an orbital period of 5.6 years, making it a Jupiter-family comet",
+      "The impact excavated a crater approximately 100 meters wide and up to 30 meters deep, later measured more precisely as 150 meters in diameter by the Stardust mission in 2011",
+      "The impactor was built with a copper and aluminum mass wrapped around a propulsive stage to maximize energy transfer and allow spectroscopic analysis of vaporized ejecta",
+      "Deep Impact found evidence that the comet's interior contained substantial organic material, including carbon-containing compounds that may have been transported to Earth during the early solar system",
+      "The mission's extended phase (EPOXI) continued operations until 2009, visiting Comet Hartley 2 in 2010 and observing exoplanets; Deep Impact also confirmed water on the Moon during an Earth flyby in 2009"
+    ],
+    "sources": [
+      {
+        "title": "Deep Impact (spacecraft) - Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Deep_Impact_(spacecraft)",
+        "whyUsed": "Provided comprehensive details on mission architecture, launch date, impact time, and post-impact observations"
+      },
+      {
+        "title": "Deep Impact - NASA Jet Propulsion Laboratory",
+        "url": "https://www.jpl.nasa.gov/missions/deep-impact/",
+        "whyUsed": "Official NASA source confirming Tempel 1 as the target and detailing findings about comet composition and the dust cloud phenomenon"
+      },
+      {
+        "title": "Deep Impact (EPOXI) - NASA Science",
+        "url": "https://science.nasa.gov/mission/deep-impact-epoxi/",
+        "whyUsed": "Verified technical details including impact coordinates, energy calculations, crater dimensions, and extended mission objectives"
+      },
+      {
+        "title": "Tempel 1 - Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Tempel_1",
+        "whyUsed": "Provided comet discovery date, orbital characteristics, and details about the Stardust follow-up mission in 2011"
+      },
+      {
+        "title": "Deep Impact: A Comet-Hunting Mission | Space.com",
+        "url": "https://www.space.com/43236-deep-impact.html",
+        "whyUsed": "Detailed the impactor specifications, velocity, energy transfer, crater dimensions, and the debris plume composition findings"
+      }
+    ],
+    "searchMeta": {
+      "usedWebSearch": true,
+      "searchQueries": [
+        "NASA Deep Impact mission Tempel 1 comet 2005"
+      ],
+      "confidence": "high"
+    }
+  },
+  "id": 43
+}

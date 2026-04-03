@@ -1,0 +1,57 @@
+{
+  "subject": "Science",
+  "year": 2008,
+  "theme": "air-breathing vs self-contained propulsion systems",
+  "question_short_text": "Jet engine vs rocket: comparing oxygen supply requirements for space flight",
+  "text": "Consider the following statements in respect of a jet engine and a rocket:\n\n1. A jet engine uses the surrounding air for its oxygen supply and so is unsuitable for motion in space.\n2. A rocket carries its own supply of oxygen in the gas form, and fuel.\n\nWhich of the statements given above is/are correct?",
+  "options": [
+    "1 only",
+    "2 only",
+    "Both 1 and 2",
+    "Neither 1 nor 2"
+  ],
+  "answerIndex": 2,
+  "answerText": "(c) Both 1 and 2",
+  "explanation": "Statement 1 is correct: jet engines rely entirely on atmospheric oxygen via air intake, making them non-functional in the airless vacuum of space. Statement 2 is correct: rockets carry self-contained oxidizer (which can be liquid oxygen or other oxidizing agents) and fuel, enabling operation in space independent of atmospheric conditions.",
+  "research": {
+    "summary": "This question tests the fundamental design difference between air-breathing jet engines and self-contained rocket engines. The core concept is dependency on external atmosphere versus internal propellant completeness. A jet engine is fundamentally an air-breathing system\u2014it compresses atmospheric air and combines it with fuel in a combustion chamber. This design is highly efficient within Earth's atmosphere but becomes impossible beyond roughly 40 km altitude where air becomes too thin to sustain combustion. At zero altitude (space), there is simply no air to intake, making conventional jet engines completely inoperable. The trap is assuming that one could simply add onboard oxygen to a jet engine and make it work\u2014this misses the fact that a jet engine's entire mechanical design depends on actively breathing atmospheric air through inlet systems and compressors. A rocket, by contrast, is not an air-breather. It carries a fuel and a separate oxidizer (commonly liquid oxygen, but also nitrogen tetroxide, hydrogen peroxide, or other oxidizing agents depending on the mission and fuel choice). Both are stored onboard in separate tanks and combined only inside the combustion chamber. Liquid oxygen is the most common rocket oxidizer in modern spaceflight, but rockets often carry the oxidizer in liquid form (LOX, N2O4) or even solid form (ammonium perchlorate in composite propellants). The statement says \"oxygen in the gas form,\" which is technically ambiguous\u2014modern rockets more typically use liquid oxygen or solid oxidizers\u2014but the core truth of the statement stands: rockets carry their complete propulsion chemistry onboard, independent of external atmosphere. Because rockets do not require external oxygen, they operate identically at sea level, at high altitude, and in vacuum, making them the only practical choice for space propulsion. Statement 2, while slightly imprecise about the typical physical state of oxygen in modern rockets, is fundamentally correct about the principle: rockets carry their own oxidizer supply onboard.",
+    "facts": [
+      "Jet engines have a hard altitude ceiling around 40 km because air becomes too thin to provide adequate oxygen for combustion, regardless of engine design.",
+      "Liquid oxygen (LOX) is the dominant oxidizer in modern rockets (Falcon 9, Saturn V, Space Shuttle main engines), though it is carried in liquid form, not gas form.",
+      "Solid rocket boosters use solid composite propellants where the oxidizer is ammonium perchlorate, embedded within the solid fuel grain.",
+      "Hybrid rockets use a liquid or gaseous oxidizer with a solid fuel, offering some advantages of both liquid and solid designs.",
+      "The theoretical maximum speed of a jet engine is also limited by atmospheric density effects and thermal constraints\u2014at very high speeds (Mach 5+), even with sufficient air, the atmospheric nitrogen tends to react due to inlet heating, further limiting jet performance."
+    ],
+    "sources": [
+      {
+        "title": "Jet engine - Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Jet_engine",
+        "whyUsed": "Verified that rockets do not require atmospheric air and can operate at arbitrary altitudes and in space, while jet engines are limited by air availability."
+      },
+      {
+        "title": "Rocket propellant - Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Rocket_propellant",
+        "whyUsed": "Confirmed that rockets carry both fuel and oxidizer onboard in separate tanks, with common oxidizers being liquid oxygen, nitrogen tetroxide, and solid compounds like ammonium perchlorate."
+      },
+      {
+        "title": "Liquid-propellant rocket - Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Liquid-propellant_rocket",
+        "whyUsed": "Detailed the storage and use of liquid oxidizers such as LOX in bipropellant rocket engines."
+      },
+      {
+        "title": "What is an oxidizer? - Northwestern Univ Questar",
+        "url": "https://www.qrg.northwestern.edu/projects/vss/docs/Propulsion/2-what-is-an-oxidizer.html",
+        "whyUsed": "Clarified that in space there is no atmosphere to provide oxygen, so rockets must carry their own oxidizers."
+      }
+    ],
+    "searchMeta": {
+      "usedWebSearch": true,
+      "searchQueries": [
+        "jet engine oxygen supply atmosphere unsuitable space",
+        "rocket oxidizer fuel propellant space propulsion"
+      ],
+      "confidence": "high"
+    }
+  },
+  "id": 38
+}

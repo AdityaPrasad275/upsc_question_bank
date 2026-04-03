@@ -1,0 +1,49 @@
+{
+  "subject": "Science",
+  "year": 2006,
+  "theme": "Orbital mechanics and planetary properties",
+  "question_short_text": "Mars orbital period vs Earth; does diameter explain orbit time?",
+  "text": "**Assertion (A):** To orbit around the Sun, the planet Mars takes lesser time than the time taken by the Earth.\n\n**Reason (R):** The diameter of the Planet Mars is less than that of the Earth.\n\nEvaluate the relationship between the Assertion and Reason.",
+  "options": [
+    "Both A and R are individually true and R is the correct explanation of A.",
+    "Both A and R are individually true but R is not the correct explanation of A.",
+    "A is True but R is false",
+    "A is false but R is true"
+  ],
+  "answerIndex": 3,
+  "answerText": "(d) A is false but R is true",
+  "explanation": "Mars orbits farther from the Sun than Earth, requiring approximately 687 days compared to Earth's 365 days. Therefore, A is false. Mars's diameter (6,779 km) is indeed smaller than Earth's (12,742 km), so R is true. However, orbital period depends on distance from the Sun, not planetary diameter, so R does not explain A.",
+  "research": {
+    "summary": "This assertion-reason question tests understanding of Kepler's Third Law and the distinction between planetary properties and orbital mechanics. The assertion incorrectly assumes Mars orbits faster than Earth, but this violates Kepler's Third Law: the square of a planet's orbital period is proportional to the cube of its semi-major axis (distance from the Sun). Since Mars orbits at approximately 1.5 AU (astronomical units) from the Sun while Earth orbits at 1 AU, Mars experiences a proportionally weaker gravitational pull and must travel a larger orbital path more slowly. Mars requires about 687 Earth days per orbit compared to Earth's 365 days\u2014making the assertion demonstrably false.\n\nThe reason correctly identifies that Mars's diameter (6,779 km) is smaller than Earth's (12,742 km)\u2014this is true. However, this size difference is irrelevant to orbital period. A planet's orbital period depends on its distance from the Sun and the Sun's mass, not on the planet's own diameter. The reason statement confuses two separate physical properties: planetary size and orbital mechanics. This is a classic UPSC trap testing whether students can recognize that two statements can both be factually true while having no causal relationship. The fundamental misconception being exposed is that students might imagine planetary diameter somehow determines orbital speed\u2014it does not.\n\nFor future questions, remember: Kepler's Third Law (T\u00b2 \u221d a\u00b3) is the governing principle for orbital periods. Planetary mass and diameter affect gravity on the planet's surface but have negligible effect on its heliocentric orbit.",
+    "facts": [
+      "Kepler's Third Law: orbital period squared is proportional to semi-major axis cubed; explains why all planets regardless of mass follow the same orbital rules",
+      "Mars orbits at approximately 1.52 AU from the Sun, Earth at 1.0 AU; the greater distance necessitates longer orbital periods even with the same gravitational primary",
+      "Planetary diameter and mass affect surface gravity and escape velocity but do not determine orbital period around the Sun; these are independent physical properties",
+      "The orbital period of Mars is approximately 1.881 Earth years (687 Earth days); Mercury's is 88 days, Venus's is 225 days\u2014demonstrating the clear gradient of orbital time with distance",
+      "Assertion-reason questions in UPSC often pair a false/true statement with an irrelevant or partially true reason to test logical thinking, not mere factual recall"
+    ],
+    "sources": [
+      {
+        "title": "Kepler's Laws of Planetary Motion",
+        "url": "https://en.wikipedia.org/wiki/Kepler%27s_laws_of_planetary_motion",
+        "whyUsed": "To verify the mathematical relationship (T\u00b2\u221da\u00b3) that governs planetary orbital periods and confirms Mars takes longer to orbit than Earth"
+      },
+      {
+        "title": "Mars (Planet) - NASA",
+        "url": "https://science.nasa.gov/planet/mars/",
+        "whyUsed": "To verify Mars orbital period (~687 Earth days) and diameter (~6,779 km) values"
+      },
+      {
+        "title": "Earth - NASA",
+        "url": "https://science.nasa.gov/planet/earth/",
+        "whyUsed": "To verify Earth orbital period (365.25 days) and diameter (~12,742 km) as baseline for comparison"
+      }
+    ],
+    "searchMeta": {
+      "usedWebSearch": false,
+      "searchQueries": [],
+      "confidence": "high"
+    }
+  },
+  "id": 46
+}

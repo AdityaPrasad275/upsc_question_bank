@@ -1,0 +1,57 @@
+{
+  "subject": "Science",
+  "year": 2009,
+  "theme": "stellar evolution and mass limits - white dwarf formation",
+  "question_short_text": "Scientist who proved the Chandrasekhar limit for white dwarfs",
+  "text": "Who of the following scientists proved that the stars with mass less than 1.44 times the mass of the Sun end up as White Dwarfs when they die?",
+  "options": [
+    "Edwin Hubble",
+    "S. Chandrashekhar",
+    "Stephen Hawking",
+    "Steven Weinberg"
+  ],
+  "answerIndex": 1,
+  "answerText": "(b) S. Chandrashekhar",
+  "explanation": "Subrahmanyan Chandrasekhar formulated the Chandrasekhar limit in 1930, establishing that stars with masses below 1.44 solar masses become white dwarfs supported by electron degeneracy pressure, while more massive stars collapse into neutron stars or black holes.",
+  "research": {
+    "summary": "This question tests recognition of a foundational contribution to stellar evolution theory. Subrahmanyan Chandrasekhar, an Indian-American astrophysicist, developed the mathematical framework between 1929-1935 showing that a star's fate depends critically on its mass. The Chandrasekhar limit\u2014approximately 1.44 times the Sun's mass\u2014marks the boundary where electron degeneracy pressure can no longer support a stellar remnant against gravitational collapse. Below this limit, a star that exhausts its nuclear fuel sheds its outer layers and becomes a stable white dwarf, an Earth-sized object with Sun-level mass. Above it, collapse continues into neutron stars or black holes.\n\nThe common misconception is that all dying stars become white dwarfs, which was the prevailing view before Chandrasekhar. Using special relativity and quantum mechanics (Pauli exclusion principle), he showed that at very high densities, electrons are forced into relativistic speeds, changing the equation of state. Once electrons move near light speed, degeneracy pressure becomes mass-dependent and cannot scale to arbitrarily large masses. His calculations, done initially on a long sea voyage in 1930, contradicted Arthur Eddington's belief that all stars become white dwarfs. When Chandrasekhar presented his work at the Royal Astronomical Society in 1935, Eddington publicly ridiculed the young scientist, creating a decades-long delay in acceptance of the theory. Nonetheless, his work became foundational to modern astrophysics. He received the Nobel Prize in Physics in 1983 for his theoretical studies on stellar structure and evolution, sharing the award with William Fowler. The other options represent different domains: Hubble revolutionized cosmology, Hawking advanced black hole thermodynamics decades later, and Weinberg contributed to particle physics and cosmology but not this specific stellar mass limit.",
+    "facts": [
+      "Chandrasekhar derived the limit using Einstein's special relativity applied to degenerate electron gas, recognizing that relativistic effects invalidate Fowler's non-relativistic treatment.",
+      "White dwarfs below the limit are supported entirely by electron degeneracy pressure\u2014a quantum mechanical phenomenon where Pauli exclusion prevents electrons from occupying the same energy state, creating an effective pressure independent of temperature.",
+      "The limit was formulated in 1930-1931 and published in papers including 'The Maximum Mass of Ideal White Dwarfs' (1931), but gained wide acceptance only in the 1940s-1950s as observational evidence accumulated.",
+      "Stars exceeding the Chandrasekhar limit do not become white dwarfs; they undergo core collapse and may trigger Type Ia supernovae if the limit is reached via mass accretion in a binary system, a phenomenon used for cosmic distance measurements.",
+      "The Chandra X-Ray Observatory, launched in 1999, is named after Chandrasekhar in honor of his revolutionary contributions to understanding stellar evolution and compact objects."
+    ],
+    "sources": [
+      {
+        "title": "Chandrasekhar limit - Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Chandrasekhar_limit",
+        "whyUsed": "Primary source for the definition, value (1.44 solar masses), derivation using relativistic electron degeneracy, and historical context of Chandrasekhar's work in 1930-1931."
+      },
+      {
+        "title": "S. Chandrasekhar | Biography, Discoveries, Nobel Prize - Britannica",
+        "url": "https://www.britannica.com/biography/Subrahmanyan-Chandrasekhar",
+        "whyUsed": "Verified Chandrasekhar's 1983 Nobel Prize award, his development of white dwarf theory between 1929-1935, and his Indian-American nationality."
+      },
+      {
+        "title": "Subrahmanyan Chandrasekhar \u2013 Biographical - Nobel Prize",
+        "url": "https://www.nobelprize.org/prizes/physics/1983/chandrasekhar/biographical/",
+        "whyUsed": "Official Nobel Prize source confirming the 1983 award, the period of his major white dwarf work (1929-1939 as cited in his biography), and key publications including 'The Maximum Mass of Ideal White Dwarfs' (1931)."
+      },
+      {
+        "title": "It was written in the stars - University of Chicago Magazine",
+        "url": "https://mag.uchicago.edu/science-medicine/it-was-written-stars",
+        "whyUsed": "Historical context on Eddington's public criticism at the 1935 Royal Astronomical Society meeting, the sea voyage calculation, and the delay in scientific acceptance of Chandrasekhar's theory."
+      }
+    ],
+    "searchMeta": {
+      "usedWebSearch": true,
+      "searchQueries": [
+        "Chandrasekhar limit white dwarf 1.44 solar mass",
+        "Subrahmanyan Chandrasekhar Nobel Prize 1983 astrophysics"
+      ],
+      "confidence": "high"
+    }
+  },
+  "id": 33
+}

@@ -1,0 +1,62 @@
+{
+  "subject": "Science",
+  "year": 2015,
+  "theme": "Satellite systems and their applications: remote sensing vs telecommunications",
+  "question_short_text": "Which activities use Indian Remote Sensing (IRS) satellites?",
+  "text": "In which of the following activities are Indian Remote Sensing (IRS) satellites used?\n\n1. Assessment of crop productivity\n2. Locating ground water resources\n3. Mineral exploration\n4. Telecommunications\n5. Traffic studies\n\nSelect the correct answer using the code given below.",
+  "options": [
+    "1, 2 and 3 only",
+    "4 and 5 only",
+    "1 and 2 only",
+    "1, 2, 3, 4 and 5"
+  ],
+  "answerIndex": 0,
+  "answerText": "(a) 1, 2 and 3 only",
+  "explanation": "IRS satellites are Earth observation satellites designed for remote sensing applications in agriculture, water resources, and geology. They operate in low Earth orbit and are not designed for telecommunications or real-time traffic monitoring. Telecommunications requires geostationary satellites (INSAT/GSAT series), while traffic studies need real-time monitoring capability that LEO satellites cannot provide due to their intermittent revisit cycles.",
+  "research": {
+    "summary": "The core confusion this question tests is the distinction between Earth observation satellites and communication satellites, both of which are space-based but serve fundamentally different purposes. IRS satellites are optical remote sensing platforms placed in polar sun-synchronous orbits (typically ~800 km altitude) that acquire multispectral imagery for resource management. They excel at detecting surface features through spectral analysis: crops reflect near-infrared light differently when stressed, groundwater presence correlates with surface hydrogeomorphology and vegetation patterns that satellite imagery can reveal, and mineral deposits create distinctive geological structures and alteration zones visible in remote sensing data.\n\nTelecommunications satellites like India's INSAT and GSAT are completely different systems placed in geostationary orbit (36,000 km), where they remain stationary over one point and relay voice, data, and video signals. IRS satellites pass over any location only once every 22\u201324 days, making them unsuitable for real-time communication relay. Traffic studies superficially seem possible with satellite imagery, but the question correctly identifies the core limitation: LEO satellites have revisit intervals of days, whereas meaningful traffic monitoring requires minutes-scale updates. While satellite data can eventually contribute to transportation planning, it cannot substitute for continuous ground sensors or real-time monitoring systems that traffic management requires.\n\nThe distinction is not just technical but conceptual: remote sensing extracts information from Earth's surface by analyzing electromagnetic radiation, while telecommunications transmits signals between ground stations. IRS was built as part of India's National Natural Resources Management System (NNRMS) for agriculture, water resources, forestry, geology, and environment\u2014not for communications or real-time operations.",
+    "facts": [
+      "IRS-1A, launched in 1988, was the first in a series designed to operate in sun-synchronous LEO; together they form the world's largest civilian remote sensing satellite constellation.",
+      "IRS satellites carry multispectral sensors like LISS (Linear Imaging Self Scanner) that capture 4 spectral bands (blue, green, red, near-infrared); NDVI (Normalized Difference Vegetation Index) derived from these bands is standard for crop health assessment.",
+      "Geostationary satellites remain fixed above the equator at 36,000 km altitude and have 24-hour orbital periods; only this orbit allows the continuous, stationary coverage needed for telecommunications and weather relay.",
+      "Sun-synchronous orbits ensure consistent lighting geometry (same local solar time at each pass), making IRS ideal for comparing surface features across multiple passes but not for continuous monitoring.",
+      "IRS data has been used operationally since 1988 for preharvest crop production estimation, drought monitoring, groundwater mapping via hydrogeomorphology, and mineral targeting through geological structure and alteration zone identification."
+    ],
+    "sources": [
+      {
+        "title": "Indian Remote Sensing Programme - Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Indian_Remote_Sensing_Programme",
+        "whyUsed": "Comprehensive overview of IRS programme history, orbital characteristics (polar sun-synchronous), applications under NNRMS, and distinction from communication satellites."
+      },
+      {
+        "title": "IRS (Satellite) - ScienceDirect Topics",
+        "url": "https://www.sciencedirect.com/topics/earth-and-planetary-sciences/irs-satellite",
+        "whyUsed": "Detailed coverage of IRS satellite applications in agriculture, water resources, mineral exploration; explains multispectral sensor types and spectral analysis methods."
+      },
+      {
+        "title": "IRS (Indian Remote Sensing Satellites) - eoPortal",
+        "url": "https://www.eoportal.org/satellite-missions/irs",
+        "whyUsed": "Technical specifications of IRS orbital parameters (sun-synchronous, ~800\u2013900 km, 22\u201324 day revisit cycle) and sensor payloads (LISS-I, LISS-II); clarifies the LEO vs geostationary distinction for IRS vs telecom."
+      },
+      {
+        "title": "Low Earth Orbit - Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Low_Earth_orbit",
+        "whyUsed": "Explains LEO characteristics and why LEO satellites excel at Earth observation but have limited field of view and revisit rates unsuitable for real-time operations."
+      },
+      {
+        "title": "Remote Sensing and India's IRS Programme - Drishti IAS",
+        "url": "https://www.drishtiias.com/daily-updates/daily-news-analysis/remote-sensing-and-indias-irs-programme",
+        "whyUsed": "Verifies current applications of IRS in groundwater monitoring, crop damage assessment, and limitations of satellite frequency for continuous monitoring tasks like traffic."
+      }
+    ],
+    "searchMeta": {
+      "usedWebSearch": true,
+      "searchQueries": [
+        "Indian Remote Sensing IRS satellites applications crop productivity groundwater mineral",
+        "IRS satellite low earth orbit remote sensing capabilities"
+      ],
+      "confidence": "high"
+    }
+  },
+  "id": 23
+}

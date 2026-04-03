@@ -1,0 +1,62 @@
+{
+  "subject": "Science",
+  "year": 1996,
+  "theme": "Indian space program - IRS satellite series development and launch chronology",
+  "question_short_text": "Which IRS satellite was launched from India in 1996?",
+  "text": "Which one of the following satellites is to be launched from India in 1996?",
+  "options": [
+    "IRS-P2",
+    "IRS-P3",
+    "IRS-EN",
+    "IRS-ID"
+  ],
+  "answerIndex": 1,
+  "answerText": "(b) IRS-P3",
+  "explanation": "IRS-P3 was successfully launched on March 21, 1996, by ISRO using the PSLV-D3 launch vehicle from Satish Dhawan Space Centre, Sriharikota. It was an experimental remote sensing satellite for Earth observation applications.",
+  "research": {
+    "summary": "IRS-P3 was launched on March 21, 1996, marking a critical milestone in India's remote sensing programme. The 'P' in IRS-P3 stands for 'Polar' and the '3' denotes it was the third experimental mission in the IRS-P series. It was carried into orbit by PSLV-D3, which represented the third developmental flight of India's Polar Satellite Launch Vehicle\u2014a significant achievement in itself, as this was only India's second successful PSLV test flight after PSLV-D2. IRS-P3 was lighter (930 kg) than its operational counterparts and served primarily as a technology demonstrator. It carried two remote sensing payloads: the Wide Field Sensor (WiFS), similar to IRS-1C but with an additional Short Wave Infrared band, and the Modular Opto-electronic Scanner (MOS) developed by Germany's DLR in cooperation with ISRO. Uniquely, IRS-P3 also carried an Indian X-ray Astronomy Experiment (IXAE) for astronomical observations and a C-band transponder for radar calibration. Unlike operational satellites of the period, IRS-P3 had no on-board data recorder; all sensor data were transmitted in real-time to ground stations in Hyderabad and Neustrelitz (Germany). The satellite operated for over 9 years and 10 months, exceeding its design life of 3 years. Timing-wise, IRS-P3 came after IRS-P2 (October 1994) and before IRS-1D (September 1997), fitting into a development sequence that validated new technologies for the next-generation IRS-1C and 1D satellites. The question tests aspirants' knowledge of the IRS launch chronology and the distinction between operational (1A, 1B, 1C, 1D) and experimental P-series satellites.",
+    "facts": [
+      "IRS-1A (March 1988) was India's first indigenous remote sensing satellite, launched from Baikonur, USSR, using a Vostok-2M booster. It carried LISS-I and LISS-II cameras and operated for 8 years 4 months.",
+      "IRS-1C was launched on December 28, 1995 (before IRS-P3) with improved spatial resolution and PAN, LISS-III, and WiFS payloads. It was the first second-generation operational satellite.",
+      "The P-series IRS satellites (P2, P3, P4, P5, P6) were experimental or specialized missions designed to test new technologies or serve specific application areas before being incorporated into operational systems.",
+      "PSLV-D3 (March 1996) was the second successful test flight of India's indigenous launch vehicle, a critical validation that enabled the PSLV to become India's primary carrier for polar missions.",
+      "IRS satellites are placed in Sun-synchronous polar orbits at approximately 817\u2013820 km altitude with near-polar inclinations, enabling consistent Earth observation for agriculture, forestry, water resources, and disaster management."
+    ],
+    "sources": [
+      {
+        "title": "IRS-P3 - Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/IRS-P3",
+        "whyUsed": "Verified exact launch date, mission duration, payload details, and operational characteristics of IRS-P3."
+      },
+      {
+        "title": "IRS-P3 - ISRO Official",
+        "url": "https://www.isro.gov.in/Spacecraft/irs-p3",
+        "whyUsed": "Official ISRO source confirming March 21, 1996 launch date, PSLV-D3 vehicle, and payload configuration (WiFS and MOS)."
+      },
+      {
+        "title": "IRS (Indian Remote Sensing Satellites) - eoPortal",
+        "url": "https://www.eoportal.org/satellite-missions/irs",
+        "whyUsed": "Provided comprehensive IRS series chronology, satellite designations, and historical context for the developmental sequence from IRS-1A through later missions."
+      },
+      {
+        "title": "Indian Remote Sensing Programme - Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Indian_Remote_Sensing_Programme",
+        "whyUsed": "Confirmed IRS program history, mission naming conventions (P-series for PSLV launches), and national resource management context."
+      },
+      {
+        "title": "Astronautix - IRS Launch Records",
+        "url": "http://www.astronautix.com/i/irs.html",
+        "whyUsed": "Verified chronological data showing IRS-1C (Dec 1995), IRS-P3 (March 1996), and IRS-1D (Sept 1997) launch sequence and orbital parameters."
+      }
+    ],
+    "searchMeta": {
+      "usedWebSearch": true,
+      "searchQueries": [
+        "IRS-P3 satellite launch 1996 India ISRO",
+        "IRS satellite series chronology 1996 launches"
+      ],
+      "confidence": "high"
+    }
+  },
+  "id": 69
+}

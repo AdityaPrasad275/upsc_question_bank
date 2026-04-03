@@ -1,0 +1,68 @@
+{
+  "subject": "Science",
+  "year": 2022,
+  "theme": "Space weather effects: geomagnetic storms and solar flares on Earth systems",
+  "question_short_text": "Effects of major solar storms (solar flares) on Earth's technology and infrastructure",
+  "text": "If a major solar storm (solar-flare) reaches the Earth, which of the following are the possible effects on the Earth?\n\n1. GPS and navigation systems could fail.\n2. Tsunamis could occur at equatorial regions.\n3. Power grids could be damaged.\n4. Intense auroras could occur over much of the Earth.\n5. Forest fires could take place over much of the planet.\n6. Orbits of the satellites could be disturbed.\n7. Shortwave radio communication of the aircraft flying over polar regions could be interrupted.",
+  "options": [
+    "1, 2, 4 and 5 only",
+    "2, 3, 5, 6 and 7 only",
+    "1, 3, 4, 6 and 7 only",
+    "1, 2, 3, 4, 5, 6 and 7"
+  ],
+  "answerIndex": 2,
+  "answerText": "(c) 1, 3, 4, 6 and 7 only",
+  "explanation": "Solar storms cause geomagnetic disturbances that disrupt ionospheric and magnetospheric systems, not geological processes. Statements 2 and 5 are false: tsunamis result from earthquakes/volcanic activity, and forest fires require specific environmental conditions unrelated to solar activity. Statements 1, 3, 4, 6, and 7 are all scientifically documented effects.",
+  "research": {
+    "summary": "This question tests the distinction between space weather effects (electromagnetic and atmospheric) and geological or weather-based phenomena. Solar storms, particularly coronal mass ejections (CMEs), generate intense geomagnetic disturbances by injecting energetic particles and magnetic fields into Earth's magnetosphere. The key mechanisms behind the correct statements are: (1) GPS systems fail because geomagnetic disturbance causes electron density variations in the ionosphere, inducing propagation delays in radio signals that disrupt positional calculations; (2) power grids are damaged through geomagnetically-induced currents (GICs)\u2014rapid magnetic field variations induce electric currents in long conductors like power lines, causing transformer saturation and potential blackouts (documented in the 1989 Quebec blackout); (3) intense auroras expand far beyond polar regions because charged particles from the solar storm spiral along Earth's magnetic field lines, exciting atmospheric oxygen and nitrogen across mid-latitudes during severe storms; (4) satellite orbits are disturbed because heated upper atmosphere expands, increasing atmospheric drag on low-earth-orbit satellites (evidenced by 40+ Starlink satellites lost in February 2022); (5) shortwave (HF) radio communication over polar regions fails because polar cap absorption events\u2014where solar protons penetrate the polar ionosphere\u2014enhance the D-layer and block HF radio transmission.\n\nThe two false statements expose common misconceptions. Tsunamis require submarine seismic events, not solar activity (USGS confirms no causal relationship exists). Forest fires depend on meteorological conditions, lightning, and fuel availability, not space weather. Students often mistakenly assume any large energetic event affects everything on Earth, but solar storms affect only electromagnetic systems and the upper atmosphere, not the solid Earth's geology or surface climate directly.",
+    "facts": [
+      "Geomagnetically-induced currents (GICs) in power grids occur because rapid magnetic field variations induce quasi-DC currents in conductors, causing transformer saturation and protective system failures; the 1989 Quebec blackout lasted 9 hours from a G5-class storm.",
+      "Polar Cap Absorption (PCA) events occur when solar protons reach Earth's polar regions within minutes to hours, ionizing the lower ionosphere (D-layer) and completely blocking HF radio propagation for days\u2014critical for transpolar aviation routes.",
+      "The 2022 geomagnetic storm heated the thermosphere, causing atmospheric expansion that increased drag on Starlink satellites and led to satellite loss through de-orbiting\u2014a direct demonstration of orbital perturbation from solar storms.",
+      "Aurora visibility extends to mid-latitudes (as far south as the southern United States, Caribbean, and Mediterranean) during G4\u2013G5 storms because the auroral oval expands 10\u201315 degrees toward the equator under extreme geomagnetic stress.",
+      "Solar flares reach Earth in ~8 minutes (electromagnetic radiation), while slower CMEs arrive in 1\u20135 days, providing warning time for protective measures on satellites and power grids."
+    ],
+    "sources": [
+      {
+        "title": "Space weather effects on technology - Canadian Space Agency",
+        "url": "https://www.spaceweather.gc.ca/tech/index-en.php",
+        "whyUsed": "Verified GPS disruption via ionospheric effects, satellite communication failures, and HF radio polar cap absorption mechanisms."
+      },
+      {
+        "title": "How Do Space Weather Effects & Solar Storms Affect Earth? - NASA Scientific Visualization Studio",
+        "url": "https://svs.gsfc.nasa.gov/31248/",
+        "whyUsed": "Confirmed power grid damage from auroral currents, GPS interference, and polar radio communication disruption during geomagnetic storms."
+      },
+      {
+        "title": "Solar Storms and Flares - NASA Science",
+        "url": "https://science.nasa.gov/sun/solar-storms-and-flares/",
+        "whyUsed": "Documented atmospheric heating and satellite drag increase from CMEs; verified that auroras extend across much of Earth during extreme storms."
+      },
+      {
+        "title": "Electric Power Transmission - NOAA Space Weather Prediction Center",
+        "url": "https://www.swpc.noaa.gov/impacts/electric-power-transmission",
+        "whyUsed": "Technical details on geomagnetically-induced currents (GICs), transformer saturation, and historical blackout events confirming power grid vulnerability."
+      },
+      {
+        "title": "HF Radio Communications - NOAA Space Weather Prediction Center",
+        "url": "https://www.swpc.noaa.gov/impacts/hf-radio-communications",
+        "whyUsed": "Explained HF radio blocking during polar cap absorption and auroral displays; confirmed disruption to aircraft communication over polar regions."
+      },
+      {
+        "title": "Geomagnetic Storms - U.S. Geological Survey",
+        "url": "https://www.usgs.gov/faqs/what-are-hazards-magnetic-storms",
+        "whyUsed": "Confirmed ionospheric expansion causing satellite drag, GIC-induced power outages, and explicitly stated no causal relationship between space weather and earthquakes/tsunamis."
+      }
+    ],
+    "searchMeta": {
+      "usedWebSearch": true,
+      "searchQueries": [
+        "solar flare geomagnetic storm effects GPS power grids satellites",
+        "coronal mass ejection atmospheric drag satellite orbit ionosphere",
+        "geomagnetic storm auroras polar high frequency radio communication"
+      ],
+      "confidence": "high"
+    }
+  },
+  "id": 7
+}

@@ -1,0 +1,56 @@
+{
+  "subject": "Science",
+  "year": 2011,
+  "theme": "Compositional and orbital distinctions between asteroids and comets",
+  "question_short_text": "Identify correct statements about differences between asteroids and comets",
+  "text": "What is difference between asteroids and comets?\n\n1. Asteroids are small rocky planetoids, while comets are formed of frozen gases held together by rocky and metallic material.\n2. Asteroids are found mostly between the orbits of Jupiter and Mars, while comets are found mostly between Venus and Mercury.\n3. Comets show a perceptible glowing tail, while asteroids do not.\n\nWhich of the statements given above is/are correct?",
+  "options": [
+    "1 and 2 only",
+    "1 and 3 only",
+    "3 only",
+    "1, 2 and 3"
+  ],
+  "answerIndex": 1,
+  "answerText": "(b) 1 and 3 only",
+  "explanation": "Statements 1 and 3 are correct. Asteroids are primarily rocky and metallic objects from the asteroid belt between Mars and Jupiter. Comets are icy bodies (often called \"dirty snowballs\") that form tails when approaching the Sun due to ice sublimation. Statement 2 is incorrect because comets are not found between Venus and Mercury\u2014they originate from the Oort Cloud and Kuiper Belt far beyond Neptune's orbit.",
+  "research": {
+    "summary": "The distinction between asteroids and comets is fundamental to understanding small bodies in the solar system, and UPSC tests this distinction on three key fronts: composition, location, and appearance. Statement 1 correctly identifies the compositional divide. Asteroids are rocky and metallic remnants of the inner solar system, formed in the warmer region between Mars and Jupiter where ice could not remain solid. Comets, by contrast, are \"dirty snowballs\"\u2014composed primarily of volatile ices (water, carbon dioxide, ammonia) mixed with dust and rocky material. When comets approach the Sun, these ices sublimate, releasing gas and dust. Statement 3 is equally straightforward and correct: the visible tail of a comet is a direct result of this sublimation process, whereas asteroids, lacking volatile components, do not develop tails. The trap is statement 2, which reverses the geographic distribution. Comets do not orbit in the warm inner solar system between Venus and Mercury; instead, they originate from the Oort Cloud (at the outermost edge of the solar system, 2,000 to 100,000 AU from the Sun) and the Kuiper Belt (beyond Neptune's orbit, 30\u201355 AU). These distant, cold regions preserve primordial icy bodies that never became part of planets. Asteroids, conversely, are confined to the asteroid belt between Mars (at 1.5 AU) and Jupiter (at 5.2 AU), where they represent leftover planetesimals from the solar system's formation. A useful recognition cue: comets are \"cold-system bodies\" (formed far from the Sun, retain ice, show tails), while asteroids are \"warm-system bodies\" (formed closer to the Sun, rocky-metallic, no tails). Short-period comets may come from the Kuiper Belt, but even these distant bodies have highly elliptical orbits that take them far from the inner planets, never settling in the Venus-Mercury zone.",
+    "facts": [
+      "Comets originate from two regions: the Oort Cloud (2,000\u2013100,000 AU from the Sun) and the Kuiper Belt (30\u201355 AU), both far beyond Neptune's orbit.",
+      "Asteroids formed in a warmer environment closer to the Sun where ice could not remain solid; comets formed in the cold outer solar system where ices stayed frozen.",
+      "When a comet approaches the Sun, its ices sublimate, creating a coma (bright cloud around the nucleus) and a tail that can extend for millions of kilometers.",
+      "Most asteroids occupy the asteroid belt between Mars and Jupiter; this region is estimated to contain between 1.1 and 1.9 million asteroids larger than 1 kilometer in diameter.",
+      "Comets typically have highly eccentric (oval-shaped) orbits, while most asteroids have relatively circular orbits confined to the inner solar system."
+    ],
+    "sources": [
+      {
+        "title": "What's the Difference Between Asteroids, Comets and Meteors? - NASA",
+        "url": "https://www.nasa.gov/directorates/smd/whats-the-difference-between-asteroids-comets-and-meteors-we-asked-a-nasa-scientist-episode-16/",
+        "whyUsed": "Authoritative NASA definition of asteroid and comet composition, location, and distinguishing visual characteristics."
+      },
+      {
+        "title": "Asteroid - Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Asteroid",
+        "whyUsed": "Verified the distinction between comet tails (due to sublimation) and asteroid appearance; clarified the definition of comae and eccentric orbits."
+      },
+      {
+        "title": "What Is the Difference Between Comets and Asteroids? - Britannica",
+        "url": "https://www.britannica.com/science/What-Is-the-Difference-Between-Comets-and-Asteroids",
+        "whyUsed": "Detailed explanation of composition (comets as volatile ices, asteroids as rock and metal), origin (Oort Cloud and Kuiper Belt vs. asteroid belt), and orbital characteristics."
+      },
+      {
+        "title": "Comets and asteroids: What's the difference? - EarthSky",
+        "url": "https://earthsky.org/astronomy-essentials/whats-the-difference-between-comets-and-asteroids/",
+        "whyUsed": "Clarified comet origins (Oort Cloud beyond Pluto's orbit, not Venus-Mercury region) and verified short-period comets come from Kuiper Belt, not inner solar system."
+      }
+    ],
+    "searchMeta": {
+      "usedWebSearch": true,
+      "searchQueries": [
+        "asteroids comets composition differences asteroid belt"
+      ],
+      "confidence": "high"
+    }
+  },
+  "id": 30
+}

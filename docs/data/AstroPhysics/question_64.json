@@ -1,0 +1,56 @@
+{
+  "subject": "Science",
+  "year": 1998,
+  "theme": "Astronomical units and solar system distance measurements",
+  "question_short_text": "Definition of Astronomical Unit (AU) and its reference distance",
+  "text": "One Astronomical Unit is the average distance between:",
+  "options": [
+    "Earth and the Sun",
+    "Earth and the Moon",
+    "Jupiter and the Sun",
+    "Pluto and the Sun"
+  ],
+  "answerIndex": 0,
+  "answerText": "(a) Earth and the Sun",
+  "explanation": "One Astronomical Unit (AU) is defined as the average distance between Earth and the Sun, approximately 149.6 million kilometers. It serves as the standard unit for measuring distances within the solar system.",
+  "research": {
+    "summary": "The Astronomical Unit (AU) is fundamentally defined as the average Earth-Sun distance, a definition rooted in historical astronomy but formalized by modern standards. Originally, the AU represented the semi-major axis of Earth's elliptical orbit (the average of perihelion and aphelion distances). Since Earth's orbital distance varies\u2014it is closer to the Sun (perihelion) at about 147.1 million km and farther (aphelion) at about 152.1 million km\u2014the 'average' reflects this variation across the year. In 2012, the International Astronomical Union adopted a fixed constant definition: exactly 149,597,870,700 meters, removing dependency on solar mass measurements and relativity-frame complications that plagued the earlier definition. This fixed definition addresses a critical problem: as the Sun loses mass through energy radiation, older definitions would have made the AU itself a time-varying unit, which is impractical for astronomy. The new constant is now based on the speed of light in a vacuum, ensuring consistency across all reference frames. AU is the practical scaling unit for the solar system\u2014Mercury orbits at ~0.39 AU, Earth at 1 AU by definition, Jupiter at ~5.2 AU, and Pluto (now a dwarf planet) at ~39.5 AU. Beyond the solar system, distances become so large that parsecs and light-years replace AU, making AU the exclusive working unit for solar system distances. Students sometimes confuse AU with Earth-Moon distance (~384,400 km or 0.0026 AU), but that is far smaller and not a standard astronomical measurement.",
+    "facts": [
+      "Earth's orbit is elliptical, so the Earth-Sun distance varies between 147.1 million km (perihelion) and 152.1 million km (aphelion); the AU represents an average of these extremes.",
+      "The 2012 redefinition of AU as an exact constant (149,597,870,700 meters) eliminated prior complications where the AU depended on the Sun's mass and varied depending on the observer's reference frame.",
+      "AU is the primary distance unit within the solar system; for interstellar distances (beyond the solar system), astronomers use the parsec (3.26 light-years) and light-year instead.",
+      "The semi-major axis of Earth's elliptical orbit\u2014half the longest diameter\u2014is mathematically equivalent to the AU definition and is the basis for how astronomers calculate planetary distances using Kepler's laws.",
+      "One AU equals roughly 8.3 light-minutes of travel time, a useful measure for understanding the scale of the solar system and the time it takes for signals to reach Earth from spacecraft."
+    ],
+    "sources": [
+      {
+        "title": "Astronomical unit - Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Astronomical_unit",
+        "whyUsed": "Provided historical context on the 2012 IAU redefinition and explanation of perihelion/aphelion variation."
+      },
+      {
+        "title": "Astronomical unit (AU, or au) | Britannica",
+        "url": "https://www.britannica.com/science/astronomical-unit",
+        "whyUsed": "Offered the official 2012 fixed definition and detailed explanation of the prior dynamic definition complications."
+      },
+      {
+        "title": "What is an astronomical unit? | EarthSky",
+        "url": "https://earthsky.org/space/what-is-the-astronomical-unit/",
+        "whyUsed": "Provided clear explanation of AU as standard unit for solar system distances and practical examples (Jupiter at 5.2 AU, Pluto at 39.53 AU)."
+      },
+      {
+        "title": "What is an Astronomical Unit? | Space.com",
+        "url": "https://www.space.com/17081-how-far-is-earth-from-the-sun.html",
+        "whyUsed": "Detailed the 2012 IAU redefinition reasoning: relativity-frame issues, solar mass dependency, and the speed-of-light constant basis of the new definition."
+      }
+    ],
+    "searchMeta": {
+      "usedWebSearch": true,
+      "searchQueries": [
+        "Astronomical Unit definition distance Earth Sun"
+      ],
+      "confidence": "high"
+    }
+  },
+  "id": 64
+}

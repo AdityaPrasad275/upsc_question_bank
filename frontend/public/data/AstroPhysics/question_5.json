@@ -1,0 +1,58 @@
+{
+  "subject": "Science",
+  "year": 2023,
+  "theme": "Variable stars, nebulae, and neutron star formation",
+  "question_short_text": "Matching celestial objects with correct definitions: Cepheids, nebulae, pulsars",
+  "text": "Consider the following pairs:\n\nObjects in space: Description\n1. Cepheids : Giant clouds of dust and gas in space\n2. Nebulae : Stars which brighten and dim periodically\n3. Pulsars : Neutron stars that are formed when massive stars run out of fuel and collapse",
+  "options": [
+    "Only one",
+    "Only two",
+    "All three",
+    "None"
+  ],
+  "answerIndex": 0,
+  "answerText": "(a) Only one",
+  "explanation": "Only the third pair is correctly matched. Cepheids are variable stars that pulsate periodically, nebulae are giant clouds of dust and gas, and pulsars are rotating neutron stars that emit beams of radiation.",
+  "research": {
+    "summary": "This question tests precision in distinguishing between three distinct astronomical objects that are often confused in introductory astronomy. Pair 1 reverses the definitions: Cepheids are variable stars that brighten and dim due to radial pulsation, not clouds of dust and gas. Nebulae are indeed giant clouds of dust and gas in interstellar space\u2014this is correct in the question but matched to Cepheids instead. Pair 2 also has the definitions backward: nebulae are not stars, they are stellar nurseries or remnants. Pair 3 is completely accurate: pulsars are rotating neutron stars formed when the cores of massive stars (roughly 8\u201320 times the Sun's mass) exhaust their nuclear fuel, undergo supernova explosions, and collapse into neutron stars about 10\u201320 kilometers in diameter. The rapid rotation of these neutron stars, combined with strong magnetic fields, produces beams of electromagnetic radiation that sweep across Earth like a lighthouse, creating the observed pulses. The trap in this question is that all three descriptions are actual astronomical facts, but two are paired with the wrong objects. Cepheids are important distance markers because they have a period-luminosity relationship; nebulae are crucial sites of star formation; and pulsars were the first direct evidence of neutron stars, discovered by Jocelyn Bell in 1967. A careful student who learns these definitions should recognize immediately that the descriptions and objects are scrambled.",
+    "facts": [
+      "Cepheids pulsate with periods ranging from 1 to 100 days, with brightness varying by up to 25 percent due to expansion and contraction of their radius.",
+      "Nebulae are classified as emission nebulae (ionized gas that glows), reflection nebulae (dust that scatters starlight), and dark nebulae (dense dust that blocks light).",
+      "Pulsars emit beams of radiation from their magnetic poles and can rotate up to 700 times per second; the Crab Pulsar pulses 30 times per second.",
+      "The period-luminosity relationship of Cepheids, discovered by Henrietta Leavitt in 1912, revolutionized astronomy by allowing astronomers to measure distances to nearby galaxies.",
+      "Neutron stars have densities so extreme that one teaspoon of neutron star material would weigh 4 billion tons; they are supported by neutron degeneracy pressure."
+    ],
+    "sources": [
+      {
+        "title": "Cepheid variable - Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Cepheid_variable",
+        "whyUsed": "Verified that Cepheids are pulsating variable stars with regular periods, not clouds of dust and gas."
+      },
+      {
+        "title": "Nebula - Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Nebula",
+        "whyUsed": "Confirmed that nebulae are clouds of dust and gas in interstellar space, not stars."
+      },
+      {
+        "title": "Pulsar - Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Pulsar",
+        "whyUsed": "Established that pulsars are highly magnetized rotating neutron stars formed from supernova remnants."
+      },
+      {
+        "title": "Supernovae, Neutron Stars & Pulsars - UCSD",
+        "url": "http://casswww.ucsd.edu/archive/public/tutorial/SN.html",
+        "whyUsed": "Detailed the formation of neutron stars when massive star cores collapse after running out of fuel."
+      }
+    ],
+    "searchMeta": {
+      "usedWebSearch": true,
+      "searchQueries": [
+        "Cepheids variable stars brightness pulsate",
+        "nebula definition dust gas clouds space",
+        "pulsars neutron stars formation supernova"
+      ],
+      "confidence": "high"
+    }
+  },
+  "id": 5
+}

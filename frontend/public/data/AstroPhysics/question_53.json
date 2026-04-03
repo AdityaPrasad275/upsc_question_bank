@@ -1,0 +1,62 @@
+{
+  "subject": "Science",
+  "year": 2002,
+  "theme": "NASA Mars exploration missions and launch chronology",
+  "question_short_text": "Which Mars spacecraft launched by NASA in 2001?",
+  "text": "In the year 2001, NASA launched a spacecraft to Mars named:\n\na) Mars Climate Orbiter\n\nb) Mars Global Surveyor\n\nc) Mars Odyssey\n\nd) Mars Polar Ladder",
+  "options": [
+    "Mars Climate Orbiter",
+    "Mars Global Surveyor",
+    "Mars Odyssey",
+    "Mars Polar Ladder"
+  ],
+  "answerIndex": 2,
+  "answerText": "(c) Mars Odyssey",
+  "explanation": "2001 Mars Odyssey was launched on April 7, 2001, from Cape Canaveral Air Force Station aboard a Delta II rocket. It reached Mars orbit on October 24, 2001, and remains NASA's longest-operating spacecraft at Mars.",
+  "research": {
+    "summary": "The 2001 Mars Odyssey is a straightforward factual question testing knowledge of NASA's Mars mission timeline. The correct answer hinges on launch date: Mars Odyssey was specifically launched in 2001 (April 7, 2001), while the other three options were either launched earlier or do not exist. Mars Climate Orbiter was launched on December 11, 1998, and failed during Mars orbit insertion in September 1999 due to a metric-to-imperial unit conversion error\u2014a famous engineering disaster. Mars Global Surveyor launched on November 7, 1996, making it an earlier mission in the Mars Surveyor Program. Mars Polar Ladder is not a real spacecraft; the actual mission was Mars Polar Lander, also part of the failed 1998 Mars Surveyor '98 program. Students sometimes confuse these missions because they were part of the same NASA Mars Surveyor Program or happened around the same era, but the 2001 launch date uniquely identifies Odyssey. Odyssey's name was inspired by Arthur C. Clarke's science fiction novel and Stanley Kubrick's 1968 film *2001: A Space Odyssey*. The spacecraft successfully completed its primary science mission from February 2002 through August 2004, and its extended operations have continued well beyond that, making it one of NASA's most durable interplanetary assets. The mission was designed to detect evidence of past or present water and ice on Mars and to map the global distribution of chemical elements and minerals on the Martian surface using three science instruments: the Thermal Emission Imaging System (THEMIS), the Gamma Ray Spectrometer (GRS), and the Martian Radiation Environment Experiment (MARIE).",
+    "facts": [
+      "Mars Climate Orbiter (launched December 1998) was destroyed during Mars orbit insertion in September 1999 due to a metric-imperial unit conversion error between NASA JPL and Lockheed Martin\u2014one of space exploration's most costly measurement failures.",
+      "Mars Global Surveyor (launched November 1996) was the first successful orbital mapper of Mars and operated for a decade, studying the entire Martian surface and atmosphere before losing contact in 2006.",
+      "Mars Odyssey has served as the primary communications relay for all major Mars rovers and landers since its arrival, including the Spirit, Opportunity, and Curiosity rovers.",
+      "The 2001 Mars Odyssey launched on a Delta II 7925 rocket and used aerobraking\u2014atmospheric drag\u2014to save 200 kilograms of propellant that would have been needed for engine burns alone.",
+      "Odyssey reached Mars orbit on October 24, 2001, after a six-month cruise, and by December 2010 had set the record for longest-serving spacecraft in Mars orbit with over 3,340 days of continuous operation."
+    ],
+    "sources": [
+      {
+        "title": "2001 Mars Odyssey - Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/2001_Mars_Odyssey",
+        "whyUsed": "Verified launch date (April 7, 2001), mission objectives, naming origin, and key mission milestones"
+      },
+      {
+        "title": "Mars Odyssey - NASA Science",
+        "url": "https://science.nasa.gov/mission/odyssey/",
+        "whyUsed": "Official NASA confirmation of launch date, arrival date, and primary science mission timeline"
+      },
+      {
+        "title": "Mars Climate Orbiter - Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Mars_Climate_Orbiter",
+        "whyUsed": "Confirmed MCO launched December 11, 1998, and failed September 23, 1999; detailed metric-imperial error context"
+      },
+      {
+        "title": "Mars Global Surveyor - Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Mars_Global_Surveyor",
+        "whyUsed": "Confirmed MGS launched November 7, 1996, operated until 2006, to establish contrast with 2001 Odyssey launch"
+      },
+      {
+        "title": "NASA Jet Propulsion Laboratory - 2001 Mars Odyssey Launch",
+        "url": "https://www.jpl.nasa.gov/news/nasas-2001-mars-odyssey-spacecraft-is-on-its-way/",
+        "whyUsed": "Primary source for launch details and mission status confirmation"
+      }
+    ],
+    "searchMeta": {
+      "usedWebSearch": true,
+      "searchQueries": [
+        "Mars Odyssey NASA launch 2001",
+        "Mars Climate Orbiter Mars Global Surveyor launch dates"
+      ],
+      "confidence": "high"
+    }
+  },
+  "id": 53
+}

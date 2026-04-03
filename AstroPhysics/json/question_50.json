@@ -1,0 +1,52 @@
+{
+  "subject": "Science",
+  "year": 2004,
+  "theme": "Indian satellite launch locations and space programmes",
+  "question_short_text": "Launch location of INSAT-3E communication satellite in 2003",
+  "text": "INSAT-3E, India's communication satellite, was launched in 2003 from:",
+  "options": [
+    "French Guyana",
+    "Seychelles",
+    "Mauritius",
+    "Mauritania"
+  ],
+  "answerIndex": 0,
+  "answerText": "(a) French Guyana",
+  "explanation": "INSAT-3E was launched on September 28, 2003, from the Guiana Space Centre in Kourou, French Guiana using the Ariane-5 launch vehicle.",
+  "research": {
+    "summary": "INSAT-3E is India's fourth satellite in the INSAT-3 series, a multipurpose geostationary communication satellite. The key insight here is that India does not have launch capability for geostationary satellites from its domestic spaceport; instead, ISRO relied on the European Space Agency's Guiana Space Centre in Kourou, French Guiana, using the Ariane-5 launch vehicle. The satellite, weighing 2,775 kg, was successfully injected into a Geosynchronous Transfer Orbit (GTO) on September 28, 2003, with a perigee of 649 km and apogee of 35,923 km. It subsequently carried 24 C-band and 12 Extended C-band transponders, and was positioned at 55 degrees East longitude to provide communication services. The trap in this question is that students may confuse Indian territory with launch location\u2014Seychelles, Mauritius, and Mauritania are African region territories, none of which have satellite launch facilities. The Guiana Space Centre in French Guiana remains one of the world's primary commercial satellite launch sites precisely because of its location near the equator, which maximizes launch efficiency and payload capacity for geostationary missions. India continued to use this facility for geostationary satellite launches throughout the 2000s while developing indigenous geostationary launch capability.",
+    "facts": [
+      "INSAT-3E was the first in the INSAT-3 series to use Ariane-5 for launch; earlier INSAT-3A, 3B, and 3C were also launched from French Guiana",
+      "The satellite carried meteorological and communication payloads serving India's domestic communication and weather forecasting needs, with a projected mission life of 12 years",
+      "INSAT-3E was decommissioned in April 2014 after running out of onboard propellant",
+      "The Master Control Facility (MCF) at Hassan, Karnataka acquired the first signals from INSAT-3E at 05:14 am IST, just 30 minutes after liftoff",
+      "Ariane-5's location at the equator provides gravitational advantage, increasing payload capacity for geostationary transfer missions compared to high-latitude launch sites"
+    ],
+    "sources": [
+      {
+        "title": "INSAT-3E - Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/INSAT-3E",
+        "whyUsed": "Confirmed launch date, location, and decommissioning details"
+      },
+      {
+        "title": "INSAT-3E Launched successfully - ISRO",
+        "url": "https://www.isro.gov.in/update/28-sep-2003/insat-3e-launched-successfully",
+        "whyUsed": "Official ISRO statement with precise technical specifications, orbit parameters, and control facility information"
+      },
+      {
+        "title": "Indian National Satellite System - Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Indian_National_Satellite_System",
+        "whyUsed": "Context on INSAT series evolution and role in India's space program"
+      }
+    ],
+    "searchMeta": {
+      "usedWebSearch": true,
+      "searchQueries": [
+        "INSAT-3E satellite launch 2003 French Guiana",
+        "INSAT-3E specifications communication satellite India"
+      ],
+      "confidence": "high"
+    }
+  },
+  "id": 50
+}

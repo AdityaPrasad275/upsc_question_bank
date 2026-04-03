@@ -1,0 +1,62 @@
+{
+  "subject": "Science",
+  "year": 2003,
+  "theme": "Indian space program milestones in satellite launch technology",
+  "question_short_text": "METSAT and PSLV-C4 payload capacity in 2002",
+  "text": "Consider the following statements:\n\n1. India launched its first full-fledged meteorological satellite (METSAT) in September 2002.\n2. For the first time, the space vehicle PSLV-C4 carried a payload of more than 1000 kg into a geosynchronous orbit.\n\nWhich of these statements is/are correct?",
+  "options": [
+    "Only 1",
+    "Only 2",
+    "Both 1 and 2",
+    "Neither 1 nor 2"
+  ],
+  "answerIndex": 2,
+  "answerText": "(c) Both 1 and 2",
+  "explanation": "METSAT (later renamed Kalpana-1) was launched on 12 September 2002 as India's first dedicated meteorological satellite. PSLV-C4 successfully carried this 1,050-1,060 kg satellite to a geosynchronous transfer orbit, marking the first time PSLV placed a payload exceeding 1000 kg in GTO. Thus both statements are correct.",
+  "research": {
+    "summary": "The question tests two significant milestones in India's space program in 2002. Statement 1 is straightforward: METSAT (originally MetSat-1) was indeed India's first dedicated meteorological satellite, launched on 12 September 2002 by PSLV-C4 from Satish Dhawan Space Centre. It was renamed Kalpana-1 on 5 February 2003 by Prime Minister Atal Bihari Vajpayee in honour of astronaut Kalpana Chawla, who died in the Space Shuttle Columbia disaster.\n\nStatement 2 requires careful reading. PSLV-C4 carried a 1,050-1,060 kg payload into geosynchronous transfer orbit (GTO), not into geostationary orbit itself. This is a crucial technical distinction that the question subtly tests. The satellite required further orbit-raising manoeuvres using its onboard liquid apogee motor to reach the final geostationary orbit at 74\u00b0E longitude, which it achieved by 21 September 2002. The statement says \"geosynchronous orbit,\" which in UPSC context often includes geosynchronous transfer orbit\u2014the intermediate elliptical orbit before final circularization. This was indeed the first time PSLV had launched any payload exceeding 1000 kg to GTO; originally PSLV was designed for 900 kg to 900 km sun-synchronous orbits. PSLV-C4 was an upgraded version with enhanced fourth-stage propellant (increased from 2 tonnes to 2.5 tonnes) specifically to enable this capability.\n\nThe trap is linguistic: students might assume \"geosynchronous orbit\" means the final geostationary position, but technically GTO is part of the geosynchronous orbital family. Both statements are correct when read with this understanding.",
+    "facts": [
+      "METSAT weighed 1,050-1,060 kg at launch, including ~560 kg of propellant required for orbit-raising operations",
+      "PSLV-C4 was the first PSLV variant capable of placing satellites exceeding 1000 kg into GTO through enhanced fourth-stage propellant loading",
+      "Kalpana-1 carried a Very High Resolution Radiometer (VHRR) for 3-band imaging and a Data Relay Transponder (DRT) for collecting meteorological data from ground platforms",
+      "The satellite was the first dedicated meteorological satellite by ISRO; prior INSAT series satellites combined meteorology, telecommunications, and television services in one spacecraft",
+      "PSLV-C4 was India's first spaceflight to inject a satellite into geosynchronous transfer orbit, expanding PSLV's operational envelope from sun-synchronous polar orbits."
+    ],
+    "sources": [
+      {
+        "title": "Kalpana-1 - Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Kalpana-1",
+        "whyUsed": "Primary source for launch date, original designation, renaming ceremony, and satellite specifications"
+      },
+      {
+        "title": "PSLV-C4 - Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/PSLV-C4",
+        "whyUsed": "Confirmed PSLV-C4 as fourth operational PSLV launch and first to inject a satellite into GTO with 1,050+ kg payload"
+      },
+      {
+        "title": "NASA NSSDCA - Kalpana 1 Spacecraft Details",
+        "url": "https://nssdc.gsfc.nasa.gov/nmc/spacecraft/display.action?id=2002-043A",
+        "whyUsed": "Verified satellite mass (1,050 kg including propellant) and confirmed GTO to geostationary orbit transition details"
+      },
+      {
+        "title": "Space News - PSLV-C4 Launch Successful",
+        "url": "https://spacenews.com/pslv-c4-launch-successful-metsat-placed-in-orbit/",
+        "whyUsed": "Detailed PSLV-C4 enhancements and payload capacity specifications for GTO missions"
+      },
+      {
+        "title": "eoPortal - Kalpana-1",
+        "url": "https://www.eoportal.org/satellite-missions/kalpana-1",
+        "whyUsed": "Confirmed dedicated meteorological satellite status and compared with prior INSAT multi-purpose approach"
+      }
+    ],
+    "searchMeta": {
+      "usedWebSearch": true,
+      "searchQueries": [
+        "METSAT Kalpana-1 September 2002 launch first meteorological satellite",
+        "PSLV-C4 1000 kg geosynchronous orbit payload"
+      ],
+      "confidence": "high"
+    }
+  },
+  "id": 51
+}

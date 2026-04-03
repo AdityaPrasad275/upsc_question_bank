@@ -1,0 +1,57 @@
+{
+  "subject": "Science",
+  "year": 2022,
+  "theme": "space-based weapons delivery systems and orbital mechanics",
+  "question_short_text": "What is the core concept of FOBS technology?",
+  "text": "Which one of the following statements best reflects the idea behind the \"Fractional Orbital Bombardment System\" often talked about in the media?",
+  "options": [
+    "A hypersonic missile is launched into space to counter the asteroid approaching the Earth and explode it in space.",
+    "A spacecraft lands on another planet after making several orbital motions.",
+    "A missile is put into a stable orbit around the Earth and deorbits over a target on the Earth.",
+    "A spacecraft moves along a comet with the same speed and places a probe on its surface"
+  ],
+  "answerIndex": 2,
+  "answerText": "(c) A missile is put into a stable orbit around the Earth and deorbits over a target on the Earth.",
+  "explanation": "The Fractional Orbital Bombardment System (FOBS) places a warhead into low Earth orbit and then deorbits it over a target using a retrograde engine burn. Unlike traditional ICBMs with predictable ballistic trajectories, FOBS can approach targets from unexpected directions, making it harder to intercept.",
+  "research": {
+    "summary": "FOBS is fundamentally a weapons delivery system developed by the Soviet Union in the 1960s that exploits orbital mechanics to evade missile defenses. The core concept is deceptively simple: place a warhead into low Earth orbit (typically around 150 km altitude), allow it to complete part of an orbit around the Earth, then fire retrorockets to deorbit it over a target on the ground. The critical distinction from traditional ICBMs is the trajectory\u2014instead of following a high, predictable ballistic arc that early-warning radars can easily track, a FOBS weapon follows a low, depressed orbital path that stays below the horizon longer, making it harder for polar-facing radars (like NORAD's Arctic systems) to detect until much later. The name \"fractional\" refers to the fact that the payload completes only a fraction of a full orbit before deorbiting; it never settles into permanent orbit. This distinction was diplomatically significant during the Cold War because the 1967 Outer Space Treaty bans placing weapons of mass destruction into orbit, but the Soviet Union argued that since FOBS completed only a fractional orbit and remained \"in transit,\" it did not violate the treaty. However, space lawyers contended that since orbit is a physical condition rather than an altitude threshold, fractional orbits are technically still orbits. The Soviet Union conducted 24 FOBS tests between 1965 and 1971, and deployed 18 operational systems from 1969 until decommissioning them in 1983 under the SALT II framework. FOBS suffered from significant accuracy problems\u2014its circular error probable exceeded 3 miles, making it unsuitable for hardened targets. The system's true strategic value lay in unpredictability and evasion of early-warning systems. The technology resurfaced in 2021 when China tested a modern variant combined with a hypersonic glide vehicle, which achieved even greater unpredictability and maneuverability after re-entry. This development alarmed US defense officials because it represented \"never before seen\" capability in combining orbital insertion with maneuverable atmospheric re-entry.",
+    "facts": [
+      "The Soviet Union decommissioned its 18 operational FOBS silos in Kazakhstan by February 1983 following SALT II restrictions, though the US never ratified SALT II.",
+      "FOBS operates at a maximum altitude of approximately 150 km (compared to traditional ICBM peaks above 1,200 km), keeping it below radar detection horizon much longer.",
+      "China's 2021 FOBS test combined orbital bombardment with a hypersonic glide vehicle that traveled nearly 25,000 miles at speeds exceeding Mach 5, demonstrating technological advancement beyond Cold War systems.",
+      "The Outer Space Treaty of 1967 banned stationing weapons of mass destruction in orbit, but FOBS exploits a legal gray area by claiming fractional orbits are not sustained orbital placement.",
+      "FOBS is a crude accuracy weapon (3-mile error radius) designed for area targets like cities, not hardened military installations, making it strategically suited for nuclear-backed deterrence rather than precision strike."
+    ],
+    "sources": [
+      {
+        "title": "Fractional Orbital Bombardment System - Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Fractional_Orbital_Bombardment_System",
+        "whyUsed": "Provides authoritative technical definition, historical deployment dates (Soviet 1965-1983), and recent Chinese test details from 2021."
+      },
+      {
+        "title": "FOBS of War - Air & Space Forces Magazine",
+        "url": "https://www.airandspaceforces.com/article/0605fobs/",
+        "whyUsed": "Explains Soviet strategic rationale for low-trajectory deployment to evade Arctic-facing early-warning radars and provides details on circular error probable accuracy limitations."
+      },
+      {
+        "title": "Orbital hypersonic delivery systems threaten strategic stability - Bulletin of the Atomic Scientists",
+        "url": "https://thebulletin.org/2023/06/orbital-hypersonic-delivery-systems-threaten-strategic-stability/",
+        "whyUsed": "Analyzes modern FOBS-hypersonic vehicle combination and explains why pairing overcomes individual system weaknesses in speed and maneuverability."
+      },
+      {
+        "title": "Chinese Fractional Orbital Bombardment - Asia-Pacific Leadership Network",
+        "url": "https://www.apln.network/analysis/policy-briefs/chinese-fractional-orbital-bombardment",
+        "whyUsed": "Discusses Outer Space Treaty legal implications and the distinction between fractional orbits and sustained orbital placement."
+      }
+    ],
+    "searchMeta": {
+      "usedWebSearch": true,
+      "searchQueries": [
+        "Fractional Orbital Bombardment System FOBS mechanism",
+        "FOBS Russia China orbital bombardment 2022"
+      ],
+      "confidence": "high"
+    }
+  },
+  "id": 8
+}

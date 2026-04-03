@@ -1,0 +1,58 @@
+{
+  "subject": "Science",
+  "year": 2001,
+  "theme": "Recognition of major scientists and their contributions to modern astronomy",
+  "question_short_text": "Scientist honoured by naming of Chandra X-ray telescope",
+  "text": "Who is the scientist in whose honour the \"Chandra\" X-ray telescope has been named?",
+  "options": [
+    "Chandrasekhar Venkat Raman",
+    "Jagdish Chandra Bose",
+    "Prafulla Chandra Roy",
+    "Subrahmanyan Chandrasekhar"
+  ],
+  "answerIndex": 3,
+  "answerText": "(d) Subrahmanyan Chandrasekhar",
+  "explanation": "The Chandra X-ray Observatory was named in honour of Nobel laureate Subrahmanyan Chandrasekhar, an Indian-American astrophysicist famous for the Chandrasekhar limit\u2014the maximum mass of a stable white dwarf star.",
+  "research": {
+    "summary": "Subrahmanyan Chandrasekhar (1910\u20131995) was one of the foremost astrophysicists of the 20th century, born in Lahore and trained at Presidency College, Madras, and the University of Cambridge. His most significant contribution was deriving the Chandrasekhar limit (~1.4 solar masses)\u2014the critical mass beyond which a white dwarf star cannot support itself against gravitational collapse and must collapse into a neutron star or black hole. Developed during a 1930 voyage from India to England while still a young scholar, this result initially faced fierce opposition from the eminent British astrophysicist Arthur Eddington, who famously called it \"stellar buffoonery\" and insisted there should be \"a law of Nature to prevent a star from behaving in this absurd way.\" However, Chandrasekhar's theoretical work eventually became foundational to understanding stellar evolution, supernovae, and black holes.\n\nChandrasekhar migrated to the United States in 1937, joining the University of Chicago faculty where he remained until his death in 1995, becoming an American citizen in 1953. He won the 1983 Nobel Prize in Physics (shared with William Fowler) for \"theoretical studies of the physical processes of importance to the structure and evolution of the stars.\" The NASA Chandra X-ray Observatory, launched on July 23, 1999 aboard Space Shuttle Columbia, was named after him through a public naming contest that drew over 6,000 entries worldwide. The name \"Chandra,\" meaning \"moon\" or \"luminous\" in Sanskrit, perfectly captured both his Sanskrit-origin surname and his luminous intellectual legacy in astrophysics.\n\nThe trap in this question lies in the other options: Chandrasekhara Venkata Raman (his uncle, also a Nobel laureate in Physics, 1930) is the most tempting distractor because the surname \"Chandrasekhar\" shares a root with \"Raman,\" and Raman's achievements are equally celebrated in Indian science. However, the telescope honours specifically the younger astrophysicist whose theoretical work on stellar limits transformed modern cosmology.",
+    "facts": [
+      "The Chandrasekhar limit is approximately 1.4 solar masses; stars exceeding this mass collapse into neutron stars or black holes rather than remaining as white dwarfs",
+      "Subrahmanyan Chandrasekhar was the nephew of C.V. Raman, winner of the 1930 Nobel Prize in Physics for Raman spectroscopy\u2014a common source of confusion in recognition questions",
+      "Chandrasekhar won the Nobel Prize for Physics 53 years after initially proposing the limit, reflecting how revolutionary and initially controversial his work was",
+      "NASA's Chandra X-ray Observatory, launched July 23, 1999, is one of NASA's fleet of four Great Observatories alongside Hubble, Spitzer, and the deorbited Compton Gamma Ray Observatory",
+      "Chandrasekhar's approach to science was unusual: each decade he investigated a fresh field (stellar dynamics, radiative transfer, black hole mathematics), publishing comprehensive papers and books before moving on"
+    ],
+    "sources": [
+      {
+        "title": "Chandra X-ray Observatory - NASA Official Site",
+        "url": "https://chandra.harvard.edu/about/chandra.html",
+        "whyUsed": "Official NASA source confirming the naming of the observatory in honour of Subrahmanyan Chandrasekhar and biographical details"
+      },
+      {
+        "title": "Subrahmanyan Chandrasekhar - Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Subrahmanyan_Chandrasekhar",
+        "whyUsed": "Comprehensive biographical entry including his relationship to C.V. Raman, 1983 Nobel Prize, and details on the Chandrasekhar limit discovery"
+      },
+      {
+        "title": "Chandrasekhar limit - Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Chandrasekhar_limit",
+        "whyUsed": "Technical explanation of the Chandrasekhar limit discovery, its initial opposition by Eddington, and its critical importance to stellar evolution theory"
+      },
+      {
+        "title": "The 1983 Nobel Prize in Physics - NobelPrize.org",
+        "url": "https://www.nobelprize.org/prizes/physics/1983/speedread/",
+        "whyUsed": "Official Nobel Prize source documenting Chandrasekhar's prize and his work on stellar structure and evolution"
+      }
+    ],
+    "searchMeta": {
+      "usedWebSearch": true,
+      "searchQueries": [
+        "Chandra X-ray Observatory named after Subrahmanyan Chandrasekhar",
+        "Subrahmanyan Chandrasekhar Chandrasekhar limit Nobel Prize",
+        "Chandrasekhar X-ray telescope launch 1999"
+      ],
+      "confidence": "high"
+    }
+  },
+  "id": 60
+}

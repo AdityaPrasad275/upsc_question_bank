@@ -1,0 +1,57 @@
+{
+  "subject": "Science",
+  "year": 2024,
+  "theme": "stellar evolution: mass-lifespan and nuclear reaction rates",
+  "question_short_text": "Giant stars vs dwarf stars: lifespan and nuclear reaction rates comparison",
+  "text": "Consider the following statements:\n\nStatement I: Giant stars live much longer than dwarf stars.\n\nStatement-II: Compared to dwarf stars, giant stars have greater rate of nuclear reactions.\n\nWhich one of the following is correct in respect of the above statements?",
+  "options": [
+    "Both Statement-I and Statement-II are correct and Statement-II explains Statement-I",
+    "Both Statement-I and Statement-II are correct, but Statement-II does not explain Statement-I",
+    "Statement-I is correct, but Statement-II is incorrect",
+    "Statement-I is incorrect, but Statement-II is correct"
+  ],
+  "answerIndex": 3,
+  "answerText": "(d) Statement-I is incorrect, but Statement-II is correct",
+  "explanation": "Giant stars have shorter lifespans than dwarf stars because they burn through their hydrogen fuel at a vastly higher rate despite starting with more fuel. Statement-II is correct: giant stars do have higher rates of nuclear reactions due to their hotter, denser cores. The higher reaction rate consumes fuel rapidly, leading to shorter lives\u2014not longer ones as Statement-I claims.",
+  "research": {
+    "summary": "This question tests understanding of the counterintuitive relationship between stellar mass, fusion rate, and lifespan. Statement I commits a common misconception by reversing the actual relationship. The key principle is that stellar lifespan depends on the ratio of available fuel to consumption rate (M/L). Although massive giant stars begin with vastly more hydrogen fuel, their higher core temperatures and pressures force them to consume that fuel exponentially faster through nuclear fusion. The nuclear reaction rate in stars depends on temperature to a power typically between 3 and 4 for low-mass stars and even higher (up to 15) for massive stars. This means even a modest increase in core temperature dramatically increases the reaction rate\u2014doubling core temperature can increase the fusion rate by a factor of 16 or more. Therefore, Statement II is correct: giant stars definitively have higher rates of nuclear reactions. A star ten times the Sun's mass might live only 20 to 30 million years, whereas red dwarf stars (the most common type of dwarf star) can persist for tens to hundreds of billions of years, far longer than the current age of the universe. The lifespan actually scales inversely with mass\u2014approximately as 1/M^2.5 or steeper. Massive stars end dramatically in supernovae after consuming their fuel in just millions of years, while low-mass dwarfs burn steadily for trillions of years.",
+    "facts": [
+      "Nuclear reaction rate depends on temperature to approximately the 3rd\u20134th power for sun-like stars and the 15th power for massive stars\u2014tiny increases in core temperature cause explosive increases in fusion rate",
+      "A star's main-sequence lifespan is proportional to M/L (mass divided by luminosity). Since luminosity scales roughly as M^3.5, lifetime scales as M/M^3.5 = M^-2.5, making massive stars live much shorter lives",
+      "Red dwarf stars (low-mass M-type main-sequence stars) with masses around 0.1 solar masses could theoretically remain on the main sequence for over 100 billion years, longer than the current universe age of 13.8 billion years",
+      "Massive stars (8+ solar masses) reach core temperatures high enough to activate the CNO cycle (carbon-nitrogen-oxygen cycle) instead of the proton-proton chain, resulting in even more temperature-sensitive fusion rates",
+      "The relationship between mass and luminosity for main-sequence stars is non-linear: doubling a star's mass increases its luminosity by a factor of 2^3.5 \u2248 11, meaning fuel consumption scales much faster than fuel inventory"
+    ],
+    "sources": [
+      {
+        "title": "Stellar Life Cycle - Earth Science",
+        "url": "https://courses.lumenlearning.com/suny-earthscience/chapter/stellar-life-cycle/",
+        "whyUsed": "Confirmed the basic principle that small red dwarfs fuse hydrogen slowly and persist for hundreds of billions of years, while massive supergiants leave main sequence after only millions of years"
+      },
+      {
+        "title": "5.2: Measuring Ages - Lifetimes of Stars - Physics LibreTexts",
+        "url": "https://phys.libretexts.org/Courses/Chicago_State_University/PH_S_1150:_Basic_Astronomy/05:_Moving_Through_Time/5.02:_Measuring_Ages_-_Lifetimes_of_Stars",
+        "whyUsed": "Verified the exponential temperature dependence of nuclear reaction rates (T^4 for proton-proton chain, T^15 for CNO cycle) and explained why massive stars burn fuel much faster"
+      },
+      {
+        "title": "Teach Astronomy - Nuclear Reactions in Main Sequence Stars",
+        "url": "https://www.teachastronomy.com/textbook/Star-Birth-and-Death/Nuclear-Reactions-in-Main-Sequence-Stars/",
+        "whyUsed": "Provided quantitative example: a 100 solar mass star has only 100 times the Sun's fuel but uses it a million times faster, resulting in a main-sequence lifetime of only ~1 million years"
+      },
+      {
+        "title": "Mass\u2013luminosity relation - Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Mass%E2%80%93luminosity_relation",
+        "whyUsed": "Established the mathematical relationship between mass and luminosity (L \u221d M^3.5) and showed how this determines stellar lifetimes through M/L ratios"
+      }
+    ],
+    "searchMeta": {
+      "usedWebSearch": true,
+      "searchQueries": [
+        "giant stars dwarf stars lifespan nuclear reaction rate",
+        "stellar mass luminosity relationship main sequence stars"
+      ],
+      "confidence": "high"
+    }
+  },
+  "id": 4
+}

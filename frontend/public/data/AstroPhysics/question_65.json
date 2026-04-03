@@ -1,0 +1,56 @@
+{
+  "subject": "Science",
+  "year": 1997,
+  "theme": "Solar radiation pressure and solar wind in comet tail formation",
+  "question_short_text": "Why does a comet's tail always point away from the Sun?",
+  "text": "The tail of a comet is directed away from the sun because:\n\na) As the comet rotates around the sun, the lighter mass of the comet is pushed away due to the centrifugal force alone\n\nb) As the comet rotates, the lighter mass of the comet is attracted by some star situated in the direction of its tail\n\nc) The radiation emitted by the sun exerts a radial pressure on the comet throwing its tail away from the sun\n\nd) The tail of the comet always exists in the same orientation",
+  "options": [
+    "As the comet rotates around the sun, the lighter mass of the comet is pushed away due to the centrifugal force alone",
+    "As the comet rotates, the lighter mass of the comet is attracted by some star situated in the direction of its tail",
+    "The radiation emitted by the sun exerts a radial pressure on the comet throwing its tail away from the sun",
+    "The tail of the comet always exists in the same orientation"
+  ],
+  "answerIndex": 2,
+  "answerText": "(c) The radiation emitted by the sun exerts a radial pressure on the comet throwing its tail away from the sun",
+  "explanation": "A comet's tail is directed away from the Sun due to radiation pressure (and solar wind effects). Photons from solar radiation exert momentum on dust and gas particles in the coma, pushing them radially away from the Sun. This is not about rotation or centrifugal force, nor about gravitational attraction from distant stars.",
+  "research": {
+    "summary": "The key to understanding this question is recognizing that comet tails always point away from the Sun, not because of the comet's orbital mechanics, but because of external forces emanating from the Sun itself. When a comet approaches the inner Solar System, solar radiation heats the frozen nucleus, causing volatile materials to vaporize and create a luminous coma surrounded by gas and dust. The critical mechanism is radiation pressure: photons from the Sun carry momentum, and when billions of them strike the small dust particles and gas molecules in the coma, they collectively exert a measurable force pushing these particles radially away from the Sun. This is similar to how wind pushes a sailboat\u2014momentum is transferred through particle collision. Additionally, the solar wind (streams of charged particles from the Sun) also contributes to tail formation, especially for ionized gas (ion tail), which is swept directly away by the solar wind's magnetic field. The dust tail is primarily shaped by radiation pressure, while the ion tail is shaped by solar wind interaction. A critical elimination point: option (a) misunderstands physics. Centrifugal force is not a real force\u2014it's a fictitious force that only appears in rotating reference frames. In an inertial frame, there is no centrifugal force pushing anything outward; the Sun's gravity actually pulls inward. Option (b) invokes stellar gravity, which is absurd at typical comet-to-star distances. Option (d) is simply false; comet tails always point away from the Sun regardless of orbital position, which means they can point backward relative to the comet's motion as it recedes from perihelion\u2014a counterintuitive but observable fact. The question tests whether students understand that external forces (radiation pressure and solar wind), not internal dynamics (rotation) or distant stellar influences, shape comet tails.",
+    "facts": [
+      "Comets have two distinct tails: a dust tail (curved, yellowish) shaped primarily by radiation pressure, and an ion tail (straight, bluish) shaped by solar wind interaction",
+      "The radiation pressure mechanism works because photons carry momentum; even though individual photons impart tiny amounts of momentum, the vast flux from the Sun creates a cumulative pressure sufficient to overcome solar gravity for small particles",
+      "A comet's tail always points directly away from the Sun, even when the comet is receding after perihelion\u2014meaning it leads the comet in its orbit on the return journey, making the comet appear to precede its own tail",
+      "The ion tail follows magnetic field lines of the solar wind (at speeds of 300-800 km/s) and remains straight, while the dust tail curves because different-sized particles experience different radiation pressure efficiency based on their mass",
+      "The solar wind effect on comet tails was theoretically postulated only in the 1950s, confirmed by observations that showed dust particles once thought too massive to be affected by solar wind actually undergo subtle deflection due to heliospheric current sheet interactions"
+    ],
+    "sources": [
+      {
+        "title": "Comet tail - Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Comet_tail",
+        "whyUsed": "Comprehensive explanation of both dust and ion tail formation mechanisms, radiation pressure, and solar wind effects"
+      },
+      {
+        "title": "Comet Tails - ScienceDirect Topics",
+        "url": "https://www.sciencedirect.com/topics/physics-and-astronomy/comet-tails",
+        "whyUsed": "Detailed clarification that radiation pressure and solar wind are the primary forces, with quantitative statement that radiation pressure overcomes gravitational pull for small particles"
+      },
+      {
+        "title": "Why do the dust tail and the plasma tail of a comet point away from the Sun - Vaia",
+        "url": "https://www.vaia.com/en-us/textbooks/physics/astronomy-journey-to-the-cosmic-frontier-5-edition/chapter-15/problem-13-why-do-the-dust-tail-and-the-plasma-tail-of-a-com/",
+        "whyUsed": "Clear distinction between radiation pressure mechanism (dust tail) and solar wind mechanism (ion tail), with specific physical explanations"
+      },
+      {
+        "title": "Comets - NASA Mars Education",
+        "url": "https://mars.nasa.gov/images/mep/",
+        "whyUsed": "Official NASA confirmation that both radiation and solar wind push comet material away from the nucleus, forming the tail"
+      }
+    ],
+    "searchMeta": {
+      "usedWebSearch": true,
+      "searchQueries": [
+        "comet tail directed away from sun radiation pressure solar wind"
+      ],
+      "confidence": "high"
+    }
+  },
+  "id": 65
+}

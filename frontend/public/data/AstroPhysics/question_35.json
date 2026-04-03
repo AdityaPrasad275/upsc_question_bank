@@ -1,0 +1,61 @@
+{
+  "subject": "Science",
+  "year": 2009,
+  "theme": "Solar system structure: planetary moon systems",
+  "question_short_text": "Planet with the largest number of natural satellites",
+  "text": "Which one of the following planets has the largest number of natural satellites or moons?\n\na) Jupiter\nb) Mars\nc) Saturn\nd) Venus",
+  "options": [
+    "Jupiter",
+    "Mars",
+    "Saturn",
+    "Venus"
+  ],
+  "answerIndex": 0,
+  "answerText": "(a) Jupiter",
+  "explanation": "At the time of the 2009 exam, Jupiter was believed to have the most moons. However, since then Saturn has surpassed Jupiter with 274 confirmed moons as of March 2025, compared to Jupiter's 97.",
+  "research": {
+    "summary": "This question reflects the state of astronomical knowledge in 2009, when Jupiter was correctly understood to have the highest moon count among the planets offered in the choices. However, the answer is now outdated due to rapid discoveries of small irregular moons. As of March 2025, Saturn has 274 confirmed natural satellites, decisively surpassing Jupiter's 97 moons. The dramatic shift occurred between 2023 and 2025 when 128 new Saturnian moons were simultaneously announced by the International Astronomical Union's Minor Planet Center. These newly discovered moons are small irregular satellites in the 2-4 km range, captured early in solar system history and likely fragments from collisional disruptions. This 'moon race' between Saturn and Jupiter is driven not by discovery of genuinely new objects, but by improved detection technology and data processing speed. For context: Venus and Mercury have zero moons, Earth has one, and Mars has two (Phobos and Deimos). The gas giants dominate moon systems because their strong gravitational wells readily capture and retain small bodies. While the historical answer for a 2009 question is Jupiter, students should recognize that Saturn now holds the title, and the classification of objects as moons continues to evolve with astronomical standards.",
+    "facts": [
+      "Mars has exactly two moons: Phobos and Deimos, named after attendants of the Greek god of war.",
+      "Mercury and Venus are the only planets without natural satellites, likely due to their proximity to the Sun's disruptive gravitational and thermal effects.",
+      "Titan, Saturn's largest moon, is the second-largest moon in the entire solar system and is larger than the planet Mercury.",
+      "Irregular moons around gas giants are primarily small captured objects (2-10 km diameter) that formed elsewhere and were gravitationally pulled into orbit, unlike regular moons that formed with their planets.",
+      "Recent discoveries focus on sub-kilometer irregulars, which are extremely difficult to detect from Earth and often require multiple telescope observations and image stacking to confirm."
+    ],
+    "sources": [
+      {
+        "title": "List of natural satellites - Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/List_of_natural_satellites",
+        "whyUsed": "Provides authoritative updated counts as of November 2025 showing Saturn with 285 moons and Jupiter with 101 moons with known orbits."
+      },
+      {
+        "title": "Moons of Saturn - Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Moons_of_Saturn",
+        "whyUsed": "Details the March 2025 discovery batch of 128 new Saturnian moons announced by the MPC, bringing total to 274."
+      },
+      {
+        "title": "Popular Science: Saturn dethrones Jupiter",
+        "url": "https://www.popsci.com/science/saturn-new-moons/",
+        "whyUsed": "Explains the 2025 Saturn moon discoveries and confirms Jupiter's 95 moons as of February 2024, detailing capture mechanisms of irregular moons."
+      },
+      {
+        "title": "NASA Solar System Moons",
+        "url": "https://science.nasa.gov/solar-system/moons/",
+        "whyUsed": "Official NASA data confirming 421 moons orbiting planets as of March 2025."
+      },
+      {
+        "title": "World Atlas: Planets with the Most Moons",
+        "url": "https://www.worldatlas.com/space/planets-with-the-most-moons.html",
+        "whyUsed": "Explains why Saturn's gravitational configuration makes it more efficient at capturing and retaining small moons compared to Jupiter."
+      }
+    ],
+    "searchMeta": {
+      "usedWebSearch": true,
+      "searchQueries": [
+        "largest number natural satellites moons planets 2024 2025"
+      ],
+      "confidence": "high"
+    }
+  },
+  "id": 35
+}

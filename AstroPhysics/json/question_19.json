@@ -1,0 +1,62 @@
+{
+  "subject": "Science",
+  "year": 2017,
+  "theme": "Space-based gravitational wave detection technology",
+  "question_short_text": "Purpose of evolved Laser Interferometer Space Antenna (eLISA) project",
+  "text": "What is the purpose of 'evolved Laser Interferometer Space Antenna (eLISA)' project?",
+  "options": [
+    "To detect neutrinos",
+    "To detect gravitational waves",
+    "To detect the effectiveness of missile defence system",
+    "To study the effect of solar flares on our communication systems"
+  ],
+  "answerIndex": 1,
+  "answerText": "(b) To detect gravitational waves",
+  "explanation": "The eLISA project is designed to detect and measure gravitational waves\u2014ripples in spacetime predicted by Einstein's theory of general relativity. It will be the first dedicated space-based gravitational wave observatory, using laser interferometry to detect signals from phenomena like black hole mergers and binary star systems.",
+  "research": {
+    "summary": "The evolved Laser Interferometer Space Antenna (eLISA) represents the reduced-cost variant of the original full-scale LISA mission, conceived when ESA needed to balance scientific ambition with budget constraints. eLISA was designed with 1 million km interferometer arms (later evolved to 2.5 million km in the full LISA proposal) to detect low-frequency gravitational waves in the 0.1 mHz to 1 Hz frequency range\u2014a band inaccessible to ground-based detectors like LIGO and Virgo, which are limited by Earth's gravity, seismic noise, and arm length constraints. The mission architecture consists of three spacecraft arranged in a triangular formation, each carrying two test masses made of gold-platinum cubes shielded from all non-gravitational forces. When a gravitational wave passes through, it causes minute distortions in spacetime that alter the relative distances between these test masses; laser interferometry detects these changes with extraordinary precision (picometer-level accuracy). The technological foundation was proven by LISA Pathfinder (launched December 2015, operated until July 2017), which successfully demonstrated that test masses could be maintained in near-perfect free fall in space and that their relative displacement could be measured to sub-picometer accuracy\u2014validating the core physics and engineering for the full mission. Unlike electromagnetic telescopes that observe light across different frequencies, a space-based gravitational wave observatory opens an entirely new observational window into the cosmos, enabling detection of sources like merging supermassive black holes at galactic centers, extreme mass ratio inspirals, and other violent cosmic events. The key trap here is that students sometimes conflate gravitational waves with other space phenomena: gravitational waves are not particle detections (ruling out neutrinos), not military applications (eliminating missile defence), and not electromagnetic (excluding solar flare effects). eLISA/LISA will be the first dedicated space observatory for gravitational waves, complementing rather than replacing ground-based detectors by observing different frequency bands and cosmic events.",
+    "facts": [
+      "LISA Pathfinder (2015\u20132017) successfully demonstrated the technology enabling LISA by achieving nanometer-level control of test masses and confirming feasibility for space-based gravitational wave detection.",
+      "Ground-based detectors like LIGO and Virgo detect high-frequency gravitational waves (~100 Hz) but cannot detect the low-frequency waves (0.1 mHz\u20131 Hz) from supermassive black hole mergers that LISA targets due to seismic and thermal noise.",
+      "The full LISA mission (expected launch ~2035\u20132037) will consist of three spacecraft separated by 2.5 million km, forming an equilateral triangle in heliocentric orbit trailing Earth by approximately 60 million km.",
+      "Gravitational waves encode astrophysical information inaccessible via electromagnetic radiation, enabling multi-messenger astronomy when combined with traditional telescopes and opening new tests of general relativity.",
+      "LISA is an ESA-led mission with NASA contributions (laser systems, telescopes, charge management devices), formally adopted on 25 January 2024 and transitioning to full hardware development."
+    ],
+    "sources": [
+      {
+        "title": "Laser Interferometer Space Antenna - Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Laser_Interferometer_Space_Antenna",
+        "whyUsed": "Comprehensive technical overview of LISA evolution from eLISA concept to current mission specifications, including frequency ranges and detection capabilities."
+      },
+      {
+        "title": "LISA Pathfinder overview - ESA",
+        "url": "https://www.esa.int/Science_Exploration/Space_Science/LISA_Pathfinder_overview",
+        "whyUsed": "Verified the role of LISA Pathfinder (2015\u20132017) in demonstrating key technologies and confirming feasibility of space-based gravitational wave detection."
+      },
+      {
+        "title": "Measuring Gravitational Waves with eLISA - NASA",
+        "url": "https://www.nasa.gov/technology/measuring-gravitational-waves-with-elisa/",
+        "whyUsed": "Explained eLISA mission objectives including the detection of black hole mergers and study of gravitational wave sources."
+      },
+      {
+        "title": "LISA Factsheet - ESA",
+        "url": "https://www.esa.int/Science_Exploration/Space_Science/LISA/LISA_factsheet",
+        "whyUsed": "Official specifications including spacecraft separation (2.5 million km), frequency sensitivity range, and timeline for launch in 2035\u20132037."
+      },
+      {
+        "title": "evolved Laser Interferometer Space Antenna (eLISA) \u2013 Cardiff University Physics Outreach",
+        "url": "https://blogs.cardiff.ac.uk/physicsoutreach/gravitational-physics-tutorial/evolved-laser-interferometer-space-antenna-elisa/",
+        "whyUsed": "Technical details on eLISA interferometer design, frequency coverage (0.1 mHz to 1 Hz), and complementarity with ground-based detectors."
+      }
+    ],
+    "searchMeta": {
+      "usedWebSearch": true,
+      "searchQueries": [
+        "eLISA evolved Laser Interferometer Space Antenna gravitational waves",
+        "LISA Pathfinder gravitational wave detector space mission"
+      ],
+      "confidence": "high"
+    }
+  },
+  "id": 19
+}

@@ -1,0 +1,61 @@
+{
+  "subject": "Science",
+  "year": 2015,
+  "theme": "Exoplanet habitability and search for Earth-like planets",
+  "question_short_text": "What the Goldilocks Zone refers to in astronomy news",
+  "text": "The term 'Goldilocks Zone' is often seen in the news in the context of:\n\na) The limits of habitable zone above the surface of the Earth\n\nb) Regions inside the Earth-like planets in outer space\n\nc) Search for the Earth-like planets in outer space\n\nd) Search for meteorites containing precious metals",
+  "options": [
+    "The limits of habitable zone above the surface of the Earth",
+    "Regions inside the Earth-like planets in outer space",
+    "Search for the Earth-like planets in outer space",
+    "Search for meteorites containing precious metals"
+  ],
+  "answerIndex": 2,
+  "answerText": "(c) Search for the Earth-like planets in outer space",
+  "explanation": "The Goldilocks Zone refers to the habitable zone around a star where conditions are 'just right'\u2014neither too hot nor too cold\u2014for liquid water to exist on a planet's surface. Scientists use this concept to search for potentially habitable exoplanets where life as we know it might exist.",
+  "research": {
+    "summary": "The Goldilocks Zone, also known as the circumstellar habitable zone, is a narrow orbital region around a star where planetary surface temperatures allow liquid water to persist. The term emerged in the 1970s and borrows its metaphor from the fairy tale of Goldilocks and the Three Bears: just as Goldilocks seeks porridge that is neither too hot nor too cold but 'just right,' astronomers search for planets in stellar habitable zones where conditions are optimal for liquid water\u2014a prerequisite for life as we understand it.\n\nThe trap in this question is subtle. Option (a) confuses 'habitable zone' with Earth's atmospheric layers and is purely terrestrial. Option (b) suggests that the zone exists inside planets, which is backwards; the zone is orbital space around a star. Option (d) completely misses the scientific concept and introduces an unrelated material search.\n\nThe correct answer, (c), captures the essence of modern exoplanet research: astronomers use the Goldilocks Zone framework to identify and prioritize Earth-like planets orbiting distant stars. The Kepler Space Telescope, launched in 2009 specifically to detect exoplanets in habitable zones, found evidence suggesting that at least 20\u201350% of stars visible to the naked eye possess Earth-sized planets in their habitable zones. Real discoveries like Proxima Centauri b (4.2 light-years away, in its star's habitable zone) and the seven Earth-sized planets in the TRAPPIST-1 system exemplify how the Goldilocks Zone concept drives the search for potentially habitable worlds.\n\nKey recognition pattern: whenever you see 'Goldilocks Zone' in news or exam contexts, it is always about exoplanet habitability and the orbital distance from a star\u2014never about Earth's atmosphere, planetary interiors, or geological surveys.",
+    "facts": [
+      "The habitable zone width depends on star type: Sun-like G-type stars have a wider habitable zone than red dwarfs (M-type), while K-type stars may offer the most stable conditions for long-term habitability.",
+      "Proxima Centauri b, discovered in 2016, is the nearest known exoplanet to Earth at 4.2 light-years away and orbits within the habitable zone of its star.",
+      "The TRAPPIST-1 system discovered in 2017 contains seven Earth-sized rocky planets, three of which lie within the habitable zone, making it a priority target for future habitability studies.",
+      "Liquid water presence depends not just on orbital distance but also on planetary atmosphere composition; Venus lies within the Sun's habitable zone by distance but its runaway greenhouse effect makes it uninhabitable.",
+      "The Kepler Space Telescope (2009\u20132018) revolutionized exoplanet detection and provided strong statistical evidence that habitable-zone planets are common throughout the galaxy."
+    ],
+    "sources": [
+      {
+        "title": "What is the habitable zone or 'Goldilocks zone'? - NASA Science",
+        "url": "https://science.nasa.gov/exoplanets/what-is-the-habitable-zone-or-goldilocks-zone/",
+        "whyUsed": "Official NASA definition and explanation of the habitable zone concept and its role in exoplanet search."
+      },
+      {
+        "title": "Habitable zone - Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Habitable_zone",
+        "whyUsed": "Comprehensive historical context on the term's emergence in the 1970s and major discovery milestones including Kepler statistics."
+      },
+      {
+        "title": "The Habitable Zone - NASA Science",
+        "url": "https://science.nasa.gov/exoplanets/habitable-zone/",
+        "whyUsed": "Current NASA resource on habitable zone characteristics, star types, and real exoplanet examples like TRAPPIST-1."
+      },
+      {
+        "title": "ESA - Planets in the habitable zone",
+        "url": "https://www.esa.int/Science_Exploration/Space_Science/Plato/Planets_in_the_habitable_zone",
+        "whyUsed": "European Space Agency explanation of the concept and discussion of current and future missions for habitable exoplanet discovery."
+      },
+      {
+        "title": "Goldilocks zone: Everything you need to know - Space.com",
+        "url": "https://www.space.com/goldilocks-zone-habitable-area-life",
+        "whyUsed": "Accessible explanation of how habitable zones vary by star type and discussion of known candidates."
+      }
+    ],
+    "searchMeta": {
+      "usedWebSearch": true,
+      "searchQueries": [
+        "Goldilocks Zone habitable zone exoplanets definition"
+      ],
+      "confidence": "high"
+    }
+  },
+  "id": 24
+}

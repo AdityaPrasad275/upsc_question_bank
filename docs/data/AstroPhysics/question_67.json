@@ -1,0 +1,56 @@
+{
+  "subject": "Science",
+  "year": 1997,
+  "theme": "Stellar distances and the structure of the solar neighbourhood",
+  "question_short_text": "Which star is nearest to Earth?",
+  "text": "Which one of the following stars is nearest to the earth?",
+  "options": [
+    "Polaris",
+    "Alpha Centauri",
+    "Sun",
+    "Sirius"
+  ],
+  "answerIndex": 2,
+  "answerText": "(c) Sun",
+  "explanation": "The Sun is the nearest star to Earth at approximately 150 million kilometers (93 million miles) away. It is our star and the center of our solar system. While Proxima Centauri, the closest star system beyond the Sun, is roughly 4.25 light-years away, it is vastly more distant than the Sun.",
+  "research": {
+    "summary": "This is a straightforward but pedagogically important question that tests whether candidates understand that the Sun is itself a star\u2014a concept sometimes underemphasized in basic science teaching. The trap is that many students unconsciously treat the Sun as separate from the category \"stars,\" especially when the question lists other famous stars like Polaris, Sirius, and Alpha Centauri. The Sun is a G-type main-sequence star (yellow dwarf) at approximately 150 million kilometers or 93 million miles from Earth, a distance known as 1 Astronomical Unit (AU). In contrast, the next-nearest star system, Alpha Centauri, consists of three stars with the closest component, Proxima Centauri, at about 4.25 light-years away\u2014roughly 270,000 times farther than the Sun. Sirius, the brightest star visible from Earth, is about 8.7 light-years distant. Polaris (the North Star) is much farther at approximately 434 light-years. The confusion often arises because textbooks discuss the Sun and distant stars in separate contexts, creating a false categorical separation. In reality, the Sun is a star like any other, just incomparably closer. This definitional clarity is important for understanding stellar classification systems and the concept of stellar magnitude (the difference between apparent brightness and intrinsic luminosity).",
+    "facts": [
+      "Proxima Centauri, at 4.25 light-years, is the nearest star system to Earth after the Sun, and it is a small red dwarf too faint to see with the naked eye.",
+      "Alpha Centauri is a triple-star system; its two brightest components (Alpha Centauri A and B) form a binary pair and together appear as the third-brightest star in Earth's night sky when viewed from the Southern Hemisphere.",
+      "Sirius is the brightest star visible from Earth not because it is intrinsically the brightest star, but because of its relative proximity combined with its actual luminosity\u2014a key distinction between apparent and absolute magnitude.",
+      "The Sun's distance of 1 AU serves as the baseline for measuring distances to other stars; without it as a reference, the parallax method used to calculate stellar distances would not be calibrated.",
+      "Only about 9 stars within 15 light-years of the Sun are visible to the naked eye; the vast majority of nearby stars are dim red dwarfs invisible without telescopes."
+    ],
+    "sources": [
+      {
+        "title": "Proxima Centauri - Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Proxima_Centauri",
+        "whyUsed": "Verified precise distance to nearest star system after the Sun (4.25 light-years)"
+      },
+      {
+        "title": "The Nearest Stars to Earth (Infographic) - Space.com",
+        "url": "https://www.space.com/18964-the-nearest-stars-to-earth-infographic.html",
+        "whyUsed": "Confirmed distances and characteristics of nearby stars including Sirius, Polaris, and Alpha Centauri system"
+      },
+      {
+        "title": "The Nearest Neighbor Star - NASA Imagine the Universe",
+        "url": "https://imagine.gsfc.nasa.gov/features/cosmic/nearest_star_info.html",
+        "whyUsed": "Authoritative NASA source on stellar distances and structure of nearby star systems"
+      },
+      {
+        "title": "List of nearest stars - Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/List_of_nearest_stars",
+        "whyUsed": "Comprehensive reference for catalog of nearest stars and their distances from Earth"
+      }
+    ],
+    "searchMeta": {
+      "usedWebSearch": true,
+      "searchQueries": [
+        "nearest star to Earth distance kilometers light-years"
+      ],
+      "confidence": "high"
+    }
+  },
+  "id": 67
+}

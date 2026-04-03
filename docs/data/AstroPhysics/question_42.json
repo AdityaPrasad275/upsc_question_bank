@@ -1,0 +1,51 @@
+{
+  "subject": "Science",
+  "year": 2007,
+  "theme": "Space programs and telecommunications infrastructure",
+  "question_short_text": "Identify the incorrectly matched pair of space/telecom systems",
+  "text": "Which one of the following pairs is not correctly matched?\n\n- Cosmic Background Explorer (COBE) \u2013 Satellite programme\n- Falcon \u2013 Under-sea cable system\n- Discovery \u2013 Space Shuttle\n- Atlantis \u2013 Space Station",
+  "options": [
+    "Cosmic Background Explorer (COBE) \u2013 Satellite programme",
+    "Falcon \u2013 Under-sea cable system",
+    "Discovery \u2013 Space Shuttle",
+    "Atlantis \u2013 Space Station"
+  ],
+  "answerIndex": 1,
+  "answerText": "(b) Falcon \u2013 Under-sea cable system",
+  "explanation": "The pair 'Falcon \u2013 Under-sea cable system' is incorrectly matched. Falcon is actually SpaceX's family of reusable rockets (Falcon 1, 9, and Heavy), not an under-sea cable. FALCON is the name of an actual submarine telecommunications cable system, but the question uses 'Falcon' without capitalization in the options, referring to the SpaceX rocket, making the pairing incorrect.",
+  "research": {
+    "summary": "This question tests the ability to distinguish between different space exploration and telecommunications systems. The correct answer exposes a critical mismatch: Falcon, when uncapitalized in the context of this question, refers to SpaceX's Falcon family of rockets\u2014reusable launch vehicles that have become central to modern space missions, including ISS resupply and crewed launches under NASA's Commercial Crew Program. However, there is indeed a telecommunications system named FALCON (FLAG Alcatel-Lucent Optical Network), an 11,859 km submarine cable connecting India, Sri Lanka, and countries across the Persian Gulf and Middle East, operational since September 2006. The trap is that students might confuse these two entirely different systems. The COBE satellite correctly describes NASA's Cosmic Background Explorer mission (1989), which studied cosmic microwave background radiation. Discovery and Atlantis are both genuine NASA Space Shuttles\u2014Discovery flew 39 missions (1984\u20132011) and was instrumental in deploying the Hubble Space Telescope and assembling the ISS, while Atlantis completed 33 missions (1985\u20132011) and participated in the final Hubble servicing mission. The mismatch in the question stems from the fact that Falcon refers to rockets, not undersea cables, making option (b) the only truly incorrect pairing.",
+    "facts": [
+      "SpaceX's Falcon 9 rocket is the most frequently launched orbital rocket in the world and is designed for reusability, with the first stage capable of multiple landings and reflights.",
+      "The FALCON submarine cable system became operational in September 2006 and connects 12 countries spanning South Asia and the Middle East, with initial design capacity of 2.56 Tbps.",
+      "NASA's Discovery Space Shuttle completed 39 missions and was the first shuttle to be retired, serving from 1984 to 2011 and playing a crucial role in Hubble Space Telescope deployment and repair.",
+      "The Cosmic Microwave Background radiation studied by COBE represents the leftover thermal radiation from the Big Bang and provides fundamental insights into the universe's early structure and composition.",
+      "Atlantis was NASA's fourth Space Shuttle orbiter and flew its final mission (STS-135) in July 2011, marking the end of the 30-year Space Shuttle program."
+    ],
+    "sources": [
+      {
+        "title": "Submarine Networks - FALCON System",
+        "url": "https://www.submarinenetworks.com/en/systems/asia-europe-africa/falcon",
+        "whyUsed": "Verified the technical specifications and operational status of the FALCON submarine cable system"
+      },
+      {
+        "title": "Wikipedia - Fibre-optic Link Around the Globe",
+        "url": "https://en.wikipedia.org/wiki/Fibre-optic_Link_Around_the_Globe",
+        "whyUsed": "Confirmed the launch date and technical details of the FALCON cable system and its connection points"
+      },
+      {
+        "title": "Wikipedia - 2008 Submarine Cable Disruption",
+        "url": "https://en.wikipedia.org/wiki/2008_submarine_cable_disruption",
+        "whyUsed": "Provided context on FALCON cable incidents that demonstrate its real-world operational significance"
+      }
+    ],
+    "searchMeta": {
+      "usedWebSearch": true,
+      "searchQueries": [
+        "Falcon undersea cable system submarine"
+      ],
+      "confidence": "high"
+    }
+  },
+  "id": 42
+}

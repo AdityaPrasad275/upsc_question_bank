@@ -1,0 +1,57 @@
+{
+  "subject": "Science",
+  "year": 2008,
+  "theme": "Space exploration and Earth's magnetosphere: magnetospheric substorms and auroras",
+  "question_short_text": "Purpose of NASA's THEMIS mission",
+  "text": "What is the purpose of the US Space Agency's Themis Mission, which was recently in the news?",
+  "options": [
+    "To study the possibility of life on Mars",
+    "To study the satellites of Saturn",
+    "To study the Colourful display of high latitude skies",
+    "To build a Space laboratory to study the stellar explosions"
+  ],
+  "answerIndex": 2,
+  "answerText": "(c) To study the Colourful display of high latitude skies",
+  "explanation": "THEMIS (Time History of Events and Macroscale Interactions during Substorms) was launched in February 2007 to study magnetospheric substorms and the physical processes that trigger auroras (the colorful display of high-latitude skies).",
+  "research": {
+    "summary": "The THEMIS mission, launched by NASA on February 17, 2007, is fundamentally designed to understand what triggers magnetospheric substorms\u2014violent energy release events in Earth's magnetic environment that produce the aurora borealis and australis (Northern and Southern lights). The mission deploys five identical micro-satellites in a string-of-pearls configuration along Earth's magnetotail to track particles, plasma, and electromagnetic waves with unprecedented precision. Option (c) is correct because THEMIS specifically aims to understand the physical processes initiating the colorful auroral displays at high latitudes by studying substorms, which are the underlying phenomenon causing them. The trap in this question is that while THEMIS is a space mission, it is not about discovering life on Mars (option a), studying Saturn's moons (option b), or building a laboratory for stellar explosions (option d). THEMIS's primary goal is to answer a long-standing question: which magnetotail process is responsible for substorm onset\u2014is it a local disruption of the plasma sheet current, or does it result from the interaction of that current with plasma influx from magnetic reconnection in the distant tail? The mission is supported by a network of 20 ground observatories across North America equipped with all-sky imagers and magnetometers to correlate satellite observations with auroral displays in real time. On February 26, 2008\u2014shortly before this exam question was written\u2014THEMIS probes made a breakthrough discovery by determining, for the first time, the precise triggering event for magnetospheric substorm onset, making it highly newsworthy in 2008. This achievement directly connects the mission's stated purpose (studying auroras) to solving the underlying physics of how substorms initiate.",
+    "facts": [
+      "THEMIS was launched February 17, 2007, consisting of five identical NASA micro-satellites.",
+      "The five satellites are positioned to optimize observations along Earth's magnetotail while ground networks simultaneously observe auroral displays from North America.",
+      "On February 26, 2008, THEMIS probes determined the triggering event for magnetospheric substorm onset for the first time, marking a major scientific milestone.",
+      "In 2010, two of the five THEMIS spacecraft were repurposed and redirected to lunar orbit to form the ARTEMIS (Acceleration, Reconnection, Turbulence and Electrodynamics of Moon's Interaction with Sun) mission.",
+      "Substorms release stored energetic particles from Earth's magnetosphere that produce auroras; prior to THEMIS, scientists understood auroras were caused by substorms but did not understand what initiated the substorms themselves."
+    ],
+    "sources": [
+      {
+        "title": "NASA Science: THEMIS",
+        "url": "https://science.nasa.gov/mission/themis/",
+        "whyUsed": "Official NASA source defining THEMIS mission objectives and the study of auroras triggered by substorms."
+      },
+      {
+        "title": "THEMIS - Time History of Events and Macroscale Interactions during Substorms - NASA Scientific Visualization Studio",
+        "url": "https://svs.gsfc.nasa.gov/gallery/themis/",
+        "whyUsed": "NASA GSFC documentation confirming the mission's goal to test how substorm events relate to aurora formation and the February 2008 breakthrough discovery."
+      },
+      {
+        "title": "THEMIS (Time History of Events and Macroscale Interactions during Substorms) - Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/THEMIS",
+        "whyUsed": "Verified reference confirming the February 26, 2008 discovery of substorm triggering and the mission timeline from launch through extension."
+      },
+      {
+        "title": "THEMIS Mission - eoPortal",
+        "url": "https://www.eoportal.org/satellite-missions/themis",
+        "whyUsed": "Comprehensive satellite mission profile describing THEMIS's constellation design, objectives, and ground-based observatory network for aurora observation."
+      }
+    ],
+    "searchMeta": {
+      "usedWebSearch": true,
+      "searchQueries": [
+        "THEMIS mission NASA Time History Events Macroscale Interactions Substorms",
+        "THEMIS satellite mission Aurora magnetosphere objectives"
+      ],
+      "confidence": "high"
+    }
+  },
+  "id": 39
+}

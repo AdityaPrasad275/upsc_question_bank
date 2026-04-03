@@ -1,0 +1,57 @@
+{
+  "subject": "Science",
+  "year": 1997,
+  "theme": "Classification of small celestial bodies in the solar system",
+  "question_short_text": "Distinguish asteroids from comets, meteoroids, meteors, and meteorites",
+  "text": "The group of small pieces of rock \u2013 revolving round the sun between the orbits of Mars and Jupiter are called:",
+  "options": [
+    "Meteors",
+    "Comets",
+    "Meteorites",
+    "Asteroids"
+  ],
+  "answerIndex": 3,
+  "answerText": "(d) Asteroids",
+  "explanation": "Asteroids are small rocky bodies that orbit the Sun, with most located in the asteroid belt between Mars and Jupiter. Meteors, comets, and meteorites are different phenomena in the life cycle of space objects.",
+  "research": {
+    "summary": "This question tests the ability to distinguish asteroids from three commonly confused terms based on location and stage in the object's existence. Asteroids are defined as rocky objects larger than 1 meter in diameter that orbit the Sun independently. The vast majority reside in the asteroid belt between Mars and Jupiter\u2014a region spanning approximately 2.2 to 3.3 AU from the Sun and containing an estimated 1.1 to 1.9 million asteroids larger than 1 kilometer. The trap here lies in understanding that the key identifier is not size alone, but orbital location and composition. Comets, while they also orbit the Sun, are fundamentally different: they are icy bodies composed primarily of ice and dust, found primarily in the outer solar system (Kuiper Belt and beyond), and only develop visible tails when approaching the Sun due to sublimation of volatiles. Meteoroids are much smaller (less than 1 meter) free-floating fragments of asteroids or comets traveling through space. Meteors are not objects at all\u2014they are the visible streak of light produced when a meteoroid enters Earth's atmosphere at high speed and burns up due to friction, commonly called shooting stars. Meteorites are what remain when a meteoroid survives passage through Earth's atmosphere and lands on the planet's surface. The question text's reference to \"small pieces of rock revolving round the Sun between Mars and Jupiter\" directly maps to the definition of asteroids, making this a straightforward classification if the student understands that asteroids are specifically the rocky bodies that maintain stable orbits in the main belt, whereas comets are icy, meteors are atmospheric phenomena, and meteorites are terrestrial remnants.",
+    "facts": [
+      "The asteroid belt was formed 4.6 billion years ago as a remnant of the solar system's formation, when Jupiter's gravitational perturbations prevented planetesimals from coalescing into a full planet.",
+      "Jupiter's gravity creates Kirkwood gaps in the asteroid belt\u2014regions of relative emptiness caused by orbital resonances that destabilize asteroid orbits, sweeping them into different trajectories.",
+      "The largest object in the main asteroid belt is Ceres, a dwarf planet with a diameter of approximately 945 kilometers, accounting for about one-third of the belt's total mass.",
+      "Asteroid composition is classified into three main types: C-type (carbonaceous), S-type (silicate-rich), and M-type (metal-rich), with the inner belt dominated by silicates and the outer belt by carbon-rich asteroids.",
+      "Despite popular depiction in science fiction, the asteroid belt is extremely sparsely populated; spacecraft routinely traverse it without incident because the average distance between asteroids is millions of kilometers."
+    ],
+    "sources": [
+      {
+        "title": "Asteroid belt - Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Asteroid_belt",
+        "whyUsed": "Authoritative source on asteroid belt definition, location, and formation history, including composition and orbital characteristics."
+      },
+      {
+        "title": "NASA Space Place: Asteroid or Meteor",
+        "url": "https://spaceplace.nasa.gov/asteroid-or-meteor/en/",
+        "whyUsed": "Official NASA educational source clarifying the distinctions between asteroids, meteoroids, meteors, and meteorites."
+      },
+      {
+        "title": "The Planetary Society: Asteroids vs comets vs meteorites/meteoroids/meteors",
+        "url": "https://www.planetary.org/articles/asteroids-vs-comets-vs-meteorites-meteoroids-meteors",
+        "whyUsed": "Comprehensive definition of size thresholds (1-meter cutoff for asteroids) and clarification of each term's location and state."
+      },
+      {
+        "title": "NASA Facts: Asteroids",
+        "url": "https://science.nasa.gov/solar-system/asteroids/facts/",
+        "whyUsed": "Official NASA reference on asteroid population numbers, belt location, and distinction from other solar system objects."
+      }
+    ],
+    "searchMeta": {
+      "usedWebSearch": true,
+      "searchQueries": [
+        "asteroid belt Mars Jupiter orbit definition",
+        "asteroids meteoroids meteors meteorites differences"
+      ],
+      "confidence": "high"
+    }
+  },
+  "id": 66
+}

@@ -1,0 +1,57 @@
+{
+  "subject": "Science",
+  "year": 2011,
+  "theme": "Orbital mechanics \u2013 characteristics of geostationary orbits for telecommunications",
+  "question_short_text": "Identify which conditions define a geostationary orbit",
+  "text": "Satellites used for telecommunication relay are kept in a geostationary orbit. A satellite is said to be in such an orbit when:\n\n1. The orbit is geosynchronous.\n2. The orbit is circular.\n3. The orbit lies in the plane of the earth's equator.\n4. The orbit is at an altitude of 22,236 miles.",
+  "options": [
+    "1, 2, and 3 only",
+    "1, 3 and 4 only",
+    "2 and 4 only",
+    "1, 2, 3, and 4"
+  ],
+  "answerIndex": 0,
+  "answerText": "(a) 1, 2, and 3 only",
+  "explanation": "A geostationary orbit must satisfy three conditions: it must be geosynchronous (orbital period matches Earth's sidereal day), circular in shape, and positioned above the equator. While the altitude of 35,786 km (22,236 miles) is correct, statement 4 provides only a number without requiring the specific altitude \u2013 the orbit must be at this precise altitude, not merely \"at\" that number.",
+  "research": {
+    "summary": "This question tests the precise definition of geostationary orbit by distinguishing it from related but different concepts. A geostationary orbit is fundamentally a special case of geosynchronous orbit \u2013 both have orbital periods matching Earth's rotation (23 hours, 56 minutes, 4 seconds). However, the key distinguishing feature of geostationary orbits is that they must be equatorial and circular. Any geosynchronous orbit that deviates from these two conditions (either by being inclined relative to the equator or elliptical rather than circular) becomes geosynchronous but not geostationary. Statement 1 is correct because geosynchronous is a necessary condition. Statement 2 is correct because circularity (zero eccentricity) is mandatory \u2013 an elliptical orbit at the correct altitude would still be geosynchronous but would not appear stationary from a fixed ground location. Statement 3 is correct because zero inclination (lying in the equatorial plane) is essential; an inclined orbit would trace a figure-eight pattern when observed from the ground rather than appearing fixed. Statement 4 is problematic not because the altitude is wrong \u2013 35,786 km (22,236 miles) is precisely correct \u2013 but because stating only the number without the mandatory context of circularity and equatorial position is incomplete. The definition requires all three conditions (geosynchronous + circular + equatorial), and the answer correctly reflects this. The trap is assuming that merely naming an altitude is sufficient, when in fact the geometric constraints are equally critical. Many candidates confuse geosynchronous with geostationary, failing to recognize that all geostationary orbits are geosynchronous, but not all geosynchronous orbits are geostationary.",
+    "facts": [
+      "A geostationary orbit must have both zero inclination (lie in the equatorial plane) and zero eccentricity (be perfectly circular); any other geosynchronous orbit with inclination or eccentricity will trace an apparent figure-8 or analemma pattern in the sky.",
+      "The orbital radius of a geostationary orbit is exactly 42,164 km from Earth's center; subtracting Earth's equatorial radius of 6,378 km gives the altitude of 35,786 km above the surface.",
+      "Geosynchronous satellites can have any inclination; inclined geosynchronous orbits are used for applications requiring periodic revisits to specific regions (such as some Russian communication satellites serving high latitudes) rather than continuous fixed coverage.",
+      "The first truly geostationary satellite was Syncom 3, placed in orbit in 1964; earlier Syncom satellites in 1963 were geosynchronous but not geostationary due to orbital inclination.",
+      "Geostationary orbits are constrained to a single altitude (35,786 km) by orbital mechanics \u2013 this is the only altitude where the orbital period exactly matches Earth's rotation regardless of the satellite's mass."
+    ],
+    "sources": [
+      {
+        "title": "Geostationary orbit - Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Geostationary_orbit",
+        "whyUsed": "Verified the precise definition, orbital parameters (altitude, radius, and inclination/eccentricity requirements), and historical context of geostationary satellite deployment."
+      },
+      {
+        "title": "Geosynchronous orbit - Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Geosynchronous_orbit",
+        "whyUsed": "Clarified the distinction between geosynchronous and geostationary orbits, including how inclination and eccentricity affect ground tracking patterns."
+      },
+      {
+        "title": "What is a geosynchronous orbit? - Space.com",
+        "url": "https://www.space.com/29222-geosynchronous-orbit.html",
+        "whyUsed": "Explained the key difference that geostationary orbits must be circular and equatorial while geosynchronous orbits can have any inclination."
+      },
+      {
+        "title": "Geosynchronous vs Geostationary Orbits - GIS Geography",
+        "url": "https://gisgeography.com/geosynchronous-geostationary-orbits/",
+        "whyUsed": "Detailed how inclined geosynchronous orbits produce figure-eight ground tracks while geostationary orbits appear fixed to a ground observer."
+      }
+    ],
+    "searchMeta": {
+      "usedWebSearch": true,
+      "searchQueries": [
+        "geostationary orbit altitude kilometers 35786",
+        "geostationary vs geosynchronous orbit difference"
+      ],
+      "confidence": "high"
+    }
+  },
+  "id": 28
+}

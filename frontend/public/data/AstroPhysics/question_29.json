@@ -1,0 +1,62 @@
+{
+  "subject": "Science",
+  "year": 2011,
+  "theme": "Orbital mechanics and gravitational acceleration in satellite motion",
+  "question_short_text": "Why doesn't an artificial satellite orbiting Earth fall down?",
+  "text": "An artificial satellite orbiting around the earth does not fall down. This is so because the attraction of earth?",
+  "options": [
+    "Does not exist at such distance.",
+    "Is neutralized by the attraction of the moon.",
+    "Provides the necessary speed for its steady motion.",
+    "Provides the necessary acceleration for its motion."
+  ],
+  "answerIndex": 3,
+  "answerText": "(d) Provides the necessary acceleration for its motion.",
+  "explanation": "The gravitational force of Earth provides the centripetal acceleration needed to keep a satellite in circular orbit. This acceleration constantly redirects the satellite's velocity toward Earth's center, maintaining orbital motion rather than allowing the satellite to fall or drift away.",
+  "research": {
+    "summary": "This question tests understanding of the precise role that gravitational force plays in orbital mechanics, and it exposes a common misconception: students often think gravity must be \"weak\" or \"absent\" at orbital altitudes for a satellite to stay up, or that the satellite is somehow \"held up\" against gravity. The reality is exactly opposite.\n\nGravity at orbital altitudes is not absent\u2014it is strong and continuous. For the International Space Station orbiting at 400 km altitude, Earth's gravity is still about 90% as strong as at the surface. What differs is not the presence or strength of gravity, but what the satellite does under that gravity. The satellite moves with sufficient tangential velocity (perpendicular to the radial direction) that Earth's gravitational pull continuously changes only the *direction* of the satellite's motion, not its speed. The satellite is actually in continuous freefall toward Earth, but because Earth's surface curves away at precisely the same rate the satellite falls, the satellite never hits the ground.\n\nThis is best understood through the centripetal acceleration framework: gravity provides the centripetal acceleration a_c = GM/r\u00b2 directed toward Earth's center. For a circular orbit, this acceleration is exactly the right magnitude to keep the satellite moving in a circle at its orbital velocity v = \u221a(GM/r). The balance is not between two forces holding the satellite \"up\"\u2014it is between the satellite's inertial tendency to move in a straight line and gravity's continuous inward pull that curves that path into a circle.\n\nOption (c) is a distractor because it mentions \"speed,\" which many students associate with staying up. But gravity provides acceleration, not speed\u2014the satellite's speed comes from the launch velocity. Option (a) is eliminated because gravity clearly exists at orbital altitudes. Option (b) appeals to confusion about what holds orbits together; the Moon's gravity is negligible in this context. The question directly tests whether a student understands that gravity is not a barrier to orbit but the very mechanism that sustains it.",
+    "facts": [
+      "At the ISS orbital altitude of 400 km, Earth's gravitational acceleration is approximately 8.7 m/s\u00b2, about 90% of surface gravity, yet the ISS remains in stable orbit.",
+      "For a stable circular orbit, gravitational force must equal the required centripetal force: GMm/r\u00b2 = mv\u00b2/r, yielding orbital velocity v = \u221a(GM/r).",
+      "Satellites are in continuous freefall\u2014they accelerate toward Earth at the gravitational acceleration at their orbital radius, but their tangential velocity is high enough that Earth's surface curves away at the same rate.",
+      "The reason satellites do not need active thrust to maintain orbit (unlike aircraft that need continuous engine power) is that in the vacuum of space, no drag opposes their motion; gravity's centripetal acceleration is sufficient.",
+      "The concept was first articulated by Newton: if you throw a projectile horizontally fast enough, the curvature of its trajectory will match the curvature of Earth, creating a stable orbit."
+    ],
+    "sources": [
+      {
+        "title": "Centripetal force - Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Centripetal_force",
+        "whyUsed": "Verified that gravity provides the centripetal force for orbits and clarified the direction and nature of centripetal acceleration."
+      },
+      {
+        "title": "6.4: Orbital Motion - Physics LibreTexts",
+        "url": "https://phys.libretexts.org/Workbench/NATSCI-1A/PHYSC-11_Text_(FCC)/06:_Circular_Motion_and_Gravity/6.04:_Orbital_Motion",
+        "whyUsed": "Confirmed that ISS gravity is ~8.7 m/s\u00b2 and explained that satellites are in constant freefall while maintaining circular orbits."
+      },
+      {
+        "title": "Motion of Orbiting Satellites: AP Physics 1 Review - Albert Blog",
+        "url": "https://www.albert.io/blog/motion-of-orbiting-satellites-ap-physics-1-review/",
+        "whyUsed": "Explained the equivalence between gravitational force and centripetal force in orbital mechanics and how the orbital equation is derived."
+      },
+      {
+        "title": "How Gravity Governs Satellite Motion - BNS Institute",
+        "url": "https://bns.institute/applied-sciences/gravity-governs-satellite-motion/",
+        "whyUsed": "Provided clear explanation of continuous freefall in orbit and Newton's conceptual model of throwing objects horizontally at increasing speeds."
+      },
+      {
+        "title": "Why Don't Satellites Fall Out of the Sky? - NOAA NESDIS",
+        "url": "https://www.nesdis.noaa.gov/news/why-dont-satellites-fall-out-of-the-sky",
+        "whyUsed": "Verified that satellites maintain orbit through the balance between velocity and gravitational pull, and clarified that the ISS remains in orbit without active propulsion."
+      }
+    ],
+    "searchMeta": {
+      "usedWebSearch": true,
+      "searchQueries": [
+        "satellite orbital mechanics centripetal force gravity",
+        "why satellite doesn't fall centripetal acceleration"
+      ],
+      "confidence": "high"
+    }
+  },
+  "id": 29
+}

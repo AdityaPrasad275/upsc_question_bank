@@ -1,0 +1,62 @@
+{
+  "subject": "Geography",
+  "year": 2023,
+  "theme": "satellite navigation systems by country",
+  "question_short_text": "Identify which country has its own satellite navigation system from the given options",
+  "text": "Which one of the following countries has its own Satellite Navigation System?",
+  "options": [
+    "Australia",
+    "Canada",
+    "Israel",
+    "Japan"
+  ],
+  "answerIndex": 3,
+  "answerText": "(d) Japan",
+  "explanation": "Japan has the Quasi-Zenith Satellite System (QZSS), a regional navigation satellite system designed to enhance GPS accuracy in Japan and the Asia-Oceania region. Australia, Canada, and Israel do not have independent satellite navigation systems; they rely on the US GPS or other global systems.",
+  "research": {
+    "summary": "The QZSS question tests a critical distinction between global and regional satellite navigation systems. Japan operates the Quasi-Zenith Satellite System (QZSS), also known as 'Michibiki,' which became operational in November 2018. This is fundamentally different from the four global navigation systems: GPS (US), GLONASS (Russia), Galileo (EU), and BeiDou (China), all of which provide worldwide coverage. QZSS is a regional navigation satellite system designed specifically to address limitations of GPS in Japan's urban canyons and mountainous terrain, where traditional GPS signals struggle due to signal obstruction. The system consists initially of 4 satellites in carefully designed orbits that ensure at least one satellite is nearly directly overhead (above 60\u00b0 elevation) at all times, providing exceptional signal quality when the system matures to 7 satellites (as planned from 2023 onwards). Critically, QZSS is compatible with GPS and operates as both a standalone regional system and a satellite-based augmentation system (SBAS). Australia, Canada, and Israel all lack independent satellite navigation systems and instead rely on GPS (US) or other global GNSS systems. The trap in this question lies in confusing regional augmentation systems with truly independent navigation systems. India also has its own regional system, NavIC (Navigation with Indian Constellation, or IRNSS), which consists of 7 satellites covering the Indian region and 1,500 km around the mainland. Only Japan among the given options has deployed an operational regional satellite navigation system.",
+    "facts": [
+      "QZSS officially began operational service on November 1, 2018, with a four-satellite constellation",
+      "The system is planned to expand to seven satellites, with an eleven-satellite constellation under consideration as of 2023",
+      "QZSS satellites transmit signals compatible with GPS L1C/A, L1C, L2C, and L5 signals, minimizing the need for specialized receivers",
+      "The primary purpose of QZSS is to increase GPS availability in urban and mountainous areas, where signal obstruction is common",
+      "Only six countries/regions operate their own satellite navigation systems globally: US (GPS), Russia (GLONASS), EU (Galileo), China (BeiDou), Japan (QZSS), and India (NavIC)"
+    ],
+    "sources": [
+      {
+        "title": "Quasi-Zenith Satellite System (QZSS) - Cabinet Office (Japan)",
+        "url": "https://qzss.go.jp/en/overview/services/sv01_what.html",
+        "whyUsed": "Official Japanese government source confirming QZSS as Japan's satellite positioning system and its operational details since 2018"
+      },
+      {
+        "title": "Quasi-Zenith Satellite System - Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Quasi-Zenith_Satellite_System",
+        "whyUsed": "Comprehensive reference on QZSS constellation expansion plans, orbital mechanics, and system capabilities"
+      },
+      {
+        "title": "Satellite navigation - Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Satellite_navigation",
+        "whyUsed": "Verified source distinguishing between global GNSS systems (4) and regional navigation systems (QZSS and NavIC), clarifying the terminology tested in this question"
+      },
+      {
+        "title": "What are the various GNSS systems?",
+        "url": "https://geospatialworld.net/blogs/what-are-the-various-gnss-systems/",
+        "whyUsed": "Authoritative source categorizing satellite navigation systems and confirming which countries operate their own systems"
+      },
+      {
+        "title": "The status of QZSS - GPS World",
+        "url": "https://www.gpsworld.com/the-status-of-qzss/",
+        "whyUsed": "Technical source detailing QZSS constellation expansion from 4 to 7 satellites, consistent with the 2023 exam timeline"
+      }
+    ],
+    "searchMeta": {
+      "usedWebSearch": true,
+      "searchQueries": [
+        "Japan Quasi-Zenith Satellite System QZSS details",
+        "countries own satellite navigation systems GPS GLONASS Galileo BeiDou NavIC"
+      ],
+      "confidence": "high"
+    }
+  },
+  "id": 6
+}

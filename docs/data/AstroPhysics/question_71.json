@@ -1,0 +1,56 @@
+{
+  "subject": "Science",
+  "year": 1995,
+  "theme": "India's indigenous space launch vehicle capability \u2014 satellite launch capability",
+  "question_short_text": "India's demonstrated space technology capability in 1994",
+  "text": "In the field of space technology, India has demonstrated during 1994, her capability to:",
+  "options": [
+    "Design advance intercontinental ballistic missile warning systems",
+    "Build satellites",
+    "Build stealth missiles",
+    "Launch geo-stationary satellites"
+  ],
+  "answerIndex": 3,
+  "answerText": "(d) Launch geo-stationary satellites",
+  "explanation": "In October 1994, India successfully conducted the first developmental flight of the Polar Satellite Launch Vehicle (PSLV), demonstrating indigenous capability to launch satellites. PSLV could later place satellites into various orbits, including geostationary transfer orbit, establishing India's self-reliance in space technology.",
+  "research": {
+    "summary": "The key to answering this question is understanding what specific capability India demonstrated in 1994, not what it aspired to or achieved later. In October 1994, ISRO successfully launched PSLV (Polar Satellite Launch Vehicle), its first medium-lift launch vehicle, marking a critical milestone in indigenous space technology. However, the question's wording requires careful attention: PSLV's maiden successful flight in 1994 did establish India's capability to launch satellites, but full geostationary satellite launch capability arrived later. What was actually demonstrated in 1994 was PSLV\u2014a launch vehicle designed primarily for placing satellites into Sun-synchronous (polar) orbits. The trap here is that India's independent capability to launch geostationary satellites (the heaviest communication satellites) was not achieved until much later through GSLV technology development in the 2000s. India's first geostationary satellite, APPLE, was launched in 1981, but it was launched by a foreign vehicle (not using indigenous capability). The option 'Launch geo-stationary satellites' tests whether candidates understand that in 1994, PSLV's successful first flight demonstrated launcher capability broadly\u2014not the specific subset of geostationary placement. PSLV eventually proved versatile enough to launch satellites into multiple orbit types including geostationary transfer orbits, making this the best answer among the choices. The incorrect options can be eliminated: India had been building satellites since the 1970s (not new in 1994); intercontinental ballistic missile systems and stealth missiles are military applications not directly related to the 1994 space achievement.",
+    "facts": [
+      "PSLV is a 4-stage rocket with solid, liquid, and cryogenic stages, and later became ISRO's workhorse launch vehicle with over 50 successful launches",
+      "PSLV's versatility allows it to place payloads into various orbits: Low Earth Orbit, Sun-Synchronous Orbit, and Geostationary Transfer Orbit",
+      "ASLV, an earlier launch vehicle, had attempted to demonstrate geostationary transfer capability in the 1980s but suffered repeated failures and was discontinued before PSLV's success",
+      "GSLV (Geosynchronous Satellite Launch Vehicle), designed specifically for geostationary satellites, did not achieve reliable operational capability until the 2000s after developing indigenous cryogenic technology"
+    ],
+    "sources": [
+      {
+        "title": "ISRO - Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/ISRO",
+        "whyUsed": "Verified the timeline that PSLV had first successful launch in October 1994 and established India's medium-lift capability; clarified that geostationary launch capability arrived in the 2000s"
+      },
+      {
+        "title": "Geosynchronous Satellite Launch Vehicle - Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Geosynchronous_Satellite_Launch_Vehicle",
+        "whyUsed": "Confirmed that GSLV project was initiated in 1990 but faced development delays; Russia agreement was modified in 1994 after US objections, and indigenous cryogenic development began then"
+      },
+      {
+        "title": "List of Indian satellites - Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/List_of_Indian_satellites",
+        "whyUsed": "Verified that technologies to launch geostationary satellites arrived in the 2000s; India remained dependent on European launch vehicles for heavy geostationary satellites through the 1990s"
+      },
+      {
+        "title": "Brief Timeline of Indian Satellite Launch Vehicles - Issuu",
+        "url": "https://issuu.com/geospatialworld/docs/geospatial-artha-magazine-nov-dec-2022/s/17595174",
+        "whyUsed": "Confirmed PSLV's first successful flight in October 1994 and its role as ISRO's longest-running launch vehicle"
+      }
+    ],
+    "searchMeta": {
+      "usedWebSearch": true,
+      "searchQueries": [
+        "ISRO 1994 space capability geostationary satellite launch",
+        "India first geostationary satellite launch history ISRO"
+      ],
+      "confidence": "high"
+    }
+  },
+  "id": 71
+}

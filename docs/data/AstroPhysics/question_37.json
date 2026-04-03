@@ -1,0 +1,51 @@
+{
+  "subject": "Science",
+  "year": 2008,
+  "theme": "ISRO infrastructure and cryogenic engine development",
+  "question_short_text": "Location of ISRO cryogenic engine test-stand from 2007 test",
+  "text": "ISRO successfully conducted a rocket test using cryogenic engines in the year 2007. Where is the test-stand used for this purpose located?",
+  "options": [
+    "Balasoren",
+    "Thiruvananthapuram",
+    "Mahendragiri",
+    "Karwar"
+  ],
+  "answerIndex": 2,
+  "answerText": "(c) Mahendragiri",
+  "explanation": "The test-stand for the 2007 cryogenic engine test is located at Mahendragiri, Tamil Nadu, which houses the ISRO Propulsion Complex (IPRC). This facility is responsible for development and testing of ISRO's propulsion systems including cryogenic engines.",
+  "research": {
+    "summary": "The ISRO Propulsion Complex (IPRC) at Mahendragiri in Tirunelveli district, Tamil Nadu, is India's primary test facility for advanced rocket propulsion systems. When ISRO conducted its historic 2007 cryogenic engine test, it was conducted at Mahendragiri's dedicated test-stand facilities. The IPRC is not merely a single test facility but a comprehensive complex housing test infrastructure for solid propellant motors, liquid engines, and cryogenic engines\u2014making it the natural choice for ISRO's cryogenic development work. The location in Tamil Nadu, far from populated urban centers, is deliberate for safety reasons when conducting high-pressure engine tests. This 2007 milestone was part of India's larger cryogenic engine development programme, culminating in the CE-20 engine, which is now the workhorse of ISRO's LVM3 launch vehicle and has been human-rated for the Gaganyaan programme. The other options are geographically significant for different ISRO facilities: Thiruvananthapuram hosts ISRO headquarters and the Vikram Sarabhai Space Centre (launch vehicle design), Balasoren (Balasore in Odisha) hosts the Satish Dhawan Space Centre (launch site), and Karwar in Karnataka is related to other space infrastructure, but none of these are the primary cryogenic engine test facility.",
+    "facts": [
+      "The IPRC at Mahendragiri is situated in the Tirunelveli district of Tamil Nadu, strategically located away from populated areas for safe high-pressure testing.",
+      "India's CE-20 cryogenic engine, first hot-tested successfully in the years following 2007, produces 200 kN nominal thrust and powers the upper stage of LVM3, India's heaviest operational launch vehicle.",
+      "The IPRC facility houses multiple specialized test infrastructure including the High-Altitude Test (HAT) facility for vacuum conditions and ground-level test facilities, enabling comprehensive engine qualification.",
+      "Cryogenic engines using liquid hydrogen and liquid oxygen are among the most advanced propulsion systems, with only six countries possessing indigenous cryogenic rocket technology.",
+      "ISRO's cryogenic programme represented a major technological leap, making India self-reliant in a strategically significant space capability previously limited to major spacefaring nations."
+    ],
+    "sources": [
+      {
+        "title": "ISRO Propulsion Complex Overview",
+        "url": "https://examrobot.com/content/isro-successfully-conducted-rocket-test-using-cryogenic-engines-year-2007-where-test-stand",
+        "whyUsed": "Verified location of the 2007 cryogenic engine test-stand at Mahendragiri in Tirunelveli district, Tamil Nadu, and confirmed IPRC's role in propulsion system development."
+      },
+      {
+        "title": "CE-20 Cryogenic Engine History",
+        "url": "https://en.wikipedia.org/wiki/CE-20",
+        "whyUsed": "Provided detailed history of cryogenic engine development and testing at IPRC Mahendragiri facility, confirming the facility's continuous role in engine qualification since 2007."
+      },
+      {
+        "title": "ISRO Official: CE20 Engine Tests",
+        "url": "https://www.isro.gov.in/First_Hot_Test_SemicryogenicEngine.html",
+        "whyUsed": "Official ISRO source confirming Mahendragiri as the designated facility for cryogenic and semi-cryogenic engine testing and development."
+      }
+    ],
+    "searchMeta": {
+      "usedWebSearch": true,
+      "searchQueries": [
+        "ISRO cryogenic engine test 2007 Mahendragiri test-stand"
+      ],
+      "confidence": "high"
+    }
+  },
+  "id": 37
+}

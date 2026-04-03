@@ -1,0 +1,67 @@
+{
+  "subject": "Science & Technology",
+  "year": 2025,
+  "theme": "Unmanned Aerial Vehicles (UAVs): Design diversity and technical capabilities",
+  "question_short_text": "Evaluate statements on vertical landing, hovering, and power sources across all UAV types",
+  "text": "With reference to Unmanned Aerial Vehicles (UAVs), consider the following statements:\n\nI. All types of UAVs can do vertical landing.\nII. All types of UAVs can do automated hovering.\nIII. All types of UAVs can use battery only as a source of power supply.\n\nHow many of the statements given above are correct?",
+  "options": [
+    "Only one",
+    "Only two",
+    "All the three",
+    "None"
+  ],
+  "answerIndex": 3,
+  "answerText": "(d) None",
+  "explanation": "None of the three statements are universally true across all UAV types. Fixed-wing UAVs cannot perform vertical landings or automated hovering; they require runways. UAVs also use diverse power sources beyond batteries, including gasoline, hybrid engines, and solar panels.",
+  "research": {
+    "summary": "This question tests a common misconception about UAV capabilities: that all drones share the same functional characteristics. The trap is treating UAVs as a monolithic category when they are actually highly diverse platforms, each optimized for different operational profiles.\n\nStatement I is incorrect because vertical landing is NOT a universal capability. Only rotary-wing UAVs (quadcopters, helicopters) and hybrid VTOL (Vertical Take-Off and Landing) drones can perform vertical landings. Fixed-wing UAVs\u2014the other major category\u2014are aerodynamically similar to conventional airplanes: they must have continuous forward motion to generate lift and maintain altitude. They typically require a runway or launcher and perform conventional landings like aircraft, not vertical descents. Attempting a vertical maneuver would cause a stall.\n\nStatement II is equally incorrect. Automated hovering is limited to rotary-wing platforms. A quadcopter or multirotor can maintain a stationary position in the air through precise control of multiple rotors with GPS and autopilot systems. Fixed-wing UAVs, by contrast, cannot hover\u2014they must be in constant motion to generate lift from their rigid wings. This is a fundamental aerodynamic constraint, not a software limitation.\n\nStatement III is wrong because UAVs employ diverse power sources depending on mission requirements and design. While small consumer drones commonly use lithium-ion or lithium-polymer batteries, larger and long-range UAVs use gasoline engines (especially for endurance), hybrid systems (diesel/gasoline engines driving alternators to power electric motors), and some use solar panels. The choice of power source reflects the endurance-versus-efficiency trade-off: batteries offer quiet, clean operation but limited flight time; gasoline engines provide hours of endurance for surveillance or mapping missions covering hundreds of square kilometers.\n\nThe real conceptual issue here is recognizing that UAVs are not a single technology\u2014they are a family of aircraft designs with fundamentally different aerodynamic and operational principles. Fixed-wing designs prioritize range and endurance but sacrifice agility and VTOL capability. Rotary-wing designs prioritize precision, hovering, and vertical takeoff at the cost of range and efficiency. Understanding this diversity is essential for identifying which statements apply universally and which apply only to certain sub-types.",
+    "facts": [
+      "Fixed-wing UAVs rely on continuous forward motion to generate lift and cannot hover, requiring runways or launchers for takeoff and conventional landings for descent.",
+      "Rotary-wing UAVs (multirotors, helicopters) achieve lift through multiple spinning rotors and can perform vertical takeoff, landing, and automated hovering with GPS/autopilot systems.",
+      "Hybrid VTOL UAVs combine rotor-based vertical launch with fixed-wing forward flight efficiency, offering the advantages of both but at greater complexity and cost.",
+      "Power sources in UAVs are mission-dependent: batteries suit short-range operations; gasoline engines provide 16+ hours endurance for large-scale surveying; hybrid systems optimize both vertical lift and cruise efficiency.",
+      "The longest-endurance UAVs typically use gasoline or hybrid engines rather than batteries, as they enable continuous operations for surveillance, mapping, and monitoring missions across hundreds of square kilometers."
+    ],
+    "sources": [
+      {
+        "title": "ForumIAS: UAV Statements Analysis",
+        "url": "https://forumias.com/blog/question/with-reference-to-unmanned-aerial-vehicles-uavs-consider-the-following-statements-i-all-types-of-uavs-can-do-vertical-landing-ii-all-types-of-uavs-can-do-automated-hovering-iii-all-types-of-u/",
+        "whyUsed": "Clear distinction between multirotor hovering/vertical landing versus fixed-wing aerodynamic constraints"
+      },
+      {
+        "title": "Max IAS: UAV Types and Characteristics",
+        "url": "https://maxias.in/pyq-question-bank/science-tech/with-reference-to-unmanned-aerial-vehicles-uavs-consider-the-following-statements/",
+        "whyUsed": "Comprehensive breakdown of FWUAV vs RUAV vs hybrid VTOL capabilities and power source diversity"
+      },
+      {
+        "title": "Tyto Robotics: Types of Drones and UAVs",
+        "url": "https://www.tytorobotics.com/blogs/articles/types-of-drones",
+        "whyUsed": "Detailed explanation of rotary-wing hovering automation and fixed-wing limitations"
+      },
+      {
+        "title": "Wikipedia: Unmanned Aerial Vehicle",
+        "url": "https://en.wikipedia.org/wiki/Unmanned_aerial_vehicle",
+        "whyUsed": "Verified information on UAV power source options including engines, batteries, and hybrid systems"
+      },
+      {
+        "title": "ScienceDirect: UAV Classification and Power Systems",
+        "url": "https://www.sciencedirect.com/topics/engineering/unmanned-aerial-vehicle",
+        "whyUsed": "Technical overview of UAV classification, power sources, and energy management strategies"
+      },
+      {
+        "title": "Grepow: Multirotor vs Fixed Wing vs VTOL UAV",
+        "url": "https://www.grepow.com/blog/multirotor-vs-fixed-wing-vs-vtol-uav-what-is-the-difference.html",
+        "whyUsed": "Clear comparison of three major UAV categories and their distinct capabilities and limitations"
+      }
+    ],
+    "searchMeta": {
+      "usedWebSearch": true,
+      "searchQueries": [
+        "UAV types capabilities vertical landing hovering power sources",
+        "fixed-wing rotorcraft multicopter UAV characteristics"
+      ],
+      "confidence": "high"
+    }
+  },
+  "id": 1
+}

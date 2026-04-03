@@ -1,0 +1,62 @@
+{
+  "subject": "Science",
+  "year": 2002,
+  "theme": "satellite launch efficiency and escape velocity concepts",
+  "question_short_text": "Whether artificial satellites are launched eastward and the role of Earth's rotation in escape velocity",
+  "text": "**Assertion (A):** Artificial satellites are always launched from the earth in the eastward direction.\n\n**Reason (R):** The earth rotates from west to east and so the satellite attains the escape velocity.",
+  "options": [
+    "Both A and R are individually true and R is the correct explanation of A",
+    "Both A and R are individually true but R is not a correct explanation of A",
+    "A is true but R is false",
+    "A is false but R is true"
+  ],
+  "answerIndex": 2,
+  "answerText": "(c) A is true but R is false",
+  "explanation": "Satellites are typically launched eastward to gain a fuel-efficient boost from Earth's rotation, but this helps achieve orbital velocity, not escape velocity. Earth's rotation does not directly cause satellites to attain escape velocity\u2014that is a fundamental constant determined by gravitational physics.",
+  "research": {
+    "summary": "This question tests a critical distinction in orbital mechanics: the difference between orbital velocity and escape velocity, and how Earth's rotation aids in launching satellites. The assertion is correct but the reasoning conflates two different concepts. Satellites are indeed usually launched eastward, but not to achieve escape velocity. At the equator, Earth rotates at approximately 1,670 km/h (or ~460 m/s), imparting this eastward velocity to any object at rest on the launch pad. When a rocket launches eastward, it inherits this rotational velocity, which reduces the additional delta-v (change in velocity) the rocket must provide to reach orbital speed\u2014typically about 8 km/s for low Earth orbit. This saves significant fuel and payload capacity. However, escape velocity (about 11.2 km/s from Earth's surface) is a function of the planet's mass and radius alone. The direction of launch does affect escape velocity slightly\u2014a rocket launched eastward at the equator needs approximately 10.735 km/s relative to the moving surface, while one launched westward needs 11.665 km/s\u2014but this is a minor directional effect, not the primary reason for eastward launches. The reason is fundamentally wrong because it misrepresents why satellites are launched eastward. They are launched eastward for fuel efficiency and payload maximization for orbital operations, not to attain escape velocity. The trap UPSC sets here is that students may confuse 'getting a satellite into space' with 'achieving escape velocity'\u2014most artificial satellites enter orbit (which requires orbital velocity ~8 km/s) rather than escape Earth entirely (which requires ~11.2 km/s). Understanding this distinction is crucial for recognizing similar concept-mixing errors in space physics questions.",
+    "facts": [
+      "Most artificial satellites are placed in low Earth orbit (~100\u2013200 km altitude) and require orbital velocity (~8 km/s), not escape velocity (~11.2 km/s).",
+      "Eastward launches from equatorial regions provide the maximum rotational velocity boost (~1,670 km/h), which is why major launch sites like Cape Canaveral (28\u00b0N), Kourou (5\u00b0N), and Sriharikota (14\u00b0N) are positioned near the equator.",
+      "Polar-orbiting satellites are launched northward or southward, not eastward, because they do not benefit from equatorial rotation.",
+      "The actual escape velocity required by a rocket depends on the formula ve = \u221a(2GM/r), where M is Earth's mass and r is the distance from Earth's center\u2014Earth's rotation does not change this fundamental relationship.",
+      "A spacecraft in low Earth orbit travels at roughly \u221a2 times slower than escape velocity, demonstrating that most satellites need orbital mechanics, not escape-velocity physics."
+    ],
+    "sources": [
+      {
+        "title": "Wikipedia: Escape velocity",
+        "url": "https://en.wikipedia.org/wiki/Escape_velocity",
+        "whyUsed": "Verified the numerical difference in escape velocity for eastward vs. westward launches and clarified that the effect is directional, not a primary mechanism for achieving escape velocity."
+      },
+      {
+        "title": "NASA Science: Chapter 14 - Launch",
+        "url": "https://science.nasa.gov/learn/basics-of-space-flight/chapter14-1/",
+        "whyUsed": "Confirmed that eastward equatorial launches reduce propellant requirements and allow more massive spacecraft payloads, establishing that this is an efficiency gain for orbital insertion, not escape-velocity achievement."
+      },
+      {
+        "title": "ScienceABC: Why Are Rockets Launched From Areas Near The Equator",
+        "url": "https://www.scienceabc.com/eyeopeners/why-are-rockets-launched-from-areas-near-the-equator.html",
+        "whyUsed": "Provided clear explanation that Earth's rotational speed at the equator (~1,674 km/h) gives a natural velocity boost for orbital missions, with practical examples of launch site selection."
+      },
+      {
+        "title": "BBC Sky at Night Magazine: When Artemis II Launches",
+        "url": "https://www.skyatnightmagazine.com/space-missions/why-do-rockets-not-launch-straight-up",
+        "whyUsed": "Explained that eastward equatorial launches provide a 'free' energy boost of ~1,600 km/h, reducing fuel needs by 15\u201320% in payload capacity, without conflating this with escape velocity."
+      },
+      {
+        "title": "Physics textbook source: Escape and Orbital Velocity",
+        "url": "https://byjus.com/jee/escape-and-orbital-velocity/",
+        "whyUsed": "Clarified the mathematical distinction between orbital velocity (\u221a(GM/r)) and escape velocity (\u221a(2GM/r)), showing that they are derived from different physical requirements."
+      }
+    ],
+    "searchMeta": {
+      "usedWebSearch": true,
+      "searchQueries": [
+        "eastward satellite launch Earth rotation efficiency fuel",
+        "escape velocity Earth rotation satellite launch direction"
+      ],
+      "confidence": "high"
+    }
+  },
+  "id": 57
+}

@@ -1,0 +1,63 @@
+{
+  "subject": "Environment",
+  "year": 2019,
+  "theme": "remote sensing and satellite applications for environmental monitoring",
+  "question_short_text": "Uses of satellite remote sensing: chlorophyll, methane emissions, land surface temperature",
+  "text": "For the measurement/estimation of which of the following are satellite images/remote sensing data used?\n\n1. Chlorophyll content in the vegetation of a specific location\n2. Greenhouse gas emissions from rice paddies of a specific location\n3. Land surface temperatures of a specific location\n\nSelect the correct answer using the code given below.\n\na) 1 Only\nb) 2 and 3 only\nc) 3 only\nd) 1, 2 and 3",
+  "options": [
+    "1 Only",
+    "2 and 3 only",
+    "3 only",
+    "1, 2 and 3"
+  ],
+  "answerIndex": 3,
+  "answerText": "(d) 1, 2 and 3",
+  "explanation": "Satellite remote sensing and satellite images are used to measure and estimate all three parameters: chlorophyll content in vegetation, greenhouse gas emissions from rice paddies, and land surface temperatures. All three statements are correct.",
+  "research": {
+    "summary": "This question tests understanding of the breadth of remote sensing applications in environmental monitoring. Remote sensing is not a single-use tool but a versatile technology applicable across multiple environmental parameters. For statement 1, chlorophyll content is reliably estimated using multispectral and hyperspectral satellite imagery. Platforms like Sentinel-2 and Landsat capture reflectance at specific wavelengths\u2014particularly the red-edge region (705\u2013740 nm)\u2014where chlorophyll shows strong spectral sensitivity. Vegetation indices such as NDVI, red-edge indices, and solar-induced chlorophyll fluorescence (SIF) retrievals all enable non-destructive monitoring of vegetation health and photosynthetic activity across landscapes. For statement 2, greenhouse gas emissions from rice paddies can be estimated using satellite data, though not through direct methane detection at the pixel level. Instead, satellites identify rice paddy locations and track inundation patterns\u2014critical drivers of methane production. Radar sensors like PALSAR-2 detect standing water and flooded conditions even beneath vegetation. Optical sensors (Sentinel-2, MODIS) measure temporal changes in vegetation and water cover through indices like NDVI and NDWI. When combined with field data or process-based models (DNDC, IPCC guidelines), these satellite-derived variables enable regional-scale methane emission estimation. The key insight is that satellites measure the environmental conditions controlling methane production\u2014water presence, soil temperature, rice phenology\u2014not the gas itself directly. For statement 3, land surface temperature (LST) is unambiguously measured using thermal infrared (TIR) sensors. Landsat's Thermal Infrared Sensor (TIRS), MODIS on Terra and Aqua, ASTER, Sentinel-3's SLSTR, and other platforms all detect thermal radiation in the 8\u201314 \u03bcm band. The physics is direct: all Earth surface objects emit thermal infrared proportional to their temperature, and satellite thermal sensors quantify this emission after atmospheric correction and emissivity adjustment. LST data supports diverse applications including agriculture, water management, urban heat monitoring, and climate studies. The trap in this question is failing to recognize that statement 2 requires satellite data even though direct methane measurement from orbit is not yet operational. The correct understanding is that remote sensing enables multi-parameter environmental characterization by combining different sensor types and wavelengths.",
+    "facts": [
+      "Solar-induced chlorophyll fluorescence (SIF) satellites like GOME-2 and OCO-3 can now measure photosynthetic activity globally, offering real-time vegetation stress detection.",
+      "Synthetic aperture radar (SAR) platforms like PALSAR-2 detect flooded rice paddies with high reliability despite vegetation cover, making them essential for rice-area mapping in cloudy regions.",
+      "Landsat-8 and Landsat-9 TIRS produce land surface temperature at 100-meter resolution with absolute calibration uncertainty below 2% for typical surface temperatures, supporting water resource management and drought monitoring.",
+      "Multiple satellite sources now provide LST products: MODIS offers ~1-km resolution daily, Landsat provides ~100-m resolution every 16 days, and Sentinel-3 SLSTR contributes to global 1-km LST records.",
+      "Remote sensing-based methane emission estimates require integration of satellite-derived rice area, phenology, inundation timing, and land surface temperature with biogeochemical process models to translate environmental conditions into regional CH4 flux estimates."
+    ],
+    "sources": [
+      {
+        "title": "A Comprehensive Review of Crop Chlorophyll Mapping Using Remote Sensing Approaches: Achievements, Limitations, and Future Perspectives",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12031281/",
+        "whyUsed": "Verified that modern multispectral and hyperspectral instruments from satellite platforms like Sentinel-2 estimate chlorophyll content using spectral signals in red-edge region"
+      },
+      {
+        "title": "Satellite data based estimation of methane emissions from rice paddies in the Sanjiang Plain in northeast China",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5460792/",
+        "whyUsed": "Confirmed that satellite remote sensing data combined with process-based models can estimate regional methane emissions from rice paddies using LST, precipitation, evapotranspiration, and rice area"
+      },
+      {
+        "title": "Thermal Infrared Sensor | Landsat Science - NASA",
+        "url": "https://landsat.gsfc.nasa.gov/satellites/landsat-8/spacecraft-instruments/thermal-infrared-sensor/",
+        "whyUsed": "Verified that Landsat TIRS measures land surface temperature in two thermal-infrared bands, with quantified accuracy for temperature measurements"
+      },
+      {
+        "title": "Utilization of Multisensor Satellite Data for Developing Spatial Distribution of Methane Emission on Rice Paddy Field in Subang, West Java",
+        "url": "https://www.mdpi.com/2072-4292/17/13/2154",
+        "whyUsed": "Demonstrated that multisensor satellite data (Sentinel-1 radar, optical data) identify rice paddies and inundation conditions essential for methane emission estimation models"
+      },
+      {
+        "title": "A high-resolution satellite-based solar-induced chlorophyll fluorescence dataset for China from 2000 to 2022",
+        "url": "https://www.nature.com/articles/s41597-024-04101-6",
+        "whyUsed": "Confirmed that solar-induced chlorophyll fluorescence from satellite sensors serves as a proxy for vegetation photosynthesis and vegetation health monitoring"
+      }
+    ],
+    "searchMeta": {
+      "usedWebSearch": true,
+      "searchQueries": [
+        "satellite remote sensing chlorophyll content vegetation measurement",
+        "satellite remote sensing methane emissions rice paddies",
+        "thermal infrared satellite land surface temperature measurement"
+      ],
+      "confidence": "high"
+    }
+  },
+  "id": 11
+}

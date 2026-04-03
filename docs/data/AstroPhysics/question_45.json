@@ -1,0 +1,51 @@
+{
+  "subject": "Science",
+  "year": 2007,
+  "theme": "Solar System distances and astronomical measurement units",
+  "question_short_text": "Average distance between Sun and Earth in kilometers",
+  "text": "What is the average distance (approximate) between the Sun and the Earth?",
+  "options": [
+    "70\u00d710\u2075 km",
+    "100\u00d710\u2075 km",
+    "110\u00d710\u2076 km",
+    "150\u00d710\u2076 km"
+  ],
+  "answerIndex": 3,
+  "answerText": "(d) 150\u00d710\u2076 km",
+  "explanation": "The average distance between the Sun and Earth is approximately 150 million kilometers (150\u00d710\u2076 km), which is defined as one astronomical unit (AU). This is the standard reference distance used in astronomy for Solar System measurements.",
+  "research": {
+    "summary": "The question tests recall of a fundamental constant in astronomy: the Earth-Sun distance. The correct answer is 150\u00d710\u2076 km (or 150 million km), which is exactly what the International Astronomical Union (IAU) fixed in 2012 as 149,597,870.7 km when defining the astronomical unit (AU). This distance is not a fixed geometric constant but rather an average, because Earth's orbit is elliptical\u2014Earth is closest to the Sun at perihelion (about 147.1 million km) and farthest at aphelion (about 152.1 million km). The AU was historically conceived as the mean of these two extremes, though the modern IAU definition sets it at a fixed value for practical astronomical calculations. The question's use of 150\u00d710\u2076 km represents the standard textbook approximation that students are expected to know. A common trap for students is confusing this distance with other quantities: option (a) 70\u00d710\u2075 km equals only 70 million km (roughly between Earth and Venus), and option (c) 110\u00d710\u2076 km falls between Earth's perihelion and aphelion but is not the standard average. The AU is fundamental to Solar System astronomy because it provides a convenient scale for expressing planetary distances\u2014Mars orbits at about 1.5 AU, Jupiter at 5.2 AU\u2014making it easier to visualize the vast differences in planetary positions without using extremely large numbers.",
+    "facts": [
+      "The modern astronomical unit (AU) is fixed at 149,597,870.7 kilometers by the International Astronomical Union since 2012.",
+      "Earth's actual orbital distance varies from perihelion (147.1 million km) to aphelion (152.1 million km), making 150 million km an effective average.",
+      "Light takes approximately 8 minutes and 20 seconds to travel from the Sun to Earth at this distance.",
+      "The AU is used to measure distances throughout the Solar System, with planets ranging from Mercury at 0.39 AU to Neptune at 30 AU.",
+      "Before the 2012 redefinition, the AU was defined dynamically based on the gravitational constant and solar mass, which caused precision issues over time."
+    ],
+    "sources": [
+      {
+        "title": "Astronomical unit - Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Astronomical_unit",
+        "whyUsed": "Verified the exact IAU definition of AU (149,597,870.7 km) and clarified why the definition changed from mean Earth-Sun distance to a fixed value in 2012."
+      },
+      {
+        "title": "Astronomical unit - Britannica",
+        "url": "https://www.britannica.com/science/astronomical-unit",
+        "whyUsed": "Confirmed the numerical value and explained the historical context of AU measurement including parallax methods and modern radar/laser ranging techniques."
+      },
+      {
+        "title": "Sky at Night Magazine - Astronomical Unit",
+        "url": "https://www.skyatnightmagazine.com/space-science/astronomical-unit",
+        "whyUsed": "Verified the approximate value of 150 million kilometers and its use as a practical reference for Solar System distances."
+      }
+    ],
+    "searchMeta": {
+      "usedWebSearch": true,
+      "searchQueries": [
+        "astronomical unit AU distance Sun Earth kilometers"
+      ],
+      "confidence": "high"
+    }
+  },
+  "id": 45
+}

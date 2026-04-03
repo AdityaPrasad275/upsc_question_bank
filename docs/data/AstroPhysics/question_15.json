@@ -1,0 +1,57 @@
+{
+  "subject": "Science",
+  "year": 2018,
+  "theme": "IRNSS constellation architecture and coverage characteristics",
+  "question_short_text": "Identifying correct statements about IRNSS satellite orbits and service coverage area",
+  "text": "With reference to the Indian Regional Navigation Satellite System (IRNSS), consider the following statements:\n\n1. IRNSS has three satellites in geostationary and four satellites in geosynchronous orbits.\n2. Geosynchronous covers entire India and about 5500 sq. Km beyond its border.\n3. India will have its own satellite navigation system with full global coverage by the middle of 2019.\n\nWhich of the following statements given above is/are correct?",
+  "options": [
+    "1 only",
+    "1 and 2 only",
+    "2 and 3 only",
+    "none"
+  ],
+  "answerIndex": 0,
+  "answerText": "(a) 1 only",
+  "explanation": "The IRNSS constellation consists of 7 satellites: 3 in geostationary orbit (GEO) and 4 in inclined geosynchronous orbit (GSO). Statement 1 is correct. The system covers India and a region extending 1,500 km around it, not 5,500 sq. km (Statement 2 is incorrect). IRNSS is a regional system, not global, with no plan announced for global coverage by mid-2019 (Statement 3 is incorrect).",
+  "research": {
+    "summary": "The IRNSS (NavIC) system is fundamentally misunderstood in two critical ways that this question tests. First, the constellation architecture: UPSC is confirming that students understand the basic three-GEO, four-GSO split, which is a verified architectural feature since IRNSS-1G's launch completed the constellation in April 2016. However, the trap lies in statements 2 and 3, which exploit common misconceptions about coverage scope and timeline.\n\nStatement 2 contains a critical dimensional error. The 1,500 km coverage area around India is a linear distance radius, not a square area measure. Converting 1,500 km to \"5,500 sq. km\" makes no geometric sense\u2014a 1,500 km radius would create an area of millions of square kilometers. This appears to be a deliberate trap to test whether students confuse distance units with area units. The actual primary service area is India plus 1,500 km beyond its borders.\n\nStatement 3 targets timeline misconceptions. In 2018 (when this question was asked), there was discussion of expanding NavIC to global coverage, but no concrete plan with a mid-2019 deadline existed. India's 2021 draft policy proposed expanding from regional to global, but this involved launching an entirely new constellation of medium-earth-orbit satellites\u2014not a timeline achievable by mid-2019. The question was testing whether students could distinguish between optimistic announcements and actual committed timelines.\n\nA critical adjacent fact: The GSO satellites are in inclined geosynchronous orbit (IGSO) with a 29\u00b0 inclination, not standard geosynchronous orbit. This ensures continuous radio visibility with Indian control stations and provides better coverage over the Indian region compared to purely geostationary placement. This architectural choice reflects the system's deliberate regional design philosophy.",
+    "facts": [
+      "IRNSS constellation was completed with 7 satellites by April 2016 (IRNSS-1G launch), with 3 GEO at 32.5\u00b0E, 83\u00b0E, and 131.5\u00b0E, and 4 IGSO at 29\u00b0 inclination crossing at 55\u00b0E and 111.75\u00b0E",
+      "Primary service area covers India and extends 1,500 km (930 miles) beyond borders; an extended service area lies between 1,500 to 6,000 km where some satellites are visible but accuracy not assured",
+      "IRNSS provides position accuracy better than 20 meters over the service region and under 10 meters within India itself, making it competitive with GPS for regional use",
+      "The four IGSO satellites are in inclined geosynchronous orbits with 29\u00b0 inclination, ensuring at least 4 satellites are visible simultaneously from any point in India for continuous coverage",
+      "As of 2018, IRNSS was strictly a regional navigation system; global expansion plans emerged only in the 2021 draft policy and involved medium-earth-orbit satellite constellation, not timeline-feasible by mid-2019"
+    ],
+    "sources": [
+      {
+        "title": "Indian Regional Navigation Satellite System - Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Indian_Regional_Navigation_Satellite_System",
+        "whyUsed": "Verified constellation architecture (3 GEO, 4 GSO), coverage area (1,500 km), and clarification that global expansion was not planned as of 2018"
+      },
+      {
+        "title": "IRNSS Programme - URSC, ISRO",
+        "url": "https://www.ursc.gov.in/navigation/irnss.jsp",
+        "whyUsed": "Official ISRO source confirming the 7-satellite constellation (3 GEO, 4 GSO), their orbital positions, and primary coverage of 1,500 km around India"
+      },
+      {
+        "title": "IRNSS (Indian Regional Navigational Satellite System) - eoPortal",
+        "url": "https://www.eoportal.org/satellite-missions/irnss",
+        "whyUsed": "Technical details on GSO inclination (29\u00b0), continuous radio visibility requirement, and position accuracy specifications"
+      },
+      {
+        "title": "NAVIC - Navipedia",
+        "url": "https://gssc.esa.int/navipedia/index.php/NAVIC",
+        "whyUsed": "Confirmation that IRNSS is regional (1,500 km service area) and was renamed NavIC in April 2016 upon constellation completion"
+      }
+    ],
+    "searchMeta": {
+      "usedWebSearch": true,
+      "searchQueries": [
+        "IRNSS NavIC satellite constellation geostationary geosynchronous orbit",
+        "IRNSS service coverage area India kilometers"
+      ],
+      "confidence": "high"
+    }
+  },
+  "id": 15
+}

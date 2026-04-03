@@ -1,0 +1,56 @@
+{
+  "subject": "Science",
+  "year": 2002,
+  "theme": "lunar orbital mechanics and apparent moonrise timing",
+  "question_short_text": "Calculate the moon's rise time on the 4th day using lunar cycle principles",
+  "text": "Assume that the moon takes exactly 30 days to complete the cycle and also assume that it rises in the East exactly at 6:48 p.m. on the first day. On the fourth day, at what time will it rise?",
+  "options": [
+    "8:24 p.m.",
+    "9:12 p.m.",
+    "10:00 p.m.",
+    "11:48 p.m."
+  ],
+  "answerIndex": 1,
+  "answerText": "(b) 9:12 p.m.",
+  "explanation": "The moon rises approximately 48 minutes later each day because it moves eastward in its orbit while Earth rotates. Over 3 days (from day 1 to day 4), the total delay is 3 \u00d7 48 = 144 minutes (2 hours 24 minutes). Adding this to 6:48 p.m. gives 9:12 p.m.",
+  "research": {
+    "summary": "This question tests understanding of lunar orbital mechanics relative to Earth's rotation. The key principle is that while Earth rotates westward (making celestial objects appear to rise and set), the moon orbits eastward around Earth. This combination means the moon 'slips behind' in its apparent position each day, requiring Earth to rotate an extra amount for the same lunar longitude to reach the observer's eastern horizon.\n\nThe question assumes a 30-day lunar cycle (simplified from the actual 29.5-day synodic month). In 30 days, the moon completes 360 degrees of orbital motion relative to the Earth-Sun system, or 12 degrees per day. Since Earth rotates 360 degrees in 24 hours (15 degrees per hour), the extra 12-degree eastward displacement of the moon requires approximately 48 minutes of additional Earth rotation to bring it back to the eastern horizon. This is why the moon rises roughly 48 minutes later each successive day\u2014a fact observable in real lunar cycles (actual delay is ~50 minutes due to the 27.3-day sidereal period).\n\nTo calculate the rise time on day 4, one must count the cumulative delays from day 1 to day 4: three intervals of 48 minutes each = 144 minutes = 2 hours 24 minutes. Adding this to the initial rise time of 6:48 p.m. yields 9:12 p.m. The trap for unprepared students is misapplying the daily delay\u2014using 4 days instead of 3 days' worth of delay (since we measure from day 1 to day 4), or confusing whether the moon rises earlier or later (it rises later because it has moved eastward in its orbit).",
+    "facts": [
+      "The actual sidereal orbital period of the Moon is 27.3 days, producing a daily moonrise delay of approximately 50 minutes, very close to the 48-minute calculation used in this simplified problem.",
+      "The distinction between sidereal month (~27.3 days: Moon relative to stars) and synodic month (~29.5 days: Moon relative to Sun) explains why moonrise delays accumulate differently over a full lunar cycle than over a calendar month.",
+      "Moonrise delay is independent of latitude and observer location; it depends entirely on the relative rates of Earth's rotation and the Moon's orbital motion.",
+      "Because the Moon moves ~13 degrees eastward per day in its orbit while Earth rotates 360 degrees per 24 hours (~15 degrees per hour), the excess eastward motion requires an extra ~52 minutes of Earth rotation to bring the Moon back to the eastern horizon each day.",
+      "This principle is why lunar-based calendars and traditional observance dates (such as Karwa Chauth in Hindu culture) have shifting dates relative to solar calendars\u2014the Moon's rising time drifts by nearly an hour daily over its full 29.5-day cycle."
+    ],
+    "sources": [
+      {
+        "title": "Moon Phases and Orbits",
+        "url": "https://www.iop.org/explore-physics/moon/phases-and-orbits-moon",
+        "whyUsed": "Confirmed that Moon's orbit takes approximately 27.3 days and causes 12-13 degree eastward movement per day, explaining the physics of moonrise delay."
+      },
+      {
+        "title": "Why the Moon Rises Late on Karwa Chauth 2025",
+        "url": "https://zeenews.india.com/culture/why-the-moon-rises-late-on-karwa-chauth-2025-astronomy-lunar-cycle-and-scientifical-significance-2970375.html",
+        "whyUsed": "Verified that the moon rises approximately 48 minutes later each day due to eastward orbital motion, and provided real-world cultural context for the phenomenon."
+      },
+      {
+        "title": "Moon Phases - NASA Science",
+        "url": "https://science.nasa.gov/moon/moon-phases/",
+        "whyUsed": "Confirmed the basic principle that 'every day, the Moon rises a little bit later' due to its orbital mechanics."
+      },
+      {
+        "title": "Why Does the Moon Rise 50 Minutes Later Every Day",
+        "url": "https://www.quora.com/Why-does-the-moon-rise-50-minutes-later-every-day",
+        "whyUsed": "Provided detailed explanation of the 12-13 degree daily eastward movement and how it translates to ~48-52 minutes of delay in moonrise time."
+      }
+    ],
+    "searchMeta": {
+      "usedWebSearch": true,
+      "searchQueries": [
+        "lunar cycle moon rises later each day 48 minutes"
+      ],
+      "confidence": "high"
+    }
+  },
+  "id": 55
+}

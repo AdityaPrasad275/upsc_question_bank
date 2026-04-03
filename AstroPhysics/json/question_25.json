@@ -1,0 +1,53 @@
+{
+  "subject": "Science",
+  "year": 2014,
+  "theme": "Spacecraft missions and their primary objectives",
+  "question_short_text": "Identifying correctly matched spacecraft and their mission purposes from three given pairs",
+  "text": "Which of the following pairs is/are correctly matched?\n\nSpacecraft \u2013 Purpose:\n\n1. Cassini-Huygens: Orbiting the Venus and transmitting data to the Earth\n2. Messenger: Mapping and investigating\n3. Voyager 1 and 2: Exploring the outer solar system\n\nSelect the correct answer using the code given below.",
+  "options": [
+    "1 only",
+    "2 and 3 only",
+    "1 and 3 only",
+    "1, 2 and 3"
+  ],
+  "answerIndex": 1,
+  "answerText": "(b) 2 and 3 only",
+  "explanation": "Statement 1 is incorrect: Cassini-Huygens was designed to orbit Saturn, not Venus. The Huygens probe landed on Titan, Saturn's largest moon. Statements 2 and 3 are correct: MESSENGER orbited Mercury and conducted detailed mapping and investigations of the planet. Voyager 1 and 2 were specifically designed to explore the outer solar system, including Jupiter, Saturn, Uranus, and Neptune.",
+  "research": {
+    "summary": "The trap in this question is a common misconception about Cassini-Huygens' target. While the spacecraft did perform gravity-assist flybys of Venus (twice) on its long journey to Saturn, its primary mission and orbit were entirely focused on Saturn and its moons, not Venus. Statement 1 explicitly claims Cassini-Huygens was \"orbiting Venus,\" which is fundamentally wrong\u2014it orbited Saturn from 2004 to 2017 and released the Huygens probe to land on Titan. This is a critical distinction for space mission identification questions.\n\nStatement 2, while worded generically, is defensible for MESSENGER. The spacecraft orbited Mercury between 2011 and 2015, conducting detailed surface mapping with high-resolution cameras and investigating Mercury's composition, geological history, magnetic field, and polar ice deposits through multiple spectrometers (X-ray, gamma-ray, neutron). The generic phrasing \"mapping and investigating\" accurately captures the mission's core scientific focus, even if it could be more specific.\n\nStatement 3 is unambiguously correct. Voyager 1 and 2, launched in 1977, were explicitly designed to explore the outer planets. Between them, they visited all four giant planets\u2014Jupiter, Saturn, Uranus, and Neptune\u2014along with 48 moons. Both spacecraft have now left the heliosphere and are operating in interstellar space, though that extended mission began after the primary outer-solar-system exploration phase. The original mission objective was exactly as stated: to explore the outer solar system using a rare planetary alignment in the late 1970s for a gravity-assist \"Grand Tour.\"\n\nThe key elimination strategy: If you recognize that Cassini definitively went to Saturn, you immediately eliminate any answer including statement 1. This rapid narrowing makes the remaining choice obvious.",
+    "facts": [
+      "Cassini orbited Saturn for 13 years (2004\u20132017) and made 113 flybys of Titan and 24 flybys of Enceladus, not Venus",
+      "MESSENGER discovered water ice in permanently shadowed craters at Mercury's poles and revealed an unusually large planetary core extending to 85% of the planet's radius",
+      "Voyager 2, despite launching before Voyager 1, reached Jupiter four months later and was the only spacecraft to visit all four outer planets (Jupiter, Saturn, Uranus, Neptune)",
+      "Voyager 1 became the first human-made object to enter interstellar space in August 2012, crossing the heliopause",
+      "Huygens probe descent on Titan in January 2005 marked the first successful landing on a moon in the outer solar system"
+    ],
+    "sources": [
+      {
+        "title": "Cassini\u2013Huygens - Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Cassini%E2%80%93Huygens",
+        "whyUsed": "Verified that Cassini orbited Saturn, not Venus, and confirmed the Huygens probe landed on Titan in 2005"
+      },
+      {
+        "title": "MESSENGER - Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/MESSENGER",
+        "whyUsed": "Confirmed MESSENGER was a NASA robotic space probe that orbited Mercury between 2011\u20132015, studying composition, geology, and magnetic field"
+      },
+      {
+        "title": "Voyager - NASA Science",
+        "url": "https://science.nasa.gov/mission/voyager/mission-overview/",
+        "whyUsed": "Verified that Voyager 1 and 2 explored all four outer planets (Jupiter, Saturn, Uranus, Neptune) and 48 of their moons"
+      }
+    ],
+    "searchMeta": {
+      "usedWebSearch": true,
+      "searchQueries": [
+        "Cassini-Huygens spacecraft mission Saturn",
+        "MESSENGER spacecraft Mercury mission",
+        "Voyager 1 Voyager 2 outer solar system"
+      ],
+      "confidence": "high"
+    }
+  },
+  "id": 25
+}

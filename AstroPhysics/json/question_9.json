@@ -1,0 +1,57 @@
+{
+  "subject": "Science",
+  "year": 2021,
+  "theme": "fundamental constants in astronomy and distance measurement units",
+  "question_short_text": "Why are astronomical distances measured in light-years?",
+  "text": "Which one of the following is a reason why astronomical distances are measured in light-years?",
+  "options": [
+    "a) Distances among stellar bodies do not change",
+    "b) Gravity of stellar bodies does not change",
+    "c) Light always travels in straight line",
+    "d) Speed of light is always same"
+  ],
+  "answerIndex": 3,
+  "answerText": "(d) Speed of light is always same",
+  "explanation": "Astronomical distances are measured in light-years because the speed of light is constant and precisely known throughout the universe. A light-year is the distance light travels in one year (approximately 9.46 trillion km), providing a reliable and consistent standard for expressing vast cosmic distances.",
+  "research": {
+    "summary": "The fundamental reason astronomers use light-years as a measurement unit is that the speed of light is a universal constant\u2014approximately 299,792,458 meters per second in a vacuum\u2014that does not change. This consistency is what makes it suitable as a basis for a distance unit. Before the adoption of light-years, astronomers had struggled with expressing interstellar distances because conventional units like kilometers or miles produced unwieldy numbers. The key insight is that any reliable distance measurement unit must be grounded in a constant that remains the same across space and time, and the speed of light uniquely meets this criterion.\n\nThe other options address common misconceptions: stellar bodies and their gravitational fields do vary and change over time, so gravity cannot serve as a fixed reference. While light generally travels in straight lines, gravitational lensing can bend it\u2014more importantly, the straightness of light's path is irrelevant to distance measurement. Even distances among stellar bodies change due to orbital motion and galactic drift. The speed of light alone is stable, invariant across the universe, and well-established through physics, making it the ideal basis for a distance unit that remains valid everywhere. Historically, before Einstein's special relativity confirmed that the speed of light was a fundamental constant, astronomers were hesitant to use light-years for serious measurements. Friedrich Bessel, who first computed interstellar distances to 61 Cygni in 1838, initially avoided the term because the speed of light was not yet recognized as a true constant of nature. Once this was understood, light-years became the standard for expressing distances to stars and beyond.",
+    "facts": [
+      "A light-year equals approximately 9.46 trillion kilometers or 5.88 trillion miles (299,792,458 m/s \u00d7 365.25 days).",
+      "The light-year is a measure of distance, not time, despite the presence of 'year' in its name.",
+      "Friedrich Bessel first computed stellar distance (to 61 Cygni) as 10.3 light-years in 1838, though he did not formally adopt the term because the speed of light was not yet considered a fundamental constant.",
+      "Einstein's theory of special relativity (1905) established that the speed of light is invariant\u2014always the same for all observers\u2014making it a true universal constant suitable for measurement standards.",
+      "In professional astronomy, the parsec (parallax-second) has become the preferred unit at about 3.26 light-years, but light-years remain in wide use for popular science because they intuitively connect distance to the time light travels."
+    ],
+    "sources": [
+      {
+        "title": "Light-year - Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Light-year",
+        "whyUsed": "Verified the definition of light-year per IAU standards, historical adoption by Bessel, and the role of the speed of light as a constant."
+      },
+      {
+        "title": "What Is a Light-Year? | NASA Science",
+        "url": "https://science.nasa.gov/exoplanets/what-is-a-light-year/",
+        "whyUsed": "Confirmed that light-years are used because light travels at a constant speed, and explained the practical utility of the unit for expressing vast distances."
+      },
+      {
+        "title": "What is a light-year? | Space.com",
+        "url": "https://www.space.com/light-year.html",
+        "whyUsed": "Provided detail on the constant speed of light throughout the universe and how it serves as the foundation for the light-year unit."
+      },
+      {
+        "title": "Q. Which one of the following is a reason why astronomical distances are measured in light-years? - Sociology OWL",
+        "url": "https://upscsociology.in/q-which-one-of-the-following-is-a-reason-why-astronomical-distances-are-measured-in-light-years/",
+        "whyUsed": "Directly addressed the UPSC question format and explained why each alternative option is incorrect, clarifying the role of constant speed of light."
+      }
+    ],
+    "searchMeta": {
+      "usedWebSearch": true,
+      "searchQueries": [
+        "light-year definition distance measurement astronomy",
+        "why light-years used astronomical distances speed of light constant"
+      ],
+      "confidence": "high"
+    }
+  },
+  "id": 9
+}

@@ -1,0 +1,58 @@
+{
+  "subject": "Science",
+  "year": 2002,
+  "theme": "Solar system composition and physical properties",
+  "question_short_text": "Identify the correct statement about Earth, Sun, and planetary density in the solar system",
+  "text": "Which one of the following statements is correct with reference to our solar system?\n\na) The Earth is the densest of all the planets in our solar system\n\nb) The predominant element in the composition of Earth is silicon\n\nc) The Sun contains 75 per cent of the mass of the solar system\n\nd) The diameter of the Sun is 190 times that of the Earth",
+  "options": [
+    "The Earth is the densest of all the planets in our solar system",
+    "The predominant element in the composition of Earth is silicon",
+    "The Sun contains 75 per cent of the mass of the solar system",
+    "The diameter of the Sun is 190 times that of the Earth"
+  ],
+  "answerIndex": 0,
+  "answerText": "(a) The Earth is the densest of all the planets in our solar system",
+  "explanation": "Earth has the highest average density of all planets in the solar system at approximately 5.5 g/cm\u00b3. The other statements are factually incorrect: iron dominates Earth's composition by mass (~32%), the Sun contains approximately 99.86% of solar system mass (not 75%), and the Sun's diameter is ~109 times Earth's (not 190 times).",
+  "research": {
+    "summary": "This question tests recognition of planetary density rankings and solar system composition fundamentals. The key trap is that density is determined by mass-to-volume ratio, not by size or surface composition alone. Earth's exceptional density arises from gravitational self-compression of a massive terrestrial body, which creates an iron-rich core at extreme pressure. Even though Mercury contains denser atomic elements by composition (iron-nickel vs. iron-silicate), Earth surpasses it because its sheer mass compresses the matter in its interior to much higher densities than Mercury's smaller body can achieve. This explains why Earth, not Mercury, holds the solar system's density record. The gas and ice giants (Jupiter, Saturn, Uranus, Neptune) have densities of 0.7\u20131.6 g/cm\u00b3\u2014far below the terrestrial planets\u2014because they are primarily hydrogen and helium, which remain gaseous or as low-density ices despite enormous mass. Option (b) is a classic misconception: the predominant element by mass in Earth is iron (32%), followed closely by oxygen (30%) and silicon (15%). Silicon is a major component but not the largest by mass fraction. Option (c) invokes an outdated or incorrect estimate; the Sun contains 99.86% of all solar system mass, with the remaining 0.14% split among all planets, moons, asteroids, and comets\u2014a ratio reflecting the Sun's role as the gravitational anchor and energy source for the entire system. Option (d) confuses solar diameter with Earth diameter: the Sun's diameter is 1,391,000 km and Earth's is 12,742 km, giving a ratio of approximately 109:1, not 190:1. For UPSC, the lesson is that planetary properties follow from composition and internal structure, and that a single planetary attribute (density) can contradict naive assumptions based on size or surface properties.",
+    "facts": [
+      "Mercury has a higher proportion of iron than Earth but lower overall density because its smaller mass produces less internal compression.",
+      "The terrestrial planets (Mercury, Venus, Earth, Mars) have densities ranging from 3.9 to 5.5 g/cm\u00b3, while Jovian planets (Jupiter, Saturn, Uranus, Neptune) have densities of only 0.7 to 1.6 g/cm\u00b3.",
+      "Earth's interior stratification\u2014crust (~2.7 g/cm\u00b3), mantle (~3.3 g/cm\u00b3), outer core (~9.9 g/cm\u00b3), and inner core (~13 g/cm\u00b3)\u2014contributes to its high average density of 5.515 g/cm\u00b3.",
+      "Jupiter, despite being 318 times Earth's mass, contains only ~0.1% of the solar system's mass, because the Sun's mass is ~333,000 times Earth's mass.",
+      "The Sun's diameter (1,391,400 km) is approximately 109 times Earth's diameter (12,742 km), a ratio sometimes remembered as '100\u00d7' for rough estimation."
+    ],
+    "sources": [
+      {
+        "title": "Earth is the Solar System's densest planet. It shouldn't be. - Big Think",
+        "url": "https://bigthink.com/starts-with-a-bang/earth-densest-planet/",
+        "whyUsed": "Detailed explanation of why Earth exceeds Mercury in density despite Mercury's denser atomic composition, and comparison with gas giant densities."
+      },
+      {
+        "title": "Sun - Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Sun",
+        "whyUsed": "Authoritative source confirming Sun contains 99.86% of solar system mass and Sun's diameter is ~109 times Earth's diameter."
+      },
+      {
+        "title": "The Sun - how far? how big? - Windows to the Universe",
+        "url": "https://www.windows2universe.org/sun/sun_size_distance.html",
+        "whyUsed": "Verified the Sun diameter ratio as 109\u00d7 Earth's (not 190\u00d7) and provided Earth's mass composition details including iron percentage."
+      },
+      {
+        "title": "Earth mass - Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Earth_mass",
+        "whyUsed": "Confirmed Earth's average density of 5515 kg/m\u00b3 (5.515 g/cm\u00b3) and major elements: iron (32%), oxygen (30%), silicon (15%), magnesium (14%)."
+      }
+    ],
+    "searchMeta": {
+      "usedWebSearch": true,
+      "searchQueries": [
+        "Earth density compared to other planets solar system",
+        "Sun mass percentage solar system",
+        "Sun diameter Earth diameter ratio"
+      ],
+      "confidence": "high"
+    }
+  },
+  "id": 54
+}

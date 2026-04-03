@@ -1,0 +1,63 @@
+{
+  "subject": "Science",
+  "year": 2018,
+  "theme": "Indian satellite launch vehicles: PSLV vs GSLV configuration and orbital mechanics",
+  "question_short_text": "Which statement(s) about PSLV and GSLV launch vehicles are correct?",
+  "text": "With reference to India's satellite launch vehicles, consider the following statements:\n\n1. PSLVs launch the satellites useful for Earth resources monitoring whereas GSLVs are designed mainly to launch communication satellites.\n2. Satellites launched by PSLVs appear to remain permanently fixed in the same position in the sky, as viewed from a particular location on Earth.\n3. GSLV Mk III is a four-staged launch vehicle with the first and third stages using solid rocket motors; and the second and fourth stages using liquid rocket engines.",
+  "options": [
+    "1 only",
+    "2 and 3 only",
+    "1 and 2",
+    "3 only"
+  ],
+  "answerIndex": 0,
+  "answerText": "(a) 1 only",
+  "explanation": "Only statement 1 is correct. PSLV satellites are designed for Earth resources monitoring and placed in polar/sun-synchronous orbits, while GSLV satellites serve communication purposes and enter geosynchronous orbits. Statement 2 is incorrect because PSLV satellites do not appear fixed in the sky\u2014they complete multiple orbits daily. Statement 3 is incorrect because GSLV Mk III is actually a three-stage (not four-stage) vehicle with two solid strap-on motors (S200), one liquid stage (L110), and one cryogenic stage (C25).",
+  "research": {
+    "summary": "This question tests the critical distinction between India's two primary launch vehicles and the orbital mechanics they serve. The core trap lies in confusing satellite orbital characteristics with launch vehicle properties.\n\nStatement 1 is correct. PSLV (Polar Satellite Launch Vehicle) is specifically designed to launch Earth observation satellites like the IRS series into sun-synchronous polar orbits at altitudes around 600 km. These satellites scan the entire Earth as it rotates beneath them, enabling resource monitoring, agriculture surveillance, and disaster management. GSLV (Geosynchronous Satellite Launch Vehicle) is engineered for heavier communication satellites placed into geosynchronous transfer orbit (GTO), eventually reaching geostationary orbit at ~35,786 km altitude. The fundamental design difference reflects the payload mass and orbital destination requirements.\n\nStatement 2 commits the satellite-orbit trap. Students often confuse geostationary orbit (where a satellite appears fixed) with the orbits that PSLV uses. PSLV satellites occupy sun-synchronous polar orbits where they complete 12-15 orbits around Earth in 24 hours. From a ground observer's perspective, they move rapidly across the sky\u2014not remaining fixed. Only geostationary satellites (launched by GSLV) appear stationary because their orbital period matches Earth's 24-hour rotation. A satellite in sun-synchronous orbit moves at ~7.8 km/s relative to Earth's surface, taking roughly 90-100 minutes per orbit.\n\nStatement 3 misidentifies GSLV Mk III's architecture. The vehicle is officially configured as a three-stage rocket: (i) Two S200 solid rocket boosters as strap-ons (first stage), (ii) One L110 liquid-fueled core stage (second stage), and (iii) One C25 cryogenic upper stage powered by the indigenously developed CE-20 engine (third stage). The statement incorrectly claims four stages and reverses the propellant types of stages 2 and 3. This represents a common misconception where students count strap-on boosters as separate stages rather than as integral parts of the first-stage cluster.",
+    "facts": [
+      "PSLV can deliver payloads to multiple orbits: SSO (1,750 kg at 600 km), Sub-GTO (1,425 kg), and GTO, making it versatile beyond just Earth observation.",
+      "GSLV Mk III (now designated LVM3) can carry 4,000 kg to geostationary transfer orbit and 10,000 kg to low Earth orbit, significantly exceeding GSLV Mk II capabilities.",
+      "Sun-synchronous orbits are maintained at ~98\u00b0 inclination to preserve lighting geometry\u2014satellites pass over any location at roughly the same local solar time daily, essential for consistent imaging conditions.",
+      "Geostationary orbit requires precise altitude of ~35,786 km and zero inclination to achieve a 24-hour orbital period matching Earth's rotation, a physical constraint that PSLV cannot achieve due to payload and energy limitations.",
+      "PSLV has achieved 50+ successful consecutive missions, earning the title 'workhorse of ISRO,' while GSLV Mk III enabled India's self-sufficiency in launching heavy communication satellites and human spaceflight vehicles like Chandrayaan and Gaganyaan missions."
+    ],
+    "sources": [
+      {
+        "title": "LVM3 - Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/LVM3",
+        "whyUsed": "Verified GSLV Mk III three-stage configuration: two S200 solid strap-ons, L110 liquid core stage, C25 cryogenic upper stage with CE-20 engine."
+      },
+      {
+        "title": "Polar Satellite Launch Vehicle - Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Polar_Satellite_Launch_Vehicle",
+        "whyUsed": "Confirmed PSLV design for sun-synchronous and polar orbits used for Earth observation and remote sensing missions."
+      },
+      {
+        "title": "Geosynchronous orbit - Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Geosynchronous_orbit",
+        "whyUsed": "Clarified the distinction between geosynchronous and geostationary orbits; verified that geostationary satellites appear fixed while polar-orbit satellites do not."
+      },
+      {
+        "title": "GSLV MK3: Stages, Objective, Specification - Testbook",
+        "url": "https://testbook.com/ias-preparation/gslv-mk3",
+        "whyUsed": "Detailed technical specifications of GSLV Mk III stages and payload capacities."
+      },
+      {
+        "title": "Polar Satellite Launch Vehicle PSLV - Vajiram & Ravi",
+        "url": "https://vajiramandravi.com/upsc-exam/pslv-polar-satellite-launch-vehicle/",
+        "whyUsed": "Sourced official UPSC 2018 question context and technical clarifications on PSLV vs GSLV functional differences."
+      }
+    ],
+    "searchMeta": {
+      "usedWebSearch": true,
+      "searchQueries": [
+        "GSLV Mk III stages solid liquid rocket motors configuration",
+        "PSLV satellites polar orbit Earth resources monitoring",
+        "geosynchronous satellite fixed position sky communication"
+      ],
+      "confidence": "high"
+    }
+  },
+  "id": 17
+}

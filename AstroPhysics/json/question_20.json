@@ -1,0 +1,56 @@
+{
+  "subject": "Science",
+  "year": 2016,
+  "theme": "emerging aircraft propulsion and VTOL technology",
+  "question_short_text": "GL-10 Greased Lightning prototype aircraft by NASA",
+  "text": "What is 'Greased Lightning-10 (GL-10)', recently in the news?",
+  "options": [
+    "Electric plane tested by NASA",
+    "Solar-powered two-seater aircraft designed by Japan",
+    "Space observatory launched by China",
+    "Reusable rocket designed by ISRO"
+  ],
+  "answerIndex": 0,
+  "answerText": "(a) Electric plane tested by NASA",
+  "explanation": "The GL-10 Greased Lightning is a hybrid-electric, tilt-wing unmanned aircraft developed by NASA. It features 10 electric motors (8 on the wings, 2 on the tail) and can transition between vertical takeoff and landing (like a helicopter) and forward flight (like a conventional aircraft).",
+  "research": {
+    "summary": "The GL-10 Greased Lightning represents a significant milestone in distributed electric propulsion (DEP) and vertical takeoff aircraft design. Developed by NASA's Langley Research Center, the 50% scale prototype demonstrated successful transition from hover to forward flight in 2015, proving that a tilt-wing configuration with distributed electric motors could achieve both VTOL and efficient cruise capability\u2014a challenge aviation engineers had pursued for decades. The core innovation was using 10 electric motors (rather than the large tilting rotors seen in the V-22 Osprey) to enable control during the critical transition phase from hover to horizontal flight. Unlike conventional helicopters or tilt-rotor designs, the GL-10's distributed electric propulsion provides redundancy\u2014if one or more motors fail, others can safely land the aircraft. The 50% sub-scale prototype had a 10-foot wingspan and weighed 62 pounds, with eight motors on the wings and two on the tail. The hybrid diesel-electric full-scale design was planned to have a 20-foot wingspan and 275 lb maximum takeoff weight, powered by two 6 kW diesel engines charging lithium-ion batteries. The aircraft was designed for a 24-hour loiter mission with alternating vertical and forward flight phases. The technology demonstrated is quieter than a helicopter, more efficient in forward flight, and eliminates the need for launching catapults or specialized landing recovery equipment\u2014making it valuable for future autonomous delivery drones and on-demand mobility platforms.",
+    "facts": [
+      "The GL-10 prototype uses eight electric motors on the wings and two on the horizontal stabilizer for a total of 10 motors, differing fundamentally from tilt-rotor designs like the V-22 Osprey.",
+      "Distributed Electric Propulsion (DEP) with multiple motors provides redundancy and safety\u2014loss of one or more motors does not cause catastrophic failure.",
+      "The aircraft was designed for 24-hour loiter endurance in forward flight mode with the ability to perform multiple vertical takeoff and landing cycles during a single mission.",
+      "The noise signature is significantly lower than helicopters because the propellers operate at reduced tip speeds, making it quieter than a gas-powered lawn mower.",
+      "NASA had planned a full-scale version with 20-foot wingspan and 275 lb takeoff weight using hybrid diesel-electric power, though it was never built due to budget constraints."
+    ],
+    "sources": [
+      {
+        "title": "NASA GL-10 Greased Lightning - Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/NASA_GL-10_Greased_Lightning",
+        "whyUsed": "Comprehensive technical specifications on the hybrid diesel-electric architecture, motor configuration, and design features of the GL-10."
+      },
+      {
+        "title": "Greased Lightning (GL-10) Flight Testing Campaign - NASA NTRS",
+        "url": "https://ntrs.nasa.gov/citations/20170007194",
+        "whyUsed": "Official NASA technical documentation detailing flight test procedures, Distributed Electric Propulsion technology, and validation of VTOL to forward flight transition capability."
+      },
+      {
+        "title": "NASA's 10-Engine Electric Plane Takes Off and Lands Like a Helicopter - NBC News",
+        "url": "https://www.nbcnews.com/tech/innovation/nasas-10-engine-electric-plane-takes-off-lands-helicopter-n353556",
+        "whyUsed": "Contemporary news coverage (2015) confirming the GL-10's successful transition flight testing and explaining the distributed motor configuration versus traditional tilt-rotor designs."
+      },
+      {
+        "title": "Ten-Engine Electric Plane Prototype Takes Off - NASA",
+        "url": "https://www.nasa.gov/image-article/ten-engine-electric-plane-prototype-takes-off/",
+        "whyUsed": "Official NASA description of the prototype specifications, design process, and testing location at Fort A.P. Hill."
+      }
+    ],
+    "searchMeta": {
+      "usedWebSearch": true,
+      "searchQueries": [
+        "Greased Lightning-10 GL-10 NASA electric aircraft"
+      ],
+      "confidence": "high"
+    }
+  },
+  "id": 20
+}

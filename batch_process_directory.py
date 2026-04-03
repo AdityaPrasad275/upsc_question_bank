@@ -210,6 +210,11 @@ def main(subject):
                 except json.JSONDecodeError as e:
                     print(f"Error parsing JSON for {result.custom_id}: {e}")
                     print(f"Raw response: {response_text}")
+                    # Save raw response as MD file
+                    md_file = output_file.replace('.json', '.md')
+                    with open(md_file, "w") as f:
+                        f.write(response_text)
+                    print(f"Saved raw response to {md_file}")
                     error_count += 1
                 except Exception as e:
                     print(f"An unexpected error occurred while saving {result.custom_id}: {e}")

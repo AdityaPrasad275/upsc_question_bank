@@ -1,0 +1,56 @@
+{
+  "subject": "Science",
+  "year": 2016,
+  "theme": "India's interplanetary space exploration achievements and Mars Orbiter Mission",
+  "question_short_text": "Which statements about Mangalyaan's achievements are correct?",
+  "text": "Consider the following statements:\n\nThe Mangalyaan launched by ISRO\n1. Is also called the Mars Orbiter Mission\n2. Made India the second country to have a spacecraft orbit the Mars after USA\n3. Made India the only country to be successful in making its spacecraft orbit the Mars in its very first attempt\n\nWhich of the statements given above is/are correct?",
+  "options": [
+    "1 only",
+    "2 and 3 only",
+    "1 and 3 only",
+    "1, 2 and 3"
+  ],
+  "answerIndex": 2,
+  "answerText": "(c) 1 and 3 only",
+  "explanation": "Statement 1 is correct: Mangalyaan is indeed the official name for India's Mars Orbiter Mission (MOM). Statement 2 is incorrect: India became the fourth space agency to reach Mars orbit, not the second\u2014after the Soviet Union, USA, and the European Space Agency. Statement 3 is correct: India was the only country to successfully reach Mars in its maiden attempt.",
+  "research": {
+    "summary": "Mangalyaan represents a landmark achievement in India's space program, but the distinction lies in recognizing which achievement belongs to which country. Statement 1 is straightforward: Mangalyaan (meaning \"Mars craft\" in Sanskrit) is the informal name for India's Mars Orbiter Mission, officially launched on November 5, 2013, and entering Mars orbit on September 24, 2014. This dual naming is standard in ISRO communications and documentation.\n\nThe critical trap in this question is Statement 2. While students might assume India became only the second country after the USA, the historical reality is more nuanced. The Soviet Union achieved Mars orbit first (1971), followed by NASA (1997 with Mars Pathfinder entering orbit), and then the European Space Agency (2003 with Mars Express). India became the fourth space agency to achieve Mars orbit insertion. The misconception likely stems from focusing only on contemporary powers, but UPSC tests comprehensive space history.\n\nStatement 3 is where India's truly unique achievement shines. Unlike every other space agency that experienced failures before success\u2014the Soviet Union had multiple Mars failures, the USA had early failures before Pathfinder, and even ESA's earlier attempts faced challenges\u2014ISRO achieved Mars orbit insertion on its first attempt in 2014. This singular achievement makes India the only nation globally to accomplish this feat, and notably, the first Asian nation to reach Mars orbit. The mission exceeded its designed operational life of six to ten months, operating for over eight years until losing communications in April 2022.\n\nThe distinction tested here is crucial: first to try \u2260 most countries to reach \u2260 first to succeed first time. UPSC deliberately separates these narrative threads to test precise knowledge of space exploration history rather than vague notions of \"achievement.\"",
+    "facts": [
+      "India became the fourth space agency to reach Mars orbit after the Soviet Union (1971), USA (1997), and European Space Agency (2003).",
+      "Mangalyaan was the second national space agency to succeed on its maiden Mars mission attempt, after ESA's 2003 Mars Express (using a Roscosmos Soyuz/Fregat rocket), making India's indigenous achievement unique.",
+      "The mission cost approximately $74 million, making it the most cost-effective Mars mission at the time, demonstrating ISRO's efficiency in space exploration.",
+      "Mangalyaan was designed with a mission life of 6 to 10 months but operated for over 8 years, exceeding expectations until communication loss in April 2022.",
+      "The spacecraft entered Mars orbit in a highly elliptical orbit (420 km to 80,000 km altitude) due to PSLV rocket constraints, which uniquely enabled full-disk imaging of Mars."
+    ],
+    "sources": [
+      {
+        "title": "Mars Orbiter Mission - Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Mars_Orbiter_Mission",
+        "whyUsed": "Verified core facts about ISRO being the fourth space agency and confirming ESA's prior success on maiden attempt; established mission dates and orbital insertion details."
+      },
+      {
+        "title": "Mangalyaan, India's first Mars mission | The Planetary Society",
+        "url": "https://www.planetary.org/space-missions/mangalyaan",
+        "whyUsed": "Confirmed India was the first to succeed on maiden attempt and clarified the sequence of space agencies that reached Mars orbit."
+      },
+      {
+        "title": "India's Mars Orbiter Mission: Scientific Achievements and Future Prospects",
+        "url": "https://sleepyclasses.com/indias-mars-orbiter-mission/",
+        "whyUsed": "Verified mission cost, operational duration, and orbital characteristics relevant to understanding the mission's technical achievements."
+      },
+      {
+        "title": "Mars Orbiter Mission (MOM): About, Significance & More",
+        "url": "https://www.nextias.com/blog/mars-orbiter-mission-mom/",
+        "whyUsed": "Cross-confirmed the fourth-agency status and the first-on-maiden-attempt achievement with consolidated historical context."
+      }
+    ],
+    "searchMeta": {
+      "usedWebSearch": true,
+      "searchQueries": [
+        "Mangalyaan Mars Orbiter Mission ISRO first attempt success"
+      ],
+      "confidence": "high"
+    }
+  },
+  "id": 22
+}

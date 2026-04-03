@@ -1,0 +1,55 @@
+{
+  "subject": "Science",
+  "year": 2000,
+  "theme": "Formation and properties of black holes: density, escape velocity, and the event horizon",
+  "question_short_text": "What physical property of black holes prevents radiation from escaping?",
+  "text": "A 'black hole' is a body in space which does not allow any radiation to come out. This property is due to its:",
+  "options": [
+    "(a) Very small size",
+    "(b) Very large size",
+    "(c) Very high density",
+    "(d) Very low density"
+  ],
+  "answerIndex": 2,
+  "answerText": "(c) Very high density",
+  "explanation": "Black holes form when massive stars collapse, compressing their mass into an extremely small volume, resulting in very high density. This extreme density creates such powerful gravity that the escape velocity exceeds the speed of light, preventing all radiation (including light) from escaping past the event horizon.",
+  "research": {
+    "summary": "The key insight being tested here is that the defining property of a black hole is not its size alone, but the relationship between mass and radius that creates extreme density. A common misconception is that a black hole must be 'very small' in absolute terms, but what matters physically is extreme compression. The Sun compressed to a sphere just 3 km in radius would become a black hole; the Earth compressed to the size of a marble would become a black hole. What these examples reveal is that density (mass per unit volume) determines whether an object becomes a black hole. The physics is governed by escape velocity: for any massive body, escape velocity equals the square root of (2 \u00d7 gravitational constant \u00d7 mass / radius). When this escape velocity equals or exceeds the speed of light, nothing\u2014not even light\u2014can escape. This occurs at a distance called the Schwarzschild radius. At the event horizon (the boundary at the Schwarzschild radius), the escape velocity is exactly equal to the speed of light. Inside this boundary, spacetime itself becomes so curved that all paths, including those of light beams aimed directly outward, curve back inward. Very large size alone does not create a black hole (Jupiter is very large but has low escape velocity). Very low density obviously cannot trap light. Very small size matters only insofar as it allows mass to be compressed into a tiny volume\u2014the density that results is what creates the extreme gravity. The distinction UPSC often tests is whether a student understands the mechanism (density and resulting escape velocity) versus merely knowing the label 'black hole.' A supermassive black hole at the center of a galaxy can have average density comparable to water, yet it still traps light because the enormous mass is compressed within its Schwarzschild radius. This reinforces that density at the scale defined by the object's radius is the governing physical property.",
+    "facts": [
+      "The escape velocity at a black hole's event horizon equals the speed of light; inside the event horizon, escape velocity exceeds the speed of light",
+      "The Schwarzschild radius of a body depends only on its mass, not on its composition; a body with mass M compressed within radius 2GM/c\u00b2 becomes a black hole",
+      "The event horizon is not a physical surface but a mathematically defined boundary in spacetime; at this boundary, the curvature of spacetime becomes so extreme that outward-directed light paths curve back inward",
+      "Supermassive black holes can have average densities lower than ordinary matter, yet they trap light because their enormous mass concentrates within a Schwarzschild radius"
+    ],
+    "sources": [
+      {
+        "title": "Event horizon - Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Event_horizon",
+        "whyUsed": "Verified definition of event horizon and the relationship between escape velocity and black hole properties"
+      },
+      {
+        "title": "Black Holes - Imagine the Universe! - NASA",
+        "url": "https://imagine.gsfc.nasa.gov/science/objects/black_holes1.html",
+        "whyUsed": "Confirmed the mechanism of how escape velocity determines black hole formation and clarified the role of density and compression"
+      },
+      {
+        "title": "Black hole - Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Black_hole",
+        "whyUsed": "Verified that black holes form through gravitational collapse of massive stars and confirmed the role of extreme density in preventing light escape"
+      },
+      {
+        "title": "What is a black hole event horizon (and what happens there)? | Space",
+        "url": "https://www.space.com/black-holes-event-horizon-explained.html",
+        "whyUsed": "Clarified how mass compression into small volume creates the density needed for black hole formation and trap light"
+      }
+    ],
+    "searchMeta": {
+      "usedWebSearch": true,
+      "searchQueries": [
+        "black hole event horizon escape velocity density gravity"
+      ],
+      "confidence": "high"
+    }
+  },
+  "id": 61
+}

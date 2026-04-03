@@ -1,0 +1,57 @@
+{
+  "subject": "Science & Technology",
+  "year": 2001,
+  "theme": "Leadership and institutional history: ISRO chairmen during key satellite missions",
+  "question_short_text": "ISRO Chairman when INSAT-3B was launched in March 2000",
+  "text": "Who amongst the following was the Chairman of ISRO when INSAT-3B was launched?",
+  "options": [
+    "Anil Kakodkar",
+    "Abdul Kalam",
+    "K. Kasturirangan",
+    "U. R. Rao"
+  ],
+  "answerIndex": 2,
+  "answerText": "(c) K. Kasturirangan",
+  "explanation": "INSAT-3B was launched on March 22, 2000. Dr. K. Kasturirangan served as the Chairman of ISRO from 1994 to 2003, making him the ISRO chief during this launch.",
+  "research": {
+    "summary": "This question tests recall of institutional leadership timelines in ISRO history. Dr. K. Kasturirangan headed ISRO for nine years (1994\u20132003), a transformative period when the organisation shifted from experimental missions to operational systems. INSAT-3B, launched on March 22, 2000, was the first satellite in the advanced INSAT-3 series, built on the I-2000 satellite bus and intended primarily for business communication and mobile satellite services. Under Kasturirangan's leadership, ISRO achieved major milestones: operationalizing the Polar Satellite Launch Vehicle (PSLV) for routine polar orbit missions, conducting the first successful flight test of the Geosynchronous Satellite Launch Vehicle (GSLV), developing the second-generation and initiating third-generation INSAT satellites (INSAT-3 series), and launching remote sensing satellites IRS-1C and IRS-1D. The trap in this question lies in the other options: Anil Kakodkar succeeded Kasturirangan in 2003 and headed ISRO until 2009; Abdul Kalam was never ISRO chairman but was closely associated with India's missile programs as Scientific Advisor; U. R. Rao was the first chairman of ISRO (1963\u20131966) and thus much earlier. Recognizing Kasturirangan's tenure (1994\u20132003) as encompassing the year 2000 is the quickest solve path.",
+    "facts": [
+      "INSAT-3B was the first satellite in the INSAT-3 series, carrying 12 extended C-band, 3 Ku-band, and CxS mobile satellite service transponders.",
+      "Under Kasturirangan's tenure, ISRO transitioned from experimental satellite missions to operational systems in telecommunications, broadcasting, meteorology, and earth observation.",
+      "The PSLV was successfully operationalized during Kasturirangan's leadership, enabling routine deployments to sun-synchronous polar orbits starting in 1994.",
+      "K. Kasturirangan served as the fifth Chairman of ISRO and also held the position of Secretary to the Department of Space.",
+      "INSAT-3B was collocated with INSAT-2E at 83 degrees East longitude in geostationary orbit, enabling optimized use of orbital slots and frequency spectrum."
+    ],
+    "sources": [
+      {
+        "title": "Krishnaswamy Kasturirangan \u2013 Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Krishnaswamy_Kasturirangan",
+        "whyUsed": "Confirmed Kasturirangan's tenure as ISRO Chairman from 1994 to 2003 and overview of major achievements during his leadership."
+      },
+      {
+        "title": "INSAT-3B \u2013 Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/INSAT-3B",
+        "whyUsed": "Verified INSAT-3B launch date as 21 March 2000 (23:28 UTC) and technical specifications of the satellite."
+      },
+      {
+        "title": "Dr. Krishnaswamy Kasturirangan(1994-2003) \u2013 ISRO Official",
+        "url": "https://www.isro.gov.in/kasthurirangan.html",
+        "whyUsed": "Official ISRO source confirming Kasturirangan's chairmanship period and his oversight of INSAT-2 development."
+      },
+      {
+        "title": "INSAT-3B Reaches Its Space Home \u2013 ISRO Official",
+        "url": "https://www.isro.gov.in/update/08-apr-2000/insat-3b-reaches-its-space-home-collocated-with-insat-2e",
+        "whyUsed": "Official ISRO documentation of INSAT-3B deployment and orbital positioning in April 2000."
+      }
+    ],
+    "searchMeta": {
+      "usedWebSearch": true,
+      "searchQueries": [
+        "INSAT-3B launch date March 2000 ISRO chairman",
+        "K. Kasturirangan ISRO chairman 1994 2003"
+      ],
+      "confidence": "high"
+    }
+  },
+  "id": 58
+}

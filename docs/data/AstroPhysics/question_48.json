@@ -1,0 +1,63 @@
+{
+  "subject": "Science",
+  "year": 2006,
+  "theme": "Indian space satellite systems and their applications",
+  "question_short_text": "Statement evaluation on INSAT-4A launch location, Arianespace involvement, and Tata Sky DTH services",
+  "text": "Consider the following statements in respect of India's advanced satellite INSAT 4A:\n\n1. INSAT 4A was launched in December, 2005 from New Mexico.\n2. The European commercial launch service provider Arianespace was associated with the launch of INSAT 4A.\n3. Tata-Sky a digital cable service provider is associated with DTH television broadcasting services from INSAT-4A\n\nWhich of the statements given above are correct?",
+  "options": [
+    "1, 2 and 3",
+    "1 and 2, only",
+    "2 and 3, only",
+    "1 and 3, only"
+  ],
+  "answerIndex": 2,
+  "answerText": "(c) 2 and 3, only",
+  "explanation": "Statement 1 is incorrect: INSAT-4A was launched in December 2005, but from Kourou in French Guiana, not New Mexico. Statements 2 and 3 are correct: Arianespace used its Ariane-5 rocket for the launch, and Tata Sky signed an agreement to lease all 12 Ku-band transponders on INSAT-4A for DTH services.",
+  "research": {
+    "summary": "This question tests three distinct facts about INSAT-4A: launch location, the launch service provider, and the intended user of the satellite's services. The key trap is Statement 1, which correctly identifies the month and year but deliberately misplaces the launch site from Kourou (French Guiana) to New Mexico\u2014a common confusion for test-takers who do not carefully distinguish between launch locations. INSAT-4A was India's first advanced dedicated DTH satellite, launched on December 21-22, 2005, by Arianespace, a European commercial launch service provider, using the Ariane-5G rocket. The launch took place from the Guiana Space Centre (CSG) at Kourou in French Guiana, not from U.S. territory. Arianespace, founded in 1980 as the world's first commercial launch service provider, operates exclusively from French Guiana for all Ariane launches. Statement 2 is therefore correct: Arianespace, the European provider, was directly responsible for the launch. Statement 3 is also correct: Tata Sky, a Tata-STAR joint venture (later renamed Tata Play), signed an agreement with ISRO in November 2005 to lease all 12 Ku-band transponders on INSAT-4A. These 12 high-power Ku-band transponders made INSAT-4A the first satellite specifically designed to meet DTH television broadcasting requirements in India, enabling transmission of approximately 150-160 digital quality channels. At launch, INSAT-4A was India's heaviest satellite at 3,080 kg, and the Ku-band coverage extended across the Indian mainland. The satellite was positioned at 83 degrees East and played a foundational role in India's digital television revolution. Understanding the launch location and the distinction between Indian and European space infrastructure is important for recognizing broader patterns in UPSC questions about India's space programme and international partnerships.",
+    "facts": [
+      "INSAT-4A was the first satellite in India's INSAT-4 series, designed specifically for high-power DTH broadcasting with 12 Ku-band and 12 C-band transponders.",
+      "At 3,080 kg at launch, INSAT-4A was India's heaviest satellite produced at that time, reflecting advances in Indian satellite design and payload capacity.",
+      "Ariane-5, produced by Arianespace, launched from Kourou, French Guiana exclusively; no Ariane launches operate from U.S. locations like New Mexico.",
+      "Tata Sky commenced DTH services in 2006 using INSAT-4A's Ku-band transponders and later expanded capacity by leasing transponders on GSAT-10 (launched 2012).",
+      "INSAT-4A was positioned at 83 degrees East longitude, the same orbital slot used by INSAT-2E and INSAT-3B, enabling India's growing domestic satellite constellation."
+    ],
+    "sources": [
+      {
+        "title": "INSAT-4A - ISRO Official",
+        "url": "https://www.isro.gov.in/update/22-dec-2005/insat-4a-launched-successfully",
+        "whyUsed": "Official ISRO confirmation of launch date (December 22, 2005), vehicle (Ariane-5G), location (Kourou, French Guyana), and satellite specifications."
+      },
+      {
+        "title": "INSAT-4A - Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/INSAT-4A",
+        "whyUsed": "Verification of launch vehicle (Ariane 5 by Arianespace), launch date and time (21 Dec 2005 UTC), orbital parameters, and satellite's role in DTH services."
+      },
+      {
+        "title": "Tata Play - Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Tata_Play",
+        "whyUsed": "Confirmation of Tata Sky's (now Tata Play) agreement with ISRO in 2005 to lease INSAT-4A's Ku-band transponders and subsequent DTH service operations."
+      },
+      {
+        "title": "Tata Sky ISRO Agreement - Domain-B & Exchange4Media",
+        "url": "https://www.exchange4media.com/media-tv-news/tata-star-dth-signs-lease-agreement-with-isro-for-insat-4a-satellite-18593.html",
+        "whyUsed": "News reports from November 2005 documenting Tata Sky's lease of all 12 Ku-band transponders on INSAT-4A for DTH television services."
+      },
+      {
+        "title": "Ariane 5 - Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Ariane_5",
+        "whyUsed": "Verification that Ariane 5 launches exclusively from Kourou, French Guiana, and that Arianespace is the commercial operator of the Ariane family."
+      }
+    ],
+    "searchMeta": {
+      "usedWebSearch": true,
+      "searchQueries": [
+        "INSAT-4A satellite launch December 2005",
+        "Arianespace INSAT-4A Ariane-5 launch",
+        "Tata Sky INSAT-4A DTH services"
+      ],
+      "confidence": "high"
+    }
+  },
+  "id": 48
+}

@@ -1,0 +1,64 @@
+{
+  "subject": "Science",
+  "year": 2002,
+  "theme": "Indian satellite launch capabilities and indigenous technology milestones",
+  "question_short_text": "Which statements on INSAT, PSLV, GSLV cryogenic engines, and GSAT are correct?",
+  "text": "With reference to Indian satellites and their launchers, consider the following statements:\n\n1. All the INSAT-series of satellites were launched abroad\n2. PSLVs were used to launch IRS-series of satellites\n3. India used the indigenously built cryogenic engines for the first time for powering the third stage of GSLV\n4. GSAT, launched in the year 2001, has payloads to demonstrate digital broadcasts and internet services\n\nWhich of these statements are correct?",
+  "options": [
+    "1, 2, 3 and 4",
+    "2, 3 and 4",
+    "1, 2 and 4",
+    "1 and 3"
+  ],
+  "answerIndex": 2,
+  "answerText": "(c) 1, 2 and 4",
+  "explanation": "Statement 3 is incorrect because India first used indigenously built cryogenic engines on GSLV-D5 in January 2014 (CE-7.5 engine), not in 2001-2002. The initial GSLV missions used Russian KVD-1 cryogenic engines. Statements 1, 2, and 4 are all correct.",
+  "research": {
+    "summary": "This 2002 UPSC question tests knowledge of India's satellite programs and launch vehicle capabilities at that time. Statement 1 is correct: all early INSAT satellites (INSAT-1A through 1D, and INSAT-2 series) were indeed launched abroad using foreign launch vehicles\u2014primarily by NASA (Space Shuttle) and Arianespace (Ariane rockets), as India lacked indigenous geostationary launch capability in the 1980s-1990s. Statement 2 is correct: PSLV was specifically developed to launch the IRS (Indian Remote Sensing) satellite series into sun-synchronous orbits, a capability that became operational from 1994 onwards when PSLV achieved its first successful flight. Statement 4 is correct: GSAT-1 was launched on April 18, 2001, aboard GSLV-D1 (its maiden flight) and carried payloads specifically designed to demonstrate digital audio broadcasts, internet services, and compressed digital TV transmission. However, it failed to reach its intended geosynchronous orbit due to the Russian KVD-1 cryogenic stage performance shortfall. Statement 3 is the trap: while India did test indigenous cryogenic engines from 2003 onward, the first successful operational use of an indigenously developed cryogenic engine was GSLV-D5 in January 2014, using the CE-7.5 engine developed over 20 years by ISRO's Cryogenic Upper Stage Project (initiated in 1994 after the US blocked technology transfer). In 2001-2002, GSLV Mk I still relied entirely on Russian KVD-1 cryogenic stages. The question cleverly exploits the timing confusion: in 2002, indigenous cryogenic development was underway but not yet operationalized.",
+    "facts": [
+      "PSLV's first successful flight was in October 1994, and it became India's primary vehicle for IRS and remote sensing satellites.",
+      "INSAT-1A was launched by NASA in April 1982 (though it failed), and the series continued with foreign launchers until the 1990s.",
+      "GSLV Mk I (2001-2007) used seven Russian KVD-1 cryogenic stages supplied without technology transfer due to MTCR restrictions.",
+      "GSLV-D5 (January 5, 2014) achieved the first successful operational flight using India's indigenously built CE-7.5 cryogenic engine after two decades of development.",
+      "GSAT-1 was experimental and failed to reach full geostationary orbit; GSAT-2 (2003) was the first fully successful GSAT mission using Russian cryogenic stage on GSLV."
+    ],
+    "sources": [
+      {
+        "title": "Wikipedia: Polar Satellite Launch Vehicle",
+        "url": "https://en.wikipedia.org/wiki/Polar_Satellite_Launch_Vehicle",
+        "whyUsed": "Verified PSLV development timeline and IRS satellite launch capability"
+      },
+      {
+        "title": "Wikipedia: Geosynchronous Satellite Launch Vehicle",
+        "url": "https://en.wikipedia.org/wiki/Geosynchronous_Satellite_Launch_Vehicle",
+        "whyUsed": "Confirmed GSLV Mk I used Russian engines and indigenous cryogenic first success in 2014"
+      },
+      {
+        "title": "Wikipedia: GSAT-1",
+        "url": "https://en.wikipedia.org/wiki/GSAT-1",
+        "whyUsed": "Verified GSAT-1 launch date (April 18, 2001) and payload purposes (digital broadcasts, internet)"
+      },
+      {
+        "title": "ISRO Official: GSAT-1",
+        "url": "https://www.isro.gov.in/Spacecraft/gsat-1",
+        "whyUsed": "Confirmed GSAT-1 communication experiment objectives"
+      },
+      {
+        "title": "Wikipedia: Indian National Satellite System",
+        "url": "https://en.wikipedia.org/wiki/Indian_National_Satellite_System",
+        "whyUsed": "Confirmed early INSAT satellites (1982-1995) launched by foreign agencies"
+      }
+    ],
+    "searchMeta": {
+      "usedWebSearch": true,
+      "searchQueries": [
+        "INSAT satellites launched India historical",
+        "PSLV IRS satellites India launch",
+        "GSLV cryogenic engine India first use",
+        "GSAT 2001 digital broadcast internet satellite"
+      ],
+      "confidence": "high"
+    }
+  },
+  "id": 56
+}

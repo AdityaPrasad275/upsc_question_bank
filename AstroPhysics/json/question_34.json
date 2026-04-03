@@ -1,0 +1,50 @@
+{
+  "subject": "Geography",
+  "year": 2009,
+  "theme": "Geographic location identification - US space launch facilities",
+  "question_short_text": "Identify the state where Cape Canaveral is located",
+  "text": "Cape Canaveral, the site from which space shuttles are launched is located on the coast of:",
+  "options": [
+    "Florida",
+    "Virginia",
+    "North Carolina",
+    "South Carolina"
+  ],
+  "answerIndex": 0,
+  "answerText": "(a) Florida",
+  "explanation": "Cape Canaveral is located on the coast of Florida. It is home to Kennedy Space Center and the primary US space launch facility.",
+  "research": {
+    "summary": "Cape Canaveral is situated on Florida's Atlantic coast (specifically in Brevard County on the east-central coast) and serves as the home of two major launch complexes: Kennedy Space Center (civilian, NASA-operated) and Cape Canaveral Space Force Station (military). The question tests basic geographic knowledge of US infrastructure critical to the space program. The facility was chosen for its location on Florida's east coast, which provides optimal launch conditions for reaching various orbital inclinations. The Space Shuttle program conducted all its orbital launches from here between 1981 and 2011, with launches occurring from Launch Complex 39 on nearby Merritt Island. Today, Cape Canaveral remains the epicenter of American spaceflight, hosting SpaceX, ULA, and NASA launch operations. The other options\u2014Virginia, North Carolina, and South Carolina\u2014are eastern seaboard states but lack the major space launch infrastructure that Florida possesses. No other US state currently operates active space shuttle or comparable heavy-lift launch facilities.",
+    "facts": [
+      "Kennedy Space Center conducted 78 Space Shuttle orbiter landings at its Shuttle Landing Facility between 1984 and 2011, averaging about 4 landings per year during shuttle program years.",
+      "Cape Canaveral Space Force Station and Kennedy Space Center together comprise the Cape Canaveral Spaceport, making it the most active rocket range in the United States.",
+      "Launch Complex 39 on Merritt Island (adjacent to Cape Canaveral) was the site of all 135 Space Shuttle orbital missions from 1981 to 2011, plus earlier Apollo and Skylab missions.",
+      "Florida's east coast location is strategically valuable for launches because it allows rockets to gain additional velocity from Earth's rotation and reach multiple orbital inclinations."
+    ],
+    "sources": [
+      {
+        "title": "Kennedy Space Center - Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Kennedy_Space_Center",
+        "whyUsed": "Verified that Kennedy Space Center is on the east coast of Florida, adjacent to Cape Canaveral, and was the primary Space Shuttle launch facility."
+      },
+      {
+        "title": "Shuttle Landing Facility History - FAA",
+        "url": "https://www.faa.gov/space/stakeholder_engagement/shuttle_landing_facility/history",
+        "whyUsed": "Confirmed that the Shuttle Landing Facility is in Brevard County, Florida, and documented 78 Space Shuttle landings between 1984-2011."
+      },
+      {
+        "title": "List of Cape Canaveral and Merritt Island launch sites - Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/List_of_Cape_Canaveral_and_Merritt_Island_launch_sites",
+        "whyUsed": "Confirmed that Cape Canaveral and Merritt Island are on Florida's Atlantic coast and host the most active rocket range in the USA, with Space Shuttle flights from 1981-2011."
+      }
+    ],
+    "searchMeta": {
+      "usedWebSearch": true,
+      "searchQueries": [
+        "Cape Canaveral Florida space shuttle launch site"
+      ],
+      "confidence": "high"
+    }
+  },
+  "id": 34
+}

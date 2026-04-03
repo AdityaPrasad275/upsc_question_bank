@@ -1,0 +1,63 @@
+{
+  "subject": "Science",
+  "year": 2006,
+  "theme": "Landmark space missions and space exploration achievements",
+  "question_short_text": "Identify the incorrectly matched scientific achievement-country pair from a list of four 2005-2006 space milestones",
+  "text": "Which one of the following pairs is not correctly matched?\n\nRecent Scientific Achievement: Country:\n\na) Creating the World's first mouse: United Kingdom\n\nb) Cloning a human embryo for the first time: Germany\n\nc) Guiding a spacecraft for Collision with a comet: United States of America\n\nd) Landing a spacecraft on an asteroid: Japan",
+  "options": [
+    "Creating the World's first mouse: United Kingdom",
+    "Cloning a human embryo for the first time: Germany",
+    "Guiding a spacecraft for Collision with a comet: United States of America",
+    "Landing a spacecraft on an asteroid: Japan"
+  ],
+  "answerIndex": 1,
+  "answerText": "(b) Cloning a human embryo for the first time: Germany",
+  "explanation": "The first human embryo cloning was achieved in the United States by Advanced Cell Technology (ACT) in Massachusetts in 2001, not in Germany. The other three pairs are correctly matched: Dolly the sheep (first mammal clone from adult cell) by the UK's Roslin Institute in 1997, NASA's Deep Impact spacecraft collision with Comet Tempel 1 in 2005, and Japan's Hayabusa spacecraft landing on asteroid Itokawa in November 2005.",
+  "research": {
+    "summary": "This question tests knowledge of landmark space and biotechnology achievements around the 2005-2006 period. The trap is that students might assume human embryo cloning happened in Germany, but the historical record is clear: Advanced Cell Technology (ACT), a Massachusetts-based company in the United States, reported on November 25, 2001, that they had created the first human embryos through somatic cell nuclear transfer. This work was led by Jose Cibelli, Robert Lanza, and Michael West. The embryos were early-stage, reaching only six cells, and were created for therapeutic purposes (deriving stem cells), not reproductive cloning. The question tests whether aspirants know the actual geography of recent biotech achievements. Meanwhile, the three correct pairs represent genuine firsts: Dolly the sheep, cloned from an adult mammary gland cell at Scotland's Roslin Institute in 1996 and announced in February 1997, was indeed the first mammal cloned from an adult cell (though not the first animal cloned). NASA's Deep Impact mission successfully collided an impactor with Comet Tempel 1 on July 4, 2005, excavating a crater and revealing the comet's internal composition. Japan's Hayabusa spacecraft, operated by JAXA, reached asteroid Itokawa in September 2005 and made two landings in November 2005, becoming the first spacecraft to land on an asteroid and return samples to Earth (though the sample collection was minimal and uncertain until analysis in 2010).",
+    "facts": [
+      "Dolly the sheep was cloned by Keith Campbell, Ian Wilmut, and colleagues at the Roslin Institute near Edinburgh, Scotland, using nuclear transfer from a mammary gland cell; her birth on July 5, 1996, was announced publicly on February 22, 1997.",
+      "The first mouse cloning was actually accomplished at the University of Hawaii in 1998 by Teruhiko Wakayama and colleagues, before Dolly was created, though Dolly's significance lay in being the first mammal cloned from an adult cell.",
+      "Deep Impact was launched on January 12, 2005, and successfully impacted Comet Tempel 1 on July 4, 2005, at 05:52 UTC, creating a crater estimated at approximately 150 meters in diameter and revealing the comet to be about 75% empty space.",
+      "Hayabusa, meaning 'falcon' in Japanese, was launched on May 9, 2003, and rendezvoused with asteroid Itokawa on September 12, 2005; it made two touchdowns in November 2005 and returned samples (eventually confirmed as 1,500 tiny grains from the asteroid) to Earth on June 13, 2010."
+    ],
+    "sources": [
+      {
+        "title": "US scientists clone first human embryo - PMC - NIH",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC1121740/",
+        "whyUsed": "Confirmed that American scientists at ACT announced cloning of the first human embryo on November 25, 2001, in Massachusetts."
+      },
+      {
+        "title": "The First Human Cloned Embryo - Scientific American",
+        "url": "https://www.scientificamerican.com/article/the-first-human-cloned-em/",
+        "whyUsed": "First-hand account by Jose Cibelli describing the October 13, 2001 creation of the first human cloned embryos at Advanced Cell Technology."
+      },
+      {
+        "title": "Dolly (sheep) - Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Dolly_(sheep)",
+        "whyUsed": "Comprehensive verified source confirming Dolly was cloned by the Roslin Institute in Scotland on July 5, 1996, announced February 22, 1997."
+      },
+      {
+        "title": "Deep Impact (spacecraft) - Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Deep_Impact_(spacecraft)",
+        "whyUsed": "Detailed timeline and verification that the Deep Impact spacecraft successfully collided with Comet Tempel 1 on July 4, 2005."
+      },
+      {
+        "title": "Hayabusa - Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Hayabusa",
+        "whyUsed": "Confirmed that Hayabusa, operated by JAXA, landed on asteroid Itokawa in November 2005 and was the first spacecraft to land on an asteroid."
+      }
+    ],
+    "searchMeta": {
+      "usedWebSearch": true,
+      "searchQueries": [
+        "first human embryo cloning 2001 Advanced Cell Technology",
+        "Dolly sheep cloning Roslin Institute 1997",
+        "Deep Impact comet collision NASA Tempel 1 2005",
+        "Hayabusa asteroid Itokawa landing JAXA 2005"
+      ],
+      "confidence": "high"
+    }
+  },
+  "id": 47
+}

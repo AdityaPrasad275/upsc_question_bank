@@ -1,0 +1,62 @@
+{
+  "subject": "Science",
+  "year": 2001,
+  "theme": "Indian space organization headquarters and centers - geographical distribution",
+  "question_short_text": "Match space organization units to their locations",
+  "text": "The location of the space organisation units have been marked in the given map as 1, 2, 3 and 4. Match these units with the list given and select the correct answer using the codes given below the Lists:\n\nA. ISRO\nB. IIRS\nC. NRSA\nD. SAC",
+  "options": [
+    "4 1 2 3",
+    "1 4 3 2",
+    "1 4 2 3",
+    "4 1 3 2"
+  ],
+  "answerIndex": 3,
+  "answerText": "(d) 4 1 3 2",
+  "explanation": "ISRO is headquartered in Bengaluru (location 4), IIRS is in Dehradun (location 1), NRSA/NRSC is in Hyderabad (location 3), and SAC is in Ahmedabad (location 2). The correct matching order is 4-1-3-2.",
+  "research": {
+    "summary": "This question tests the geographical distribution of India's major space research institutions under the Department of Space and ISRO. ISRO (Indian Space Research Organisation), the national space agency headquartered in Bengaluru, Karnataka, serves as the administrative apex. IIRS (Indian Institute of Remote Sensing), established in 1966 and located in Dehradun, Uttarakhand, functions as the premier education and training institute for remote sensing, geoinformatics, and satellite applications\u2014distinct from operational remote sensing centres. NRSA (National Remote Sensing Agency), now renamed NRSC (National Remote Sensing Centre) since 2008, is headquartered in Hyderabad, Telangana, and operates as a full-fledged ISRO centre responsible for satellite data acquisition, processing, and dissemination. SAC (Space Applications Centre), situated in Ahmedabad, Gujarat, specializes in the development of communication, navigation, earth observation, and meteorological payloads for ISRO satellites. The trap in this question lies in confusing IIRS (an educational institute in Dehradun) with NRSC (an operational remote sensing centre in Hyderabad)\u2014both deal with remote sensing but serve fundamentally different functions: IIRS trains personnel while NRSC processes satellite data. Additionally, students might conflate various secondary centres with these primary ones. The distinction is spatial and functional: Bengaluru (ISRO HQ, northern Karnataka), Dehradun (IIRS, northern India), Hyderabad (NRSC, southern India), and Ahmedab (SAC, western India) form a geographically dispersed network optimizing India's space programme across regions.",
+    "facts": [
+      "NRSA was originally established in 1974 as an autonomous agency under the Department of Science and Technology and transferred to the Department of Space in 1980, finally becoming NRSC under ISRO in 2008.",
+      "IIRS, formerly called the Indian Photo-Interpretation Institute (IPI), was set up in 1966 under the Survey of India and merged with NRSA in 1976 before being reconstituted as a separate ISRO entity in 2011.",
+      "SAC operates multiple campuses including its main facility in Ahmedabad and additional facilities in Delhi, with responsibility for payload development for INSAT, GSAT, and IRS satellite series.",
+      "NRSC maintains ground stations at Balanagar (main headquarters) and Shadnagar (major reception centre about 60 km south of Hyderabad), with the latter being one of Asia's largest remote sensing data reception facilities.",
+      "India's space research institutional structure reflects regional distribution: southern (Hyderabad\u2014NRSC), western (Ahmedabad\u2014SAC), northern (Dehradun\u2014IIRS), and south-Indian (Bengaluru\u2014ISRO HQ and URSC)."
+    ],
+    "sources": [
+      {
+        "title": "ISRO Official Website - National Remote Sensing Centre",
+        "url": "https://www.isro.gov.in/NRSC.html",
+        "whyUsed": "Verified current location and administrative status of NRSC as full-fledged ISRO centre"
+      },
+      {
+        "title": "Wikipedia - National Remote Sensing Centre",
+        "url": "https://en.wikipedia.org/wiki/National_Remote_Sensing_Centre",
+        "whyUsed": "Confirmed NRSC location in Hyderabad and provided historical context on NRSA transformation in 2008"
+      },
+      {
+        "title": "ISRO Official Website - Space Applications Centre",
+        "url": "https://www.isro.gov.in/SAC.html",
+        "whyUsed": "Verified SAC headquarters location in Ahmedabad"
+      },
+      {
+        "title": "Department of Space Wikipedia - ISRO Centres",
+        "url": "https://en.wikipedia.org/wiki/Department_of_Space",
+        "whyUsed": "Confirmed locations of all four organizations: ISRO (Bengaluru), IIRS (Dehradun), NRSC (Hyderabad), SAC (Ahmedabad)"
+      },
+      {
+        "title": "ISRO Facilities - Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/ISRO_facilities",
+        "whyUsed": "Provided detailed information on IIRS location in Dehradun and its role as premier training institute"
+      }
+    ],
+    "searchMeta": {
+      "usedWebSearch": true,
+      "searchQueries": [
+        "ISRO IIRS NRSA SAC locations headquarters",
+        "Indian space organisations centres Bengaluru Dehradun Hyderabad Ahmedabad"
+      ],
+      "confidence": "high"
+    }
+  },
+  "id": 59
+}

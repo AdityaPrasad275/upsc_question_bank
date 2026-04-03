@@ -1,0 +1,56 @@
+{
+  "subject": "Science",
+  "year": 2016,
+  "theme": "India's space capabilities and astronomical observatories",
+  "question_short_text": "Astrosat: weight, orbit, and global observatory capability",
+  "text": "With reference to `Astrosat', the astronomical observatory launched by India, which of the following statements is/are correct?\n\n1. Other than USA and Russia, India is the only country to have launched a similar observatory into space.\n2. Astrosat is a 2000 kg satellite placed in an orbit at 1650 km above the surface of the Earth.",
+  "options": [
+    "1 only",
+    "2 only",
+    "Both 1 and 2",
+    "Neither 1 nor 2"
+  ],
+  "answerIndex": 3,
+  "answerText": "(d) Neither 1 nor 2",
+  "explanation": "Statement 1 is incorrect because Japan, China, and the European Space Agency have also launched space observatories. Statement 2 is incorrect because Astrosat has a lift-off mass of approximately 1515 kg and is placed in a 650 km orbit, not 1650 km.",
+  "research": {
+    "summary": "This question tests two common misconceptions about India's Astrosat space observatory: its uniqueness globally and its precise orbital parameters. Statement 1 assumes India is only the third nation to launch such a facility, but this overlooks decades of advanced astronomy missions. Russia launched Spektr in 1995, Japan launched Yohkoh (1991), the European Space Agency launched multiple observatories including Hipparcos, and China has also deployed space telescopes. India's Astrosat (launched September 28, 2015) is therefore not unique in this regard\u2014it represents India's first dedicated multi-wavelength observatory, not a global first. The distinction is crucial: India's achievement was pioneering domestically and scientifically ambitious, but not globally unprecedented.\n\nStatement 2 confuses the actual orbital and mass specifications. Astrosat has a lift-off mass of 1515 kg (some sources cite 1513 kg), not 2000 kg. Its orbit is at 650 km altitude, inclined at 6 degrees to the equator, not 1650 km. The lower orbit is intentional\u2014it allows better observation capability while remaining in the upper layers of the thermosphere where atmospheric drag is manageable. The 1650 km figure may be a distractor drawn from other satellite specifications or incorrect reference material.\n\nThe pedagogical trap here is testing whether students memorize actual mission parameters versus relying on vague knowledge. UPSC often tests precise factual details in science questions, especially when these details distinguish one mission from similar projects. A serious aspirant must check primary sources (ISRO documentation) rather than rely on general knowledge. Both statements are confidently wrong, making answer (d) correct.",
+    "facts": [
+      "Astrosat carries five integrated instruments: Twin UV Imaging Telescopes (UVIT), three Large Area Xenon Proportional Counters (LAXPC), a Soft X-ray Telescope (SXT), and a Cadmium-Zinc-Telluride imager (CZTI), enabling simultaneous multi-wavelength observations from far ultraviolet to hard X-rays.",
+      "Unlike most space observatories which observe narrow wavelength bands, Astrosat's unique feature is simultaneous multi-band observations, an advantage over NASA's Hubble (primarily near-UV/visible) and Chandra (X-rays only).",
+      "The satellite completed its nominal 5-year mission life by September 2020 and continues operational beyond design life, having detected transient objects including gamma-ray bursts and monitored variable stars.",
+      "Russia's Spektr-R (launched 1997), Japan's MAXI observatory on the ISS (2009), and ESA's Gaia (astrometry, 2013) are examples of space observatories predating or contemporary with Astrosat, proving statement 1 false."
+    ],
+    "sources": [
+      {
+        "title": "AstroSat Mission - ISRO Official",
+        "url": "https://www.isro.gov.in/AstroSat.html",
+        "whyUsed": "Primary source for confirmed lift-off mass (1515 kg) and orbital altitude (650 km), direct from ISRO."
+      },
+      {
+        "title": "AstroSat - Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/AstroSat",
+        "whyUsed": "Comprehensive mission history, payload specifications, and international observatory context."
+      },
+      {
+        "title": "PSLV Successfully Launches India's Multi Wavelength Space Observatory ASTROSAT - PIB",
+        "url": "https://www.pib.gov.in/newsite/PrintRelease.aspx?relid=128239",
+        "whyUsed": "Official government press release confirming 1513 kg mass and 650 km orbit from launch date (September 28, 2015)."
+      },
+      {
+        "title": "Top 10 Space Agencies in the world - Godigit",
+        "url": "https://www.godigit.com/guides/space-exploration/space-agencies-in-the-world",
+        "whyUsed": "Verification that ESA, China (CNSA), Japan (JAXA), and Russia have all deployed space observatories."
+      }
+    ],
+    "searchMeta": {
+      "usedWebSearch": true,
+      "searchQueries": [
+        "Astrosat India observatory specifications launch weight orbit",
+        "countries space observatories USA Russia China Japan ESA"
+      ],
+      "confidence": "high"
+    }
+  },
+  "id": 21
+}

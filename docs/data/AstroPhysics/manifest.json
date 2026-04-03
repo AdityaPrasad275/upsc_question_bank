@@ -1,0 +1,350 @@
+{
+  "name": "AstroPhysics",
+  "questions": [
+    {
+      "id": 1,
+      "short_text": "Evaluate statements on vertical landing, hovering, and power sources across all UAV types",
+      "file": "question_1.json"
+    },
+    {
+      "id": 2,
+      "short_text": "Which space missions support microgravity research: Axiom-4, SpaDeX, and/or Gaganyaan?",
+      "file": "question_2.json"
+    },
+    {
+      "id": 4,
+      "short_text": "Giant stars vs dwarf stars: lifespan and nuclear reaction rates comparison",
+      "file": "question_4.json"
+    },
+    {
+      "id": 5,
+      "short_text": "Matching celestial objects with correct definitions: Cepheids, nebulae, pulsars",
+      "file": "question_5.json"
+    },
+    {
+      "id": 6,
+      "short_text": "Identify which country has its own satellite navigation system from the given options",
+      "file": "question_6.json"
+    },
+    {
+      "id": 7,
+      "short_text": "Effects of major solar storms (solar flares) on Earth's technology and infrastructure",
+      "file": "question_7.json"
+    },
+    {
+      "id": 8,
+      "short_text": "What is the core concept of FOBS technology?",
+      "file": "question_8.json"
+    },
+    {
+      "id": 9,
+      "short_text": "Why are astronomical distances measured in light-years?",
+      "file": "question_9.json"
+    },
+    {
+      "id": 10,
+      "short_text": "Identify the experiment employing three spacecraft in an equilateral triangle formation with lasers",
+      "file": "question_10.json"
+    },
+    {
+      "id": 11,
+      "short_text": "Uses of satellite remote sensing: chlorophyll, methane emissions, land surface temperature",
+      "file": "question_11.json"
+    },
+    {
+      "id": 12,
+      "short_text": "Significance of observing distant black hole mergers via gravitational wave detection",
+      "file": "question_12.json"
+    },
+    {
+      "id": 13,
+      "short_text": "GPS applications in mobile phones, banking, and power grid control",
+      "file": "question_13.json"
+    },
+    {
+      "id": 14,
+      "short_text": "Evaluate statements on magnetic reversals, primordial atmosphere composition, and biological modification of Earth's atmosphere",
+      "file": "question_14.json"
+    },
+    {
+      "id": 15,
+      "short_text": "Identifying correct statements about IRNSS satellite orbits and service coverage area",
+      "file": "question_15.json"
+    },
+    {
+      "id": 16,
+      "short_text": "Which phenomena are predictions of General Relativity: light affected by gravity, universe expansion, matter warps spacetime?",
+      "file": "question_16.json"
+    },
+    {
+      "id": 17,
+      "short_text": "Which statement(s) about PSLV and GSLV launch vehicles are correct?",
+      "file": "question_17.json"
+    },
+    {
+      "id": 18,
+      "short_text": "Context of Event Horizon, Singularity, String Theory, and Standard Model",
+      "file": "question_18.json"
+    },
+    {
+      "id": 19,
+      "short_text": "Purpose of evolved Laser Interferometer Space Antenna (eLISA) project",
+      "file": "question_19.json"
+    },
+    {
+      "id": 20,
+      "short_text": "GL-10 Greased Lightning prototype aircraft by NASA",
+      "file": "question_20.json"
+    },
+    {
+      "id": 21,
+      "short_text": "Astrosat: weight, orbit, and global observatory capability",
+      "file": "question_21.json"
+    },
+    {
+      "id": 22,
+      "short_text": "Which statements about Mangalyaan's achievements are correct?",
+      "file": "question_22.json"
+    },
+    {
+      "id": 23,
+      "short_text": "Which activities use Indian Remote Sensing (IRS) satellites?",
+      "file": "question_23.json"
+    },
+    {
+      "id": 24,
+      "short_text": "What the Goldilocks Zone refers to in astronomy news",
+      "file": "question_24.json"
+    },
+    {
+      "id": 25,
+      "short_text": "Identifying correctly matched spacecraft and their mission purposes from three given pairs",
+      "file": "question_25.json"
+    },
+    {
+      "id": 26,
+      "short_text": "Evidence for the continued expansion of the universe",
+      "file": "question_26.json"
+    },
+    {
+      "id": 27,
+      "short_text": "What prevents high-speed charged particles from space from reaching Earth's surface?",
+      "file": "question_27.json"
+    },
+    {
+      "id": 28,
+      "short_text": "Identify which conditions define a geostationary orbit",
+      "file": "question_28.json"
+    },
+    {
+      "id": 29,
+      "short_text": "Why doesn't an artificial satellite orbiting Earth fall down?",
+      "file": "question_29.json"
+    },
+    {
+      "id": 30,
+      "short_text": "Identify correct statements about differences between asteroids and comets",
+      "file": "question_30.json"
+    },
+    {
+      "id": 31,
+      "short_text": "What is Bhuvan according to ISRO and space technology context?",
+      "file": "question_31.json"
+    },
+    {
+      "id": 32,
+      "short_text": "Oceansat-2 capabilities: water vapour, monsoon onset, coastal pollution",
+      "file": "question_32.json"
+    },
+    {
+      "id": 33,
+      "short_text": "Scientist who proved the Chandrasekhar limit for white dwarfs",
+      "file": "question_33.json"
+    },
+    {
+      "id": 34,
+      "short_text": "Identify the state where Cape Canaveral is located",
+      "file": "question_34.json"
+    },
+    {
+      "id": 35,
+      "short_text": "Planet with the largest number of natural satellites",
+      "file": "question_35.json"
+    },
+    {
+      "id": 37,
+      "short_text": "Location of ISRO cryogenic engine test-stand from 2007 test",
+      "file": "question_37.json"
+    },
+    {
+      "id": 38,
+      "short_text": "Jet engine vs rocket: comparing oxygen supply requirements for space flight",
+      "file": "question_38.json"
+    },
+    {
+      "id": 39,
+      "short_text": "Purpose of NASA's THEMIS mission",
+      "file": "question_39.json"
+    },
+    {
+      "id": 40,
+      "short_text": "Identify the spacecraft from a list including an asteroid, space probes, and reconnaissance satellite; and identify the country of origin of Selene-1 lunar orbiter",
+      "file": "question_40.json"
+    },
+    {
+      "id": 41,
+      "short_text": "Galileo Project: European satellite navigation system",
+      "file": "question_41.json"
+    },
+    {
+      "id": 42,
+      "short_text": "Identify the incorrectly matched pair of space/telecom systems",
+      "file": "question_42.json"
+    },
+    {
+      "id": 43,
+      "short_text": "Which comet did NASA's Deep Impact mission impact in 2005?",
+      "file": "question_43.json"
+    },
+    {
+      "id": 44,
+      "short_text": "India's 2006 cryogenic stage test and global capability status",
+      "file": "question_44.json"
+    },
+    {
+      "id": 45,
+      "short_text": "Average distance between Sun and Earth in kilometers",
+      "file": "question_45.json"
+    },
+    {
+      "id": 46,
+      "short_text": "Mars orbital period vs Earth; does diameter explain orbit time?",
+      "file": "question_46.json"
+    },
+    {
+      "id": 47,
+      "short_text": "Identify the incorrectly matched scientific achievement-country pair from a list of four 2005-2006 space milestones",
+      "file": "question_47.json"
+    },
+    {
+      "id": 48,
+      "short_text": "Statement evaluation on INSAT-4A launch location, Arianespace involvement, and Tata Sky DTH services",
+      "file": "question_48.json"
+    },
+    {
+      "id": 49,
+      "short_text": "Geostationary satellite altitude and FM noise immunity accuracy",
+      "file": "question_49.json"
+    },
+    {
+      "id": 50,
+      "short_text": "Launch location of INSAT-3E communication satellite in 2003",
+      "file": "question_50.json"
+    },
+    {
+      "id": 51,
+      "short_text": "METSAT and PSLV-C4 payload capacity in 2002",
+      "file": "question_51.json"
+    },
+    {
+      "id": 52,
+      "short_text": "Which planet has the longest orbital period (revolution time) among the four options given?",
+      "file": "question_52.json"
+    },
+    {
+      "id": 53,
+      "short_text": "Which Mars spacecraft launched by NASA in 2001?",
+      "file": "question_53.json"
+    },
+    {
+      "id": 54,
+      "short_text": "Identify the correct statement about Earth, Sun, and planetary density in the solar system",
+      "file": "question_54.json"
+    },
+    {
+      "id": 55,
+      "short_text": "Calculate the moon's rise time on the 4th day using lunar cycle principles",
+      "file": "question_55.json"
+    },
+    {
+      "id": 56,
+      "short_text": "Which statements on INSAT, PSLV, GSLV cryogenic engines, and GSAT are correct?",
+      "file": "question_56.json"
+    },
+    {
+      "id": 57,
+      "short_text": "Whether artificial satellites are launched eastward and the role of Earth's rotation in escape velocity",
+      "file": "question_57.json"
+    },
+    {
+      "id": 58,
+      "short_text": "ISRO Chairman when INSAT-3B was launched in March 2000",
+      "file": "question_58.json"
+    },
+    {
+      "id": 59,
+      "short_text": "Match space organization units to their locations",
+      "file": "question_59.json"
+    },
+    {
+      "id": 60,
+      "short_text": "Scientist honoured by naming of Chandra X-ray telescope",
+      "file": "question_60.json"
+    },
+    {
+      "id": 61,
+      "short_text": "What physical property of black holes prevents radiation from escaping?",
+      "file": "question_61.json"
+    },
+    {
+      "id": 62,
+      "short_text": "Statement analysis on asteroid orbits and sizes",
+      "file": "question_62.json"
+    },
+    {
+      "id": 64,
+      "short_text": "Definition of Astronomical Unit (AU) and its reference distance",
+      "file": "question_64.json"
+    },
+    {
+      "id": 65,
+      "short_text": "Why does a comet's tail always point away from the Sun?",
+      "file": "question_65.json"
+    },
+    {
+      "id": 66,
+      "short_text": "Distinguish asteroids from comets, meteoroids, meteors, and meteorites",
+      "file": "question_66.json"
+    },
+    {
+      "id": 67,
+      "short_text": "Which star is nearest to Earth?",
+      "file": "question_67.json"
+    },
+    {
+      "id": 69,
+      "short_text": "Which IRS satellite was launched from India in 1996?",
+      "file": "question_69.json"
+    },
+    {
+      "id": 70,
+      "short_text": "Definition of a meteor based on its location and state",
+      "file": "question_70.json"
+    },
+    {
+      "id": 71,
+      "short_text": "India's demonstrated space technology capability in 1994",
+      "file": "question_71.json"
+    },
+    {
+      "id": 72,
+      "short_text": "Which planet did Comet Shoemaker-Levy 9 collide with in 1994?",
+      "file": "question_72.json"
+    },
+    {
+      "id": 73,
+      "short_text": "Which is the primary application of cryogenic engines?",
+      "file": "question_73.json"
+    }
+  ]
+}

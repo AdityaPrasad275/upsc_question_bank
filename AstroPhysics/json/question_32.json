@@ -1,0 +1,62 @@
+{
+  "subject": "Science",
+  "year": 2010,
+  "theme": "satellite remote-sensing instruments and atmospheric-oceanic monitoring",
+  "question_short_text": "Oceansat-2 capabilities: water vapour, monsoon onset, coastal pollution",
+  "text": "Consider the following statements: The satellite Oceansat-2 launched by India helps in:\n\n1. Estimating the water vapour content in the atmosphere.\n2. Predicting the onset of monsoons.\n3. Monitoring the pollution of coastal waters\n\nWhich of the statements given above is/are correct?",
+  "options": [
+    "1 and 2 only",
+    "2 only",
+    "1 and 3 only",
+    "1, 2 and 3"
+  ],
+  "answerIndex": 3,
+  "answerText": "(d) 1, 2 and 3",
+  "explanation": "Oceansat-2 carries three instruments\u2014OCM-2, a Ku-band Scatterometer, and ROSA\u2014that collectively enable water vapour estimation, monsoon prediction, and coastal pollution monitoring.",
+  "research": {
+    "summary": "Oceansat-2, launched on 23 September 2009 by PSLV-C14, is the second Indian satellite dedicated to oceanographic and atmospheric applications. It carries three complementary instruments that work together to enable all three capabilities being tested.\n\nStatement 1 (Water vapour estimation): The ROSA (Radio Occultation Sounder for Atmosphere) payload, developed by the Italian Space Agency, is specifically designed to characterize the lower atmosphere and ionosphere. It retrieves atmospheric vertical profiles of temperature, pressure, and humidity\u2014which include water vapour content. This directly addresses Statement 1.\n\nStatement 2 (Monsoon prediction): Multiple official ISRO and ESA sources confirm that Oceansat-2 plays \"an important role in forecasting the onset of the monsoon and its subsequent advancement over the Indian subcontinent and over South-East Asia.\" This is listed as a major application, making Statement 2 correct.\n\nStatement 3 (Coastal pollution monitoring): The Ocean Colour Monitor-2 (OCM-2) payload is an 8-band multispectral camera operating in visible and near-infrared bands. It monitors chlorophyll concentration, phytoplankton blooms, suspended sediment and matter, and atmospheric aerosols. While not explicitly called \"pollution,\" the monitoring of suspended matter and aerosols in coastal waters effectively serves coastal water quality assessment\u2014the primary mechanism for identifying pollution through remote sensing. The Scatterometer also contributes to this through wind field data that affects coastal dynamics.\n\nThe trap in this question is that students might think Oceansat-2 (unlike its predecessor Oceansat-1) lacks a microwave radiometer for water vapour measurement. However, ROSA\u2014the new Italian instrument on Oceansat-2\u2014specifically fills this role through GPS occultation techniques, which can retrieve atmospheric water vapour profiles. Oceansat-1 had a Multi-frequency Scanning Microwave Radiometer (MSMR) for this purpose, but Oceansat-2 uses the more advanced ROSA. A common misconception is that only passive microwave instruments can estimate water vapour, but GPS occultation is equally effective.",
+    "facts": [
+      "Oceansat-2 carries three instruments: OCM-2 (ocean colour monitor), SCAT (Ku-band scatterometer), and ROSA (GPS occultation receiver); ROSA and MSMR (on Oceansat-1) are different instruments for measuring atmospheric water vapour\u2014ROSA uses radio occultation while MSMR used microwave radiometry.",
+      "The Scatterometer provides global ocean surface wind vectors daily, which are essential inputs for both monsoon forecasting models and coastal weather prediction systems.",
+      "Oceansat-2 operates in a sun-synchronous orbit at 720 km altitude with a 2-day revisit cycle, enabling continuous monitoring of monsoon progression and coastal water conditions.",
+      "OCM-2 has an 8-band multispectral capability in visible and near-infrared range with 360 m resolution and 1420 km swath, making it effective for detecting phytoplankton blooms, suspended sediments, and coastal algal blooms\u2014indirect indicators of water quality.",
+      "Oceansat-2 contributed significantly to operational forecasting: it was deployed to predict the landfall and mitigate effects of Cyclone Phailin in October 2013, demonstrating its real-world monsoon and cyclone prediction role."
+    ],
+    "sources": [
+      {
+        "title": "Oceansat-2 - Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Oceansat-2",
+        "whyUsed": "Verified instrument details (OCM-2, OSCAT, ROSA) and primary mission objectives and applications"
+      },
+      {
+        "title": "OceanSat-2 - Earth Online (ESA)",
+        "url": "https://earth.esa.int/eogateway/missions/oceansat-2",
+        "whyUsed": "Confirmed monsoon forecasting role explicitly: 'played an important role in forecasting the onset of the monsoon'"
+      },
+      {
+        "title": "Oceansat-2 Objectives - MOSDAC (ISRO)",
+        "url": "https://www.mosdac.gov.in/oceansat-2-objectives",
+        "whyUsed": "Official ISRO source confirming atmospheric applications (water vapour, aerosols) and coastal zone studies"
+      },
+      {
+        "title": "Oceansat-2 Introduction - MOSDAC (ISRO)",
+        "url": "https://www.mosdac.gov.in/oceansat-2-introduction",
+        "whyUsed": "Official documentation of atmospheric vertical profiles (temperature, pressure, humidity) through ROSA for weather forecasting and climatic studies"
+      },
+      {
+        "title": "OceanSat-2 - eoPortal Directory",
+        "url": "https://directory.eoportal.org/satellite-missions/oceansat-2",
+        "whyUsed": "Detailed payload specifications and ROSA capabilities for atmospheric characterization and water vapour retrieval"
+      }
+    ],
+    "searchMeta": {
+      "usedWebSearch": true,
+      "searchQueries": [
+        "Oceansat-2 India satellite capabilities instruments",
+        "Oceansat-2 water vapour scatterometer atmospheric monitoring"
+      ],
+      "confidence": "high"
+    }
+  },
+  "id": 32
+}

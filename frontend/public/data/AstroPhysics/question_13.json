@@ -1,0 +1,57 @@
+{
+  "subject": "Science & Technology",
+  "year": 2018,
+  "theme": "Applications of GPS technology across different sectors",
+  "question_short_text": "GPS applications in mobile phones, banking, and power grid control",
+  "text": "In which of the following areas can GPS technology be used?\n\n1. Mobile phones operation\n2. Banking operations\n3. Controlling the power grids\n\nWhich of the pairs given above is/are correct?",
+  "options": [
+    "1 only",
+    "2 and 3 only",
+    "1 and 3 only",
+    "1, 2 and 3"
+  ],
+  "answerIndex": 3,
+  "answerText": "(d) 1, 2 and 3",
+  "explanation": "GPS technology is actively used in all three areas: mobile phone positioning and location services, banking applications for ATM/POS location and transaction time-stamping, and power grid control systems for precise synchronization and operation.",
+  "research": {
+    "summary": "This question tests understanding of GPS's practical applications beyond simple navigation. GPS's core value comes not just from positioning but from its ability to provide extremely accurate time signals derived from atomic clocks on satellites. This timing application is often overlooked by students who think of GPS primarily for maps and location tracking.\n\nStatement 1 (Mobile phones) is correct: GPS is embedded in modern smartphones for location services, navigation, mapping, and location-based applications. This is the most commonly recognized use.\n\nStatement 2 (Banking operations) is correct: GPS enables precise time-stamping for financial transactions on trading networks, helps locate ATM machines and POS terminals for users, and provides timestamp verification for transactions. Investment banks use GPS to precision time-stamp trades to ensure proper interest calculations and transaction ordering across international networks.\n\nStatement 3 (Power grid control) is correct and tests deeper understanding: GPS is critical for synchronizing power generation, transmission, and distribution across entire grids. Power control systems must operate with microsecond-level timing precision. GPS satellites carry atomic clocks that provide Coordinated Universal Time (UTC), allowing distributed power control devices across wide geographic areas to operate in perfect synchronization. This enables efficient power sharing between interconnected grids, fault detection, and real-time response to load changes. Phasor Measurement Units (PMUs) used in modern smart grids align with GPS atomic clock signals to measure voltage and current at synchronized time intervals, allowing grid operators to monitor and control system dynamics in real-time. Without this synchronization, generators could fall out of step, causing cascading failures.\n\nThe trap for many students is dismissing Statement 2 or 3 as too specialized or assuming GPS is only for navigation. The actual learning point is that GPS's timing accuracy\u2014not just its positioning capability\u2014makes it indispensable across finance, telecommunications, and critical infrastructure.",
+    "facts": [
+      "GPS satellites are equipped with atomic clocks that transmit highly accurate time signals (Coordinated Universal Time) with microsecond or nanosecond precision",
+      "Phasor Measurement Units (PMUs) in power grids use GPS-synchronized time-stamps to measure voltages and currents at 30-120 samples per second, enabling real-time monitoring and control of bulk power systems",
+      "Investment banks and financial institutions use GPS time-stamps for trading records to ensure accurate transaction sequencing and interest calculations across multiple time zones",
+      "Power grid synchronization requires millisecond-level timing accuracy; generators trip or capacitors switch based on timing triggers that must coordinate precisely across geographically dispersed locations",
+      "Modern smartphones use GPS not only for location but also for time synchronization in cellular networks and location-based banking services like ATM/POS finding"
+    ],
+    "sources": [
+      {
+        "title": "Global Positioning System - Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Global_Positioning_System",
+        "whyUsed": "Confirmed GPS's accurate time facilitates banking, mobile operations, and power grid control through synchronized hand-off switching"
+      },
+      {
+        "title": "GPS in the Nick of Time for Electric Power Distribution",
+        "url": "https://www.renewableenergyworld.com/power-grid/gps-in-the-nick-of-time-for-electric-power-distribution/",
+        "whyUsed": "Detailed technical explanation of GPS timing synchronization in power plant generators, electrical phase matching, fault detection, and millisecond-level control requirements across U.S. power grids"
+      },
+      {
+        "title": "Smart grid and GPS/GNSS timing solutions",
+        "url": "https://www.furuno.com/en/gnss/case/smartgrid",
+        "whyUsed": "Explained how GNSS/GPS provides Coordinated Universal Time (UTC) for power control device synchronization across wide geographic areas and smart grid infrastructure"
+      },
+      {
+        "title": "Time Synchronization in the Electric Power System",
+        "url": "https://www.naspi.org/sites/default/files/reference_documents/tstf_electric_power_system_report_pnnl_26331_march_2017_0.pdf",
+        "whyUsed": "Technical documentation of synchrophasor technology using GPS-synchronized PMUs for high-speed grid monitoring with microsecond accuracy at 30-120 samples per second"
+      }
+    ],
+    "searchMeta": {
+      "usedWebSearch": true,
+      "searchQueries": [
+        "GPS technology applications power grid control systems",
+        "GPS synchronization electricity grid operations"
+      ],
+      "confidence": "high"
+    }
+  },
+  "id": 13
+}

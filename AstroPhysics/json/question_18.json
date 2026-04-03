@@ -1,0 +1,56 @@
+{
+  "subject": "Science",
+  "year": 2017,
+  "theme": "Fundamental physics frameworks in cosmology and particle physics",
+  "question_short_text": "Context of Event Horizon, Singularity, String Theory, and Standard Model",
+  "text": "The terms 'Event Horizon', 'Singularity', 'String Theory' and 'Standard Model' are sometimes seen in the news in the context of:",
+  "options": [
+    "Observation and understanding of the Universe",
+    "Study of the solar and the lunar eclipses",
+    "Placing satellites in the orbit of the Earth",
+    "Origin and evolution of living organisms on the Earth"
+  ],
+  "answerIndex": 0,
+  "answerText": "(a) Observation and understanding of the Universe",
+  "explanation": "All four terms\u2014Event Horizon, Singularity, String Theory, and Standard Model\u2014are fundamental concepts in modern physics and cosmology used to describe the nature and mechanics of the cosmos, not eclipses, satellite placement, or biology.",
+  "research": {
+    "summary": "This question tests whether a student can recognize the conceptual domain of four key physics frameworks. The trap is that Event Horizon and Singularity might seem narrowly about black holes, eclipses might seem cosmological, and satellites might seem related to space observation. However, the actual scope is much broader. Event Horizon refers to the boundary around a black hole beyond which nothing, not even light, can escape\u2014a consequence of general relativity's description of extreme spacetime curvature. Singularity describes a point in spacetime where the laws of physics break down, with infinite density and curvature; it appears both at the center of black holes and theoretically at the Big Bang origin of the universe. String Theory is a theoretical framework attempting to reconcile quantum mechanics and general relativity by replacing point particles with one-dimensional vibrating strings, offering a potential unified description of all fundamental forces. The Standard Model describes the electromagnetic, weak, and strong nuclear interactions, classifying all known subatomic particles and their interactions. These four concepts collectively address the deepest questions in physics: the nature of gravity and extreme spacetime (Event Horizon, Singularity), the fundamental structure of matter and forces at the smallest scales (String Theory, Standard Model), and the evolution of the universe from the Big Bang to today. None relate specifically to eclipse prediction, satellite orbits, or biological evolution. The unifying theme is fundamental physics and cosmology\u2014how we observe, model, and understand the universe at both the largest (cosmological) and smallest (quantum) scales.",
+    "facts": [
+      "Event horizons were first theorized in Einstein's General Relativity (1915) but only became observationally real when the first black hole image was captured in 2019, directly visualizing an event horizon in the galaxy M87",
+      "Singularities in cosmology describe not only black hole centers but also the initial Big Bang singularity, where classical physics breaks down and a quantum description is required",
+      "String Theory proposes fundamental strings vibrate at different frequencies to produce all particles and forces, but remains unproven and is considered speculative; it requires 10 or 11 dimensions, most of which are theoretically compactified",
+      "The Standard Model has been extraordinarily successful, tested through decades of particle physics experiments, and successfully predicted the Higgs boson in 2012; it does not include gravity, a gap that theoretical frameworks like String Theory attempt to address",
+      "All four concepts arose from fundamental physics inquiries: how gravity works at extreme scales, what matter and forces truly are, and whether a unified theory of all forces can exist"
+    ],
+    "sources": [
+      {
+        "title": "Wikipedia - Gravitational Singularity",
+        "url": "https://en.wikipedia.org/wiki/Gravitational_singularity",
+        "whyUsed": "Comprehensive explanation of singularities in General Relativity and their role in cosmology, including Big Bang singularity and their relationship to event horizons"
+      },
+      {
+        "title": "Wikipedia - Event Horizon",
+        "url": "https://en.wikipedia.org/wiki/Event_horizon",
+        "whyUsed": "Detailed account of event horizons, their role in black hole physics, and their connection to General Relativity and cosmology"
+      },
+      {
+        "title": "GKToday - UPSC Question on Cosmology Concepts",
+        "url": "https://www.gktoday.in/question/the-terms-event-horizon-singularity-string-theory-and-standard-model-a-564810",
+        "whyUsed": "Verified UPSC-aligned explanation confirming all four terms are fundamental concepts in modern physics and cosmology"
+      },
+      {
+        "title": "LotusArise - Event Horizon and Singularity Explanation",
+        "url": "https://lotusarise.com/qna/upsc/q-the-terms-event-horizon-singularity-string-theory-and-standard-model-are-sometimes-seen-in-the-news-in-the-context-of",
+        "whyUsed": "Clarifies the relationship between Event Horizon and Singularity in black hole structure and cosmological observations"
+      }
+    ],
+    "searchMeta": {
+      "usedWebSearch": true,
+      "searchQueries": [
+        "Event Horizon Singularity String Theory Standard Model physics cosmology"
+      ],
+      "confidence": "high"
+    }
+  },
+  "id": 18
+}

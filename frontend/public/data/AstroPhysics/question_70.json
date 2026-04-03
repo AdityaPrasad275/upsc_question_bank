@@ -1,0 +1,51 @@
+{
+  "subject": "Science",
+  "year": 1995,
+  "theme": "Definition and classification of space objects: meteoroid, meteor, and meteorite",
+  "question_short_text": "Definition of a meteor based on its location and state",
+  "text": "A meteor is:",
+  "options": [
+    "A rapidly moving star",
+    "A piece of matter which has entered the earth's atmosphere from outer space",
+    "Part of a constellation",
+    "A comet without a tail"
+  ],
+  "answerIndex": 1,
+  "answerText": "(b) A piece of matter which has entered the earth's atmosphere from outer space",
+  "explanation": "A meteor is not the physical object itself, but the streak of light produced when a meteoroid enters Earth's atmosphere and burns up due to friction. The glow we see as a 'shooting star' is the meteor\u2014a visible atmospheric phenomenon caused by the rapid entry and heating of the space object.",
+  "research": {
+    "summary": "The distinction between meteoroid, meteor, and meteorite hinges entirely on location and state, not the object itself. A meteoroid is a small piece of rock or metal traveling through interplanetary space. When that same object enters Earth's atmosphere at high speed, friction with air molecules causes it to heat and vaporize, producing the bright streak of light we observe in the sky\u2014this visible phenomenon is called a meteor, or colloquially a 'shooting star.' If any fragment of the meteoroid survives passage through the atmosphere and reaches Earth's surface, that solid remnant is called a meteorite. The UPSC question specifically asks what a meteor 'is,' and option (b) correctly captures the critical point: it has 'entered the earth's atmosphere from outer space.' This phrasing distinguishes it from a meteoroid (which is still in space) and from a meteorite (which has reached the ground). The trap lies in confusing the physical object with the observable phenomenon. Many students wrongly think 'meteor' refers to the solid object or confuse it with a rapidly moving star. In fact, a meteor is purely the visible effect of atmospheric entry\u2014it is not a star, not a distinct celestial body orbiting in space, and not a piece of comet (though it may originate from comet debris). The term 'shooting star' is colloquial and misleading because meteors are not stellar objects at all.",
+    "facts": [
+      "About 48.5 tons of meteoritic material enters Earth's atmosphere daily; most meteoroids burn up completely as meteors, with less than 5% of the original mass typically reaching the ground as meteorites.",
+      "Meteor showers occur when Earth passes through debris fields shed by comets or asteroids; they recur predictably at the same time each year as Earth completes its orbit.",
+      "Meteoroids range in size from dust grains to several meters in diameter and originate from comets, asteroids, or debris ejected from celestial bodies like the Moon and Mars following impact events.",
+      "The brightness of a meteor depends on the meteoroid's speed, size, and composition; particularly bright meteors that explode in the atmosphere are called bolides or fireballs.",
+      "About 99% of meteorites recovered on Earth originated from asteroids in the asteroid belt between Mars and Jupiter, though some have been traced to the Moon and Mars."
+    ],
+    "sources": [
+      {
+        "title": "What's the Difference Between a Meteoroid, a Meteor, and a Meteorite?",
+        "url": "https://www.britannica.com/story/whats-the-difference-between-a-meteoroid-a-meteor-and-a-meteorite",
+        "whyUsed": "Verified the core distinction that a meteor is the visible streak of light produced during atmospheric entry, not a physical object."
+      },
+      {
+        "title": "Meteors and Meteorites: Facts - NASA Science",
+        "url": "https://science.nasa.gov/solar-system/meteors-meteorites/facts/",
+        "whyUsed": "Confirmed definitions and provided data on daily meteoritic infall and the origin sources of meteoroids."
+      },
+      {
+        "title": "Meteor, meteoroid, and meteorite: what is the difference?",
+        "url": "https://universemagazine.com/en/meteor-meteoroid-meteorite-and-asteroid-what-is-the-difference/",
+        "whyUsed": "Clarified that a meteor is a luminous trace (atmospheric phenomenon) rather than a celestial body, addressing common misconceptions."
+      }
+    ],
+    "searchMeta": {
+      "usedWebSearch": true,
+      "searchQueries": [
+        "meteoroid meteor meteorite definition difference"
+      ],
+      "confidence": "high"
+    }
+  },
+  "id": 70
+}

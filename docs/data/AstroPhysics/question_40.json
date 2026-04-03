@@ -1,0 +1,66 @@
+{
+  "subject": "Science",
+  "year": 2008,
+  "theme": "Spacecraft and space missions identification",
+  "question_short_text": "Identify the spacecraft from a list including an asteroid, space probes, and reconnaissance satellite; and identify the country of origin of Selene-1 lunar orbiter",
+  "text": "**Question 1: Which one of the following is a spacecraft?**\n\n**Question 2: Selene-1, the lunar orbiter mission belongs to which one of the following?**",
+  "options": [
+    "Apophis",
+    "Cassini",
+    "Spitzer",
+    "TechSar",
+    "China",
+    "European Union",
+    "Japan",
+    "USA"
+  ],
+  "answerIndex": 1,
+  "answerText": "(b) Cassini; (c) Japan",
+  "explanation": "Cassini is a spacecraft that studied Saturn and its system. Selene-1 (also known as Kaguya) is Japan's lunar orbiter mission launched in 2007 by JAXA.",
+  "research": {
+    "summary": "The first question tests the ability to distinguish between celestial objects and functional spacecraft. Apophis is an asteroid, not a spacecraft. TechSar is an Israeli reconnaissance satellite, distinct from the exploratory spacecraft referenced here. Spitzer is a space telescope, which is technically a spacecraft but in this context the question is testing recognition of planetary exploration probes. Cassini is the correct answer\u2014it was a joint NASA, ESA, and Italian Space Agency (ASI) mission launched in 1997 that orbited Saturn from 2004 to 2017, studying the ringed planet, its rings, and numerous moons including Titan. The Cassini-Huygens mission consisted of NASA's Cassini orbiter and ESA's Huygens probe, which made the first landing in the outer solar system on Titan in January 2005.\n\nThe second question tests knowledge of space agency assignments and lunar exploration initiatives. Selene-1, formally known as SELENE (Selenological and Engineering Explorer) and nicknamed Kaguya by public vote, was Japan's second lunar orbiter mission. Launched by JAXA (Japan Aerospace Exploration Agency) on September 14, 2007, it consisted of a main orbiter at approximately 100 km altitude plus two sub-satellites (Okina and Ouna) for gravity field and relay communications. The mission was among the largest lunar missions since Apollo, and Kaguya provided the most detailed topographical data of the lunar surface at that time before impacting the Moon on June 10, 2009. The names Kaguya, Okina, and Ouna were drawn from the Japanese folk tale \"The Tale of the Bamboo Cutter,\" where Kaguya is a lunar princess and Okina and Ouna are the elderly couple who adopt her.",
+    "facts": [
+      "Cassini was the fourth space probe to visit Saturn and the first to enter its orbit, orbiting for 13 years (2004-2017).",
+      "The Cassini-Huygens mission cost approximately US$3.26 billion, with the USA contributing 80%, ESA 15%, and ASI 5%.",
+      "SELENE/Kaguya created the most detailed topographical model of the Moon to its time, with data points 10 orders larger than previous models.",
+      "Kaguya's two sub-satellites were used to determine the Moon's gravity field via Doppler shift measurements, with particular advantage for mapping the farside gravitational field.",
+      "Spitzer Space Telescope (launched 2003) is NASA's infrared observatory and was the fourth component of NASA's Great Observatories program, distinct from planetary exploration spacecraft."
+    ],
+    "sources": [
+      {
+        "title": "Cassini\u2013Huygens - Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Cassini%E2%80%93Huygens",
+        "whyUsed": "Verified Cassini mission details, partnership structure (NASA/ESA/ASI), orbital timeline (2004-2017), and status as a space probe mission."
+      },
+      {
+        "title": "NASA Science: Cassini About the Mission",
+        "url": "https://science.nasa.gov/mission/cassini/about-the-mission/",
+        "whyUsed": "Confirmed Cassini as a sophisticated robotic spacecraft for Saturn system study and Huygens probe's January 2005 Titan landing."
+      },
+      {
+        "title": "SELENE - Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/SELENE",
+        "whyUsed": "Established SELENE/Kaguya as Japanese lunar orbiter launched September 14, 2007, by JAXA/ISAS, and confirmed mission structure with sub-satellites."
+      },
+      {
+        "title": "Britannica: Kaguya",
+        "url": "https://www.britannica.com/topic/Kaguya",
+        "whyUsed": "Verified Kaguya as Japan's second lunar mission by JAXA, confirmed three-spacecraft composition and public naming from Japanese legend."
+      },
+      {
+        "title": "NASA Science: Kaguya",
+        "url": "https://science.nasa.gov/mission/kaguya/",
+        "whyUsed": "Confirmed Kaguya created most detailed topographical model, included Okina and Ouna sub-satellites, and impacted Moon June 10, 2009."
+      }
+    ],
+    "searchMeta": {
+      "usedWebSearch": true,
+      "searchQueries": [
+        "Cassini spacecraft mission NASA ESA",
+        "Selene-1 Kaguya lunar orbiter Japan JAXA"
+      ],
+      "confidence": "high"
+    }
+  },
+  "id": 40
+}

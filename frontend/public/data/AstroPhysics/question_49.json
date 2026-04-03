@@ -1,0 +1,56 @@
+{
+  "subject": "Science",
+  "year": 2005,
+  "theme": "Electromagnetic radiation and communication technologies",
+  "question_short_text": "Geostationary satellite altitude and FM noise immunity accuracy",
+  "text": "Consider the following statements:\n\n1. A geostationary satellite is at an approximate height of 10000 km.\n2. FM transmission of music is of very good quality because the atmospheric or man-made noises which are generally frequency variations can do little harm.\n\nWhich of the statements is/are correct?",
+  "options": [
+    "1 only",
+    "2 only",
+    "Both 1 and 2",
+    "Neither 1 nor 2"
+  ],
+  "answerIndex": 1,
+  "answerText": "(b) 2 only",
+  "explanation": "Statement 1 is incorrect: geostationary satellites orbit at approximately 35,786 km altitude, not 10,000 km. Statement 2 is correct: FM is highly resistant to noise because atmospheric and man-made noise are primarily amplitude variations, which have minimal effect on frequency-modulated signals.",
+  "research": {
+    "summary": "This question tests two fundamental concepts in communications technology: orbital mechanics and signal modulation. Statement 1 contains a common misconception about geostationary orbit altitude. A geostationary satellite must maintain an orbital period matching Earth's rotation (23 hours 56 minutes 4 seconds), which can only be achieved at a very precise altitude of approximately 35,786 km (22,236 miles) above the equator. This height is about 3.6 times higher than the incorrect value given in Statement 1. The exact altitude is determined by balancing gravitational force with the orbital velocity required to match Earth's rotational period. At lower altitudes, satellites would orbit faster and complete multiple revolutions per day; at higher altitudes, they would move too slowly and fall behind Earth's rotation. Statement 2 accurately describes the noise immunity advantage of FM over AM transmission. The key distinction is that most environmental noise\u2014including atmospheric disturbances, electrical interference from machinery, lightning, and other man-made sources\u2014manifests as amplitude variations (changes in signal strength). In AM (Amplitude Modulation), the information is encoded in these amplitude changes, so noise directly corrupts the signal and gets amplified along with it. In contrast, FM (Frequency Modulation) encodes information by varying the frequency of the carrier wave while maintaining constant amplitude. Since noise primarily affects amplitude rather than frequency, an FM receiver with a limiter circuit can clip away amplitude fluctuations before demodulation, effectively removing most noise. This is why FM broadcasting is described as \"static-free\" and provides superior audio quality for music transmission compared to AM. The margin of error in understanding amplitude versus frequency noise sources is where UPSC tests depth of comprehension.",
+    "facts": [
+      "Geostationary orbit is achieved only at 35,786 km altitude; this precise distance is known as the Clarke Belt, named after Arthur C. Clarke who theorized the concept.",
+      "FM provides 5\u201315 dB or greater noise immunity improvement over AM depending on bandwidth and deviation, with wideband FM used for music broadcasting achieving even better performance.",
+      "An FM receiver's limiter circuit removes amplitude noise by clipping amplitude variations before the demodulation stage, a technique unavailable to AM receivers.",
+      "Atmospheric noise, electrical interference, and natural impulse noise all exhibit primarily amplitude characteristics, making them nearly ineffective against frequency-modulated signals."
+    ],
+    "sources": [
+      {
+        "title": "Geostationary orbit - Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Geostationary_orbit",
+        "whyUsed": "Verified the precise altitude of 35,786 km for geostationary orbit and confirmed it is the only altitude where orbital period matches Earth's rotation."
+      },
+      {
+        "title": "FM broadcasting - Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/FM_broadcasting",
+        "whyUsed": "Confirmed that FM broadcasts show better resistance to amplitude noise because the information is carried in frequency rather than amplitude, with limiter removing amplitude variations."
+      },
+      {
+        "title": "Frequency modulation - Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Frequency_modulation",
+        "whyUsed": "Verified that FM signals have constant amplitude and that FM receivers with limiters remove AM noise, providing 5-15 dB improvement over AM systems."
+      },
+      {
+        "title": "Frequency Modulation Noise Immunity",
+        "url": "https://man.fas.org/dod-101/navy/docs/es310/FM.htm",
+        "whyUsed": "Confirmed that FM systems are inherently immune to random noise with amplitude variations because noise is distributed uniformly in frequency and varies mostly in amplitude."
+      }
+    ],
+    "searchMeta": {
+      "usedWebSearch": true,
+      "searchQueries": [
+        "geostationary satellite orbital height altitude km",
+        "FM frequency modulation noise immunity amplitude variations"
+      ],
+      "confidence": "high"
+    }
+  },
+  "id": 49
+}

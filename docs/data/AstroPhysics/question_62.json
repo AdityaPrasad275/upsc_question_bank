@@ -1,0 +1,57 @@
+{
+  "subject": "Science",
+  "year": 1998,
+  "theme": "planetary science\u2014asteroid belt location and size classification",
+  "question_short_text": "Statement analysis on asteroid orbits and sizes",
+  "text": "Consider the following statements regarding asteroids:\n\nI. Asteroids are rocky debris of varying sizes orbiting the Sun.\nII. Most of the asteroids are small but some have diameter as large as 1000 km.\nIII. The orbit of asteroids lies between the orbits of Jupiter and Saturn.",
+  "options": [
+    "I, II and III are correct",
+    "II and III are correct",
+    "I and II are correct",
+    "I and III are correct"
+  ],
+  "answerIndex": 2,
+  "answerText": "(c) I and II are correct",
+  "explanation": "Statements I and II are correct. Asteroids are indeed rocky objects orbiting the Sun with sizes ranging from small fragments to objects with diameters close to 1000 km (Ceres has a diameter of approximately 940 km). However, Statement III is incorrect: the main asteroid belt lies between Mars and Jupiter, not Jupiter and Saturn.",
+  "research": {
+    "summary": "This question tests knowledge of three key asteroid belt facts: composition, size range, and location. Statement I is straightforward\u2014asteroids are rocky bodies orbiting the Sun and are essentially the building blocks that failed to coalesce into a planet during the solar system's formation. Statement II requires recognizing that while most asteroids are small, the largest asteroid Ceres has a mean diameter of about 939 km, making it roughly 940 km and therefore \"as large as 1000 km.\" This is accurate. The critical trap is Statement III, which incorrectly places the asteroid belt between Jupiter and Saturn. The verified location is between Mars and Jupiter, where the main concentration of asteroids resides between roughly 2.1 and 3.3 AU from the Sun. Jupiter's powerful gravity disrupted planetary formation in this region between Mars and Jupiter, leaving behind millions of rocky fragments. Some asteroids (the Trojans) do orbit near Jupiter's Lagrange points or beyond Jupiter's orbit, but the primary belt is definitively between Mars and Jupiter. A student who confuses the asteroid belt with the Kuiper Belt (which lies beyond Neptune) or forgets the correct Mars-Jupiter placement may fall into the trap of Statement III.",
+    "facts": [
+      "Ceres, the largest asteroid in the belt, has a mean diameter measured by NASA's Dawn spacecraft of 939.4 km and comprises about 40% of the asteroid belt's total mass.",
+      "The main asteroid belt spans roughly 2.1 to 3.3 AU from the Sun and contains an estimated 1.1 to 1.9 million asteroids larger than 1 kilometer in diameter, with millions of smaller objects.",
+      "Jupiter's gravitational resonances with the asteroid belt create Kirkwood gaps\u2014relatively empty regions where objects would have unstable orbits due to orbital resonance with Jupiter's period.",
+      "Asteroids range in size from pebble-sized fragments to the dwarf planet Ceres; about 140 main-belt asteroids have diameters greater than 120 km.",
+      "The Kuiper Belt, located beyond Neptune (30\u201360 AU), is distinct from the main asteroid belt and contains comets and trans-Neptunian objects, not typical asteroids."
+    ],
+    "sources": [
+      {
+        "title": "Asteroid belt - Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Asteroid_belt",
+        "whyUsed": "Verified the primary location of the asteroid belt between Mars and Jupiter and the role of Jupiter's gravity in creating gaps."
+      },
+      {
+        "title": "Ceres (dwarf planet) - Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Ceres_(dwarf_planet)",
+        "whyUsed": "Confirmed Ceres' diameter of 939.4 km, supporting Statement II accuracy."
+      },
+      {
+        "title": "NASA Science: Asteroid Facts",
+        "url": "https://science.nasa.gov/solar-system/asteroids/facts/",
+        "whyUsed": "Provided official NASA data on asteroid belt location, size ranges, and the number of asteroids larger than 1 km."
+      },
+      {
+        "title": "NASA Science: Ceres Facts",
+        "url": "https://science.nasa.gov/dwarf-planets/ceres/facts/",
+        "whyUsed": "Detailed Ceres' mean diameter and mass composition to verify the '1000 km diameter' claim in Statement II."
+      }
+    ],
+    "searchMeta": {
+      "usedWebSearch": true,
+      "searchQueries": [
+        "asteroid belt location orbit Mars Jupiter Saturn",
+        "largest asteroids Ceres diameter size"
+      ],
+      "confidence": "high"
+    }
+  },
+  "id": 62
+}

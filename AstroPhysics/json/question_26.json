@@ -1,0 +1,56 @@
+{
+  "subject": "Science",
+  "year": 2012,
+  "theme": "observational evidence for universal expansion and the Big Bang cosmology",
+  "question_short_text": "Evidence for the continued expansion of the universe",
+  "text": "Which of the following is/are cited by the scientists as evidence/evidences for the 'continued expansion of universe'?\n\n1. Detection of microwaves in space\n2. Observation of redshift phenomenon in space\n3. Movement of asteroids in space\n4. Occurrence of supernova explosions in space\n\nSelect the correct answer using the codes given below:",
+  "options": [
+    "1 and 2",
+    "2 Only",
+    "1, 3 & 4",
+    "None"
+  ],
+  "answerIndex": 0,
+  "answerText": "(a) 1 and 2",
+  "explanation": "The two main pieces of observational evidence for continued expansion of the universe are: (1) the cosmic microwave background radiation (CMB), detected as microwaves in space from the early universe, and (2) the redshift phenomenon observed in light from distant galaxies, showing they are moving away from us. Asteroid movement and supernova explosions do not directly demonstrate universal expansion.",
+  "research": {
+    "summary": "The expansion of the universe rests on two complementary observational pillars that UPSC frequently tests together. Redshift is the direct, immediate evidence: Edwin Hubble's 1929 observations showed that distant galaxies display cosmological redshift\u2014their light is stretched toward the red end of the spectrum\u2014and critically, the farther a galaxy, the greater its redshift. This directly proves galaxies are receding from us, and Hubble's Law quantifies this relationship mathematically, making redshift the most intuitive evidence of expansion.\n\nThe cosmic microwave background (CMB) is the second pillar, discovered accidentally by Penzias and Wilson in 1964. It is the faint microwave radiation permeating all of space, a leftover remnant from approximately 380,000 years after the Big Bang. The CMB's existence and its properties\u2014uniform temperature (2.725 K), nearly isotropic distribution, and perfect black-body spectrum\u2014are incompatible with a static universe. The CMB itself has been redshifted billions of times over by the expanding universe, and detailed measurements by satellites like WMAP and Planck confirm that the universe's early thermal conditions match Big Bang predictions only if space has been continuously expanding and cooling.\n\nThe trap in this question is conflating any phenomena in space with evidence for expansion. Asteroid movement is governed by gravity within our solar system and gravitational interactions within our galaxy\u2014it reflects local dynamics, not cosmic-scale expansion. Supernova explosions, while used as standard candles to measure distances and expansion *rate*, are themselves stellar events driven by thermonuclear processes, not evidence of expansion itself. UPSC distinguishes sharply: supernovae are tools we use to *measure* expansion more precisely, but the expansion itself is revealed only by observing the redshifts of supernova host galaxies and the isotropic CMB.",
+    "facts": [
+      "Hubble's Law (v = H\u2080D) establishes that recession velocity is proportional to distance; this relationship was first observationally demonstrated in 1929 and has been refined using type Ia supernovae as standard candles over the past two decades.",
+      "The cosmic microwave background, discovered in 1964, has a thermal temperature of 2.725 K and represents radiation emitted when the universe was only ~380,000 years old, proving the universe has expanded and cooled continuously since the Big Bang.",
+      "Redshift is a consequence of the Doppler effect combined with the expansion of space itself; as space stretches, photon wavelengths lengthen, shifting absorption lines toward longer (redder) wavelengths in distant galaxy spectra.",
+      "The CMB's near-perfect isotropy (uniformity in all directions) contradicts a universe that is static or collapsing; only an isotropically expanding universe naturally produces such uniform background radiation.",
+      "Vesto Slipher (1912\u20131914) first measured galactic redshifts and inferred recession, providing the observational foundation that preceded Hubble's kinematic proof and remains one of the most underrated contributions to cosmology."
+    ],
+    "sources": [
+      {
+        "title": "Hubble Cosmological Redshift - NASA Science",
+        "url": "https://science.nasa.gov/mission/hubble/science/science-behind-the-discoveries/hubble-cosmological-redshift/",
+        "whyUsed": "Authoritative explanation of cosmological redshift as observational evidence for expansion, including Hubble's methodology and the physical mechanism."
+      },
+      {
+        "title": "Expansion of the universe - Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Expansion_of_the_universe",
+        "whyUsed": "Comprehensive historical and technical account of observational evidence, including Slipher's early work, Hubble's Law formulation, and the role of CMB in confirming expansion."
+      },
+      {
+        "title": "Big Bang - Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Big_Bang",
+        "whyUsed": "Verification that CMB (discovered 1964) and redshift observations are recognized as the two strongest direct pieces of evidence for universal expansion and the Big Bang model."
+      },
+      {
+        "title": "Cosmic microwave background - Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Cosmic_microwave_background",
+        "whyUsed": "Detailed explanation of CMB physics, its role as evidence for expansion, and how its uniform temperature and isotropy rule out static-universe models."
+      }
+    ],
+    "searchMeta": {
+      "usedWebSearch": true,
+      "searchQueries": [
+        "evidence expansion universe CMB redshift Hubble"
+      ],
+      "confidence": "high"
+    }
+  },
+  "id": 26
+}

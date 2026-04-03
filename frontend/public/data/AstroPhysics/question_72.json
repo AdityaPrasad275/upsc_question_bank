@@ -1,0 +1,56 @@
+{
+  "subject": "Science",
+  "year": 1995,
+  "theme": "Solar System impacts and cometary collisions",
+  "question_short_text": "Which planet did Comet Shoemaker-Levy 9 collide with in 1994?",
+  "text": "Comet Shoemaker-Levy 9 hit the planet:\n\na) Pluto\nb) Mars\nc) Jupiter\nd) Saturn",
+  "options": [
+    "Pluto",
+    "Mars",
+    "Jupiter",
+    "Saturn"
+  ],
+  "answerIndex": 2,
+  "answerText": "(c) Jupiter",
+  "explanation": "Comet Shoemaker-Levy 9 collided with Jupiter between July 16 and 22, 1994. The comet had been broken into over 20 fragments by Jupiter's tidal forces before impact, making it the first observed collision between two solar system bodies.",
+  "research": {
+    "summary": "Comet Shoemaker-Levy 9 is a landmark event in astronomical observation and planetary science. Discovered by Carolyn and Eugene Shoemaker and David Levy in March 1993, the comet was initially found already in orbit around Jupiter\u2014not the Sun. In July 1992, during an earlier close approach to Jupiter within the planet's Roche limit, tidal forces from Jupiter's massive gravity had torn the original nucleus into more than 20 fragments, creating a distinctive \"string of pearls\" appearance visible through telescopes.\n\nThe critical insight for test-takers: the collision occurred in 1994, not 1995 as the question's date might suggest. The impacts took place over July 16\u201322, 1994, when the fragmented comet entered Jupiter's southern hemisphere at approximately 60 km/s (216,000 km/h). Each impact generated tremendous energy\u2014collectively equivalent to 300 million atomic bombs or millions of megatons of TNT. These impacts created massive plumes 1,200 to 1,900 miles high, dark scars on Jupiter's cloud tops, and fireballs visible from Earth within minutes as Jupiter's 10-hour rotation brought impact sites into view.\n\nThis event was historically significant as the first collision between two solar system bodies ever predicted in advance and observed directly. NASA's Galileo spacecraft, en route to Jupiter, captured unprecedented direct images of night-side impacts. The Hubble Space Telescope and Earth-based observatories worldwide monitored the event. The dark impact scars persisted for months, with some larger than Earth itself. Scientists gained insights into Jupiter's atmospheric composition, wind patterns, and structure from the debris spread. The collision also highlighted Earth's vulnerability to similar impacts and became a watershed moment connecting planetary defense awareness with public consciousness, influencing scientific policy and popular culture for decades.",
+    "facts": [
+      "The comet broke apart in July 1992 when it passed within Jupiter's Roche limit, a distance of about 22,100 km above Jupiter's cloud tops, due to tidal forces",
+      "The 21 fragments impacted Jupiter over seven days (July 16\u201322, 1994) at speeds of approximately 60 km/s, with the most energetic impacts from fragments G and H each about 1.5 miles in diameter",
+      "The collision was the first direct observation of an extraterrestrial collision between two solar system bodies and the first collision ever predicted more than a few minutes in advance",
+      "Jupiter's rapid 10-hour rotation brought impact sites into view from Earth within minutes, allowing telescopes worldwide to observe the bright fireballs and resulting dark scars",
+      "The comet had likely been captured by Jupiter's gravity around 20 to 30 years before discovery (approximately 1963\u20131973) and was already in a 2-year orbit around Jupiter when discovered in March 1993"
+    ],
+    "sources": [
+      {
+        "title": "Comet Shoemaker\u2013Levy 9 - Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Comet_Shoemaker%E2%80%93Levy_9",
+        "whyUsed": "Authoritative overview of discovery date, breakup mechanism, impact dates, fragment speeds, impact sequence, and historical significance"
+      },
+      {
+        "title": "Comet Shoemaker-Levy 9 | Britannica",
+        "url": "https://www.britannica.com/topic/Comet-Shoemaker-Levy-9",
+        "whyUsed": "Verified details on discovery by the three astronomers, the March 1993 discovery date, Roche limit interaction, tidal forces, and the 21 nuclei that resulted"
+      },
+      {
+        "title": "NASA - Comet Shoemaker-Levy 9",
+        "url": "https://science.nasa.gov/solar-system/comets/p-shoemaker-levy-9/",
+        "whyUsed": "Official NASA source confirming July 1994 impact dates, fragment speeds, energy equivalence (300 million atomic bombs), plume heights, and scientific insights gained"
+      },
+      {
+        "title": "Impacting Jupiter: Comet Shoemaker-Levy 9 | BBC Sky at Night Magazine",
+        "url": "https://www.skyatnightmagazine.com/space-science/impacting-jupiter-comet-shoemaker-levy-9-25-years-on",
+        "whyUsed": "Detailed timeline of discovery and announcement of collision course in May 1993, impact plume heights, and observational details"
+      }
+    ],
+    "searchMeta": {
+      "usedWebSearch": true,
+      "searchQueries": [
+        "Comet Shoemaker-Levy 9 Jupiter collision 1994 details"
+      ],
+      "confidence": "high"
+    }
+  },
+  "id": 72
+}

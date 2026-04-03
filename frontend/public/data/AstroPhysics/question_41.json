@@ -1,0 +1,57 @@
+{
+  "subject": "Science",
+  "year": 2007,
+  "theme": "Global satellite navigation systems and space independence",
+  "question_short_text": "Galileo Project: European satellite navigation system",
+  "text": "What is the Galileo Project which has been in news recently?",
+  "options": [
+    "An intercountry programme of missile shield developed by the United States of America",
+    "A Project developed by India with assistance from Canada",
+    "An environmental protection project being developed by Japan",
+    "A multi-satellite navigation project being developed by the European Union"
+  ],
+  "answerIndex": 3,
+  "answerText": "(d) A multi-satellite navigation project being developed by the European Union",
+  "explanation": "The Galileo Project is Europe's global navigation satellite system (GNSS), similar to the United States' GPS. It aims to provide accurate positioning, navigation, and timing services worldwide under civilian control.",
+  "research": {
+    "summary": "Galileo is a \u20ac10 billion European Union satellite navigation program developed jointly by the European Commission and the European Space Agency (ESA) to provide independent, civilian-controlled global positioning services. The project was conceived to reduce European dependence on the US-controlled GPS and Russian GLONASS systems, which could theoretically be disabled during geopolitical conflicts. By 2007\u2014the year of this question\u2014the project was in critical condition: the public-private partnership had collapsed in 2006, private investors had withdrawn, and the EU faced severe funding crises. However, on November 30, 2007, EU transport ministers unanimously approved the project and reallocated \u20ac3.4 billion from other budgets to ensure its continuance as a fully publicly-funded initiative. The first experimental satellite, GIOVE-A, was launched in December 2005, with a second test satellite (GIOVE-B) launched in April 2008. The system is designed to consist of 30 satellites in three medium earth orbits at 23,222 km altitude, orbiting at a 56-degree inclination to ensure global coverage. Unlike GPS, which offers military advantages to the US, Galileo is explicitly designed as a civilian system under 100% EU funding and control, though military users can access it. Initial services began in December 2016. The system provides meter-level accuracy and is particularly valuable for applications where redundancy matters\u2014working in combination with GPS to enhance reliability, especially in environments where tall buildings or polar regions limit single-system coverage.",
+    "facts": [
+      "Galileo initially struggled to gain funding and was described as 'almost dead' in January 2002 when private investors pulled out due to competition from free GPS services",
+      "The system's constellation will comprise 30 operational satellites plus spares positioned in three orbital planes at 23,222 km altitude for continuous global coverage",
+      "Galileo satellites orbit at 56\u00b0 inclination, providing superior coverage at higher latitudes compared to other GNSS systems that use lower inclinations",
+      "Ground control centers are located in Fucino, Italy and Oberpfaffenhofen, Germany, making Galileo's infrastructure entirely European-controlled",
+      "India, Ukraine, and Morocco signed partnership agreements with the EU to participate in the Galileo program between 2004-2005"
+    ],
+    "sources": [
+      {
+        "title": "Galileo (satellite navigation) - Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Galileo_(satellite_navigation)",
+        "whyUsed": "Verified the 2007 funding crisis, EU minister agreement on November 30, 2007, project restructuring, and satellite launch timeline"
+      },
+      {
+        "title": "Why Europe Wants its Own Satellite Navigation Program - Smithsonian Magazine",
+        "url": "https://www.smithsonianmag.com/air-space-magazine/the-galileo-project-4098287/",
+        "whyUsed": "Detailed the collapse of private partnerships in 2007 and EU's shift to full public funding of \u20ac3.4 billion"
+      },
+      {
+        "title": "Galileo - European Global Navigation Satellite System (EUSPA)",
+        "url": "https://www.euspa.europa.eu/eu-space-programme/galileo",
+        "whyUsed": "Confirmed civilian control, EU ownership, service provision details, and current operational status"
+      },
+      {
+        "title": "Satellite navigation: Galileo - EUR-Lex (EU Legal)",
+        "url": "https://eur-lex.europa.eu/EN/legal-content/summary/satellite-navigation-galileo.html",
+        "whyUsed": "Provided EU Commission's official rationale for Galileo\u2014independence from US GPS and Russian GLONASS control"
+      }
+    ],
+    "searchMeta": {
+      "usedWebSearch": true,
+      "searchQueries": [
+        "Galileo navigation satellite system European Union",
+        "Galileo project 2007 launch Europe GPS"
+      ],
+      "confidence": "high"
+    }
+  },
+  "id": 41
+}

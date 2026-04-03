@@ -1,0 +1,62 @@
+{
+  "subject": "Science",
+  "year": 2018,
+  "theme": "Predictions of Einstein's General Theory of Relativity",
+  "question_short_text": "Which phenomena are predictions of General Relativity: light affected by gravity, universe expansion, matter warps spacetime?",
+  "text": "Consider the following phenomenon:\n\n1. Light is affected by gravity.\n2. The universe is constantly expanding.\n3. Matter wraps its surrounding space-time.\n\nWhich of the above is/are prediction/predictions of Albert Einstein's General Theory Of Relativity, often discussed in media?",
+  "options": [
+    "1 and 2 only",
+    "3 only",
+    "1 and 3 only",
+    "1, 2 and 3"
+  ],
+  "answerIndex": 3,
+  "answerText": "(d) 1, 2 and 3",
+  "explanation": "All three phenomena are predictions of Einstein's General Theory of Relativity. Light bending around massive objects (gravitational lensing), the expanding universe, and matter curving spacetime are all fundamental predictions of the theory.",
+  "research": {
+    "summary": "Einstein's General Theory of Relativity (published in 1915) fundamentally redefined gravity not as a Newtonian force, but as a curvature of spacetime caused by mass and energy. All three statements represent genuine predictions of this theory, though their validation came at different times.\n\nStatement 1 (Light affected by gravity): This is one of the earliest and most spectacular predictions. Einstein showed that massive objects curve spacetime, and light\u2014which always follows geodesics (straightest paths) through spacetime\u2014must therefore bend near massive bodies. This phenomenon, called gravitational lensing, was first observationally confirmed in 1919 during a solar eclipse by Arthur Eddington, when starlight was observed bending around the Sun by almost exactly twice the amount predicted by Newtonian gravity. This was considered the first major experimental triumph of General Relativity.\n\nStatement 2 (Universe constantly expanding): This is where the history is subtle. Einstein's original field equations (1915) were dynamic\u2014they naturally allowed for expanding or contracting solutions. However, Einstein was philosophically troubled by a non-static universe and in 1917 introduced the cosmological constant (\u039b) to artificially force a static solution. Ironically, mathematician Alexander Friedmann derived expanding universe solutions from Einstein's original 1915 equations in 1922, and Belgian astrophysicist Georges Lema\u00eetre showed in 1927 that the universe was expanding by combining Einstein's equations with Hubble's observational data. Only in 1931 did Einstein accept the expanding universe prediction and abandon his cosmological constant, famously calling its introduction his \"biggest blunder.\" So while Einstein didn't initially recognize it, General Relativity does predict an expanding or contracting universe\u2014the 1915 equations naturally allowed this.\n\nStatement 3 (Matter wraps spacetime): This is the core conceptual pillar of General Relativity, expressed in John Wheeler's memorable formulation: \"Matter tells spacetime how to curve, and curved spacetime tells matter how to move.\" Einstein showed that concentrations of mass and energy literally warp the geometry of spacetime around them, and this curvature is what we experience as gravity. This warping explains planetary orbits, the anomalous precession of Mercury's orbit, and the bending of light paths.\n\nA common misconception is that only statement 1 is an observable prediction, but General Relativity is fundamentally a cosmological theory\u2014its implications extend to the structure and evolution of the entire universe. The universe's expansion is not a side effect but a core structural prediction of the equations, even though Einstein himself initially resisted this conclusion.",
+    "facts": [
+      "Gravitational lensing was quantitatively confirmed in 1919 when Eddington measured starlight bending by the Sun during a solar eclipse, confirming Einstein's prediction to within observational precision.",
+      "Einstein's original 1915 General Relativity field equations naturally produced expanding and contracting universe solutions, which Friedmann derived mathematically in 1922 and Lema\u00eetre connected to observations in 1927.",
+      "General Relativity predicted gravitational effects including black holes, gravitational waves, and gravitational time dilation, many of which were unknown phenomena before the theory and have since been observationally confirmed.",
+      "The curvature of spacetime is mathematically described by the Einstein field equations, which relate the geometry of spacetime to the distribution of mass-energy within it\u2014making matter's influence on geometry a direct prediction, not an assumption.",
+      "In weak gravitational fields like Earth's, the bending of light is small (approximately 1.75 arcseconds at the Sun's edge), but the effect scales dramatically in strong fields, making gravitational lensing observable in astronomical systems and testable through multiple independent methods."
+    ],
+    "sources": [
+      {
+        "title": "General relativity - Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/General_relativity",
+        "whyUsed": "Verified the core predictions of GR: spacetime curvature, light deflection, and Einstein equations relating geometry to mass-energy distribution."
+      },
+      {
+        "title": "Center for Astrophysics | Harvard & Smithsonian - Einstein's Theory of Gravitation",
+        "url": "https://www.cfa.harvard.edu/research/science-field/einsteins-theory-gravitation",
+        "whyUsed": "Confirmed that GR predicted black holes, gravitational waves, gravitational lensing, the expansion of the universe, and gravitational time dilation before observational confirmation."
+      },
+      {
+        "title": "Expansion of the universe - Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Expansion_of_the_universe",
+        "whyUsed": "Detailed the history of universe expansion prediction: Friedmann's 1922 derivation from GR equations, Lema\u00eetre's 1927 connection to observations, and Einstein's eventual acceptance in 1931."
+      },
+      {
+        "title": "Cosmological constant - Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Cosmological_constant",
+        "whyUsed": "Documented Einstein's introduction of the cosmological constant in 1917 to force static universe, his 1931 abandonment of it after Hubble's observations, and the historical irony that GR naturally predicted expansion."
+      },
+      {
+        "title": "Sun's Gravity Bends Starlight - Cosmic Times (NASA)",
+        "url": "https://imagine.gsfc.nasa.gov/educators/programs/cosmictimes/online_edition/1919/gravity.html",
+        "whyUsed": "Detailed the 1919 Eddington solar eclipse observations that confirmed light bending\u2014the first major experimental test of General Relativity."
+      }
+    ],
+    "searchMeta": {
+      "usedWebSearch": true,
+      "searchQueries": [
+        "Einstein General Theory Relativity gravity spacetime curvature light bending",
+        "General Relativity universe expansion prediction cosmological constant"
+      ],
+      "confidence": "high"
+    }
+  },
+  "id": 16
+}

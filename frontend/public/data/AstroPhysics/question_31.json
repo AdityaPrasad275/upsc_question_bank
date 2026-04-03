@@ -1,0 +1,57 @@
+{
+  "subject": "Science",
+  "year": 2010,
+  "theme": "Indigenous space technology platforms and Earth observation capabilities",
+  "question_short_text": "What is Bhuvan according to ISRO and space technology context?",
+  "text": "In the context of space technology, what is \"Bhuvan\", recently in the news?",
+  "options": [
+    "A mini satellite launched by ISRO for promoting the distance education in India.",
+    "The name given to the next moon Impact Probe, for Chandrayan \u2013 II.",
+    "A geoportal of ISRO with 3D imaging capabilities of India.",
+    "A space telescope developed by India."
+  ],
+  "answerIndex": 2,
+  "answerText": "(c) A geoportal of ISRO with 3D imaging capabilities of India.",
+  "explanation": "Bhuvan is ISRO's web-based geoportal that provides satellite imagery and 3D mapping capabilities with emphasis on high-resolution imaging of Indian territory. It was launched as a beta version on August 12, 2009, and became widely discussed in 2010.",
+  "research": {
+    "summary": "Bhuvan (meaning 'Earth' in Sanskrit) is fundamentally a geospatial platform, not a satellite or telescope as the distractors suggest. ISRO launched the beta version on August 12, 2009, positioning it as India's indigenous alternative to Google Earth. The critical distinction being tested here is understanding that Bhuvan is a software/web portal for earth observation data, not a physical space asset. The platform delivers multi-sensor, multi-temporal satellite imagery from IRS satellites (Cartosat, Resourcesat) at resolutions up to 1 meter, with specialized 3D visualization capabilities added in 2014 using WebGL technology. The main confusion students face is conflating it with actual satellites (option A confuses it with EDUSAT, a communications satellite for distance education) or space-based instruments (option D suggests a telescope). What makes Bhuvan remarkable for governance is its thematic layering capability\u2014users can overlay administrative boundaries, infrastructure data, agricultural information, and disaster alerts. For instance, during Cyclone Hudhud in 2014, citizens uploaded over 25,000 images to Bhuvan for real-time damage assessment. This geospatial integration approach\u2014combining satellite data with government applications for urban planning, disaster management, agriculture, and rural development\u2014represents a distinctly Indian approach to using space technology for public governance rather than pure scientific observation.",
+    "facts": [
+      "Bhuvan was launched as a beta version on August 12, 2009, by ISRO's National Remote Sensing Centre and became operational content by 2010.",
+      "The platform provides free access to 2D and 3D satellite imagery focused on Indian territory, with thematic data offered in four regional languages alongside English.",
+      "Bhuvan's multi-temporal satellite data has been used in critical applications including Pradhan Mantri Fasal Bima Yojana (crop insurance), MGNREGA asset geotagging, and National Highways Authority road asset management.",
+      "The system integrates real-time Automatic Weather Station data, forest fire alerts, and Potential Fishing Zone forecasts, making it a multi-purpose governance tool beyond pure mapping.",
+      "EDUSAT (option A distractor) is actually GSAT-3, a communications satellite launched in 2004 specifically for distance education, which is why option A is a plausible but incorrect trap."
+    ],
+    "sources": [
+      {
+        "title": "Bhuvan - Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Bhuvan",
+        "whyUsed": "Verified launch date (August 12, 2009), platform architecture, and content offerings including thematic maps and geospatial integration."
+      },
+      {
+        "title": "Bhuvan: How ISRO's Geospatial Platform is Transforming Governance - OGC",
+        "url": "https://www.ogc.org/blog-article/bhuvan-transforming-indias-governance-with-geospatial-insights/",
+        "whyUsed": "Confirmed practical applications including cyclone response (2014), COVID-19 dashboard, and integration with government schemes like PMFBY and road asset management."
+      },
+      {
+        "title": "Bhuvan Portal - Major Features, Objectives, Criticism & More - Testbook",
+        "url": "https://testbook.com/ias-preparation/bhuvan-portal",
+        "whyUsed": "Detailed breakdown of 2D and 3D capabilities, spatial resolution specifications (up to 1 meter), and confirmation of multilingual interface."
+      },
+      {
+        "title": "SPM IAS Academy - What is Bhuvan in space technology?",
+        "url": "https://spmiasacademy.com/mains_exam/q-8-what-is-bhuvan-in-space-technology-what-are-the-benefits-of-bhuvan/",
+        "whyUsed": "Comprehensive overview of satellite data sources (Cartosat, Resourcesat, Oceansat) and specific government applications for verification."
+      }
+    ],
+    "searchMeta": {
+      "usedWebSearch": true,
+      "searchQueries": [
+        "Bhuvan ISRO geoportal 3D imaging",
+        "Bhuvan satellite mapping tool India launch year"
+      ],
+      "confidence": "high"
+    }
+  },
+  "id": 31
+}

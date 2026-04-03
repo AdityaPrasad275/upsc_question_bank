@@ -1,0 +1,68 @@
+{
+  "subject": "Science",
+  "year": 2025,
+  "theme": "Microgravity research support across Indian and commercial space missions",
+  "question_short_text": "Which space missions support microgravity research: Axiom-4, SpaDeX, and/or Gaganyaan?",
+  "text": "Consider the following space missions:\n\nI. Axiom-4\nII. SpaDeX\nIII. Gaganyaan\n\nHow many of the space missions given above encourage and support microgravity research?",
+  "options": [
+    "Only one",
+    "Only two",
+    "All the three",
+    "None"
+  ],
+  "answerIndex": 2,
+  "answerText": "(c) All the three",
+  "explanation": "All three missions support microgravity research. Axiom-4 conducts 60+ microgravity experiments at the ISS. SpaDeX includes 24 microgravity payloads on its POEM-4 stage. Gaganyaan is designed to enable microgravity experiments with its crewed missions.",
+  "research": {
+    "summary": "This question tests whether aspirants can recognize that microgravity research support takes different forms across distinct mission types. The trap lies in conflating mission purpose with mission capability: SpaDeX's primary goal is to demonstrate autonomous docking technology, not to conduct microgravity science, yet it explicitly carries 24 microgravity payloads on its PSLV's fourth stage (POEM-4) to utilize the orbital environment. Similarly, Gaganyaan's primary objective is to demonstrate crewed spaceflight capability, but ISRO has explicitly selected and is executing microgravity experiments as part of the program\u2014Group Captain Shubhanshu Shukla conducted seven shortlisted microgravity experiments during the Axiom-4 mission (June-July 2025) as a dress rehearsal for Gaganyaan. Axiom-4 is the most direct: it is a commercial mission explicitly designed to facilitate scientific microgravity research, with around 60 scientific studies representing 31 countries, covering human physiology, cancer research, material science, and agricultural biotech. The key insight is that all three missions occupy the microgravity research ecosystem, even if their primary mission objectives differ. For UPSC, this distinction matters: recognizing that missions can have primary technological or human spaceflight goals while simultaneously supporting microgravity research prevents false elimination. The 2025 Axiom-4 mission and its Indian component\u2014including ISRO's Gaganyaan astronaut gaining practical microgravity research experience\u2014reinforces India's growing role in the international microgravity research platform.",
+    "facts": [
+      "Axiom-4 is a commercial crewed mission operated by Axiom Space to the ISS with 60 scientific studies from 31 countries, including human health, cancer cell growth, and botanical research in microgravity.",
+      "SpaDeX (Space Docking Experiment) launched December 2024 and successfully demonstrated autonomous docking and undocking; its PSLV fourth stage (POEM-4) carries 24 scientific payloads for microgravity experiments lasting up to three months.",
+      "Gaganyaan's first crewed mission is planned for 2027 and includes provisions for microgravity experiments; Group Captain Shubhanshu Shukla executed seven shortlisted microgravity research experiments aboard Axiom-4 in June-July 2025 as practical training for Gaganyaan.",
+      "SpaDeX payload experiments include biological studies on plant growth, bacteria, and green propulsion systems in microgravity, plus robotic arm validation for satellite servicing and AI lab demonstrations.",
+      "Gaganyaan program aims to establish the foundation for India's Bharatiya Antariksh Station by 2035, which will significantly boost microgravity-based scientific research and technology development activities."
+    ],
+    "sources": [
+      {
+        "title": "Axiom Mission 4 Official Research Overview",
+        "url": "https://www.axiomspace.com/mission-blog/ax4-researchoverview",
+        "whyUsed": "Verified that Ax-4 includes 60 scientific studies from 31 countries and is explicitly designed to advance microgravity research in LEO."
+      },
+      {
+        "title": "SpaDeX Mission - ISRO Official",
+        "url": "https://www.isro.gov.in/mission_SpaDeX.html",
+        "whyUsed": "Confirmed SpaDeX is a technology demonstrator mission; verified POEM-4 carries 24 payloads for microgravity experiments."
+      },
+      {
+        "title": "SpaDeX Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/SpaDeX",
+        "whyUsed": "Verified autonomous docking, undocking, and power transfer milestones; confirmed POEM-4 microgravity experimental module details."
+      },
+      {
+        "title": "Gaganyaan - Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Gaganyaan",
+        "whyUsed": "Confirmed Gaganyaan's design provisions for conducting microgravity experiments and current timeline (expected 2027 or later)."
+      },
+      {
+        "title": "ISRO's Gaganyatri Microgravity Experiments on ISS (DDNews)",
+        "url": "https://ddnews.gov.in/en/isros-gaganyatri-to-carry-out-microgravity-research-experiments-during-upcoming-axiom-4-mission/",
+        "whyUsed": "Verified that Group Captain Shubhanshu Shukla conducted seven ISRO-selected microgravity experiments on Axiom-4 as part of Gaganyaan program preparation."
+      },
+      {
+        "title": "PMFIAS - SpaDeX Mission",
+        "url": "https://www.pmfias.com/spadex-mission/",
+        "whyUsed": "Confirmed SpaDeX supports biological studies, green propulsion, and AI labs in microgravity via POEM-4 experiments."
+      }
+    ],
+    "searchMeta": {
+      "usedWebSearch": true,
+      "searchQueries": [
+        "Axiom-4 space mission microgravity research",
+        "SpaDeX ISRO space docking experiment microgravity",
+        "Gaganyaan mission microgravity experiments India"
+      ],
+      "confidence": "high"
+    }
+  },
+  "id": 2
+}

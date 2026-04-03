@@ -1,0 +1,52 @@
+{
+  "subject": "Science",
+  "year": 2019,
+  "theme": "gravitational waves from black hole mergers and spacetime distortions",
+  "question_short_text": "Significance of observing distant black hole mergers via gravitational wave detection",
+  "text": "Recently, Scientists observed the merger of giant black holes billions of light-years away from the Earth. What is the significance of this observation?",
+  "options": [
+    "'Higgs boson particles' were detected.",
+    "'Gravitational waves' were detected.",
+    "Possibility of inter-galactic space travel through 'wormhole' was confirmed.",
+    "It enabled the scientists to understand 'singularity'."
+  ],
+  "answerIndex": 1,
+  "answerText": "(b) 'Gravitational waves' were detected.",
+  "explanation": "The merger of distant black holes produces gravitational waves\u2014ripples in spacetime predicted by Einstein's general relativity. This detection confirms Einstein's century-old prediction and demonstrates that we can observe extreme cosmic events through spacetime distortions rather than electromagnetic radiation.",
+  "research": {
+    "summary": "The question tests understanding of what black hole mergers reveal through modern detection methods. The correct answer\u2014gravitational waves\u2014is crucial because it represents a fundamental shift in how we observe the universe. Gravitational waves are ripples in spacetime itself, not particles or matter, produced by the acceleration of massive objects. When two black holes orbit and merge, they emit gravitational waves that propagate outward at the speed of light. LIGO (Laser Interferometer Gravitational-Wave Observatory) and Virgo detectors first directly observed these waves on September 14, 2015, from a merger of two black holes roughly 1.3 billion light-years away, producing gravitational waves equivalent to the energy of 3 solar masses in a fraction of a second. The trap here is confusing gravitational waves with other particle physics concepts: Higgs bosons are particles detected in high-energy physics experiments and have nothing to do with black hole observations. Wormholes remain theoretical and have never been observed. Understanding singularities is relevant to black hole theory, but it is not what modern black hole merger observations directly enable\u2014instead, these observations test general relativity in extreme gravity regimes and reveal black hole properties like mass, spin, and merger rates. What makes this observation historically significant is that it opened an entirely new observational window\u2014gravitational-wave astronomy\u2014allowing scientists to study cosmic events invisible to telescopes by detecting spacetime deformations. This launched what the Nobel Prize committee recognized as a revolutionary field in 2017.",
+    "facts": [
+      "The first gravitational wave detection (GW150914) occurred on September 14, 2015, from black holes 36 and 29 solar masses merging about 1.3 billion light-years away.",
+      "Gravitational waves were predicted by Einstein in 1916 but remained undetected for a century until Advanced LIGO achieved the necessary sensitivity in 2015.",
+      "To date, LIGO-Virgo-KAGRA collaborations have detected approximately 300 black hole mergers through gravitational waves, enabling population studies of black holes.",
+      "The energy released in a black hole merger travels as gravitational waves so strong they stretch space by a distance smaller than a proton's width over a 4-km detector arm.",
+      "Gravitational wave detection is complementary to electromagnetic astronomy\u2014black holes emit no light, making gravitational waves the primary tool for observing black hole systems."
+    ],
+    "sources": [
+      {
+        "title": "Observation of Gravitational Waves from a Binary Black Hole Merger",
+        "url": "https://arxiv.org/pdf/1602.03837",
+        "whyUsed": "Primary scientific paper documenting the first direct detection of gravitational waves from binary black hole merger GW150914 on September 14, 2015."
+      },
+      {
+        "title": "First detection of gravitational waves: GW150914",
+        "url": "https://www.cardiff.ac.uk/physics-astronomy/research/research-groups/gravity-exploration-institute/first-detection-of-gravitational-waves-gw150914",
+        "whyUsed": "Comprehensive explanation of what gravitational waves are, their origins in Einstein's theory, and the significance of black hole merger observations."
+      },
+      {
+        "title": "LIGO-Virgo-KAGRA Detect Most Massive Black Hole Merger to Date",
+        "url": "https://www.ligo.caltech.edu/news/ligo20250715",
+        "whyUsed": "Recent confirmation that approximately 300 black hole mergers have been observed through gravitational waves, demonstrating the maturity of gravitational-wave astronomy."
+      }
+    ],
+    "searchMeta": {
+      "usedWebSearch": true,
+      "searchQueries": [
+        "gravitational waves black hole merger detection LIGO Virgo",
+        "first gravitational wave detection GW150914 2015"
+      ],
+      "confidence": "high"
+    }
+  },
+  "id": 12
+}

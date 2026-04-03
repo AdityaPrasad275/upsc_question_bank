@@ -1,0 +1,57 @@
+{
+  "subject": "Science",
+  "year": 2007,
+  "theme": "Cryogenic propulsion technology development and global capability status",
+  "question_short_text": "India's 2006 cryogenic stage test and global capability status",
+  "text": "Consider the following statements:\n\n1. In the year 2006, India successfully tested a full-fledged cryogenic stage in rocketry.\n2. After USA, Russia and China, India is the only country to have acquired the capability for use of cryogenic stage in rocketry.\n\nWhich of the statements given above is/are correct?",
+  "options": [
+    "1 only",
+    "2 only",
+    "Both 1 and 2",
+    "Neither 1 nor 2"
+  ],
+  "answerIndex": 0,
+  "answerText": "(a) 1 only",
+  "explanation": "Statement 1 is correct: India successfully tested a cryogenic stage in 2006. Statement 2 is incorrect: Besides USA, Russia, and China, both Japan and France (European Space Agency) had already developed cryogenic engine capability, so India was not the only fourth country.",
+  "research": {
+    "summary": "The question tests understanding of India's cryogenic technology development timeline and the global distribution of this advanced capability. Statement 1 is accurate\u2014ISRO successfully conducted a cryogenic stage test in October 2006, marking a significant milestone in India's indigenous space propulsion development. ISRO chairman Madhavan Nair confirmed the test lasted 50 seconds and was \"very successful,\" establishing India's qualification in this complex technology. However, Statement 2contains a factual error. The claim that only India acquired cryogenic capability after USA, Russia, and China is false. By 2006, France (through the European Space Agency) and Japan had already demonstrated independent cryogenic engine development. In fact, cryogenic rocket engines were among the earliest advanced rocket technologies, pioneered by the US during the Apollo program. France developed cryogenic engines for the Ariane launch vehicle family, and Japan developed engines for the H-II launcher. India thus became the sixth nation\u2014not the fourth\u2014to independently develop cryogenic technology. Today, only six countries possess fully independent cryogenic engine capability: USA, Russia, China, Japan, France (ESA), and India. The trap in this question is the tempting claim of exclusivity; aspirants familiar with India's recent achievements in space might overlook that other major space-faring nations had already achieved this milestone decades earlier. The progression reflects not India being unique, but rather joining an established elite club of space powers.",
+    "facts": [
+      "India's first cryogenic engine test occurred in 2003, followed by the full-stage test in 2006; the first successful flight was GSLV-DF in 2014.",
+      "The CE-7.5 engine powered GSLV Mk-II, while the CE-20 is ISRO's current high-thrust cryogenic engine used for LVM3 missions.",
+      "Cryogenic engines use liquid hydrogen and liquid oxygen (liquefying at \u2212253\u00b0C and \u2212183\u00b0C respectively) and provide significantly higher specific impulse than solid or earth-storable propellants.",
+      "France's Ariane program and Japan's H-II program had operational cryogenic engines well before 2006, making them earlier achievers than India.",
+      "The Cryogenic Upper Stage Project (CUSP) was formally approved by the Indian government in 1994, beginning the indigenous development effort."
+    ],
+    "sources": [
+      {
+        "title": "Wikinews: India successfully tests cryogenic rocket engine (October 2006)",
+        "url": "https://en.wikinews.org/wiki/India_successfully_tests_cryogenic_rocket_engine",
+        "whyUsed": "Primary source confirming ISRO's October 2006 cryogenic stage test and ISRO chairman's statement on success"
+      },
+      {
+        "title": "Wikipedia: Cryogenic rocket engine",
+        "url": "https://en.wikipedia.org/wiki/Cryogenic_rocket_engine",
+        "whyUsed": "Authoritative reference listing the six countries with operational cryogenic engines and timeline context"
+      },
+      {
+        "title": "The Print: What is the cryogenic upper stage",
+        "url": "https://theprint.in/science/what-is-the-cryogenic-upper-stage-that-led-to-failure-of-isros-earth-observation-satellite/713617/",
+        "whyUsed": "Verified list of six countries with cryogenic capability and clarification on France and Japan"
+      },
+      {
+        "title": "Vajiramandravi: Cryogenic Engine development",
+        "url": "https://vajiramandravi.com/upsc-exam/cryogenic-engine/",
+        "whyUsed": "Timeline of India's cryogenic development including 2003 first test and 1994 project formal approval"
+      }
+    ],
+    "searchMeta": {
+      "usedWebSearch": true,
+      "searchQueries": [
+        "India cryogenic stage rocket test 2006",
+        "cryogenic stage rocketry countries USA Russia China India capability"
+      ],
+      "confidence": "high"
+    }
+  },
+  "id": 44
+}

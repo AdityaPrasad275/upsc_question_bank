@@ -1,0 +1,56 @@
+{
+  "subject": "Science",
+  "year": 2003,
+  "theme": "Orbital periods of planets and Kepler's laws of motion",
+  "question_short_text": "Which planet has the longest orbital period (revolution time) among the four options given?",
+  "text": "Among the following which planet takes maximum time for one revolution around the Sun?\n\na) Earth\nb) Jupiter\nc) Mars\nd) Venus",
+  "options": [
+    "Earth",
+    "Jupiter",
+    "Mars",
+    "Venus"
+  ],
+  "answerIndex": 1,
+  "answerText": "(b) Jupiter",
+  "explanation": "Jupiter takes approximately 11.86 Earth years to complete one orbit around the Sun, which is significantly longer than Earth (365 days), Mars (687 days), or Venus (225 days). Among the four options, Jupiter has the longest orbital period.",
+  "research": {
+    "summary": "This question tests understanding of Kepler's third law of planetary motion, which governs orbital periods. The key principle is that a planet's orbital period is directly related to its distance from the Sun: farther planets take longer to complete their orbits. Among the given options, Jupiter orbits farthest from the Sun (approximately 5.2 AU), while Venus (0.72 AU), Earth (1 AU), and Mars (1.52 AU) are all closer. Therefore, Jupiter's orbital period of 11.86 Earth years vastly exceeds Mars (1.88 years), Earth (1 year), and Venus (0.62 years). The trap here is superficial: students might initially think Mars or Venus could compete because Mars has an orbital period of 687 Earth days, which sounds substantial. However, a student confident with comparative planetary distances will immediately recognize that among these four, only Jupiter, as the fifth planet, could possibly have the longest period. The physical reason is that planets farther from the Sun travel longer orbital paths at slower speeds due to diminishing gravitational influence, requiring much more time per complete revolution. This relationship, quantified by Kepler's third law (P\u00b2 \u221d d\u00b3), means Jupiter's orbital period is not merely longer but dramatically longer than any inner planet.",
+    "facts": [
+      "Kepler's third law states that the square of a planet's orbital period is proportional to the cube of its average distance from the Sun, making distant planets take vastly longer to orbit.",
+      "Mercury, the closest planet at 0.39 AU, orbits in just 88 days, while Neptune, the farthest at 30 AU, takes 165 years, illustrating the exponential relationship between distance and period.",
+      "A planet's orbital speed decreases with distance from the Sun; Jupiter moves at about 13 km/s compared to Earth's 30 km/s, making its longer path take even more time.",
+      "The outer planets (Jupiter, Saturn, Uranus, Neptune) were historically slower to discover precisely because their long orbital periods made observation and verification challenging.",
+      "Jupiter completes less than one full orbit in a typical human lifetime, whereas Mercury completes over four orbits in the same timespan."
+    ],
+    "sources": [
+      {
+        "title": "Orbital period - Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Orbital_period",
+        "whyUsed": "Verified definition and explanation of orbital period and Kepler's laws of planetary motion"
+      },
+      {
+        "title": "How Long is a Year on Other Planets? - NASA Space Place",
+        "url": "https://spaceplace.nasa.gov/years-on-other-planets/en/",
+        "whyUsed": "Confirmed precise orbital periods for all planets in the given options: Mercury 88 days, Venus 225 days, Earth 365 days, Mars 687 days, Jupiter 11.86 years"
+      },
+      {
+        "title": "Orbital Periods of the Planets - Space Facts",
+        "url": "https://space-facts.com/orbital-periods-planets/",
+        "whyUsed": "Cross-verified exact orbital periods and established the mathematical relationship between distance and period"
+      },
+      {
+        "title": "How to Calculate A Planet's Revolution Around the Sun - Sciencing",
+        "url": "https://sciencing.com/calculate-planets-revolution-around-sun-8472620.html",
+        "whyUsed": "Explained Kepler's third law and how it determines orbital periods based on distance from the Sun"
+      }
+    ],
+    "searchMeta": {
+      "usedWebSearch": true,
+      "searchQueries": [
+        "planet orbital period revolution around sun days years"
+      ],
+      "confidence": "high"
+    }
+  },
+  "id": 52
+}
