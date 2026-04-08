@@ -19,7 +19,7 @@ We want one stable JSON object per question that powers this UI flow:
 2. show the options
 3. reveal the correct answer and short explanation
 4. show a rich researched explanation below that
-5. allow chat after that
+
 
 This means:
 - `text` must faithfully preserve the actual question
@@ -58,7 +58,7 @@ STEP 4: Explain the trap
 - If a question is built around confusingly similar concepts, make that contrast explicit.
 
 STEP 5: Pull in nearby facts
-- Add the 3 to 5 highest-value nearby facts a serious aspirant should know in this theme cluster.
+- Add the 1 or 2 highest-value nearby facts a serious aspirant should know in this theme cluster.
 - These should be the kinds of facts that could appear in another prelims question.
 - Prefer adjacent facts that help recognition, elimination, or comparison in future questions.
 
@@ -103,7 +103,7 @@ It should not sound like it was written to fill a word count.
 It should teach the student how to think about the concept again if UPSC tests it from another angle.
 It should engage with the actual question in front of it, not drift into a generic topic note.
 
-For many questions, a good `research.summary` will be around 2 to 5 solid paragraphs worth of content, returned as one string.
+For many questions, a good `research.summary` will be around 1 to 2 solid paragraphs worth of content, returned as one string.
 
 If the question is static, depth should come from conceptual precision and adjacent facts, not from artificial breadth.
 
@@ -136,7 +136,6 @@ Return one JSON object with exactly this shape:
     "facts": [
       "compact adjacent fact 1",
       "compact adjacent fact 2",
-      "compact adjacent fact 3"
     ],
     "sources": [
       {
@@ -225,14 +224,13 @@ FIELD INSTRUCTIONS
 - Do not merely paraphrase the provided explanation.
 
 `research.facts`
-- 3 to 5 compact adjacent facts.
+- 1 to 2 compact adjacent facts.
 - These should be sharp, relevant, and UPSC-near.
 - Prefer facts in the same conceptual neighbourhood.
 - Avoid bland textbook clichés.
 - Avoid unstable statistics unless they were actually verified.
 - A good fact should make a future question easier, not merely restate a school-level definition.
 - If you cannot produce sharp facts, produce fewer but better ones.
-- It is acceptable to return 1 or 2 facts instead of 3 if that keeps quality higher.
 - Do not include percentages, rankings, counts, or trend claims unless they were actually verified through search or clearly present in the input.
 
 `research.sources`

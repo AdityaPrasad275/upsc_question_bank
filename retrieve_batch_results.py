@@ -7,8 +7,9 @@ import os
 import json
 from anthropic import Anthropic
 from dotenv import load_dotenv
+from subject_paths import get_subject_dir
 
-def main():
+def main(subject="economy_1"):
     load_dotenv()
 
     # Set up client
@@ -18,7 +19,7 @@ def main():
     batch_id = "msgbatch_01UcVnq3CsjDSQVPYCaZ1XFx"
 
     # Directory to save JSON files
-    json_dir = "economy_1/json"
+    json_dir = get_subject_dir(subject) / "json"
     os.makedirs(json_dir, exist_ok=True)
 
     saved_count = 0

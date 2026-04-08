@@ -6,7 +6,7 @@ A high-quality collection of UPSC practice questions with detailed research, exp
 
 - `frontend/`: React + Vite + Tailwind CSS source code for the web application.
 - `docs/`: Built static site for GitHub Pages (auto-generated from `build.sh`).
-- `<subject_folder>/`: Contains the raw questions, split markdown files, and generated JSON files for each subject.
+- `question_bank/<subject_folder>/`: Contains the raw questions, split markdown files, and generated JSON files for each subject.
   - `input/`: The original source markdown file.
   - `questions/`: Split markdown files (one per question).
   - `json/`: LLM-generated JSON files containing text, options, answer, and research.
@@ -15,9 +15,9 @@ A high-quality collection of UPSC practice questions with detailed research, exp
 ## How to Add New Questions
 
 1. Create a new folder for the subject (e.g., `polity_1`).
-2. Add your questions to `polity_1/input/questions.md`.
-3. Use the `splitter.py` script to split the input file into individual markdown files in `polity_1/questions/`.
-4. Run your LLM processing script (e.g., `main.py` or similar) to generate the JSON files in `polity_1/json/`.
+2. Add your questions to `question_bank/polity_1/input/questions.md`.
+3. Use the `splitter.py` script to split the input file into individual markdown files in `question_bank/polity_1/questions/`.
+4. Run your LLM processing script (e.g., `main.py` or similar) to generate the JSON files in `question_bank/polity_1/json/`.
 5. Run `./build.sh` to update the web application data and rebuild the site.
 
 ## Development

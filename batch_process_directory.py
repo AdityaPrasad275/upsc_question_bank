@@ -10,7 +10,7 @@ Example:
 python3 batch_process_directory.py economy_1
 
 This script will:
-1. Find all question_*.md files in the <subject>/questions directory.
+1. Find all question_*.md files in the question_bank/<subject>/questions directory.
 2. Check which questions have already been processed (i.e., a corresponding .json file exists).
 3. Create a batch request for all unprocessed questions.
 4. Use Prompt Caching within the batch to further reduce costs.
@@ -25,6 +25,7 @@ import glob
 import time
 from anthropic import Anthropic
 from dotenv import load_dotenv
+from subject_paths import get_subject_dir
 
 def main(subject):
     load_dotenv()
@@ -102,11 +103,12 @@ def main(subject):
 
 
     # --- 2. Find Unprocessed Questions ---
-    questions_dir = os.path.join(subject, "questions")
-    json_dir = os.path.join(subject, "json")
+    subject_dir = get_subject_dir(subject)
+    questions_dir = subject_dir / "questions"
+    json_dir = subject_dir / "json"
     os.makedirs(json_dir, exist_ok=True)
 
-    question_files = glob.glob(os.path.join(questions_dir, "question_*.md"))
+    question_files = glob.glob(str(questions_dir / "question_*.md"))
     
     requests_to_process = []
     if not question_files:
@@ -115,7 +117,7 @@ def main(subject):
 
     for q_file in question_files:
         question_number = os.path.basename(q_file).replace("question_", "").replace(".md", "")
-        json_file = os.path.join(json_dir, f"question_{question_number}.json")
+        json_file = json_dir / f"question_{question_number}.json"
 
         if not os.path.exists(json_file):
             with open(q_file, "r") as f:
@@ -192,7 +194,7 @@ def main(subject):
     try:
         for result in anthropic_client.beta.messages.batches.results(batch.id):
             question_number = result.custom_id.replace("question_", "")
-            output_file = os.path.join(json_dir, f"question_{question_number}.json")
+            output_file = json_dir / f"question_{question_number}.json"
 
             if result.result.type == "succeeded":
                 # Extract text from all content blocks (handles cases where tools are used)

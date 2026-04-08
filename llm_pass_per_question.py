@@ -1,12 +1,12 @@
 #!/usr/bin/env python3
 """
-from <subject>/questions/<question number.md>
+from question_bank/<subject>/questions/<question number.md>
 
-like economy_1/questions/question_39.md
+like question_bank/economy_1/questions/question_39.md
 
 we take this, give it to claude,enable web search, with system prompt as prompts/question-builder.md and get a output of json
 
-save it in <subject>/json/<questions number.json>
+save it in question_bank/<subject>/json/<questions number.json>
 """
 
 import os
@@ -14,12 +14,14 @@ import sys
 import json
 from anthropic import Anthropic
 from dotenv import load_dotenv
+from subject_paths import get_subject_dir
 
 def main(subject, question_number):
     load_dotenv()  # Load environment variables from .env file
 
     # Read question file
-    question_file = os.path.join(subject, "questions", f"question_{question_number}.md")
+    subject_dir = get_subject_dir(subject)
+    question_file = subject_dir / "questions" / f"question_{question_number}.md"
     if not os.path.exists(question_file):
         print(f"Question file {question_file} not found")
         sys.exit(1)
@@ -141,11 +143,11 @@ def main(subject, question_number):
         sys.exit(1)
 
     # Create output directory
-    output_dir = os.path.join(subject, "json")
+    output_dir = subject_dir / "json"
     os.makedirs(output_dir, exist_ok=True)
 
     # Save JSON
-    output_file = os.path.join(output_dir, f"question_{question_number}.json")
+    output_file = output_dir / f"question_{question_number}.json"
     with open(output_file, "w") as f:
         json.dump(result_json, f, indent=2)
 
@@ -159,4 +161,3 @@ if __name__ == "__main__":
     subject_arg = sys.argv[1]
     question_number_arg = int(sys.argv[2])
     main(subject_arg, question_number_arg)
-
