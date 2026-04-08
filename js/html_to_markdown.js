@@ -104,10 +104,7 @@ ${explanation}
     return;
   }
 
-  // download
-  let blob = new Blob([output.join("\n\n")], { type: "text/markdown" });
-  let a = document.createElement("a");
-  a.href = URL.createObjectURL(blob);
-  a.download = "questions.md";
-  a.click();
+  // copy
+  copy(output.join("\n\n"));
+  console.log("Copied to clipboard. Paste into script."); 
 })();

@@ -10,3 +10,9 @@ wheels/
 .venv
 
 .env 
+
+node_modules/*
+
+js/node_modules/*
+js/node_modules
+
