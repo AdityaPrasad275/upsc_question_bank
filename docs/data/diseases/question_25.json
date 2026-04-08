@@ -1,0 +1,67 @@
+{
+  "subject": "Science",
+  "year": 2019,
+  "theme": "Viral transmission modes and vaccine availability for bloodborne pathogens",
+  "question_short_text": "Identify the incorrect statement about Hepatitis B and C transmission, vaccination, and epidemiology",
+  "text": "Which one of the following statements is not correct?\n\na) Hepatitis B virus is transmitted much like HIV.\n\nb) Hepatitis B, unlike Hepatitis C, does not have a vaccine.\n\nc) Globally, the number of people infected with Hepatitis B and C viruses are several times more than those infected with HIV.\n\nd) Some of those infected with Hepatitis B and C viruses do not show the symptoms for many years.",
+  "options": [
+    "Hepatitis B virus is transmitted much like HIV.",
+    "Hepatitis B, unlike Hepatitis C, does not have a vaccine.",
+    "Globally, the number of people infected with Hepatitis B and C viruses are several times more than those infected with HIV.",
+    "Some of those infected with Hepatitis B and C viruses do not show the symptoms for many years."
+  ],
+  "answerIndex": 1,
+  "answerText": "(b) Hepatitis B, unlike Hepatitis C, does not have a vaccine.",
+  "explanation": "The statement is incorrect because an effective Hepatitis B vaccine does exist. Approved first in 1981, the vaccine is on WHO's List of Essential Medicines and is recommended for all infants globally. Hepatitis C, by contrast, does not yet have an approved vaccine.",
+  "research": {
+    "summary": "This question tests the critical distinction between Hepatitis B and C in terms of vaccine availability\u2014a distinction many students mistakenly reverse. A safe and effective Hepatitis B vaccine was first approved in 1981 and has been refined since, with modern versions using recombinant DNA technology (approved 1986) to eliminate any risk of blood-derived contamination. It is on the WHO List of Essential Medicines and is recommended for all newborns, often given at birth. By contrast, Hepatitis C has no approved vaccine to date, making prevention reliant on harm reduction and blood screening. The question is testing whether students understand this asymmetry: HBV is preventable by vaccination; HCV is not. All four statements are factually true except option (b), which inverts the reality. HBV and HIV do share transmission routes (sexual contact, shared needles, and blood exposure), so (a) is correct. The global burden is indeed much higher for HB and HC than HIV\u2014WHO data show ~257 million with chronic HBV, ~71 million with HCV, versus ~38 million with HIV\u2014so (c) is accurate. Both viruses can have asymptomatic or latent phases lasting years, especially HBV, where chronic carriers may show no symptoms until liver damage is advanced, so (d) is also correct. The trap is the false parallelism created by naming both Hepatitis B and C together in option (b) and then claiming B lacks a vaccine\u2014the opposite of reality.",
+    "facts": [
+      "Hepatitis B vaccine was the first human vaccine produced using recombinant DNA technology (1986), making it safer than early plasma-derived versions.",
+      "Approximately 90% of infected infants and 30% of infected children under five develop chronic HBV infection, whereas acute HBV in immunocompetent adults usually resolves spontaneously\u2014vaccination at birth prevents this chronicity."
+    ],
+    "sources": [
+      {
+        "title": "Hepatitis B vaccine - Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Hepatitis_B_vaccine",
+        "whyUsed": "Verified vaccine approval timeline (1981) and recombinant technology development (1986); WHO listing as essential medicine."
+      },
+      {
+        "title": "HIV and Hepatitis B | NIH",
+        "url": "https://hivinfo.nih.gov/understanding-hiv/fact-sheets/hiv-and-hepatitis-b",
+        "whyUsed": "Confirmed transmission route similarities between HBV and HIV; verified vaccine efficacy (80-100% risk reduction); noted absence of HCV vaccine."
+      },
+      {
+        "title": "What are Hepatitis B & C? - HIV.gov",
+        "url": "https://www.hiv.gov/hiv-basics/staying-in-hiv-care/other-related-health-issues/hepatitis-b-and-c",
+        "whyUsed": "Clarified transmission differences and confirmed no approved vaccine for HCV; documented sexual transmission difference (HBV more likely than HCV)."
+      }
+    ],
+    "searchMeta": {
+      "usedWebSearch": true,
+      "searchQueries": [
+        "Hepatitis B vaccine WHO approved",
+        "Hepatitis B C HIV transmission route comparison"
+      ],
+      "confidence": "high"
+    }
+  },
+  "id": 25,
+  "usage": {
+    "cache_creation": {
+      "ephemeral_1h_input_tokens": 0,
+      "ephemeral_5m_input_tokens": 0
+    },
+    "cache_creation_input_tokens": 28495,
+    "cache_read_input_tokens": 10060,
+    "inference_geo": "not_available",
+    "input_tokens": 691,
+    "iterations": null,
+    "output_tokens": 1152,
+    "server_tool_use": {
+      "web_fetch_requests": 0,
+      "web_search_requests": 2
+    },
+    "service_tier": "batch",
+    "speed": null
+  }
+}

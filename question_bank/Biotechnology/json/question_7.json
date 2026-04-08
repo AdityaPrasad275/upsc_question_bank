@@ -1,0 +1,73 @@
+{
+  "subject": "Science",
+  "year": 2022,
+  "theme": "Classification of COVID-19 vaccines by technological platform",
+  "question_short_text": "Statement verification on vaccine platform types: Covishield, Sputnik V, and COVAXIN",
+  "text": "In the context of vaccines manufactured to prevent COVID-19 pandemic, consider the following statements:\n\n1. The Serum Institute of India produced COVID-19 vaccine named Covishield using mRNA platform.\n2. Sputnik V vaccine is manufactured using vector based platform.\n3. COVAXIN is an inactivated pathogen 'based vaccine.\n\nWhich of the statements given above are correct?",
+  "options": [
+    "1 and 2 only",
+    "2 and 3 only",
+    "1 and 3 only",
+    "1, 2 and 3"
+  ],
+  "answerIndex": 1,
+  "answerText": "(b) 2 and 3 only",
+  "explanation": "Statement 1 is incorrect because Covishield uses a viral vector platform (chimpanzee adenovirus ChAdOx1), not mRNA. Statement 2 is correct: Sputnik V employs a vector-based platform using human adenovirus serotypes Ad5 and Ad26. Statement 3 is correct: COVAXIN is an inactivated whole-virus vaccine developed by Bharat Biotech. Therefore, only statements 2 and 3 are correct.",
+  "research": {
+    "summary": "This question tests the ability to distinguish between three fundamentally different COVID-19 vaccine platforms. The trap is that students often confuse vaccine technologies or misremember which technology each vaccine uses. Covishield and Sputnik V are both viral vector vaccines but use different types of adenovirus vectors: Covishield uses a non-human chimpanzee adenovirus (ChAdOx1) while Sputnik V uses human adenoviruses (Ad26 for prime and Ad5 for boost). Neither uses mRNA, which is why statement 1 is a common misconception\u2014mRNA vaccines (Pfizer-BioNTech, Moderna) represent a completely different technological approach. COVAXIN, by contrast, belongs to the oldest and most traditional vaccine category: inactivated whole-virus vaccines, which use a killed version of the entire virus to trigger immune response without causing disease. The key distinction is that vector-based vaccines deliver genetic material using a modified virus as a vehicle, while inactivated vaccines contain the actual killed pathogen. This classification matters because it explains differences in efficacy, storage requirements, and safety profiles. Covishield and Sputnik V both store at 2-8\u00b0C, while mRNA vaccines required ultra-cold storage. Among the three vaccines in this question, COVAXIN is the only one using century-old vaccine technology similar to polio and influenza vaccines. Understanding these platform differences is foundational for recognizing how different vaccines work and predicting their properties without memorizing every detail.",
+    "facts": [
+      "Viral vector vaccines (Covishield and Sputnik V) use replication-deficient modified viruses as vehicles to deliver genetic instructions for spike protein production, while inactivated vaccines like COVAXIN contain the entire killed virus and cannot replicate.",
+      "Among COVID-19 vaccines, the Pfizer-BioNTech and Moderna vaccines use mRNA platform (neither of which appear in this question), making mRNA a distinct third major vaccine technology category separate from both vector and inactivated approaches."
+    ],
+    "sources": [
+      {
+        "title": "Oxford\u2013AstraZeneca COVID-19 vaccine - Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Oxford%E2%80%93AstraZeneca_COVID-19_vaccine",
+        "whyUsed": "Verified that Covishield/Oxford-AstraZeneca uses chimpanzee adenovirus ChAdOx1 vector platform, not mRNA"
+      },
+      {
+        "title": "Sputnik V - Official website vaccine against COVID-19",
+        "url": "https://sputnikvaccine.com/about-vaccine/",
+        "whyUsed": "Confirmed Sputnik V is based on human adenovirus vector platform with heterologous prime-boost approach using Ad26 and Ad5"
+      },
+      {
+        "title": "COVAXIN - India's First Indigenous Covid-19 Vaccine",
+        "url": "https://www.bharatbiotech.com/covaxin.html",
+        "whyUsed": "Verified COVAXIN is whole-virion inactivated vaccine using killed virus, not vector-based or mRNA platform"
+      },
+      {
+        "title": "Covaxin - Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Covaxin",
+        "whyUsed": "Confirmed COVAXIN as whole inactivated virus-based vaccine developed by Bharat Biotech in collaboration with ICMR-NIV"
+      }
+    ],
+    "searchMeta": {
+      "usedWebSearch": true,
+      "searchQueries": [
+        "Covishield vaccine platform technology AstraZeneca",
+        "Sputnik V adenovirus vector platform",
+        "COVAXIN inactivated vaccine Bharat Biotech"
+      ],
+      "confidence": "high"
+    }
+  },
+  "id": 7,
+  "usage": {
+    "cache_creation": {
+      "ephemeral_1h_input_tokens": 0,
+      "ephemeral_5m_input_tokens": 5030
+    },
+    "cache_creation_input_tokens": 46096,
+    "cache_read_input_tokens": 5030,
+    "inference_geo": "not_available",
+    "input_tokens": 659,
+    "iterations": null,
+    "output_tokens": 1308,
+    "server_tool_use": {
+      "web_fetch_requests": 0,
+      "web_search_requests": 3
+    },
+    "service_tier": "batch",
+    "speed": null
+  }
+}

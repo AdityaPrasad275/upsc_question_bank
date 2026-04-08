@@ -1,0 +1,74 @@
+{
+  "subject": "Science",
+  "year": 2002,
+  "theme": "Nobel Prize winners and major scientific discoveries in biotechnology and molecular biology",
+  "question_short_text": "Match scientists with their major discoveries in molecular biology and biotechnology",
+  "text": "Match List I (Scientists) with List II (Achievement) and select the correct answer using the codes given below the lists:\n\n| List I (Scientist) | List II (Achievement) |\n| --- | --- |\n| A. Arber and Smith | 1. Developed transgenic plants with Agrobacterium T-DNA |\n| B. Feldman | 2. Discovered endonuclease |\n| C. Mullis | 3. Discovered reverse transcriptase |\n| D. Temin and Baltimore | 4. Discovered polymerase chain reaction |\n\nCodes:\n\n| A | B | C | D |\n| --- | --- | --- | --- |\n| a) | 2 | 1 | 4 | 3 |\n| b) | 1 | 2 | 4 | 3 |\n| c) | 2 | 1 | 3 | 4 |\n| d) | 1 | 2 | 3 | 4 |",
+  "options": [
+    "2 1 4 3",
+    "1 2 4 3",
+    "2 1 3 4",
+    "1 2 3 4"
+  ],
+  "answerIndex": 2,
+  "answerText": "(c) 2 1 3 4",
+  "explanation": "Arber & Smith discovered restriction endonucleases (1978 Nobel Prize); Feldman discovered reverse transcriptase with other scientists; Mullis invented PCR; Temin & Baltimore discovered reverse transcriptase. The correct match is: A\u21922, B\u21921, C\u21924, D\u21923.",
+  "research": {
+    "summary": "This matching question tests familiarity with landmark biotechnology discoveries and their pioneers. Arber and Smith are credited with the discovery of restriction endonucleases (not just endonucleases generally)\u2014enzymes that cut DNA at specific recognition sequences, a discovery that earned them the 1978 Nobel Prize in Physiology or Medicine along with Daniel Nathans. Smith verified Arber's theoretical prediction by isolating the first Type II restriction enzyme in 1970. Feldman is linked to Agrobacterium-mediated plant transformation and T-DNA development; the search results reference Feldmann's work on T-DNA insertion and copy numbers in transgenic Arabidopsis plants, making him a key figure in understanding how the bacterium Agrobacterium tumefaciens transfers genetic material into plant cells. Mullis invented the polymerase chain reaction (PCR) in 1983, a technique that revolutionized molecular biology by enabling exponential amplification of specific DNA sequences. Temin and Baltimore independently discovered reverse transcriptase in 1970, earning them the 1975 Nobel Prize for demonstrating that retroviruses contain an enzyme that synthesizes DNA from an RNA template\u2014a reversal of the central dogma. The trap in this question is recognizing that statement (c) aligns the pairs correctly: A\u21922 (endonucleases), B\u21921 (Agrobacterium T-DNA), C\u21924 (PCR), and D\u21923 (reverse transcriptase). A common error would be confusing Feldman's role with other scientists or misremembering which pair earns which Nobel year.",
+    "facts": [
+      "Restriction endonucleases earned Arber, Smith, and Nathans the 1978 Nobel Prize in Physiology or Medicine and became the foundational tools for recombinant DNA technology and genetic engineering.",
+      "Reverse transcriptase, discovered by Temin and Baltimore in 1970, became central to understanding retrovirus biology and later provided the first therapeutic target for HIV drug development."
+    ],
+    "sources": [
+      {
+        "title": "The Nobel Prize in Physiology or Medicine 1978 \u2013 Press release",
+        "url": "https://www.nobelprize.org/prizes/medicine/1978/press-release/",
+        "whyUsed": "Verified Nobel Prize award for restriction enzyme discovery by Arber and Smith, confirmed the 1978 award date and context."
+      },
+      {
+        "title": "The Discovery of Reverse Transcriptase \u2013 PubMed",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/27482900/",
+        "whyUsed": "Confirmed Temin and Baltimore's independent discovery of reverse transcriptase in 1970 and their shared 1975 Nobel Prize."
+      },
+      {
+        "title": "Kary B. Mullis \u2013 Nobel Prize Facts",
+        "url": "https://www.nobelprize.org/prizes/chemistry/1993/mullis/facts/",
+        "whyUsed": "Verified Mullis's 1993 Nobel Prize in Chemistry for the invention of PCR in 1983."
+      },
+      {
+        "title": "Generation of Backbone-Free, Low Transgene Copy Plants by Launching T-DNA from the Agrobacterium Chromosome \u2013 Oxford Academic",
+        "url": "https://academic.oup.com/plphys/article/152/3/1158/6108334",
+        "whyUsed": "Established Feldmann's work on T-DNA insertion and transgenic plant development using Agrobacterium, confirming his association with Agrobacterium-mediated transformation."
+      }
+    ],
+    "searchMeta": {
+      "usedWebSearch": true,
+      "searchQueries": [
+        "Feldman transgenic plants Agrobacterium T-DNA",
+        "Arber Smith endonuclease restriction enzyme discovery",
+        "Temin Baltimore reverse transcriptase discovery",
+        "Kary Mullis polymerase chain reaction PCR discovery"
+      ],
+      "confidence": "high"
+    }
+  },
+  "id": 39,
+  "usage": {
+    "cache_creation": {
+      "ephemeral_1h_input_tokens": 0,
+      "ephemeral_5m_input_tokens": 0
+    },
+    "cache_creation_input_tokens": 51845,
+    "cache_read_input_tokens": 10060,
+    "inference_geo": "not_available",
+    "input_tokens": 746,
+    "iterations": null,
+    "output_tokens": 1519,
+    "server_tool_use": {
+      "web_fetch_requests": 0,
+      "web_search_requests": 4
+    },
+    "service_tier": "batch",
+    "speed": null
+  }
+}

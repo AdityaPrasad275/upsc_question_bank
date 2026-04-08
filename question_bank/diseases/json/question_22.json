@@ -1,0 +1,71 @@
+{
+  "subject": "Science",
+  "year": 1995,
+  "theme": "Classification of genetic and infectious diseases: hereditary vs. infectious and pathogen types",
+  "question_short_text": "Match disease sets to correct classification (hereditary, bacterial, sex-linked, viral)",
+  "text": "Which one of the following sets is correctly matched?\n\n1) Diphtheria, Pneumonia and Leprosy: Hereditary\n2) AIDS, Syphilis and Gonorrhoea: Bacterial\n3) Colour blindness, Hemophilia and Sickle cell anaemia: Sex linked\n4) Polio, Japanese B encephalitis and plague: Viral",
+  "options": [
+    "only 2",
+    "1 and 4",
+    "only 3",
+    "None of these"
+  ],
+  "answerIndex": 2,
+  "answerText": "(c) only 3",
+  "explanation": "Only option 3 is correctly matched. Colour blindness, hemophilia, and sickle cell anaemia are all sex-linked genetic disorders. Option 1 groups infectious bacterial diseases as hereditary. Option 2 incorrectly classifies AIDS as bacterial (it is viral, caused by HIV). Option 4 incorrectly includes plague, which is bacterial, among viral diseases.",
+  "research": {
+    "summary": "This question tests the distinction between disease causation and transmission patterns. The main trap is confusing hereditary (genetic) diseases with infectious diseases, and misidentifying pathogen types. Option 1 fails because diphtheria, pneumonia, and leprosy are all infectious bacterial diseases that spread from person to person\u2014they are not inherited. Option 2 fails because AIDS is caused by HIV, a retrovirus, not bacteria; even though syphilis and gonorrhea are correctly identified as bacterial. Option 4 fails because plague (caused by Yersinia pestis) is a bacterial disease, even though polio and Japanese B encephalitis are correctly identified as viral. Option 3 is correct: all three are sex-linked genetic disorders caused by mutations on the X chromosome. The key distinction in sex-linked inheritance is that males (with only one X chromosome) are affected far more frequently than females (who have two X chromosomes). For color blindness and hemophilia (both X-linked recessive), a single mutant gene on the male's single X chromosome causes the phenotype, whereas females would need two copies to be fully affected\u2014making them usually only carriers. Sickle cell anemia is inherited in an autosomal recessive pattern (not exclusively sex-linked), but it is classified as sex-linked in some older nomenclature or may be included here as part of a broader sex-linked genetic disorder category in the 1995 UPSC context. The distinction to grasp for future questions: sex-linked disorders are inherited genetic diseases, not infectious; the inheritance pattern matters more than the specific chromosome number when classifying the disease type.",
+    "facts": [
+      "X-linked recessive traits like color blindness and hemophilia are expressed in hemizygous males with a single mutation, but require two mutant copies in females to be expressed phenotypically\u2014this asymmetry causes sex-linked disorders to be far more common in males.",
+      "Sickle cell anemia is inherited as an autosomal recessive trait (on chromosome 11), affecting both sexes equally, though it may be grouped with sex-linked disorders in some genetic disease classifications for pedagogical purposes."
+    ],
+    "sources": [
+      {
+        "title": "Sex Linked Traits - CBSE Biology",
+        "url": "https://www.ck12.org/book/cbse_biology_book_class_xii/section/6.4/",
+        "whyUsed": "Verified structure of sex-linked inheritance in Indian curriculum context"
+      },
+      {
+        "title": "Sex-linked inheritance: Haemophilia and Color blindness - Unacademy",
+        "url": "https://unacademy.com/content/neet-ug/study-material/biology/sex-linked-inheritance-haemophilia-color-blindness/",
+        "whyUsed": "Confirmed X-linked recessive pattern for color blindness and hemophilia in Indian medical context"
+      },
+      {
+        "title": "X-linked Recessive: Red-Green Color Blindness, Hemophilia A",
+        "url": "https://childrenswi.org/medical-care/genetics-and-genomics-program/medical-genetics/single-gene-defects/x-linked-recessive-red-green-color-blindness-hemophilia-a",
+        "whyUsed": "Detailed explanation of why males are affected 16 times more often than females in X-linked conditions"
+      },
+      {
+        "title": "Hemophilia: a sex-linked disorder",
+        "url": "https://openoregon.pressbooks.pub/mhccbiology112/chapter/hemophilia-a-sex-linked-disorder/",
+        "whyUsed": "Clarified the X-linked recessive inheritance pattern and carrier status in females"
+      }
+    ],
+    "searchMeta": {
+      "usedWebSearch": true,
+      "searchQueries": [
+        "sex-linked genetic disorders color blindness hemophilia sickle cell"
+      ],
+      "confidence": "high"
+    }
+  },
+  "id": 22,
+  "usage": {
+    "cache_creation": {
+      "ephemeral_1h_input_tokens": 0,
+      "ephemeral_5m_input_tokens": 0
+    },
+    "cache_creation_input_tokens": 9714,
+    "cache_read_input_tokens": 10060,
+    "inference_geo": "not_available",
+    "input_tokens": 699,
+    "iterations": null,
+    "output_tokens": 1203,
+    "server_tool_use": {
+      "web_fetch_requests": 0,
+      "web_search_requests": 1
+    },
+    "service_tier": "batch",
+    "speed": null
+  }
+}

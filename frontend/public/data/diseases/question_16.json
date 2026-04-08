@@ -1,0 +1,71 @@
+{
+  "subject": "Science",
+  "year": 1999,
+  "theme": "Neurotoxins and nutritional diseases: lathyrism caused by kesari dal",
+  "question_short_text": "What causes lathyrism?",
+  "text": "Lathyrism is caused by excessive consumption of:",
+  "options": [
+    "Kesari dal",
+    "Mustard oil",
+    "Polished rice",
+    "Mushrooms"
+  ],
+  "answerIndex": 0,
+  "answerText": "(a) Kesari dal",
+  "explanation": "Lathyrism is a neurological disorder caused by excessive consumption of kesari dal (Lathyrus sativus), which contains the neurotoxin ODAP (\u03b2-N-oxalyl-L-\u03b1,\u03b2-diaminopropionic acid). This toxin damages motor neurons in the spinal cord, leading to progressive weakness and paralysis of the lower limbs.",
+  "research": {
+    "summary": "Lathyrism is an irreversible neurological disease caused specifically by long-term, excessive consumption of kesari dal (also called grass pea or chickling pea, Lathyrus sativus). The culprit is ODAP, a glutamate analogue neurotoxin that acts as an excitotoxin, mimicking the neurotransmitter glutamate but causing excessive neuronal excitation leading to motor neuron death. Pathologically, the toxin triggers degeneration in pyramidal tracts of the spinal cord, resulting in upper motor neuron disease characterized by spastic paraplegia\u2014weakness, stiffness, and often irreversible paralysis of the lower limbs. The disease emerges only with chronic, heavy consumption; the research literature clearly establishes that kesari dal becomes safe when it comprises 5\u201330% of total diet intake, but becomes toxic when consumption exceeds 75% of daily food intake. The key misconception is that people sometimes confuse lathyrism with osteolathyrism (a skeletal disease from sweet pea caused by a different toxin, beta-aminopropionitrile), or assume any legume excess can cause it. Lathyrism is specifically and uniquely linked to Lathyrus sativus. Prevention historically relied on detoxification methods: soaking seeds overnight and discarding water removes up to 90% of ODAP; fermentation, parboiling, and consuming kesari dal as part of a mixed-grain diet also reduce risk significantly. Modern India has largely eliminated neurolathyrism through crop diversification and awareness, though the disease remains endemic in resource-poor regions of Bangladesh, Ethiopia, and Nepal during droughts and famines.",
+    "facts": [
+      "ODAP is a mitochondrial poison that leads to excessive cell death, particularly in motor neurons of the spinal cord.",
+      "Lathyrism is not progressive after onset\u2014once paralysis develops, it stabilizes but does not reverse, making early prevention through dietary awareness critical in vulnerable populations."
+    ],
+    "sources": [
+      {
+        "title": "Lathyrism - Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Lathyrism",
+        "whyUsed": "Comprehensive overview of neurolathyrism etiology, ODAP toxin characterization, types of lathyrism, and historical references."
+      },
+      {
+        "title": "Neurolathyrism: An Unsolved Mystery \u2013 Connect with IISc",
+        "url": "https://connect.iisc.ac.in/2020/12/neurolathyrism-an-unsolved-mystery/",
+        "whyUsed": "Indian research context on ODAP identification and detoxification methods (soaking, parboiling) verified through experimental evidence."
+      },
+      {
+        "title": "Neurolathyrism - Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Neurolathyrism",
+        "whyUsed": "Detailed mechanistic explanation of ODAP's role as glutamate analogue, motor neuron degeneration, and distinction from osteolathyrism."
+      },
+      {
+        "title": "Lathyrism: The Hidden Dangers of Kesari Dal Consumption \u2013 Socio.Health",
+        "url": "https://socio.health/public-health-and-nutrition/hidden-dangers-kesari-dal-consumption/",
+        "whyUsed": "Modern epidemiological context on consumption thresholds (>30% of diet) and detoxification efficacy rates."
+      }
+    ],
+    "searchMeta": {
+      "usedWebSearch": true,
+      "searchQueries": [
+        "lathyrism kesari dal beta-ODAP toxin"
+      ],
+      "confidence": "high"
+    }
+  },
+  "id": 16,
+  "usage": {
+    "cache_creation": {
+      "ephemeral_1h_input_tokens": 0,
+      "ephemeral_5m_input_tokens": 0
+    },
+    "cache_creation_input_tokens": 15881,
+    "cache_read_input_tokens": 10060,
+    "inference_geo": "not_available",
+    "input_tokens": 690,
+    "iterations": null,
+    "output_tokens": 1067,
+    "server_tool_use": {
+      "web_fetch_requests": 0,
+      "web_search_requests": 1
+    },
+    "service_tier": "batch",
+    "speed": null
+  }
+}

@@ -1,0 +1,82 @@
+{
+  "subject": "Science",
+  "year": 2024,
+  "theme": "Cardiovascular physiology and endogenous signaling molecules",
+  "question_short_text": "Which nitrogen-containing compound synthesized in the body dilates blood vessels?",
+  "text": "Which one of the following is synthesised in human body that dilates blood vessels and increases blood flow?\n\na) Nitric oxide\n\nb) Nitrous oxide\n\nc) Nitrogen dioxide\n\nd) Nitrogen pentoxide",
+  "options": [
+    "Nitric oxide",
+    "Nitrous oxide",
+    "Nitrogen dioxide",
+    "Nitrogen pentoxide"
+  ],
+  "answerIndex": 0,
+  "answerText": "(a) Nitric oxide",
+  "explanation": "Nitric oxide (NO) is synthesised in the human body by the enzyme nitric oxide synthase (NOS). It regulates vascular tone and blood flow by activating soluble guanylate cyclase (sGC) in vascular smooth muscle cells, causing vasodilation.",
+  "research": {
+    "summary": "This question tests recognition of nitric oxide as a critical endogenous vascular signaling molecule, distinguishing it from three misleading chemical compounds. Nitric oxide (NO) is synthesized by cells lining blood vessels (endothelial cells) using the enzyme endothelial nitric oxide synthase (eNOS), which converts the amino acid L-arginine into NO. Once formed, NO diffuses into adjacent smooth muscle cells and activates the enzyme soluble guanylate cyclase (sGC), triggering a cascade that produces cyclic GMP (cGMP), the second messenger that relaxes vascular smooth muscle, causing blood vessels to dilate and increasing blood flow. This mechanism is so fundamental that NO was proclaimed \"Molecule of the Year\" in 1992, and the 1998 Nobel Prize in Physiology or Medicine recognized its discovery. The trap is recognizing that the other three options are NOT biological molecules: nitrous oxide (N\u2082O) is a greenhouse gas and anesthetic used in dentistry; nitrogen dioxide (NO\u2082) is a toxic air pollutant from vehicle exhaust and combustion; and nitrogen pentoxide (N\u2082O\u2085) is an industrial chemical. Many students may confuse these names because they all contain \"nitro-\" or nitrogen, but only nitric oxide is synthesized endogenously and has vasodilatory function. The distinction is critical: nitric oxide is a gaseous signaling molecule, while the others are exogenous pollutants or anesthetics without cardiovascular signaling roles in the body.",
+    "facts": [
+      "Impaired nitric oxide production is implicated in hypertension, atherosclerosis, and endothelial dysfunction in diabetes, making NO bioavailability a marker of cardiovascular health.",
+      "Sildenafil (Viagra) works by inhibiting phosphodiesterase-5 (PDE5), which normally breaks down cGMP, thereby extending NO's vasodilatory effect\u2014demonstrating the clinical importance of NO signaling pathways."
+    ],
+    "sources": [
+      {
+        "title": "Role of Nitric Oxide in the Cardiovascular and Renal Systems - PMC",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC6164974/",
+        "whyUsed": "Verified mechanism of NO synthesis by eNOS and its vasodilatory pathway via cGMP."
+      },
+      {
+        "title": "Nitric Oxide in the Vasculature: Where Does It Come From and Where Does It Go? A Quantitative Perspective - PMC",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC2932548/",
+        "whyUsed": "Confirmed NO's role in regulating vascular tone and the role of soluble guanylate cyclase."
+      },
+      {
+        "title": "Biological functions of nitric oxide - Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Biological_functions_of_nitric_oxide",
+        "whyUsed": "Distinguished nitric oxide from nitrogen dioxide and nitrous oxide; confirmed NO as endothelium-derived relaxing factor and its 1998 Nobel Prize recognition."
+      },
+      {
+        "title": "Nitric oxide - Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Nitric_oxide",
+        "whyUsed": "Clarified that nitric oxide should not be confused with nitrogen dioxide or nitrous oxide, and confirmed its role as a signaling molecule in mammals."
+      },
+      {
+        "title": "Basic Information about NO2 - US EPA",
+        "url": "https://www.epa.gov/no2-pollution/basic-information-about-no2",
+        "whyUsed": "Confirmed that nitrogen dioxide (NO\u2082) is an air pollutant from combustion, not a biological molecule."
+      },
+      {
+        "title": "Nitrous oxide - Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Nitrous_oxide",
+        "whyUsed": "Confirmed that nitrous oxide (N\u2082O) is a greenhouse gas and anesthetic with no vasodilatory biological role."
+      }
+    ],
+    "searchMeta": {
+      "usedWebSearch": true,
+      "searchQueries": [
+        "nitric oxide vasodilation blood vessels human body mechanism",
+        "nitrous oxide nitrogen dioxide biological role human body"
+      ],
+      "confidence": "high"
+    }
+  },
+  "id": 2,
+  "usage": {
+    "cache_creation": {
+      "ephemeral_1h_input_tokens": 0,
+      "ephemeral_5m_input_tokens": 0
+    },
+    "cache_creation_input_tokens": 29404,
+    "cache_read_input_tokens": 10060,
+    "inference_geo": "not_available",
+    "input_tokens": 498,
+    "iterations": null,
+    "output_tokens": 1268,
+    "server_tool_use": {
+      "web_fetch_requests": 0,
+      "web_search_requests": 2
+    },
+    "service_tier": "batch",
+    "speed": null
+  }
+}

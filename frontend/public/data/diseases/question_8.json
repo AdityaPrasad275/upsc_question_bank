@@ -1,0 +1,72 @@
+{
+  "subject": "Science",
+  "year": 2010,
+  "theme": "Infectivity and disease risk comparison: Hepatitis B vs HIV",
+  "question_short_text": "Statement validity: HBV infectivity and liver cancer causation",
+  "text": "Consider the following statements:\n\n1. Hepatitis B is several times more infectious than HIV/AIDS.\n2. Hepatitis B can cause liver cancer.\n\nWhich of the statement given above is/are correct?",
+  "options": [
+    "1 only",
+    "2 only",
+    "Both 1 and 2",
+    "Neither 1 nor 2"
+  ],
+  "answerIndex": 2,
+  "answerText": "(c) Both 1 and 2",
+  "explanation": "Both statements are correct. Hepatitis B is significantly more infectious than HIV (estimated 50-100 times more transmissible), and chronic HBV infection is a major risk factor for developing liver cancer through cirrhosis or direct hepatocarcinogenesis.",
+  "research": {
+    "summary": "This question tests the distinction between two bloodborne pathogens that share transmission routes but differ dramatically in infectivity and disease outcomes. Statement 1 is factually correct: Hepatitis B is 50-100 times more infectious than HIV due to its much higher viral concentration in blood\u2014HBV can reach up to 100 times the viral load of HIV in the same volume of fluid. This higher concentration explains why HBV transmission risk from a single unprotected sexual act is approximately 30% for partners of infected individuals, compared to 0.1-1% for HIV. Additionally, HBV survives outside the body for at least 7 days, making environmental transmission and occupational exposure more likely than with HIV. The second statement is also unequivocally correct: chronic HBV infection is a major cause of liver cancer worldwide, accounting for approximately one-third of all liver cancer deaths globally. About 15-25% of people with chronic HBV develop serious liver disease including cirrhosis and liver cancer. The mechanism involves both cirrhosis-mediated carcinogenesis (where about 70-90% of HBV-related HCC occurs in cirrhotic patients) and direct HBV oncogenic pathways that can lead to hepatocellular carcinoma even without cirrhosis. The trap for students is assuming that high infectivity automatically means high mortality or severity\u2014HBV is more infectious but has lower acute severity than HIV, yet chronic HBV carries a substantial long-term risk of liver cancer that exceeds the cancer risk of heavy smoking. Both statements therefore stand independently as correct facts about HBV epidemiology and pathogenesis.",
+    "facts": [
+      "Hepatitis B virus can present in blood at 100 times higher concentration than HIV, making it 50-100 times more infectious per exposure; transmission risk varies geographically, with perinatal transmission dominant in high-prevalence regions and sexual transmission more common in developed countries.",
+      "Chronic hepatitis B accounts for 54% of all liver cancer cases worldwide and is the leading cause of hepatocellular carcinoma globally, with approximately 25% lifetime risk of liver cancer in those infected at birth who receive no treatment, and 2-4% annual risk in those with existing cirrhosis."
+    ],
+    "sources": [
+      {
+        "title": "Is Hep B More Easily Spread than HIV? And Other FAQ",
+        "url": "https://www.healthline.com/health/hiv/is-hep-b-more-contagious-than-hiv",
+        "whyUsed": "Verified HBV infectivity rates and viral load comparison with HIV; documented environmental survival capability."
+      },
+      {
+        "title": "Is Hepatitis B More Infectious Than HIV? - The Body",
+        "url": "https://www.thebody.com/article/is-hepatitis-b-more-infectious-than-hiv",
+        "whyUsed": "Confirmed 50-100 times infectivity multiplier from Hepatitis B Foundation; transmission rates from single exposures."
+      },
+      {
+        "title": "Hepatitis B Foundation: Risk Factors for Liver Cancer",
+        "url": "https://www.hepb.org/research-and-programs/liver/risk-factors-for-liver-cancer/",
+        "whyUsed": "Documented liver cancer risk rates and the global burden of HBV-related HCC; 15-25% chronic disease progression rate."
+      },
+      {
+        "title": "WHO Hepatitis B Fact Sheet",
+        "url": "https://www.who.int/news-room/fact-sheets/detail/hepatitis-b",
+        "whyUsed": "Confirmed cirrhosis and liver cancer as major complications of chronic HBV; perinatal and sexual transmission pathways."
+      }
+    ],
+    "searchMeta": {
+      "usedWebSearch": true,
+      "searchQueries": [
+        "Hepatitis B infectivity compared to HIV transmission rate",
+        "Hepatitis B virus liver cancer cirrhosis risk"
+      ],
+      "confidence": "high"
+    }
+  },
+  "id": 8,
+  "usage": {
+    "cache_creation": {
+      "ephemeral_1h_input_tokens": 0,
+      "ephemeral_5m_input_tokens": 0
+    },
+    "cache_creation_input_tokens": 26042,
+    "cache_read_input_tokens": 10060,
+    "inference_geo": "not_available",
+    "input_tokens": 571,
+    "iterations": null,
+    "output_tokens": 1182,
+    "server_tool_use": {
+      "web_fetch_requests": 0,
+      "web_search_requests": 2
+    },
+    "service_tier": "batch",
+    "speed": null
+  }
+}

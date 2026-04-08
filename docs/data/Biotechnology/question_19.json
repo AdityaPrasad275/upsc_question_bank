@@ -1,0 +1,72 @@
+{
+  "subject": "Science",
+  "year": 2017,
+  "theme": "Applications of genome sequencing in crop improvement and sustainable agriculture",
+  "question_short_text": "Can genome sequencing be used for disease resistance, crop breeding speed, and host-pathogen understanding?",
+  "text": "With reference to agriculture in India, how can the technique of `genome sequencing', often seen in the news, be used in the immediate future?\n\n1. Genome sequencing can be used to identify genetic markers for disease resistance and drought tolerance in various crop plants.\n2. This technique helps in reducing the time required to develop new varieties of crop plants.\n3. It can be used to decipher the host-pathogen relationships in crops.",
+  "options": [
+    "1 only",
+    "2 and 3 only",
+    "1 and 3 only",
+    "1, 2 and 3"
+  ],
+  "answerIndex": 3,
+  "answerText": "(d) 1, 2 and 3",
+  "explanation": "All three statements are correct. Genome sequencing identifies genetic markers for traits like disease resistance and drought tolerance, accelerates breeding timelines, and reveals host-pathogen interaction mechanisms.",
+  "research": {
+    "summary": "Genome sequencing has emerged as a transformative tool in agriculture, and all three applications correctly capture its near-term utility. Statement 1 is foundational: genome-wide association studies (GWAS) combined with whole-genome sequencing enable rapid identification of quantitative trait loci (QTLs) and specific genes conferring disease resistance and drought tolerance, allowing breeders to select favorable alleles without multi-year field trials. Statement 2 is the breeding acceleration angle\u2014traditional crop improvement required 6\u201312 years of crossing and selection; next-generation sequencing (NGS) reduces costs and drastically shortens timelines by enabling genomic selection (GS), where marker-assisted selection (MAS) identifies superior genotypes in early generations. Statement 3, often overlooked, is equally important: sequencing both crop and pathogen genomes reveals virulence factors, effector genes, and resistance mechanisms. This knowledge of host-pathogen co-evolution helps breeders select durable resistance alleles less likely to be overcome by pathogen adaptation. A key recognition: genome sequencing alone does not create resistant varieties, but it dramatically accelerates the intellectual pathway to finding and combining beneficial alleles. The technique operates at the intersection of speed and precision\u2014replacing slow field phenotyping with fast genomic prediction.",
+    "facts": [
+      "Genomic selection can reduce breeding cycles from 6-12 years to 3-4 years by enabling early identification of favorable alleles without field evaluation.",
+      "Whole-genome sequencing of pathogens (e.g., rice blast fungus Magnaporthe oryzae) reveals effector arsenals and host recognition genes, informing durable resistance breeding strategies."
+    ],
+    "sources": [
+      {
+        "title": "Genomics-Assisted Breeding for Quantitative Disease Resistances in Small-Grain Cereals and Maize",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7766114/",
+        "whyUsed": "Verified that genomic selection and marker chips accelerate breeding for disease resistance by characterizing QTLs and enabling targeted selection."
+      },
+      {
+        "title": "Genomics in plant pathogen identification and control",
+        "url": "https://www.frontiersin.org/journals/plant-science/articles/10.3389/fpls.2025.1661432/full",
+        "whyUsed": "Confirmed that genome sequencing of pathogens and hosts reveals host-pathogen interactions, R-genes, and effectors for breeding durable disease-resistant cultivars."
+      },
+      {
+        "title": "DNA Sequencing in Practice: Crop Customization, Livestock Optimization and Microbiome-Based Agriculture",
+        "url": "https://www.cd-genomics.com/resource-dna-sequencing-application-crop-breeding-microbiome-agriculture.html",
+        "whyUsed": "Documented that NGS technology reduced genome sequencing costs and timelines, and that third-generation sequencing solved complex genome assembly, enabling cloning of resistance genes like Pm21 in wheat."
+      },
+      {
+        "title": "Advancing crop disease resistance through genome editing: a promising approach",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11234172/",
+        "whyUsed": "Established that genome sequencing and editing together accelerate development of disease-resistant crop varieties by enabling precise, targeted trait modification."
+      }
+    ],
+    "searchMeta": {
+      "usedWebSearch": true,
+      "searchQueries": [
+        "genome sequencing agriculture crop breeding disease resistance",
+        "genome sequencing host pathogen relationships crops"
+      ],
+      "confidence": "high"
+    }
+  },
+  "id": 19,
+  "usage": {
+    "cache_creation": {
+      "ephemeral_1h_input_tokens": 0,
+      "ephemeral_5m_input_tokens": 5030
+    },
+    "cache_creation_input_tokens": 34785,
+    "cache_read_input_tokens": 5030,
+    "inference_geo": "not_available",
+    "input_tokens": 614,
+    "iterations": null,
+    "output_tokens": 1143,
+    "server_tool_use": {
+      "web_fetch_requests": 0,
+      "web_search_requests": 2
+    },
+    "service_tier": "batch",
+    "speed": null
+  }
+}

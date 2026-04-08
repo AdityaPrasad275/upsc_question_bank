@@ -1,0 +1,54 @@
+{
+  "subject": "Environment",
+  "year": 2012,
+  "theme": "Mechanisms of UV radiation in water disinfection versus physical and chemical water treatment methods",
+  "question_short_text": "UV radiation role in water purification: identifying correct mechanisms of action",
+  "text": "What is the role of ultraviolet (UV) radiation in the water purification systems?\n\n1. It inactivates/kills the harmful microorganisms in water.\n2. It removes all the undesirable odours from the water.\n3. It quickens the sedimentation of solid particles, removes turbidity and improves the clarity of water.\n\nWhich of the statements given above is/are correct?",
+  "options": [
+    "1 Only",
+    "2 & 3 Only",
+    "1 & 3 Only",
+    "1, 2 & 3"
+  ],
+  "answerIndex": 0,
+  "answerText": "(a) 1 Only",
+  "explanation": "UV radiation is effective only for disinfection by inactivating harmful microorganisms through DNA damage. It does not remove odours, nor does it affect sedimentation or turbidity\u2014functions performed by coagulation, flocculation, and filtration processes.",
+  "research": {
+    "summary": "This question tests understanding of the scope and limits of UV disinfection in water treatment. The critical trap is confusing UV's role as a disinfectant (killing living organisms) with the physical and chemical processes that handle turbidity and odours. UV light, particularly at 254 nm wavelength, damages the DNA/RNA of bacteria, viruses, and protozoa by disrupting nucleic acids, preventing them from reproducing and rendering them unable to cause illness. This is the only correct mechanism. Statement 2 is incorrect because odours in water come from dissolved organic compounds like hydrogen sulfide or organic matter, which are not affected by UV radiation\u2014removing odours requires activated carbon filtration or chemical oxidation. Statement 3 is incorrect because UV does not affect the physical properties of water or particle movement. Turbidity and sedimentation are addressed entirely by different processes: coagulation (adding chemicals like alum to bind particles), flocculation (forming larger particles called flocs), and sedimentation (allowing flocs to settle by gravity). A key recognition pattern: when a question mentions turbidity removal, sedimentation, or clarity improvement, think coagulation-flocculation-sedimentation-filtration chain, not UV. When it mentions microorganism inactivation or disinfection, think UV or chlorination. In comprehensive water treatment systems, UV is typically the final disinfection step after pre-filtration removes particles that would otherwise shield microbes from UV light.",
+    "facts": [
+      "UV disinfection is ineffective if water contains high turbidity (>5 NTU) or suspended solids (>10 ppm) because particles shield microorganisms from UV light; pre-filtration before UV is standard practice.",
+      "In modern water treatment, coagulation-sedimentation-filtration removes 50-90% of particles and some organic matter, while UV as a final step eliminates 99.99% of remaining microorganisms in pretreated water."
+    ],
+    "sources": [
+      {
+        "title": "Impact of UV-C Irradiation on Bacterial Disinfection in a Drinking Water Purification System - PMC",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9895992/",
+        "whyUsed": "Verified the mechanism of UV-C irradiation damaging bacterial DNA and RNA to inactivate microorganisms, distinguishing disinfection from particle removal."
+      },
+      {
+        "title": "How Water Treatment Works | CDC",
+        "url": "https://www.cdc.gov/drinking-water/about/how-water-treatment-works.html",
+        "whyUsed": "Confirmed that sedimentation, coagulation, and filtration are distinct processes responsible for removing solids and turbidity, separate from disinfection."
+      },
+      {
+        "title": "UV Water Purification and How it Works \u2013 ESP Water",
+        "url": "https://espwaterproducts.com/pages/understanding-uv-water-filtration-sterilization",
+        "whyUsed": "Clarified that UV is chemical-free and does not alter taste, colour, or remove particles/odours\u2014functions exclusive to other purification stages."
+      },
+      {
+        "title": "Water purification - Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Water_purification",
+        "whyUsed": "Distinguished physical processes (filtration, sedimentation) and chemical processes (flocculation, chlorination) from electromagnetic methods (UV light)."
+      }
+    ],
+    "searchMeta": {
+      "usedWebSearch": true,
+      "searchQueries": [
+        "UV ultraviolet radiation water purification disinfection mechanism",
+        "water purification methods turbidity sedimentation coagulation filtration"
+      ],
+      "confidence": "high"
+    }
+  },
+  "id": 11
+}

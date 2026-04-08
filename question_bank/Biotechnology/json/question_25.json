@@ -1,0 +1,71 @@
+{
+  "subject": "Science",
+  "year": 2013,
+  "theme": "Recombinant DNA technology and cross-species gene transfer capabilities",
+  "question_short_text": "Can recombinant DNA transfer genes across plant species, animal-to-plant, and microorganism-to-higher organisms?",
+  "text": "Recombinant DNA technology (genetic engineering) allows genes to be transferred:\n\n1. Across different species of plants\n2. From animals to plants\n3. From microorganisms to higher organisms\n\nSelect the correct answer using the codes given below.",
+  "options": [
+    "1 only",
+    "2 and 3 only",
+    "1 and 3 only",
+    "1, 2 and 3"
+  ],
+  "answerIndex": 3,
+  "answerText": "(d) 1, 2 and 3",
+  "explanation": "All three gene transfer scenarios are possible with recombinant DNA technology. The universality of the genetic code allows genes from any organism\u2014plants, animals, or microorganisms\u2014to be transferred to any other organism, regardless of evolutionary distance.",
+  "research": {
+    "summary": "Recombinant DNA technology overcomes the natural biological barriers that prevent cross-species breeding by using molecular scissors (restriction enzymes) to cut specific genes and paste them into host organisms using vectors. The key insight is that because all living organisms share the same fundamental DNA chemistry and genetic code, genes from vastly different organisms can function in new hosts when properly engineered. Statement 1 (across different plant species) is correct\u2014interspecific crosses between plants can be enhanced or replaced by direct gene splicing, as demonstrated in genetically modified crops. Statement 2 (animals to plants) is correct\u2014while extremely rare in nature, recombinant DNA makes this possible; for example, a bacterial gene for antibiotic resistance can be inserted into plant DNA. Statement 3 (microorganisms to higher organisms) is frequently used in practice\u2014Bt cotton represents a landmark example where the Cry toxin gene from Bacillus thuringiensis bacteria is inserted into cotton plants for pest resistance. The technology's power lies in escaping phylogenetic distance; genetic engineering is unbounded by evolutionary relatedness. A common student misconception is thinking gene transfer only works within closely related species, but UPSC is testing the broader truth: the universality of the genetic code enables transfer from any source to any host.",
+    "facts": [
+      "Bt cotton, a commercially successful GM crop, uses genes from the bacterium Bacillus thuringiensis to confer pest resistance, exemplifying microorganism-to-plant transfer.",
+      "Recombinant human insulin was among the first commercial products, produced by splicing human genes into E. coli bacteria for pharmaceutical manufacturing, showing animal-to-microorganism transfer in reverse."
+    ],
+    "sources": [
+      {
+        "title": "Recombinant DNA and Genetic Engineering \u2013 HudsonAlpha Institute for Biotechnology",
+        "url": "https://www.hudsonalpha.org/recombinant-dna-and-genetic-engineering/",
+        "whyUsed": "Verified that recombinant DNA allows transfer from different organisms and across species barriers"
+      },
+      {
+        "title": "Genes can be moved between species :: DNA from the Beginning",
+        "url": "https://www.dnaftb.org/34/",
+        "whyUsed": "Confirmed universality of genetic code enables cross-species gene transfer and provided human insulin example"
+      },
+      {
+        "title": "Recombinant DNA - Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Recombinant_DNA",
+        "whyUsed": "Established that DNA sequences from any species can be joined together, and all organisms share the same DNA chemistry"
+      },
+      {
+        "title": "IAS 2013 Q30: Recombinant DNA technology - ExamRobot",
+        "url": "https://examrobot.com/ias/2013/science-technology/recombinant-dna-technology-genetic-engineering-allows-genes-transferred-across-different-species",
+        "whyUsed": "Confirmed Bt cotton as example of microorganism-to-higher organism gene transfer and verified answer"
+      }
+    ],
+    "searchMeta": {
+      "usedWebSearch": true,
+      "searchQueries": [
+        "recombinant DNA technology gene transfer across species examples"
+      ],
+      "confidence": "high"
+    }
+  },
+  "id": 25,
+  "usage": {
+    "cache_creation": {
+      "ephemeral_1h_input_tokens": 0,
+      "ephemeral_5m_input_tokens": 0
+    },
+    "cache_creation_input_tokens": 12875,
+    "cache_read_input_tokens": 10060,
+    "inference_geo": "not_available",
+    "input_tokens": 564,
+    "iterations": null,
+    "output_tokens": 1001,
+    "server_tool_use": {
+      "web_fetch_requests": 0,
+      "web_search_requests": 1
+    },
+    "service_tier": "batch",
+    "speed": null
+  }
+}

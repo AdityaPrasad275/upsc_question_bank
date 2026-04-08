@@ -1,0 +1,48 @@
+{
+  "subject": "Science",
+  "year": 2021,
+  "theme": "Properties of water and solvent behavior: dipolar nature and universal solvent role",
+  "question_short_text": "Why water dissolves more substances than any other liquid",
+  "text": "Water can dissolve more substances than any other liquid because:",
+  "options": [
+    "It is dipolar in nature",
+    "It is a good conductor of heat",
+    "It has high value of specific heat",
+    "It is an oxide of hydrogen"
+  ],
+  "answerIndex": 0,
+  "answerText": "(a) It is dipolar in nature",
+  "explanation": "Water's exceptional solvency stems from its dipolar molecular structure. The asymmetric O-H bonds create a partial negative charge (\u03b4-) on oxygen and partial positive charges (\u03b4+) on hydrogen atoms. This polarity allows water molecules to interact electrostatically with both polar and ionic compounds, effectively surrounding and dissolving them through a process called hydration.",
+  "research": {
+    "summary": "This question tests a common misconception about water's properties. While water does have high specific heat and is indeed an oxide of hydrogen, neither explains its superior dissolving power. The actual mechanism is dipolar nature: oxygen's electronegativity (3.5) pulls electron density toward itself, creating a permanent electric dipole. When ionic compounds like NaCl contact water, the positive hydrogen ends attract Cl\u207b ions while the oxygen's negative end attracts Na\u207a ions, disrupting the ionic bonds and dissolving the salt. Similarly, polar molecules like sugars are attracted to either end of the water dipole. This polarity is complemented by water's ability to form hydrogen bonds with solutes, creating a double mechanism for dissolution. The 'like dissolves like' principle directly applies: water's polarity makes it the ideal solvent for polar solutes and ionic compounds. Other liquids\u2014even excellent heat conductors like mercury\u2014lack this combination of polarity and hydrogen-bonding capacity, which is why water uniquely earns the title 'universal solvent.' Specific heat (though high) relates to thermal energy, not dissolution capacity; being an oxide is merely a compositional description unrelated to solvency.",
+    "facts": [
+      "Water's dielectric constant is exceptionally high (~88), meaning it effectively reduces electrostatic forces between dissolved ions, making ionic dissociation energetically favorable.",
+      "The principle 'like dissolves like' means polar solvents dissolve polar and ionic compounds best, while non-polar solvents dissolve non-polar compounds; water's strong polarity makes it superior for most common substances."
+    ],
+    "sources": [
+      {
+        "title": "Water Properties, Polarity and Role as a Universal Solvent",
+        "url": "https://www.sigmaaldrich.com/US/en/technical-documents/technical-article/water-purification/understanding-lab-water/water-properties-polarity-role-as-solvent",
+        "whyUsed": "Verified that water's dipolar nature and high dielectric constant directly enable its superior dissolving power for both ionic and polar compounds."
+      },
+      {
+        "title": "Solvent - Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Solvent",
+        "whyUsed": "Confirmed the scientific basis: polarity and hydrogen bonding determine solvency, and water's dielectric constant of 88 at 0\u00b0C is exceptionally high compared to nonpolar solvents (<15)."
+      },
+      {
+        "title": "UPSC Prelims 2021 | Water as a Universal Solvent",
+        "url": "https://www.dalvoy.com/upsc/previous-years/2021/water-universal-solvent-dipolar-nature-upsc-prelims-2021",
+        "whyUsed": "Directly addressed this exact UPSC question, confirming dipolar nature as the correct mechanism and clarifying why other options (specific heat, heat conductivity, being an oxide) are not relevant to dissolution."
+      }
+    ],
+    "searchMeta": {
+      "usedWebSearch": true,
+      "searchQueries": [
+        "water universal solvent dipolar nature solubility science"
+      ],
+      "confidence": "high"
+    }
+  },
+  "id": 5
+}

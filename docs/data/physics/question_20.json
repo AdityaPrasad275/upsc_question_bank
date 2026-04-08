@@ -1,0 +1,53 @@
+{
+  "subject": "Science",
+  "year": 2011,
+  "theme": "Density anomaly of water and thermal stratification in lakes",
+  "question_short_text": "Why lake surface freezes while bottom water remains liquid in winter",
+  "text": "The surface of a lake is frozen in severe winter, but the water at its bottom is still liquid. What is the reason?",
+  "options": [
+    "Ice is a bad conductor of heat.",
+    "Since the surface of the lake is at the same temperature as the air, no heat is lost.",
+    "The density of water is maximum at 4\u00b0C.",
+    "None of the statements (a), (b) and (c) given is correct."
+  ],
+  "answerIndex": 2,
+  "answerText": "(c) The density of water is maximum at 4\u00b0C.",
+  "explanation": "Water exhibits unusual density behaviour: it reaches maximum density at 4\u00b0C, then expands as it cools further below 4\u00b0C. This causes less-dense (colder) water to stay at the surface and freeze into ice, while denser, warmer water at 4\u00b0C sinks to the bottom and remains liquid, insulated by the ice layer above.",
+  "research": {
+    "summary": "This question tests a critical phenomenon that makes aquatic life possible: water's density anomaly. Unlike almost all substances, water does not become progressively denser as it cools. Instead, it reaches maximum density at approximately 4\u00b0C, then expands as temperature drops further toward 0\u00b0C. This counterintuitive behaviour is caused by hydrogen bonding: as water cools below 4\u00b0C, hydrogen bonds become dominant and organize molecules into a more structured, open formation that requires more space. In a frozen lake, this creates a density-driven stratification. The densest water (at 4\u00b0C) sinks to the bottom while colder, less-dense water (below 4\u00b0C) floats upward. When surface water reaches 0\u00b0C, it freezes into ice that is about 9% less dense than liquid water, so it remains on the surface. This ice layer acts as a thermal insulator, preventing heat loss from the liquid water below, allowing aquatic organisms to survive winter in the liquid water beneath. Option (a) is tempting because ice does conduct heat poorly, but this is a consequence, not the cause. Option (b) ignores the actual heat gradient and temperature differences between air and water. The mechanism that creates the frozen surface is the density anomaly itself: without it, colder, denser water would sink and warmer water would rise continuously, preventing surface freezing. The convection would eventually freeze the entire water column from bottom to top, making survival for aquatic life impossible.",
+    "facts": [
+      "When water freezes at 0\u00b0C, its volume increases by approximately 9%, which is why ice floats and is less dense than the liquid from which it formed.",
+      "The stratification in lakes during winter creates a thermally stable system: the layer of ice insulates the liquid water below, so heat loss occurs mainly at the ice-water interface rather than through the entire water column."
+    ],
+    "sources": [
+      {
+        "title": "Ice Floats: The Surprising Science Behind Water's Density Anomaly",
+        "url": "https://scientificmagz.blog/ice-floats-science-water-density",
+        "whyUsed": "Explained the molecular mechanism of water's density anomaly, hydrogen bonding, and its role in lake stratification during winter."
+      },
+      {
+        "title": "Water Densest at 4\u00b0C: Why This Anomaly Matters",
+        "url": "https://apscience.blog/water-densest-4c-anomaly",
+        "whyUsed": "Clarified the equilibrium between hydrogen bond formation and thermal expansion at 4\u00b0C, and how this creates the conditions for ice to float."
+      },
+      {
+        "title": "Density anomaly of water (negative thermal expansion)",
+        "url": "https://www.tec-science.com/thermodynamics/temperature/negative-thermal-expansion-anomaly-density-water/",
+        "whyUsed": "Detailed the formation of hydrogen-bonded clusters below 4\u00b0C and their role in preventing complete freezing of lakes, ensuring aquatic survival."
+      },
+      {
+        "title": "Thermodynamic mechanism of the density anomaly of liquid water",
+        "url": "https://www.frontiersin.org/journals/physics/articles/10.3389/fphy.2015.00008/full",
+        "whyUsed": "Provided peer-reviewed scientific analysis of the competing forces underlying water's maximum density at 4\u00b0C."
+      }
+    ],
+    "searchMeta": {
+      "usedWebSearch": true,
+      "searchQueries": [
+        "water density maximum 4 celsius anomaly ice formation"
+      ],
+      "confidence": "high"
+    }
+  },
+  "id": 20
+}

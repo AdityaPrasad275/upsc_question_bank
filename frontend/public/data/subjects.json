@@ -5,6 +5,11 @@
     "count": 73
   },
   {
+    "id": "Biotechnology",
+    "name": "Biotechnology",
+    "count": 38
+  },
+  {
     "id": "Electronics and IT",
     "name": "Electronics and IT",
     "count": 40
@@ -15,8 +20,28 @@
     "count": 44
   },
   {
+    "id": "biology",
+    "name": "biology",
+    "count": 20
+  },
+  {
+    "id": "chemistry",
+    "name": "chemistry",
+    "count": 12
+  },
+  {
+    "id": "diseases",
+    "name": "diseases",
+    "count": 23
+  },
+  {
     "id": "govn budgeting",
     "name": "govn budgeting",
     "count": 41
+  },
+  {
+    "id": "physics",
+    "name": "physics",
+    "count": 20
   }
 ]

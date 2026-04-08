@@ -1,0 +1,67 @@
+{
+  "subject": "Science",
+  "year": 2014,
+  "theme": "Animal classification within Arthropoda: distinguishing between Arachnida and Crustacea",
+  "question_short_text": "Odd one out among crab, mite, scorpion, and spider",
+  "text": "Among the following organisms, which one does not belong to the class of the other three?\n\nA) Crab\nB) Mite\nC) Scorpion\nD) Spider",
+  "options": [
+    "Crab",
+    "Mite",
+    "Scorpion",
+    "Spider"
+  ],
+  "answerIndex": 0,
+  "answerText": "(a) Crab",
+  "explanation": "Crab belongs to Class Crustacea, while mite, scorpion, and spider all belong to Class Arachnida. Both classes are within phylum Arthropoda but are distinct groups.",
+  "research": {
+    "summary": "The question tests classification at the class level within Arthropoda. Three of the four organisms\u2014mite, scorpion, and spider\u2014belong to the class Arachnida, while the crab belongs to class Crustacea. This distinction rests on multiple fundamental morphological differences that define membership in each class. Arachnids possess eight walking legs, lack antennae (with no true antennae on the body), and have a body divided into two main regions: the cephalothorax (fused head and thorax) and the abdomen. This group includes spiders, scorpions, mites, ticks, and related predatory forms. Crustaceans, by contrast, are characterized by two pairs of antennae (antennules and antennae), mandibles, and typically ten legs (as in crabs, which are decapods), along with gills for respiration rather than the book lungs or tracheal tubes found in arachnids. While both are arthropods with segmented bodies and exoskeletons, the number of antennae and legs, the structure of mouthparts, and respiratory adaptations serve as defining class-level features. The trap in this question lies in assuming \"legs\" or \"arthropod-like appearance\" as the organizing principle; students who focus narrowly on \"has legs\" might incorrectly group the crab with the others. The correct approach is to recognize class membership based on antenna presence, leg count, and body segmentation patterns.",
+    "facts": [
+      "Arachnids lack antennae and possess a simple three-part mouthpart system (chelicerae, pedipalps, and no mandibles), distinguishing them fundamentally from all other arthropods.",
+      "Crustaceans are the dominant aquatic arthropods, with over 45,000\u201367,000 named species, while Arachnida comprises around 100,000+ species, mostly terrestrial."
+    ],
+    "sources": [
+      {
+        "title": "Arachnida - Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Arachnid",
+        "whyUsed": "Confirmed defining characteristics of arachnids: eight legs, lack of antennae, cephalothorax structure, and class membership for spiders, scorpions, and mites."
+      },
+      {
+        "title": "Crustacean - Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Crustacean",
+        "whyUsed": "Verified crustacean characteristics including two pairs of antennae, mandibles, and decapod structure (ten legs in crabs)."
+      },
+      {
+        "title": "Crustaceans | Anatomy and Physiology | EBSCO Research",
+        "url": "https://www.ebsco.com/research-starters/anatomy-and-physiology/crustaceans",
+        "whyUsed": "Confirmed that all crustaceans have two pairs of antennae and mandibles, distinguishing them from arachnids."
+      }
+    ],
+    "searchMeta": {
+      "usedWebSearch": true,
+      "searchQueries": [
+        "Arachnida class characteristics eight legs",
+        "Crustacea class crabs legs antennae"
+      ],
+      "confidence": "high"
+    }
+  },
+  "id": 14,
+  "usage": {
+    "cache_creation": {
+      "ephemeral_1h_input_tokens": 0,
+      "ephemeral_5m_input_tokens": 0
+    },
+    "cache_creation_input_tokens": 24855,
+    "cache_read_input_tokens": 10060,
+    "inference_geo": "not_available",
+    "input_tokens": 625,
+    "iterations": null,
+    "output_tokens": 1051,
+    "server_tool_use": {
+      "web_fetch_requests": 0,
+      "web_search_requests": 2
+    },
+    "service_tier": "batch",
+    "speed": null
+  }
+}

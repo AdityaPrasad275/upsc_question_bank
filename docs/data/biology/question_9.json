@@ -1,0 +1,66 @@
+{
+  "subject": "Science",
+  "year": 2020,
+  "theme": "Plant and animal cell structural differences - statement evaluation",
+  "question_short_text": "Identify correct statements about plant vs animal cell differences",
+  "text": "Which of the following statements are correct regarding the general difference between plant and animal cells?\n\n1. Plant cells have cellulose cell walls whilst animal cells do not.\n2. Plant cells do not have plasma membranes unlike animal cells which do.\n3. Mature plant cell has one large vacuole whilst an animal cell has many small vacuoles.\n\nSelect the correct answer using the code given below:",
+  "options": [
+    "1 and 2 only",
+    "2 and 3 only",
+    "1 and 3 only",
+    "1, 2 and 3"
+  ],
+  "answerIndex": 2,
+  "answerText": "(c) 1 and 3 only",
+  "explanation": "Statement 1 is correct: plant cells have cellulose cell walls for protection and structural support, while animal cells lack cell walls. Statement 2 is false: both plant and animal cells possess plasma membranes\u2014this is a fundamental feature of all eukaryotic cells. Statement 3 is correct: mature plant cells contain one large central vacuole that maintains turgor pressure, while animal cells have multiple small vacuoles.",
+  "research": {
+    "summary": "The trap in this question lies in confusing structural differences with membrane composition. Statement 2 deliberately tests whether students understand that the plasma membrane is a universal feature of all eukaryotic cells. The presence or absence of the cell wall is the key structural difference\u2014the wall is exterior to the membrane, not a replacement for it. Both plant and animal cells must have plasma membranes to regulate what enters and exits the cell; the cell wall is simply an additional protective layer unique to plants. The vacuole difference is functional and quantitative: plant cells invest heavily in one large central vacuole (occupying up to 90% of cell volume in mature cells) that maintains turgor pressure and cell rigidity, while animal cells contain smaller, temporary vacuoles primarily for waste removal and storage. This reflects different evolutionary needs\u2014plants rely on vacuolar turgor for structural support since they lack a skeleton, whereas animals developed specialized tissues and organs instead.",
+    "facts": [
+      "The plant cell wall, composed of cellulose, surrounds the plasma membrane and is absent in animal cells, but this does not mean plant cells lack a plasma membrane.",
+      "Animal cells have lysosomes and centrosomes, whereas plant cells do not; conversely, plant cells have chloroplasts and large central vacuoles, which animal cells lack."
+    ],
+    "sources": [
+      {
+        "title": "Britannica - Plant Cell",
+        "url": "https://www.britannica.com/science/plant-cell",
+        "whyUsed": "Verified structure of plant cell walls as cellulose-based and confirmed that mature plant cells have one large central vacuole occupying up to 90% of cell volume."
+      },
+      {
+        "title": "Biology LibreTexts - Comparing Plant and Animal Cells",
+        "url": "https://bio.libretexts.org/Bookshelves/Microbiology/Microbiology_(Boundless)/04:_Cell_Structure_of_Bacteria_Archaea_and_Eukaryotes/4.07:_Internal_Structures_of_Eukaryotic_Cells/4.7C:_Comparing_Plant_and_Animal_Cells",
+        "whyUsed": "Confirmed that plant cells have plasma membranes and that both cell types are eukaryotic with fundamental shared features including plasma membranes."
+      },
+      {
+        "title": "Study.com - Plant Cell Structures",
+        "url": "https://study.com/academy/lesson/plant-cell-structures-the-cell-wall-and-central-vacuole.html",
+        "whyUsed": "Verified that all plant cells have plasma membranes and that the cell wall is an additional structure external to the plasma membrane, not a replacement."
+      }
+    ],
+    "searchMeta": {
+      "usedWebSearch": true,
+      "searchQueries": [
+        "plant cell animal cell differences cellulose wall vacuoles plasma membrane"
+      ],
+      "confidence": "high"
+    }
+  },
+  "id": 9,
+  "usage": {
+    "cache_creation": {
+      "ephemeral_1h_input_tokens": 0,
+      "ephemeral_5m_input_tokens": 5030
+    },
+    "cache_creation_input_tokens": 19617,
+    "cache_read_input_tokens": 5030,
+    "inference_geo": "not_available",
+    "input_tokens": 676,
+    "iterations": null,
+    "output_tokens": 983,
+    "server_tool_use": {
+      "web_fetch_requests": 0,
+      "web_search_requests": 1
+    },
+    "service_tier": "batch",
+    "speed": null
+  }
+}

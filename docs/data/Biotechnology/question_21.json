@@ -1,0 +1,67 @@
+{
+  "subject": "Science",
+  "year": 2016,
+  "theme": "Definition and scope of transcriptome in bioinformatics and molecular biology",
+  "question_short_text": "Meaning of 'transcriptome' in bioinformatics",
+  "text": "In the context of the developments in Bioinformatics, the term 'transcriptome', sometimes seen in the news, refers to:",
+  "options": [
+    "A range of enzymes used in genome editing",
+    "The full range of mRNA molecules expressed by an organism",
+    "The description of the mechanism of gene expression",
+    "A mechanism of genetic mutations taking place in cells"
+  ],
+  "answerIndex": 1,
+  "answerText": "(b) The full range of mRNA molecules expressed by an organism",
+  "explanation": "The transcriptome refers to the complete set of RNA transcripts, particularly mRNA molecules, produced by an organism at any given time. It reflects the genes actively being expressed under specific conditions.",
+  "research": {
+    "summary": "The term 'transcriptome' (portmanteau of 'transcript' and 'genome') specifically refers to all RNA molecules transcribed from the genome at a particular moment. While the question emphasizes mRNA, the full transcriptome technically includes multiple types of RNA\u2014mRNA (coding), ribosomal RNA (rRNA), transfer RNA (tRNA), and non-coding RNAs\u2014that are transcribed from DNA. The key distinction is that unlike the static genome (which remains relatively fixed), the transcriptome is dynamic and changes based on cell type, developmental stage, and environmental conditions. This makes the transcriptome a functional snapshot of gene expression, not a static catalog. The trap in this question is distinguishing the transcriptome from related concepts: it is neither a description of the gene expression mechanism (option c) nor a mechanism of mutation (option d), and it is not an enzyme or tool used in genome editing (option a). Transcriptome analysis\u2014using techniques like microarrays and RNA-Seq\u2014has become central to understanding disease, cellular differentiation, and gene regulation because it reveals which genes are actually active in specific cells or tissues.",
+    "facts": [
+      "The transcriptome represents less than 5% of the human genome that is transcribed into RNA, despite ~80% of the genome being transcribed when including non-coding RNAs.",
+      "Transcriptome analysis through RNA-Seq has become the dominant technique since 2015, overtaking microarrays due to superior dynamic range (5 orders of magnitude) and ability to detect novel transcripts and splice variants."
+    ],
+    "sources": [
+      {
+        "title": "Transcriptome - Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Transcriptome",
+        "whyUsed": "Comprehensive definition of transcriptome as the set of all RNA molecules, clarifying its dynamic nature versus the static genome."
+      },
+      {
+        "title": "Transcriptomics technologies - PMC/NCBI",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5436640/",
+        "whyUsed": "Detailed explanation of transcriptomics techniques (microarrays and RNA-Seq) and how transcriptomes capture snapshots of gene expression."
+      },
+      {
+        "title": "Transcriptome Fact Sheet - National Human Genome Research Institute",
+        "url": "https://www.genome.gov/about-genomics/fact-sheets/Transcriptome-Fact-Sheet",
+        "whyUsed": "Official reference on transcriptome definition, its role in gene expression analysis, and applications in understanding cellular function and disease."
+      }
+    ],
+    "searchMeta": {
+      "usedWebSearch": true,
+      "searchQueries": [
+        "transcriptome definition mRNA molecules bioinformatics",
+        "transcriptome genome transcriptomics biology"
+      ],
+      "confidence": "high"
+    }
+  },
+  "id": 21,
+  "usage": {
+    "cache_creation": {
+      "ephemeral_1h_input_tokens": 0,
+      "ephemeral_5m_input_tokens": 0
+    },
+    "cache_creation_input_tokens": 28670,
+    "cache_read_input_tokens": 10060,
+    "inference_geo": "not_available",
+    "input_tokens": 565,
+    "iterations": null,
+    "output_tokens": 921,
+    "server_tool_use": {
+      "web_fetch_requests": 0,
+      "web_search_requests": 2
+    },
+    "service_tier": "batch",
+    "speed": null
+  }
+}

@@ -1,0 +1,72 @@
+{
+  "subject": "Science",
+  "year": 1996,
+  "theme": "HIV/AIDS transmission routes and biological mechanisms",
+  "question_short_text": "Identify the correct modes of HIV transmission from a 4-statement set",
+  "text": "Consider the following statements: AIDS is transmitted:\n\nI. By sexual intercourse.\nII. By blood transfusion.\nIII. By mosquitoes and other blood sucking insects.\nIV. Across the placenta.\n\nOf these statements",
+  "options": [
+    "I, II and III are correct",
+    "I, II and IV are correct",
+    "I, III and IV are correct",
+    "I and III are correct"
+  ],
+  "answerIndex": 1,
+  "answerText": "(b) I, II and IV are correct",
+  "explanation": "HIV is transmitted through sexual contact, contaminated blood transfusions, and mother-to-child transmission across the placenta. Mosquitoes and other blood-sucking insects cannot transmit HIV because the virus cannot replicate in insect cells and does not survive digestion in the mosquito's gut.",
+  "research": {
+    "summary": "This question tests the ability to distinguish genuine HIV transmission routes from common misconceptions. The critical insight is understanding why mosquitoes\u2014despite being vectors for many diseases like malaria and dengue\u2014cannot transmit HIV. Unlike those vector-borne pathogens, HIV requires specific cellular machinery to replicate. Mosquitoes lack the CD4 T-cells that HIV targets, and when a mosquito ingests HIV-infected blood, the virus is destroyed during the insect's digestive process within 1\u20132 days rather than replicating and migrating to the salivary glands as occurs with other viruses. Even mechanical transmission (virus on the mosquito's mouthparts) is implausible because HIV circulates at very low levels in human blood\u2014it would require approximately 10 million mosquito bites to transmit a single infectious unit. This misconception has been persistent in public health surveys, making it a high-value trap for aspirants. The three correct routes\u2014sexual intercourse, blood transfusion, and mother-to-child transmission (perinatal or vertical transmission)\u2014all involve direct contact with infected blood, semen, vaginal fluids, or breast milk. Mother-to-child transmission occurs during pregnancy (in utero), labor/delivery, or breastfeeding, and modern antiretroviral therapy has reduced this transmission risk to less than 1\u20132% when the mother maintains an undetectable viral load.",
+    "facts": [
+      "Perinatal transmission of HIV can occur in all three phases: intrauterine (8%), labor/delivery (15%), and breastfeeding (12\u201326%) without treatment; modern ART reduces overall risk to less than 1\u20132%.",
+      "HIV requires direct contact with specific body fluids (blood, semen, vaginal secretions, breast milk) and cannot be transmitted through saliva, sweat, tears, or respiratory droplets."
+    ],
+    "sources": [
+      {
+        "title": "Can mosquitoes transmit AIDS? - PubMed",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/9795564/",
+        "whyUsed": "Peer-reviewed evidence establishing that HIV disappears in the mosquito within 1\u20132 days and does not replicate in insect cells, refuting insect transmission."
+      },
+      {
+        "title": "PubMed Central: Why is HIV not vector-borne?",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC3352396/",
+        "whyUsed": "Scholarly analysis of biological and mechanical transmission barriers explaining why HIV, unlike dengue or malaria, cannot evolve to use insect vectors."
+      },
+      {
+        "title": "Mother-to-child transmission of HIV - WHO",
+        "url": "https://www.who.int/teams/global-hiv-hepatitis-and-stis-programmes/hiv/prevention/mother-to-child-transmission-of-hiv",
+        "whyUsed": "Official WHO guidance on perinatal transmission mechanisms and modern prevention through ART."
+      },
+      {
+        "title": "How is HIV transmitted - HIV.gov",
+        "url": "https://www.hiv.gov/hiv-basics/overview/about-hiv-and-aids/how-is-hiv-transmitted",
+        "whyUsed": "Authoritative U.S. government public health source confirming that HIV is NOT transmitted by insects and clarifying actual transmission routes."
+      }
+    ],
+    "searchMeta": {
+      "usedWebSearch": true,
+      "searchQueries": [
+        "HIV AIDS transmission modes mosquitoes insects",
+        "mother to child HIV transmission perinatal vertical"
+      ],
+      "confidence": "high"
+    }
+  },
+  "id": 20,
+  "usage": {
+    "cache_creation": {
+      "ephemeral_1h_input_tokens": 0,
+      "ephemeral_5m_input_tokens": 0
+    },
+    "cache_creation_input_tokens": 25017,
+    "cache_read_input_tokens": 10060,
+    "inference_geo": "not_available",
+    "input_tokens": 708,
+    "iterations": null,
+    "output_tokens": 1127,
+    "server_tool_use": {
+      "web_fetch_requests": 0,
+      "web_search_requests": 2
+    },
+    "service_tier": "batch",
+    "speed": null
+  }
+}

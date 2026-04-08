@@ -1,0 +1,61 @@
+{
+  "subject": "Science",
+  "year": 2012,
+  "theme": "nuclear fuel comparison: thorium advantages over uranium",
+  "question_short_text": "Advantages of thorium as nuclear fuel compared to uranium",
+  "text": "To meet its rapidly growing energy demand, some opine that India should pursue research and development on Thorium as the future fuel of nuclear energy.\n\nIn this context, what advantage does Thorium hold over uranium?\n\n1. Thorium is far more abundant in nature than uranium.\n2. On the basis of per unit mass of mined mineral, thorium can generate more energy compared to natural uranium.\n3. Thorium produces less harmful waste in comparison to uranium.\n\nWhich of the statements given above is/are Correct?",
+  "options": [
+    "1 Only",
+    "2 & 3 Only",
+    "1 & 3 Only",
+    "1, 2 & 3"
+  ],
+  "answerIndex": 3,
+  "answerText": "(d) 1, 2 & 3",
+  "explanation": "All three statements are correct. Thorium is three times more abundant than uranium in Earth's crust (0.0006% vs 0.00018%), generates far more energy per unit mass in specialized reactors (one ton of thorium can produce as much energy as 35 tons of uranium), and produces significantly less long-lived radioactive waste compared to uranium-based fuel cycles.",
+  "research": {
+    "summary": "The question tests understanding of thorium's advantages as an alternative nuclear fuel in the context of India's energy strategy. Statement 1 is empirically correct: thorium is 3 times more abundant than uranium, with 10.5 ppm in Earth's crust versus 3 ppm for uranium. Importantly, thorium is insoluble in water, so unlike uranium (which exists in substantial dissolved form in seawater), thorium remains concentrated in terrestrial deposits. Statement 2 requires careful distinction: when comparing conventional uranium reactors (which utilize less than 1% of natural uranium due to the rarity of fissile U-235), thorium in specialized breeding reactors or liquid fluoride thorium reactors (LFTRs) can convert nearly its entire mass into usable fuel through the Th-232 \u2192 U-233 cycle. Estimates range from 35 to 200 tons of uranium equivalent per ton of thorium, depending on reactor design and fuel reprocessing efficiency. Statement 3 is also correct: the thorium-uranium fuel cycle avoids producing transuranic actinides (plutonium, americium, curium), which are the primary concern in long-term waste toxicity. Thorium waste becomes safe in hundreds of years rather than tens of thousands of years required for uranium waste. The key misconception UPSC tests here is confusing 'abundance in crustal concentration' with 'economically extractable reserves'\u2014while thorium is more abundant, current economically viable reserves are comparable to uranium. However, the question specifically asks about advantages thorium holds, and all three are scientifically defensible. India has significant monazite deposits (containing up to 2.5% thorium) along its coasts, making thorium research strategically important for long-term energy independence. The Advanced Heavy Water Reactor (AHWR) under development in India is designed to demonstrate this fuel cycle.",
+    "facts": [
+      "India possesses approximately 25% of world's thorium reserves, found primarily in coastal monazite deposits along the south and east coasts",
+      "In the Th-U cycle, U-233 acts as a 'nuclear catalyst'\u2014one U-233 atom can convert many thorium nuclei into fissile material with frugal neutron management",
+      "Uranium-233 produced from thorium irradiation contains U-232 impurities that emit intense gamma rays, making irradiated fuel difficult and expensive to handle\u2014a significant practical drawback not mentioned in the options"
+    ],
+    "sources": [
+      {
+        "title": "Thorium's Long-Term Potential in Nuclear Energy | International Atomic Energy Agency",
+        "url": "https://www.iaea.org/bulletin/thoriums-long-term-potential-in-nuclear-energy",
+        "whyUsed": "Official IAEA source confirming crustal abundance (10.5 ppm Th vs 3 ppm U) and waste reduction advantages"
+      },
+      {
+        "title": "What is Thorium? | whatisnuclear.com",
+        "url": "https://whatisnuclear.com/thorium.html",
+        "whyUsed": "Verified technical comparison of thorium vs uranium concentrations (0.0006% vs 0.00018%) and transuranic waste production differences in Th-U cycles"
+      },
+      {
+        "title": "Thorium Energy Viability | Stanford University",
+        "url": "http://large.stanford.edu/courses/2015/ph240/ting1/",
+        "whyUsed": "Academic source confirming one ton of thorium produces energy equivalent to 35 tons of uranium in LFTR reactors and verifying crustal abundance ratios"
+      },
+      {
+        "title": "Thorium-based nuclear power | Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Thorium-based_nuclear_power",
+        "whyUsed": "Comprehensive technical reference on waste reduction claims and energy output comparisons from credible sources (Moir & Teller, Carlo Rubbia estimates)"
+      },
+      {
+        "title": "Abundant thorium as an alternative nuclear fuel | ScienceDirect",
+        "url": "https://www.sciencedirect.com/science/article/abs/pii/S0301421513003157",
+        "whyUsed": "Peer-reviewed research affirming thorium is 3 times more abundant and produces substantially less long-lived radioactive waste than uranium"
+      }
+    ],
+    "searchMeta": {
+      "usedWebSearch": true,
+      "searchQueries": [
+        "thorium uranium abundance Earth's crust percentage",
+        "thorium energy output per ton compared uranium",
+        "thorium nuclear waste less harmful than uranium"
+      ],
+      "confidence": "high"
+    }
+  },
+  "id": 16
+}

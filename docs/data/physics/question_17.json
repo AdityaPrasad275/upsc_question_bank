@@ -1,0 +1,59 @@
+{
+  "subject": "Science",
+  "year": 2011,
+  "theme": "Neutron moderation in nuclear reactors",
+  "question_short_text": "Function of heavy water in nuclear reactors",
+  "text": "The function of heavy water in a nuclear reactor is to?",
+  "options": [
+    "Slow down the speed of neutrons.",
+    "Increase the speed of neutrons.",
+    "Cool down the reactor.",
+    "Stop the nuclear reaction."
+  ],
+  "answerIndex": 0,
+  "answerText": "(a) Slow down the speed of neutrons.",
+  "explanation": "Heavy water (D2O) acts as a neutron moderator to slow down fast neutrons produced during fission, making them thermal neutrons more likely to cause further fission of uranium-235.",
+  "research": {
+    "summary": "Heavy water (deuterium oxide, D2O) serves primarily as a neutron moderator in reactors like pressurized heavy water reactors (PHWRs) and CANDU designs. When uranium nuclei undergo fission, they release fast neutrons traveling at ~14,000 km/s with energies of several MeV. These fast neutrons are actually poor at inducing further fission because the fission cross-section for uranium-235 is about 1000 barns for thermal neutrons but only 1 barn for fast neutrons\u2014a thousand-fold difference. Heavy water solves this by slowing neutrons through elastic collisions with deuterium nuclei; as neutrons collide repeatedly with the lighter deuterium nuclei, they lose kinetic energy until they reach thermal equilibrium (~2,200 m/s, energies around 0.025 eV), at which point they are far more likely to interact with fissile nuclei. The crucial advantage of heavy water over ordinary \"light water\" is its very low neutron absorption cross-section. Deuterium absorbs far fewer neutrons than protium (regular hydrogen), which means more neutrons remain available for fission. This superior neutron economy allows heavy water reactors to operate efficiently on natural, unenriched uranium, whereas light water reactors require enriched uranium to compensate for neutron losses to the moderator itself. India is the world's largest producer of heavy water and operates multiple reactors using this technology, making this a particularly India-relevant question for UPSC.",
+    "facts": [
+      "Heavy water allows natural uranium operation without enrichment, whereas light water reactors need 3\u20135% enriched uranium.",
+      "Thermal neutrons are ~1000 times more likely to cause fission in U-235 than fast neutrons; this massive difference is why moderation is essential in all thermal reactors."
+    ],
+    "sources": [
+      {
+        "title": "Pressurized heavy-water reactor - Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Pressurized_heavy-water_reactor",
+        "whyUsed": "Verified the dual role of heavy water as moderator and coolant in PHWRs, neutron economy advantages, and natural uranium operation."
+      },
+      {
+        "title": "Heavy water - Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Heavy_water",
+        "whyUsed": "Confirmed heavy water acts as neutron moderator to slow neutrons for fission chain reactions, and contrasted with light water's higher absorption."
+      },
+      {
+        "title": "Neutron moderator - Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Neutron_moderator",
+        "whyUsed": "Explained the definition and role of moderators, thermal vs. fast neutrons, and why heavy water is superior for natural uranium reactors."
+      },
+      {
+        "title": "Heavy Water Board, Government of India - FAQs",
+        "url": "https://hwb.gov.in/frequently-asked-questions-faqs",
+        "whyUsed": "Official Indian source confirming heavy water's role as moderator to slow neutrons and sustain chain reactions in PHWRs."
+      },
+      {
+        "title": "Physics of Uranium and Nuclear Energy - World Nuclear Association",
+        "url": "https://world-nuclear.org/information-library/nuclear-fuel-cycle/introduction/physics-of-nuclear-energy",
+        "whyUsed": "Clarified that graphite and heavy water are the only suitable moderators for natural uranium reactors due to low neutron absorption."
+      }
+    ],
+    "searchMeta": {
+      "usedWebSearch": true,
+      "searchQueries": [
+        "heavy water deuterium oxide nuclear reactor moderator PHWR",
+        "neutron moderation heavy water thermal neutrons fission"
+      ],
+      "confidence": "high"
+    }
+  },
+  "id": 17
+}

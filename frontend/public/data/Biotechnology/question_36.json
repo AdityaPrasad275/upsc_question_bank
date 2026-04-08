@@ -1,0 +1,67 @@
+{
+  "subject": "Science",
+  "year": 2004,
+  "theme": "History of scientific innovation and landmark achievements in computing and biotechnology",
+  "question_short_text": "Identifying correct statements about Adam Osborne's portable computer and Ian Wilmut's cloned sheep.",
+  "text": "Consider the following statements:\n\n1. Adam Osborne produced the first portable computer.\n2. Ian Wilmut created the first cloned sheep.\n\nWhich of the statements given above is/ are correct?",
+  "options": [
+    "1 only",
+    "2 only",
+    "Both 1 and 2",
+    "Neither 1 nor 2"
+  ],
+  "answerIndex": 2,
+  "answerText": "(c) Both 1 and 2",
+  "explanation": "Adam Osborne's Osborne 1, released in April 1981, is widely recognized as the first commercially successful portable computer. Ian Wilmut led the team at the Roslin Institute that created Dolly, the first mammal cloned from an adult cell, born on July 5, 1996.",
+  "research": {
+    "summary": "Both statements require careful qualification because they test the distinction between 'first' and 'first commercially successful' in computing history, and between 'creating' and 'leading the team' in biotechnology. For Statement 1: While earlier prototypes existed (IBM's 55-pound computer in 1975, Alan Kay's Dynabook, the GRiD Compass), the Osborne 1 was the first **truly practical** portable computer designed with genuine portability in mind. It weighed 24.5 pounds, cost $1,795 (about half the price of competitors), and came bundled with $1,500 worth of software\u2014the value proposition that made portability economically feasible for the mass market. This is why sources consistently credit Osborne with producing the first commercially successful portable computer, not merely the first prototype. For Statement 2: Ian Wilmut led the team at the Roslin Institute that produced Dolly in 1996 from a mammary cell of a six-year-old Finn Dorset ewe. The achievement was revolutionary because it proved that a fully differentiated adult cell could be reprogrammed to totipotency\u2014a capability thought impossible before. Wilmut's key insight was synchronizing the cell cycle of the donor nucleus with the recipient egg cytoplasm. Earlier lambs (Megan and Morag in 1995) were cloned from embryonic cells, making Dolly's adult-cell origin the true breakthrough. The announcement in February 1997 sparked global debate because it shattered the dogma that specialized cells had permanently lost their genetic versatility. Both statements are correct as commonly understood in scientific history, though the first requires recognizing that 'first' in technology often means 'first commercially practical' rather than 'first prototype ever.'",
+    "facts": [
+      "The Osborne 1 came with CP/M operating system and bundled software (WordStar, SuperCalc, BASIC)\u2014the first major all-in-one hardware-software bundle model that became the standard.",
+      "Dolly was cloned using somatic cell nuclear transfer (SCNT), a technique that created the foundation for subsequent therapeutic cloning research and regenerative medicine applications."
+    ],
+    "sources": [
+      {
+        "title": "Osborne 1 - Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Osborne_1",
+        "whyUsed": "Verified that the Osborne 1 was released April 3, 1981, developed by Adam Osborne, and is recognized as the first commercially successful portable computer."
+      },
+      {
+        "title": "Dolly (sheep) - Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Dolly_(sheep)",
+        "whyUsed": "Confirmed Dolly was born July 5, 1996, cloned by Ian Wilmut and colleagues from an adult mammary cell, and was the first mammal cloned from an adult somatic cell."
+      },
+      {
+        "title": "Ian Wilmut, embryologist who helped to produce Dolly the sheep (1944\u20132023) - Nature",
+        "url": "https://www.nature.com/articles/d41586-023-03408-5",
+        "whyUsed": "Provided context on Wilmut's methodology using cell cycle synchronization and his team's breakthrough with adult cell cloning."
+      }
+    ],
+    "searchMeta": {
+      "usedWebSearch": true,
+      "searchQueries": [
+        "Adam Osborne first portable computer Osborne 1 1981",
+        "Ian Wilmut Dolly sheep cloning 1996"
+      ],
+      "confidence": "high"
+    }
+  },
+  "id": 36,
+  "usage": {
+    "cache_creation": {
+      "ephemeral_1h_input_tokens": 0,
+      "ephemeral_5m_input_tokens": 0
+    },
+    "cache_creation_input_tokens": 24127,
+    "cache_read_input_tokens": 10060,
+    "inference_geo": "not_available",
+    "input_tokens": 508,
+    "iterations": null,
+    "output_tokens": 1133,
+    "server_tool_use": {
+      "web_fetch_requests": 0,
+      "web_search_requests": 2
+    },
+    "service_tier": "batch",
+    "speed": null
+  }
+}

@@ -1,0 +1,72 @@
+{
+  "subject": "Science",
+  "year": 2020,
+  "theme": "Pneumococcal disease prevention through vaccination: mechanism, disease burden, and drug resistance implications",
+  "question_short_text": "Which statements about Pneumococcal Conjugate Vaccines are correct?",
+  "text": "What is the importance of using Pneumococcal Conjugate Vaccines in India?\n\n1. These vaccines are effective against pneumonia as well as meningitis and sepsis.\n2. Dependence on antibiotics that are not effective against drug-resistant bacteria can be reduced.\n3. These vaccines have no side effects and cause no allergic reactions.\n\nSelect the correct answer using the code given below:",
+  "options": [
+    "1 only",
+    "1 and 2 only",
+    "3 only",
+    "1, 2 and 3"
+  ],
+  "answerIndex": 1,
+  "answerText": "(b) 1 and 2 only",
+  "explanation": "Pneumococcal Conjugate Vaccines (PCVs) are effective against invasive pneumococcal diseases including pneumonia, meningitis, and bacteremia. They also help reduce antibiotic resistance by preventing infection with drug-resistant strains. However, PCVs do have side effects; statement 3 is false.",
+  "research": {
+    "summary": "The question tests understanding of why PCVs matter in India's public health context, specifically distinguishing between legitimate disease prevention benefits and false claims about safety. Streptococcus pneumoniae causes pneumonia, bacterial meningitis, and bacteremia (bloodstream infections)\u2014statement 1 accurately captures the disease spectrum PCVs prevent. The second statement addresses a critical public health concern: pneumococcal bacteria are increasingly resistant to antibiotics; vaccination prevents infection in the first place, thereby reducing reliance on antibiotics for drug-resistant strains. This is an especially important consideration in India, where pneumococcal disease burden in children under five ranks among the highest globally. Statement 3 is factually incorrect and sets the trap. PCVs have measurable side effects, primarily mild and transient: injection site reactions (redness, swelling, tenderness) occur in roughly 1 in 4 children; fever in 24\u201335% of recipients; drowsiness, decreased appetite, and irritability in up to 80% of recipients. Though severe reactions are extremely rare, allergy\u2014including anaphylaxis\u2014is a documented risk, albeit uncommon. The National Technical Advisory Group on Immunization (NTAGI) recommended phased PCV introduction into India's Universal Immunization Program in 2015, based on evidence of disease burden, safety, and efficacy. By 2021, PCV had been rolled out nationwide, with India expecting to save an estimated 50,000 lives annually through vaccination.",
+    "facts": [
+      "Pneumococcal bacteria are Gram-positive and commonly colonize the upper respiratory tract asymptomatically but cause invasive pneumococcal disease (IPD) when they breach mucous membranes or in immunocompromised hosts.",
+      "Serotype 19A, not covered by older 10-valent vaccines, accounts for significant multidrug-resistant disease; PCV13 (covering 13 serotypes including 19A) is recommended in India for superior coverage compared to PCV10."
+    ],
+    "sources": [
+      {
+        "title": "Chronicling the Journey of Pneumococcal Conjugate Vaccine Introduction in India - PMC",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12031612/",
+        "whyUsed": "Official documentation of NTAGI recommendations, phased rollout timeline, and evidence-based introduction rationale in India's UIP."
+      },
+      {
+        "title": "Immunogenicity and safety of 20-valent pneumococcal conjugate vaccine in pneumococcal vaccine-naive adults \u226518 years of age in India: A phase 3 single-arm trial - PubMed",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41504209/",
+        "whyUsed": "Clinical trial data showing PCV safety profile in Indian adults: mild and transient adverse events, no serious AEs reported, confirming statement 3 is false."
+      },
+      {
+        "title": "Pneumococcal Vaccine Safety | Vaccine Safety | CDC",
+        "url": "https://www.cdc.gov/vaccine-safety/vaccines/pneumococcal.html",
+        "whyUsed": "International vaccine safety documentation confirming documented adverse events including fever, rash, local reactions, and rare allergic reactions, contradicting the claim of 'no side effects.'"
+      },
+      {
+        "title": "JSI Homepage || Pneumococcal Conjugate Vaccine",
+        "url": "https://jsisindia.in/our-projects/pneumococcal-conjugate-vaccine/",
+        "whyUsed": "Government of India initiative data confirming expected annual lives saved (50,000) through PCV introduction, documenting public health priority."
+      }
+    ],
+    "searchMeta": {
+      "usedWebSearch": true,
+      "searchQueries": [
+        "Pneumococcal Conjugate Vaccine PCV India importance efficacy",
+        "PCV pneumococcal vaccine side effects safety profile"
+      ],
+      "confidence": "high"
+    }
+  },
+  "id": 13,
+  "usage": {
+    "cache_creation": {
+      "ephemeral_1h_input_tokens": 0,
+      "ephemeral_5m_input_tokens": 5030
+    },
+    "cache_creation_input_tokens": 34011,
+    "cache_read_input_tokens": 5030,
+    "inference_geo": "not_available",
+    "input_tokens": 876,
+    "iterations": null,
+    "output_tokens": 1264,
+    "server_tool_use": {
+      "web_fetch_requests": 0,
+      "web_search_requests": 2
+    },
+    "service_tier": "batch",
+    "speed": null
+  }
+}

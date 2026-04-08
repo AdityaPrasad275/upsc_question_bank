@@ -1,0 +1,72 @@
+{
+  "subject": "Science",
+  "year": 2015,
+  "theme": "Virology and disease classification: H1N1 virus and swine flu as a zoonotic disease",
+  "question_short_text": "Which disease is H1N1 virus associated with?",
+  "text": "H1N1 virus is sometimes mentioned in the news with reference to which one of the following diseases?",
+  "options": [
+    "AIDS",
+    "Bird flu",
+    "Dengue",
+    "Swine flu"
+  ],
+  "answerIndex": 3,
+  "answerText": "(d) Swine flu",
+  "explanation": "H1N1 is a subtype of influenza A virus that causes swine flu. It is a zoonotic virus originating in pigs that can transmit to humans through contact with infected animals or environments, resulting in respiratory illness similar to seasonal flu.",
+  "research": {
+    "summary": "H1N1 is specifically the causative agent of swine flu, a respiratory disease caused by influenza A virus subtypes. While it is endemic in pig populations worldwide, transmission to humans occurs when the virus acquires the genetic changes necessary for human-to-human spread. The 2009 H1N1 pandemic was a watershed moment for understanding zoonotic influenza: it resulted from a reassortment event combining genetic segments from avian, swine, human, and Eurasian swine influenza viruses\u2014a quadruple reassortment never seen before. This genetic mixing allowed the virus to evade human immune defenses and spread globally. Between 123,000 and 203,000 deaths were estimated during the first 9 months of 2009, with 80% occurring in people younger than 65, an unusual age distribution that contrasted sharply with typical seasonal flu. The key trap in this question is confusing swine flu with bird flu (H5N1) or other diseases. Bird flu is caused by avian influenza viruses (notably H5N1), which rarely transmit to humans. Dengue is a mosquito-borne arboviral disease unrelated to influenza. AIDS is caused by HIV. H1N1's news coverage stems from both its pandemic potential and its ongoing circulation\u2014it has now become endemic in human populations and continues to cause seasonal outbreaks. Direct zoonotic transmission from pigs to humans remains rare (only 12 documented cases in the US since 2005), but person-to-person transmission of H1N1 is now the dominant transmission route.",
+    "facts": [
+      "The 2009 H1N1 pandemic virus was a quadruple reassortant containing genetic material from North American swine, Eurasian swine, avian, and human influenza lineages",
+      "Prior to 2009, human H1N1 viruses had evolved substantially from wild-type swine H1, creating a large antigenic gap; pigs essentially harbored a 'frozen' version of H1 that had circulated in humans in 1918\u20131930"
+    ],
+    "sources": [
+      {
+        "title": "Swine influenza - Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Swine_influenza",
+        "whyUsed": "Comprehensive overview of swine influenza virology, transmission routes, and zoonotic characteristics"
+      },
+      {
+        "title": "H1N1 Influenza - StatPearls - NCBI Bookshelf",
+        "url": "https://www.ncbi.nlm.nih.gov/books/NBK513241/",
+        "whyUsed": "Medical reference detailing H1N1 as influenza A subtype, transmission mechanisms, and antigenic shift processes"
+      },
+      {
+        "title": "Antigenic and Genetic Characteristics of Swine-Origin 2009 A(H1N1) Influenza Viruses Circulating in Humans | Science",
+        "url": "https://www.science.org/doi/10.1126/science.1176225",
+        "whyUsed": "Primary scientific source on the genetic composition and antigenic properties of the 2009 pandemic strain"
+      },
+      {
+        "title": "Global Mortality Estimates for the 2009 Influenza Pandemic from the GLaMOR Project",
+        "url": "https://journals.plos.org/plosmedicine/article?id=10.1371/journal.pmed.1001558",
+        "whyUsed": "Authoritative global mortality and epidemiological data on the 2009 H1N1 pandemic"
+      }
+    ],
+    "searchMeta": {
+      "usedWebSearch": true,
+      "searchQueries": [
+        "H1N1 virus swine flu origin transmission characteristics",
+        "2009 H1N1 pandemic global impact mortality"
+      ],
+      "confidence": "high"
+    }
+  },
+  "id": 4,
+  "usage": {
+    "cache_creation": {
+      "ephemeral_1h_input_tokens": 0,
+      "ephemeral_5m_input_tokens": 0
+    },
+    "cache_creation_input_tokens": 29114,
+    "cache_read_input_tokens": 10060,
+    "inference_geo": "not_available",
+    "input_tokens": 641,
+    "iterations": null,
+    "output_tokens": 1136,
+    "server_tool_use": {
+      "web_fetch_requests": 0,
+      "web_search_requests": 2
+    },
+    "service_tier": "batch",
+    "speed": null
+  }
+}

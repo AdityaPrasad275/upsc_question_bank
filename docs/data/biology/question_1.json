@@ -1,0 +1,78 @@
+{
+  "subject": "Science",
+  "year": 2025,
+  "theme": "Viral biology - survival, host range, and mechanisms of cellular modification",
+  "question_short_text": "Which statements about viral properties are true? Ocean survival, bacteria infection, host transcription changes",
+  "text": "Consider the following statements:\n\nI. No virus can survive in ocean waters.\nII. No virus can infect bacteria.\nIII. No virus can change the cellular transcriptional activity in host cells.\n\nWhich of the statements given above are correct?",
+  "options": [
+    "Only one",
+    "Only two",
+    "All the three",
+    "None"
+  ],
+  "answerIndex": 3,
+  "answerText": "(d) None",
+  "explanation": "All three statements are factually incorrect. Viruses do survive in oceans (including in extreme conditions), bacteriophages commonly infect bacteria, and many viruses alter host cell transcription as a key survival strategy.",
+  "research": {
+    "summary": "This is a straightforward negative question testing foundational viral biology across three distinct domains: environmental survival, host range, and cellular interaction mechanisms. Statement I is false: viruses are ubiquitous in marine environments and can survive extended periods in seawater. Studies show pathogenic viruses persist in coastal waters, with survival duration influenced by temperature, salinity, and particle protection mechanisms\u2014marine viruses are estimated at 10^30 particles in the ocean, with bacteriophages being the most abundant biological entities in many marine ecosystems. Statement II is false: bacteriophages (phages) are a major class of viruses that specifically infect bacteria and are found wherever bacteria exist; they are estimated to exceed 10^31 on the planet. Phages parasitize their bacterial hosts through either lytic cycles (destroying the cell) or lysogenic cycles (integrating into the host genome as prophages). Statement III is false: viruses are master manipulators of host cell transcription. Viral transcription factors and proteins alter host chromatin structure, recruit cellular transcriptional machinery, regulate host gene expression patterns, and can activate or repress thousands of host genes. Examples include Epstein-Barr virus (EBV) encoding EBNA2 to promote genes involved in cell proliferation, and DNA tumor viruses binding retinoblastoma protein to drive cells into S-phase. Some viruses create tens of thousands of new transcription initiation sites in the host genome. The key concept being tested is that viruses are not passive agents; they are active, sophisticated intracellular parasites with multiple strategies for environmental adaptation and host cell exploitation. The trap is the assumption that viruses are limited in scope\u2014surviving only in specific niches, infecting only certain cell types, or leaving host gene expression intact.",
+    "facts": [
+      "Bacteriophages are the most abundant biological entities in the ocean, with marine phage abundances between 10^6 and 10^11 per millilitre, significantly outnumbering bacteria in deep-sea environments where virus-to-prokaryote ratios exceed surface ratios due to longer phage survival times.",
+      "Viral transcription factors can alter transcription of hundreds to thousands of human genes; for example, EBV replication alone can spawn tens of thousands of new transcription initiation sites throughout the host cell genome, representing a mechanism of viral-driven genomic remodeling distinct from canonical host promoter regulation."
+    ],
+    "sources": [
+      {
+        "title": "Marine viruses - Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Marine_viruses",
+        "whyUsed": "Comprehensive overview of marine viral abundance, ecology, and the role of bacteriophages in ocean biogeochemistry; establishes that viruses are the most abundant life form in oceans."
+      },
+      {
+        "title": "Bacteriophage - Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Bacteriophage",
+        "whyUsed": "Authoritative definition and documentation of bacteriophages, their ubiquity, life cycles (lytic and lysogenic), and estimated abundance on Earth exceeding 10^31 particles."
+      },
+      {
+        "title": "Pathogenic Human Viruses in Coastal Waters - PMC - NIH",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC145303/",
+        "whyUsed": "Peer-reviewed research demonstrating survival of pathogenic viruses in marine environments under various temperature and salinity conditions, including extended persistence in shellfish and sediments."
+      },
+      {
+        "title": "Human Virus Transcriptional Regulators - PMC",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7346790/",
+        "whyUsed": "Details viral transcription factors (vTRs) and mechanisms by which viruses modulate host gene expression; shows single vTRs can alter transcription of hundreds to thousands of human genes."
+      },
+      {
+        "title": "Viral reprogramming of host transcription initiation - Oxford Academic",
+        "url": "https://academic.oup.com/nar/article/52/9/5016/7627474",
+        "whyUsed": "Recent peer-reviewed evidence that EBV replication causes de novo transcription initiation at tens of thousands of new sites, demonstrating extensive host transcriptome remodeling by viral mechanisms."
+      }
+    ],
+    "searchMeta": {
+      "usedWebSearch": true,
+      "searchQueries": [
+        "viruses ocean water survival marine environment",
+        "bacteriophages viruses infect bacteria",
+        "viruses alter host cell transcription gene expression"
+      ],
+      "confidence": "high"
+    }
+  },
+  "id": 1,
+  "usage": {
+    "cache_creation": {
+      "ephemeral_1h_input_tokens": 0,
+      "ephemeral_5m_input_tokens": 5030
+    },
+    "cache_creation_input_tokens": 50949,
+    "cache_read_input_tokens": 5030,
+    "inference_geo": "not_available",
+    "input_tokens": 485,
+    "iterations": null,
+    "output_tokens": 1400,
+    "server_tool_use": {
+      "web_fetch_requests": 0,
+      "web_search_requests": 3
+    },
+    "service_tier": "batch",
+    "speed": null
+  }
+}

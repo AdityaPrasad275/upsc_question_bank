@@ -1,0 +1,73 @@
+{
+  "subject": "Science",
+  "year": 2020,
+  "theme": "Properties and biomedical applications of carbon nanotubes (CNTs)",
+  "question_short_text": "Which statements about carbon nanotubes' applications (drug carriers, artificial blood capillaries, biosensors, biodegradability) are correct?",
+  "text": "With reference to carbon nanotubes, consider the following statements:\n\n1. They can be used as carriers of drugs and antigens in the human body.\n2. They can be made into artificial blood capillaries for an injured part of the human body.\n3. They can be used in biochemical sensors.\n4. Carbon nanotubes are biodegradable.\n\nWhich of the statements given above are correct?",
+  "options": [
+    "(a) 1 and 2 only",
+    "(b) 2, 3 and 4 only",
+    "(c) 1, 3 and 4 only",
+    "(d) 1, 2, 3 and 4"
+  ],
+  "answerIndex": 2,
+  "answerText": "(c) 1, 3 and 4 only",
+  "explanation": "Statements 1, 3, and 4 are correct. Statement 2 is incorrect because while CNTs have been explored for artificial blood vessels, uncoated carbon nanotubes stimulate blood platelet activation and cause dangerous blood clotting, making them unsuitable for direct use as blood capillaries without specialized surface modification.",
+  "research": {
+    "summary": "Carbon nanotubes (CNTs) are cylindrical nanostructures of rolled graphene with exceptional physical and chemical properties. The question tests understanding of their actual versus theoretical biomedical applications, and the trap lies in statement 2. CNTs are well-established as drug and antigen carriers: their large surface area, hollow interior, and ability to penetrate cell membranes make them excellent vehicles for targeted delivery. Scientists have successfully used them to carry anticancer drugs like doxorubicin and methotrexate. They are also proven biosensors, with their high surface area, electrical conductivity, and ease of functionalization enabling detection of biomarkers, glucose, proteins, and pathogens\u2014NASA has demonstrated their use in miniaturized electronics for detecting specific biomarker signatures. Regarding biodegradability, multiple microorganisms including bacteria and fungi can degrade CNTs and their derivatives through oxidative enzyme action, making statement 4 correct. However, statement 2 is the critical error many students make. While CNTs have been explored as scaffolds for artificial tissues and implants, and some functionalized versions (e.g., heparin-coated) show promise, unmodified carbon nanotubes are problematic: research from Trinity College Dublin (2015) found that bare CNTs actually stimulate blood platelet activation, leading to severe and potentially devastating blood clotting. This makes them dangerous for direct blood contact without extensive surface modification. The UPSC is testing the distinction between promising laboratory research and actual clinical safety.",
+    "facts": [
+      "Functionalized (surface-modified) CNTs can reduce toxicity and improve biocompatibility, but uncoated CNTs remain problematic for blood-contacting applications due to thrombogenic (clot-inducing) properties.",
+      "Unlike many nanomaterials, CNTs can be degraded by microorganisms such as bacteria and fungi, which produce oxidative enzymes capable of breaking down their carbon structure."
+    ],
+    "sources": [
+      {
+        "title": "Carbon Nanotubes: Smart Drug/Gene Delivery Carriers",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7936533/",
+        "whyUsed": "Verified CNTs' proven role in drug delivery, antigen carriers, and confirmed their non-biodegradable state in baseline form; also cited their use in biosensors and vaccine delivery."
+      },
+      {
+        "title": "Major limitations with carbon nanotubes in blood facing medical devices",
+        "url": "https://www.sciencedaily.com/releases/2015/01/150120111804.htm",
+        "whyUsed": "Confirmed that bare carbon nanotubes stimulate blood platelet activation and blood clotting, establishing statement 2 as incorrect; cites Trinity College Dublin research."
+      },
+      {
+        "title": "Carbon Nanotube (CNT)-Based Biosensors",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8699144/",
+        "whyUsed": "Verified CNTs' well-established use in electrochemical, optical, and field-effect biosensors for biomarker detection and disease diagnostics."
+      },
+      {
+        "title": "Blood Compatible Carbon Nanotubes \u2013 Nano-based Neoproteoglycans",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4114241/",
+        "whyUsed": "Provided context on how heparin coating can improve blood compatibility, supporting the distinction between uncoated and functionalized CNTs."
+      }
+    ],
+    "searchMeta": {
+      "usedWebSearch": true,
+      "searchQueries": [
+        "carbon nanotubes drug carriers medical applications biodegradable",
+        "carbon nanotubes artificial blood capillaries biocompatibility",
+        "carbon nanotubes biochemical sensors biosensors"
+      ],
+      "confidence": "high"
+    }
+  },
+  "id": 11,
+  "usage": {
+    "cache_creation": {
+      "ephemeral_1h_input_tokens": 0,
+      "ephemeral_5m_input_tokens": 0
+    },
+    "cache_creation_input_tokens": 38762,
+    "cache_read_input_tokens": 10060,
+    "inference_geo": "not_available",
+    "input_tokens": 619,
+    "iterations": null,
+    "output_tokens": 1338,
+    "server_tool_use": {
+      "web_fetch_requests": 0,
+      "web_search_requests": 3
+    },
+    "service_tier": "batch",
+    "speed": null
+  }
+}

@@ -1,0 +1,76 @@
+{
+  "subject": "Science",
+  "year": 1998,
+  "theme": "Disease-causing organism classification",
+  "question_short_text": "Match diseases with their causative organisms (Malaria, Poliomyelitis, Tuberculosis, Ringworm)",
+  "text": "Match List I with List II and select the correct answer using the codes given below the lists:\n\n| List I (Disease) | List II (Organism) |\n|---|---|\n| I. Malaria | A) Fungi |\n| II. Poliomyelitis | B) Bacteria |\n| III. Tuberculosis | C) Virus |\n| IV. Ringworm | D) Protozoan |",
+  "options": [
+    "I-D, II-C, III-B, IV-A",
+    "I-D, II-C, III-A, IV-B",
+    "I-C, II-D, III-A, IV-B",
+    "I-C, II-D, III-B, IV-A"
+  ],
+  "answerIndex": 0,
+  "answerText": "(a) I-D, II-C, III-B, IV-A",
+  "explanation": "Malaria is caused by protozoan parasites of the genus Plasmodium (D), poliomyelitis is caused by poliovirus, an RNA virus (C), tuberculosis is caused by the bacterium Mycobacterium tuberculosis (B), and ringworm is a fungal infection caused by dermatophytes like Trichophyton (A).",
+  "research": {
+    "summary": "This is a fundamental classification question testing knowledge of the five main types of infectious agents. Malaria is caused by protozoan parasites of the genus Plasmodium, primarily P. falciparum, P. vivax, P. malariae, and P. ovale, transmitted through Anopheles mosquito bites. Poliomyelitis is caused by poliovirus, a single-stranded RNA virus of the Picornaviridae family that spreads via fecal-oral transmission and can invade the central nervous system causing paralysis. Tuberculosis is caused by Mycobacterium tuberculosis, a slow-growing acid-fast bacillus transmitted through airborne droplets when infected people cough or sneeze. Ringworm (dermatophytosis) is a fungal infection caused by dermatophyte fungi including Trichophyton, Microsporum, and Epidermophyton species that attack keratin in skin and hair, presenting as characteristic ring-shaped lesions. A common misconception is confusing fungal infections with parasitic infections\u2014ringworm, though caused by a fungal parasite living on skin, is classified as a fungus, not a protozoan. The key distinction: protozoans are single-celled eukaryotic animals; bacteria are prokaryotic; viruses are obligate intracellular parasites; fungi are eukaryotic organisms with cell walls made of chitin. This classification appears frequently in basic microbiology and medical science examinations.",
+    "facts": [
+      "Plasmodium species are obligate parasites with complex life cycles requiring both mosquito and human hosts; P. falciparum causes the most severe malaria with mortality rates above 90% globally",
+      "Poliovirus causes paralysis in less than 1% of infections; India was certified polio-free in 2014, though cases persist in Afghanistan and Pakistan",
+      "Mycobacterium tuberculosis was first identified in 1882 by Robert Koch and remains one of the world's deadliest communicable diseases; about one-third of the global population carries latent TB infection",
+      "Dermatophytes account for over half of the estimated 650 million fungal skin infections globally, with Trichophyton rubrum being the most common cause; ringworm is not caused by any worm but by mold-like fungi"
+    ],
+    "sources": [
+      {
+        "title": "Plasmodium \u2014 a brief introduction to the parasites causing human malaria and their basic biology",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7792015/",
+        "whyUsed": "Verified Plasmodium genus classification as protozoan parasites and confirmed major species causing human malaria"
+      },
+      {
+        "title": "Poliovirus \u2014 Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Poliovirus",
+        "whyUsed": "Confirmed poliovirus classification as RNA virus in Picornaviridae family and transmission mechanism"
+      },
+      {
+        "title": "Mycobacterium tuberculosis \u2014 Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Mycobacterium_tuberculosis",
+        "whyUsed": "Verified M. tuberculosis as acid-fast bacterium causing tuberculosis and historical discovery by Robert Koch in 1882"
+      },
+      {
+        "title": "Dermatophytosis (Ringworm) \u2014 Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Dermatophytosis",
+        "whyUsed": "Confirmed ringworm as fungal infection caused by Trichophyton, Microsporum, and Epidermophyton dermatophytes"
+      }
+    ],
+    "searchMeta": {
+      "usedWebSearch": true,
+      "searchQueries": [
+        "Malaria Plasmodium protozoan cause",
+        "Poliomyelitis poliovirus RNA virus",
+        "Tuberculosis Mycobacterium tuberculosis bacteria",
+        "Ringworm dermatophyte fungal infection"
+      ],
+      "confidence": "high"
+    }
+  },
+  "id": 17,
+  "usage": {
+    "cache_creation": {
+      "ephemeral_1h_input_tokens": 0,
+      "ephemeral_5m_input_tokens": 0
+    },
+    "cache_creation_input_tokens": 58752,
+    "cache_read_input_tokens": 10060,
+    "inference_geo": "not_available",
+    "input_tokens": 922,
+    "iterations": null,
+    "output_tokens": 1416,
+    "server_tool_use": {
+      "web_fetch_requests": 0,
+      "web_search_requests": 4
+    },
+    "service_tier": "batch",
+    "speed": null
+  }
+}

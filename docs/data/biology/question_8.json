@@ -1,0 +1,72 @@
+{
+  "subject": "Science",
+  "year": 2021,
+  "theme": "Viral genome structure and classification",
+  "question_short_text": "Comparing genome types and diseases caused by adenoviruses and retroviruses",
+  "text": "Consider the following statements:\n\n1) Adenoviruses have single-stranded DNA genomes whereas retroviruses have double-stranded DNA genomes.\n\n2) Common cold is sometimes caused by an adenovirus whereas AIDS is caused by a retrovirus.\n\nWhich of the statements given above is/are correct?",
+  "options": [
+    "1 only",
+    "2 only",
+    "Both 1 and 2",
+    "Neither 1 nor 2"
+  ],
+  "answerIndex": 1,
+  "answerText": "(b) 2 only",
+  "explanation": "Statement 1 is incorrect: Adenoviruses have double-stranded DNA genomes (not single-stranded), while retroviruses have single-stranded RNA genomes that are converted to double-stranded DNA through reverse transcription. Statement 2 is correct: Adenoviruses do cause common cold, and HIV (a retrovirus) causes AIDS.",
+  "research": {
+    "summary": "This question tests the distinction between two fundamentally different virus types based on their genome structure and disease causation. The trap is confusing the strand type and nucleotide composition. Adenoviruses possess linear, double-stranded DNA (dsDNA) genomes of 26\u201348 kilobase pairs, packaged in an icosahedral capsid without a lipid envelope. They are responsible for roughly 5\u201310% of upper respiratory infections in children, making them a genuine cause of the common cold. Retroviruses, conversely, carry single-stranded RNA (+ssRNA) genomes and employ a unique mechanism called reverse transcription, wherein the viral enzyme reverse transcriptase synthesizes a complementary DNA strand from the RNA template, then synthesizes the second DNA strand, producing double-stranded DNA that integrates into the host genome. HIV is the classic retrovirus example, causing AIDS through progressive immune system destruction. The key distinction students often misunderstand is that retroviruses start as RNA viruses but produce DNA intermediates\u2014they are not inherently dsDNA viruses. The genome structure difference is foundational: adenoviruses replicate using the host's transcription machinery without integration; retroviruses must reverse transcribe and integrate their genome. This explains why they cause disease differently and why standard antivirals target different steps in their replication cycles.",
+    "facts": [
+      "Adenoviruses cause 5\u201310% of upper respiratory infections in children and can also cause conjunctivitis and gastroenteritis depending on serotype.",
+      "Reverse transcriptase, the enzyme central to retroviral replication, was discovered by Howard Temin and David Baltimore (Nobel Prize 1975) and works by synthesizing DNA from an RNA template\u2014reversing the normal direction of genetic information flow."
+    ],
+    "sources": [
+      {
+        "title": "Adenoviridae - Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Adenoviridae",
+        "whyUsed": "Confirmed that adenovirus genomes are linear, non-segmented double-stranded DNA between 26 and 48 kbp, and that adenoviruses cause respiratory infections including common cold."
+      },
+      {
+        "title": "Adenoviruses - Medical Microbiology - NCBI Bookshelf",
+        "url": "https://www.ncbi.nlm.nih.gov/books/NBK8503/",
+        "whyUsed": "Verified structural details of adenovirus particles and confirmed that adenoviruses are responsible for mild respiratory infections including common cold."
+      },
+      {
+        "title": "Reverse Transcription of Retroviruses and LTR Retrotransposons | Microbiology Spectrum",
+        "url": "https://journals.asm.org/doi/10.1128/microbiolspec.mdna3-0027-2014",
+        "whyUsed": "Clarified that retroviruses carry single-stranded RNA genomes that are converted to double-stranded DNA through reverse transcription, not inherent dsDNA genomes."
+      },
+      {
+        "title": "Retroviral reverse transcriptases - PMC",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11115783/",
+        "whyUsed": "Explained the reverse transcription process in detail, confirming that retroviruses use reverse transcriptase to convert ssRNA into dsDNA that integrates into host genomes."
+      }
+    ],
+    "searchMeta": {
+      "usedWebSearch": true,
+      "searchQueries": [
+        "adenovirus genome double-stranded DNA structure",
+        "retrovirus single-stranded RNA genome reverse transcription"
+      ],
+      "confidence": "high"
+    }
+  },
+  "id": 8,
+  "usage": {
+    "cache_creation": {
+      "ephemeral_1h_input_tokens": 0,
+      "ephemeral_5m_input_tokens": 5030
+    },
+    "cache_creation_input_tokens": 35008,
+    "cache_read_input_tokens": 5030,
+    "inference_geo": "not_available",
+    "input_tokens": 1102,
+    "iterations": null,
+    "output_tokens": 1162,
+    "server_tool_use": {
+      "web_fetch_requests": 0,
+      "web_search_requests": 2
+    },
+    "service_tier": "batch",
+    "speed": null
+  }
+}

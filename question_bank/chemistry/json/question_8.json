@@ -1,0 +1,59 @@
+{
+  "subject": "Science",
+  "year": 2015,
+  "theme": "Fuel cell technology: electrochemical conversion, byproducts, and application scalability",
+  "question_short_text": "Three statements on fuel cell byproducts, applications range, and current type",
+  "text": "With reference to 'fuel cells' in which hydrogen-rich fuel and oxygen are used to generate electricity, consider the following statements:\n\n1. If pure hydrogen is used as a fuel, the fuel cell emits heat and water as by-products.\n2. Fuel cells can be used for powering buildings and not for small devices like laptop computers.\n3. Fuel cells produce electricity in the form of Alternating Current (AC).\n\nWhich of the statements given above is / are correct?",
+  "options": [
+    "1 only",
+    "2 and 3 only",
+    "1 and 3 only",
+    "1, 2 and 3"
+  ],
+  "answerIndex": 0,
+  "answerText": "(a) 1 only",
+  "explanation": "Only Statement 1 is correct. Fuel cells with pure hydrogen emit heat and water as the sole byproducts. Statement 2 is false because fuel cells power both large (buildings) and small devices (laptops, phones). Statement 3 is false because fuel cells produce direct current (DC), not AC.",
+  "research": {
+    "summary": "This question tests three distinct aspects of fuel cell technology. Statement 1 is correct: the electrochemical reaction between hydrogen and oxygen produces only water and heat as byproducts (2H\u2082 + O\u2082 \u2192 2H\u2082O + heat + electrical energy). This is the fundamental principle behind hydrogen fuel cells' environmental appeal. Statement 2 is a common misconception\u2014it incorrectly restricts fuel cell applications to buildings only. In reality, fuel cells are inherently scalable across an enormous range: from microwatt-level portable devices like laptops and cell phones (using Direct Methanol Fuel Cells with 40\u201350 kW output capability for small systems), to kilowatt-scale residential and commercial buildings, up to megawatt utility-scale power plants. NASA used fuel cells to power the Apollo missions, while modern applications range from backup power in data centers (Microsoft, for example) to vehicle propulsion. The 'flat-pack' design innovations by NASA's JPL specifically enabled miniaturization for portable electronics. Statement 3 incorrectly claims fuel cells produce AC electricity. Fuel cells inherently produce direct current (DC) because the electrochemical reaction generates a unidirectional electron flow. When AC output is needed for most household or grid applications, an inverter or power electronics module must convert the DC to AC\u2014a process that reduces system efficiency by only 2\u20136%. The core confusion in Statement 3 stems from conflating the fuel cell's native output with the conditioned output delivered to end users. Understanding scalability and the DC nature of fuel cell output is critical for distinguishing legitimate versus constrained applications in future questions.",
+    "facts": [
+      "Alkaline fuel cells (AFCs) were used in Apollo spacecraft and can achieve 60\u201380% electrical efficiency or 80\u201390% in combined heat and power (CHP) configurations.",
+      "Direct methanol fuel cells (DMFCs) operate at room temperature and are specifically designed for portable electronics like laptops and battery chargers because methanol provides higher energy density than compressed hydrogen and requires no reformer."
+    ],
+    "sources": [
+      {
+        "title": "Fuel Cells and Renewable Hydrogen | WBDG - Whole Building Design Guide",
+        "url": "https://www.wbdg.org/resources/fuel-cells-and-renewable-hydrogen",
+        "whyUsed": "Verified that fuel cells produce DC electricity and can power applications from laptops to utility plants; confirmed DC-to-AC conversion requirement."
+      },
+      {
+        "title": "Fuel Cell Systems | Department of Energy",
+        "url": "https://www.energy.gov/eere/fuelcells/fuel-cell-systems",
+        "whyUsed": "Confirmed fuel cells generate DC, that power conditioning converts DC to AC when needed, and that direct hydrogen + oxygen reaction produces water as byproduct."
+      },
+      {
+        "title": "How does a fuel cell work? | FuelCell Energy",
+        "url": "https://www.fuelcellenergy.com/blog/how-do-a-fuel-cell-work/",
+        "whyUsed": "Clarified that fuel cells produce DC electricity and that conversion to AC power is handled by power electronics modules in the balance-of-plant system."
+      },
+      {
+        "title": "Fuel Cells | Department of Energy",
+        "url": "https://www.energy.gov/eere/fuelcells/fuel-cells",
+        "whyUsed": "Confirmed fuel cells power a range from laptop computers to utility power stations and that pure hydrogen + oxygen yields water and heat as only byproducts."
+      },
+      {
+        "title": "JPL Develops New Portable Fuel Cell Technology | NASA Jet Propulsion Laboratory",
+        "url": "https://www.jpl.nasa.gov/news/jpl-develops-new-portable-fuel-cell-technology/",
+        "whyUsed": "Documented development of portable methanol fuel cells for laptops and cellular devices, disproving the claim that fuel cells cannot power small devices."
+      }
+    ],
+    "searchMeta": {
+      "usedWebSearch": true,
+      "searchQueries": [
+        "fuel cells hydrogen oxygen electricity DC AC current",
+        "fuel cell applications buildings laptops small devices"
+      ],
+      "confidence": "high"
+    }
+  },
+  "id": 8
+}

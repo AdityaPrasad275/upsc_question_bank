@@ -1,0 +1,73 @@
+{
+  "subject": "Science",
+  "year": 2010,
+  "theme": "biofortification and provitamin A biosynthesis in genetically modified crops",
+  "question_short_text": "What correctly describes golden rice's nutritional mechanism?",
+  "text": "Genetically modified 'golden rice' has been engineered to meet human nutritional requirements. Which one of the following statements best qualifies golden rice?",
+  "options": [
+    "The grains have been fortified with genes to provide three times higher grain yield per acre than other high yielding varieties.",
+    "Its grains contain pro\u2013vitamin A which upon ingestion is converted to vitamin A in the human body.",
+    "Its modified genes cause the synthesis of all the nine essential amino acids.",
+    "Its modified genes cause the fortifications of its grains with vitamin D."
+  ],
+  "answerIndex": 1,
+  "answerText": "(b) Its grains contain pro\u2013vitamin A which upon ingestion is converted to vitamin A in the human body.",
+  "explanation": "Golden Rice is genetically engineered to produce beta-carotene (provitamin A) in the edible endosperm. Beta-carotene is converted into vitamin A in the human body upon consumption, addressing vitamin A deficiency in rice-dependent populations.",
+  "research": {
+    "summary": "Golden Rice is engineered specifically to tackle vitamin A deficiency\u2014the most prevalent micronutrient deficiency globally affecting ~250 million people, especially in rice-dependent developing countries. The key distinction is that while rice leaves naturally produce beta-carotene, the edible endosperm lacks the biosynthetic pathway entirely. Scientists inserted two transgenes (phytoene synthase from maize or daffodil, and carotene desaturase from bacteria) to activate this dormant pathway and accumulate beta-carotene in the grain. Golden Rice-2, the improved variant, produces up to 35 \u03bcg beta-carotene per gram of rice. Critically, human studies have proven that this beta-carotene is effectively converted to vitamin A in the human body\u2014in fact, the conversion efficiency is superior to spinach and comparable to pure beta-carotene in oil, making option (b) factually correct on the biochemical mechanism. Option (a) is false: Golden Rice does not increase yield\u2014it costs the same to grow as regular rice and produces normal yields. Option (c) is false: the modification targets a single nutrient pathway, not amino acid synthesis. Option (d) is false: the transgenes encode carotenoid biosynthesis enzymes, not vitamin D synthesis. A common trap for students is assuming biofortification means increased productivity or multiple nutrient fortification, but the engineering is narrowly focused on the beta-carotene pathway in the endosperm.",
+    "facts": [
+      "Golden Rice development began in the 1990s; the first successful expression occurred in 1999 by scientists Ingo Potrykus and Peter Beyer using daffodil and bacterial genes.",
+      "In 2019, the Philippines became the first country to approve Golden Rice cultivation; clinical trials confirm a single bowl of Golden Rice-2 can supply up to 60% of the Recommended Dietary Allowance for vitamin A in healthy children.",
+      "Beta-carotene in Golden Rice is absorbed and converted to vitamin A approximately 5 times more efficiently than beta-carotene in spinach due to the rice's simple matrix and high fat-solubility in typical meals."
+    ],
+    "sources": [
+      {
+        "title": "Golden rice is an effective source of vitamin A",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC2682994/",
+        "whyUsed": "Primary peer-reviewed human study confirming bioconversion of Golden Rice beta-carotene to vitamin A in humans; establishes the scientific basis for option (b)."
+      },
+      {
+        "title": "Golden rice - Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Golden_rice",
+        "whyUsed": "Comprehensive coverage of Golden Rice development history, transgene origin, regulatory approvals, and the distinction between yield and nutritional fortification."
+      },
+      {
+        "title": "The Golden Rice Project",
+        "url": "https://www.goldenrice.org/",
+        "whyUsed": "Official source confirming the mechanism of beta-carotene biosynthesis pathway activation in endosperm and refuting misconceptions about yield and multi-nutrient fortification."
+      },
+      {
+        "title": "Golden Rice: A Quarter-Century of Innovation",
+        "url": "https://www.sciencedirect.com/science/article/abs/pii/S0022316625004146",
+        "whyUsed": "Recent peer-reviewed synthesis of 25 years of research including Golden Rice-2 specifications, bioavailability data, and clarification that the provitamin A pathway is absent in all known rice cultivars."
+      }
+    ],
+    "searchMeta": {
+      "usedWebSearch": true,
+      "searchQueries": [
+        "golden rice beta-carotene vitamin A biofortification",
+        "golden rice development history vitamin A deficiency"
+      ],
+      "confidence": "high"
+    }
+  },
+  "id": 32,
+  "usage": {
+    "cache_creation": {
+      "ephemeral_1h_input_tokens": 0,
+      "ephemeral_5m_input_tokens": 0
+    },
+    "cache_creation_input_tokens": 29317,
+    "cache_read_input_tokens": 10060,
+    "inference_geo": "not_available",
+    "input_tokens": 628,
+    "iterations": null,
+    "output_tokens": 1198,
+    "server_tool_use": {
+      "web_fetch_requests": 0,
+      "web_search_requests": 2
+    },
+    "service_tier": "batch",
+    "speed": null
+  }
+}

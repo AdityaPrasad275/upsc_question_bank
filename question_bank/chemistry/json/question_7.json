@@ -1,0 +1,55 @@
+{
+  "subject": "Science",
+  "year": 2017,
+  "theme": "Common chemical contaminants and unwanted additives in everyday food and cosmetic products",
+  "question_short_text": "Which pairs of materials and harmful chemicals commonly found in them are correctly matched?",
+  "text": "Consider the following pairs:\n\nCommonly used / consumed materials and Unwanted or controversial chemicals likely to be found in them\n\n1. Lipstick \u2013 Lead\n2. Soft drinks \u2013 Brominated vegetable oils\n3. Chinese fast food \u2013 Monosodium glutamate\n\nWhich of the pairs given above is/are correctly matched?",
+  "options": [
+    "1 only",
+    "2 and 3 only",
+    "1 and 3 only",
+    "1, 2 and 3"
+  ],
+  "answerIndex": 3,
+  "answerText": "(d) 1, 2 and 3",
+  "explanation": "All three pairs are correctly matched. Lead is found in lipstick as a contaminant; brominated vegetable oils (BVO) were used in soft drinks as an emulsifier; and monosodium glutamate (MSG) is commonly used as a flavor enhancer in Chinese fast food.",
+  "research": {
+    "summary": "This question tests recognition of real-world chemical contaminants and additives found in commonly consumed materials. All three pairs represent well-documented associations verified through regulatory and scientific literature. Lead appears in lipstick as an unintended contaminant arising from natural trace amounts in pigments and base materials\u2014not an intentional ingredient, but one that persists despite efforts to limit it. The FDA found lead in all lipstick samples tested, with levels up to 7 ppm, and the Campaign for Safe Cosmetics documented lead in approximately two-thirds of tested brands. Brominated vegetable oil (BVO) was an intentional food additive used since 1931 to emulsify and stabilize citrus flavorings in soft drinks, keeping the citrus oil suspended and preventing separation during shipping\u2014the practice was permitted in North America with a limit of 15 ppm until July 2024, when the FDA finally banned it due to documented health concerns around bromine accumulation and nervous system effects. Monosodium glutamate (MSG) is a deliberate flavoring ingredient widely used in Chinese cuisine and particularly in commercial fast food establishments to enhance savory (umami) taste. While scientific evidence does not support the \"Chinese Restaurant Syndrome\" myth, MSG is genuinely prevalent in Chinese fast food and is required by law to be labeled. The key distinction for UPSC is understanding that contaminants (lead in lipstick, unintended) differ from additives (BVO, MSG, intentional), yet both represent unwanted or controversial chemicals from a consumer health perspective.",
+    "facts": [
+      "The FDA removed BVO from its 'Generally Recognized as Safe' list in 1970 and designated it an 'interim' food additive pending further study\u2014one of only four such additives\u2014before finally revoking its authorization in July 2024.",
+      "MSG is FDA-approved and generally recognized as safe (GRAS) when used at customary levels, though regulatory requirements vary; it has been certified as safe in multiple studies but remains controversial in public perception due to the discredited 'Chinese Restaurant Syndrome' concept."
+    ],
+    "sources": [
+      {
+        "title": "Lead in Cosmetics | FDA",
+        "url": "https://www.fda.gov/cosmetics/potential-contaminants-cosmetics/lead-cosmetics",
+        "whyUsed": "Official FDA guidance on lead detection levels in lipsticks and cosmetics; confirms FDA analyzed hundreds of lipsticks and found lead levels from below detection limit to 7 ppm."
+      },
+      {
+        "title": "Brominated vegetable oil - Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Brominated_vegetable_oil",
+        "whyUsed": "Comprehensive overview of BVO use in soft drinks since 1931, regulatory history showing FDA withdrawal from GRAS list in 1970, and final ban by FDA in July 2024 based on NIH health studies."
+      },
+      {
+        "title": "Monosodium glutamate - Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Monosodium_glutamate",
+        "whyUsed": "Detailed information on MSG composition, history of discovery in 1908, FDA GRAS designation, and widespread use in Chinese cuisine and commercial food applications."
+      },
+      {
+        "title": "Lead In Lipstick - Safe Cosmetics",
+        "url": "https://www.safecosmetics.org/blog/lead-in-lipstick/",
+        "whyUsed": "Campaign for Safe Cosmetics 2007 report finding lead in approximately two-thirds of tested lipstick brands; FDA's 2009-2010 follow-up studies confirming widespread lead presence across major brands."
+      }
+    ],
+    "searchMeta": {
+      "usedWebSearch": true,
+      "searchQueries": [
+        "lead in lipstick cosmetics safety",
+        "brominated vegetable oil soft drinks BVO",
+        "monosodium glutamate MSG Chinese food"
+      ],
+      "confidence": "high"
+    }
+  },
+  "id": 7
+}

@@ -1,0 +1,73 @@
+{
+  "subject": "Science",
+  "year": 2019,
+  "theme": "Limitations of synthetic chromosome assembly and gene synthesis technologies",
+  "question_short_text": "Which statement about synthetic biology and modern DNA techniques is NOT correct?",
+  "text": "With reference to the recent developments in science, which one of the following statements is not correct?\n\na) Functional chromosomes can be created by joining segments of DNA taken from cells of different species.\n\nb) Pieces of artificial functional DNA can be created in laboratories.\n\nc) A piece of DNA taken out from an animal cell can be made to replicate outside a living cell in a laboratory.\n\nd) Cells taken out from plants and animals can be made to undergo cell division in laboratory petri dishes.",
+  "options": [
+    "Functional chromosomes can be created by joining segments of DNA taken from cells of different species.",
+    "Pieces of artificial functional DNA can be created in laboratories.",
+    "A piece of DNA taken out from an animal cell can be made to replicate outside a living cell in a laboratory.",
+    "Cells taken out from plants and animals can be made to undergo cell division in laboratory petri dishes."
+  ],
+  "answerIndex": 0,
+  "answerText": "(a) Functional chromosomes can be created by joining segments of DNA taken from cells of different species.",
+  "explanation": "Creating functional chromosomes by simply joining DNA segments from different species is not feasible with current technology. While synthetic chromosomes can be constructed and modified in the laboratory, assembling a fully functional chromosome from cross-species DNA segments that operates coherently within a host cell remains beyond current scientific capabilities. Statements b, c, and d are all correct as they describe established techniques: artificial gene synthesis, in vitro DNA amplification (PCR), and plant/animal cell culture.",
+  "research": {
+    "summary": "This question tests understanding of the current capabilities and limitations in synthetic biology. The key trap is distinguishing between what is theoretically possible in genetic engineering versus what is actually achievable as a functional, operational chromosome. While scientists can perform recombinant DNA technology and create synthetic sequences (true), and can assemble chromosomal segments in specialized contexts, creating a fully functional chromosome from cross-species DNA segments that maintains proper gene regulation, epigenetic control, centromere function, and chromosomal stability remains unrealized. The challenge lies in chromosome complexity: a functional chromosome requires precise organization of regulatory sequences, centromeric DNA, telomeres, and thousands of genes with coordinated expression. Joining segments from different species disrupts the finely-tuned regulatory architecture that evolved within each species' genome. Recent advances in synthetic genomics (2019 onwards) have created synthetic chromosomes like Sc2.0 in yeast by redesigning existing genomes systematically, but these involve extensively engineered, same-species foundations with careful validation, not simply joining cross-species segments. In contrast, statement (b) is definitively correct\u2014artificial gene synthesis has been routine for decades, with entire viral genomes and bacterial chromosomes synthesized de novo. Statement (c) reflects PCR (polymerase chain reaction), the most common in vitro DNA amplification technique, developed by Kary Mullis and enabling billions of copies from nanogram quantities. Statement (d) addresses cell and tissue culture technology, established since the early 20th century. The question rewards students who understand not just what is 'done' in labs, but what is genuinely 'functional' and integrated as a living system.",
+    "facts": [
+      "Synthetic chromosome projects like Saccharomyces cerevisiae 2.0 (Sc2.0) construct functional chromosomes by modifying existing same-species genomes systematically with extensive validation, not by joining arbitrary cross-species DNA segments.",
+      "Polymerase chain reaction (PCR), introduced in 1983, is the standard laboratory method for in vitro DNA replication, capable of amplifying specific DNA sequences exponentially from minute quantities without requiring cellular machinery."
+    ],
+    "sources": [
+      {
+        "title": "Synthetic Chromosomes, Genomes, Viruses and Cells",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9347161/",
+        "whyUsed": "Provides detailed technical overview of current synthetic chromosome construction methods, including challenges with mammalian synthetic chromosomes and the need for functional centromeres and proper genetic control mechanisms."
+      },
+      {
+        "title": "Building synthetic chromosomes from natural DNA",
+        "url": "https://www.nature.com/articles/s41467-023-44112-2",
+        "whyUsed": "Describes CReATiNG method for constructing synthetic chromosomes from natural components within yeast species, showing that even within-species chromosome assembly requires sophisticated assembly techniques and validation, unlike simple cross-species joining."
+      },
+      {
+        "title": "DNA synthesis - Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/DNA_synthesis",
+        "whyUsed": "Confirms artificial gene synthesis capability (statement b) with verified historical milestones: Har Gobind Khorana's first complete gene synthesis (1972) and Venter's team synthesizing Mycoplasma genomes (2010), establishing that de novo DNA synthesis is definitively possible."
+      },
+      {
+        "title": "A Brief Comparison Between In Vivo DNA Replication and In Vitro PCR Amplification",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7120002/",
+        "whyUsed": "Validates statement (c) by detailing how PCR replicates DNA outside living cells using thermostable polymerase, primers, and dNTPs\u2014a routine laboratory process since the 1980s."
+      }
+    ],
+    "searchMeta": {
+      "usedWebSearch": true,
+      "searchQueries": [
+        "synthetic functional chromosomes DNA segments different species 2019",
+        "artificial DNA creation laboratory in vitro DNA synthesis",
+        "DNA replication outside living cell in vitro PCR polymerase"
+      ],
+      "confidence": "high"
+    }
+  },
+  "id": 15,
+  "usage": {
+    "cache_creation": {
+      "ephemeral_1h_input_tokens": 0,
+      "ephemeral_5m_input_tokens": 0
+    },
+    "cache_creation_input_tokens": 39414,
+    "cache_read_input_tokens": 10060,
+    "inference_geo": "not_available",
+    "input_tokens": 619,
+    "iterations": null,
+    "output_tokens": 1443,
+    "server_tool_use": {
+      "web_fetch_requests": 0,
+      "web_search_requests": 3
+    },
+    "service_tier": "batch",
+    "speed": null
+  }
+}

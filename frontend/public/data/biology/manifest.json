@@ -1,0 +1,105 @@
+{
+  "name": "biology",
+  "questions": [
+    {
+      "id": 1,
+      "short_text": "Which statements about viral properties are true? Ocean survival, bacteria infection, host transcription changes",
+      "file": "question_1.json"
+    },
+    {
+      "id": 2,
+      "short_text": "Which nitrogen-containing compound synthesized in the body dilates blood vessels?",
+      "file": "question_2.json"
+    },
+    {
+      "id": 3,
+      "short_text": "Extremophile growth in boiling, freezing, and highly acidic environments",
+      "file": "question_3.json"
+    },
+    {
+      "id": 4,
+      "short_text": "Role of B and T cells in protecting against pathogens",
+      "file": "question_4.json"
+    },
+    {
+      "id": 5,
+      "short_text": "Which statements about probiotics, microorganisms, and lactose digestion are correct?",
+      "file": "question_5.json"
+    },
+    {
+      "id": 6,
+      "short_text": "Which organisms\u2014bacteria, fungi, or viruses\u2014can be cultured in artificial/synthetic medium?",
+      "file": "question_6.json"
+    },
+    {
+      "id": 7,
+      "short_text": "Which organisms survive without soil on rock surfaces or bare ground?",
+      "file": "question_7.json"
+    },
+    {
+      "id": 8,
+      "short_text": "Comparing genome types and diseases caused by adenoviruses and retroviruses",
+      "file": "question_8.json"
+    },
+    {
+      "id": 9,
+      "short_text": "Identify correct statements about plant vs animal cell differences",
+      "file": "question_9.json"
+    },
+    {
+      "id": 11,
+      "short_text": "Identify all natural agents that spread plant diseases from a list of birds, dust, rain, and wind.",
+      "file": "question_11.json"
+    },
+    {
+      "id": 12,
+      "short_text": "Which organisms can viruses infect? Identify correct statements about bacterial, fungal, and plant viruses.",
+      "file": "question_12.json"
+    },
+    {
+      "id": 13,
+      "short_text": "Which process describes photosynthesis: energy release vs. energy conversion and storage?",
+      "file": "question_13.json"
+    },
+    {
+      "id": 14,
+      "short_text": "Odd one out among crab, mite, scorpion, and spider",
+      "file": "question_14.json"
+    },
+    {
+      "id": 15,
+      "short_text": "Which statements about vegetative propagation are correct: clonal population, virus elimination, and year-round practice?",
+      "file": "question_15.json"
+    },
+    {
+      "id": 16,
+      "short_text": "By-products of sugar industry: bagasse, molasses, and their applications",
+      "file": "question_16.json"
+    },
+    {
+      "id": 17,
+      "short_text": "Which organism produces aflatoxin toxins in improperly stored grains and oilseeds?",
+      "file": "question_17.json"
+    },
+    {
+      "id": 18,
+      "short_text": "Which minerals are required for muscle contraction: Calcium, Iron, and/or Sodium?",
+      "file": "question_18.json"
+    },
+    {
+      "id": 19,
+      "short_text": "Which of the three sea animals (sea cow, sea lion, seahorse) are mammals?",
+      "file": "question_19.json"
+    },
+    {
+      "id": 20,
+      "short_text": "Why transplanted seedlings fail to grow - role of root hairs",
+      "file": "question_20.json"
+    },
+    {
+      "id": 21,
+      "short_text": "Which statements about viral enzymes, culture media, and transmission routes are correct?",
+      "file": "question_21.json"
+    }
+  ]
+}

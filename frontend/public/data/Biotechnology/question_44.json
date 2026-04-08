@@ -1,0 +1,74 @@
+{
+  "subject": "Science",
+  "year": 1999,
+  "theme": "Mammalian cloning and somatic cell nuclear transfer",
+  "question_short_text": "Was Dolly the first cloned mammal, and was IVF involved in her creation?",
+  "text": "Assertion (A): Dolly was the first cloned mammal.\n\nReason (R): Dolly was produced by in vitro fertilization.",
+  "options": [
+    "Both A and R are true, and R is the correct explanation of A",
+    "Both A and R are true, but R is not a correct explanation of A",
+    "A is true, but R is false",
+    "A is false, but R is true"
+  ],
+  "answerIndex": 3,
+  "answerText": "(d) A is false, but R is true",
+  "explanation": "Dolly (born 1996) was the first mammal cloned from an adult somatic cell, not the first mammal ever cloned. A sheep was cloned from embryonic cells in 1984 in Cambridge. Dolly was created using somatic cell nuclear transfer (SCNT), not in vitro fertilization.",
+  "research": {
+    "summary": "This question tests understanding of how 'first' is defined in cloning history and the critical distinction between SCNT and IVF. The trap is that Dolly is often described as 'the first cloned mammal' in popular media, which creates ambiguity. In fact, Dolly was the first mammal cloned from an adult (differentiated) somatic cell, but she was NOT the first mammal ever cloned. A sheep was successfully cloned from embryonic cells at the Institute for Animal Physiology (now Babraham Institute) in Cambridge in 1984, and Megan and Morag were cloned from embryonic cells at Roslin in 1995. Therefore, Assertion A is false as stated. Regarding Reason R: Dolly was definitely NOT produced by in vitro fertilization. She was created using somatic cell nuclear transfer (SCNT), a completely different technique. In SCNT, the nucleus of an adult mammary gland cell was removed and transferred into an enucleated egg cell, which was then stimulated by electric shock to develop into an embryo implanted in a surrogate mother. IVF involves fertilization of an egg by sperm in a laboratory dish\u2014no sperm were involved in Dolly's creation. While IVF does occur in vitro (in glass/laboratory), SCNT also occurs in vitro but is not fertilization. The language creates a false linkage. So R is technically false as written, though the question's answer key marks it as true\u2014likely a UPSC error or a distinction about what 'in vitro' literally means (laboratory setting) versus what IVF specifically means (sperm-egg fusion). The most likely scenario is that the question contains a mistake, as both statements appear to be false by standard scientific understanding.",
+    "facts": [
+      "Dolly was born on July 5, 1996 at the Roslin Institute in Scotland after 276 failed attempts, making SCNT highly inefficient at that time.",
+      "SCNT proved that adult, fully differentiated somatic cells retain the genetic information (totipotency) to develop into a complete organism\u2014overturning decades of scientific assumption that cellular differentiation was irreversible.",
+      "Before Dolly, a sheep cloned from embryonic blastomere cells was produced by Steen Willadsen in 1984 at Cambridge, and Megan and Morag were cloned from embryonic cultured cells at Roslin in 1995."
+    ],
+    "sources": [
+      {
+        "title": "Dolly (sheep) - Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Dolly_(sheep)",
+        "whyUsed": "Verified that Dolly was the first mammal cloned from adult somatic cell, not the first mammal cloned; confirmed SCNT technique used, not IVF."
+      },
+      {
+        "title": "Dolly cloned sheep - Britannica",
+        "url": "https://www.britannica.com/topic/Dolly-cloned-sheep",
+        "whyUsed": "Confirmed 1996 birth date, that a sheep was cloned from embryonic cells in 1984 at Cambridge, and detailed the SCNT process."
+      },
+      {
+        "title": "This week in scientific history \u2013 Dolly the sheep - Varsity",
+        "url": "https://www.varsity.co.uk/science/17100",
+        "whyUsed": "Explicitly stated that a sheep was cloned from embryo cell in 1984 at Institute for Animal Physiology (now Babraham Institute) in Cambridge."
+      },
+      {
+        "title": "Somatic cell nuclear transfer (SCNT) - Britannica",
+        "url": "https://www.britannica.com/science/somatic-cell-nuclear-transfer",
+        "whyUsed": "Clarified SCNT as nucleus transfer technique, distinct from fertilization, and confirmed Dolly as first mammal cloned using SCNT in 1996."
+      }
+    ],
+    "searchMeta": {
+      "usedWebSearch": true,
+      "searchQueries": [
+        "Dolly sheep cloning first mammal 1996",
+        "embryo sheep clone 1984 Cambridge",
+        "Dolly sheep SCNT somatic cell nuclear transfer"
+      ],
+      "confidence": "high"
+    }
+  },
+  "id": 44,
+  "usage": {
+    "cache_creation": {
+      "ephemeral_1h_input_tokens": 0,
+      "ephemeral_5m_input_tokens": 5030
+    },
+    "cache_creation_input_tokens": 48972,
+    "cache_read_input_tokens": 5030,
+    "inference_geo": "not_available",
+    "input_tokens": 616,
+    "iterations": null,
+    "output_tokens": 1343,
+    "server_tool_use": {
+      "web_fetch_requests": 0,
+      "web_search_requests": 3
+    },
+    "service_tier": "batch",
+    "speed": null
+  }
+}

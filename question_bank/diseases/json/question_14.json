@@ -1,0 +1,66 @@
+{
+  "subject": "Science",
+  "year": 2001,
+  "theme": "Microbial pathogens and human infectious diseases - classification by causative organism",
+  "question_short_text": "Causative agent of athlete's foot (tinea pedis)",
+  "text": "\"Athlete's Foot\" is a disease caused by:",
+  "options": [
+    "Bacteria",
+    "Fungus",
+    "Protozoan",
+    "Nematode"
+  ],
+  "answerIndex": 1,
+  "answerText": "(b) Fungus",
+  "explanation": "Athlete's foot, medically known as tinea pedis, is a fungal infection of the skin caused by dermatophytes, not bacteria, protozoans, or nematodes. These fungi thrive in warm, moist environments and infect the outer layers of skin.",
+  "research": {
+    "summary": "Athlete's foot (tinea pedis) is caused by dermatophyte fungi\u2014specifically mold-like organisms such as Trichophyton rubrum and Trichophyton interdigitale\u2014that colonize dead skin tissues and digest keratin. The key to recognizing this infection is understanding that dermatophytes are classified as fungi, not bacteria or other microorganisms. The trap here is that students may confuse fungal infections with other microbial pathogens. However, the defining characteristic of athlete's foot is that it requires antifungal medications (topical like clotrimazole or terbinafine, or oral like itraconazole), not antibiotics, which would be used for bacterial infections. The infection spreads via direct contact with infected skin or contaminated surfaces, and thrives in warm, moist environments like locker rooms and swimming pools. Untreated tinea pedis can lead to secondary bacterial infections if the skin becomes cracked or blistered, but the primary causative agent is always fungal. This distinction is fundamental in microbiology and epidemiology\u2014fungal infections present a different public health challenge than bacterial infections because they require different prevention strategies (moisture control, antifungal hygiene measures) and different therapeutic approaches.",
+    "facts": [
+      "Tinea pedis is the most common dermatophytosis worldwide, affecting approximately 3% of the global population, with peak incidence between 16\u201345 years of age and higher prevalence in males.",
+      "Dermatophyte fungi produce keratinases (proteases) that break down keratin in dead skin cells, and they also produce mannans that suppress the body's immune response, explaining why the infection becomes chronic if untreated."
+    ],
+    "sources": [
+      {
+        "title": "Tinea Pedis - StatPearls - NCBI Bookshelf",
+        "url": "https://www.ncbi.nlm.nih.gov/books/NBK470421/",
+        "whyUsed": "Authoritative medical reference confirming dermatophyte etiology and pathophysiology of athlete's foot."
+      },
+      {
+        "title": "Athlete's foot - Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Athlete's_foot",
+        "whyUsed": "Comprehensive overview of dermatophytosis and the classification of causative organisms (dermatophytes are fungi, not other pathogen types)."
+      },
+      {
+        "title": "Tinea Pedis: Background, Pathophysiology, Etiology - Medscape",
+        "url": "https://emedicine.medscape.com/article/1091684-overview",
+        "whyUsed": "Detailed clinical evidence on Trichophyton rubrum as the primary causative dermatophyte and the distinction from other microbial pathogens."
+      }
+    ],
+    "searchMeta": {
+      "usedWebSearch": true,
+      "searchQueries": [
+        "athlete's foot tinea pedis dermatophytes fungal infection"
+      ],
+      "confidence": "high"
+    }
+  },
+  "id": 14,
+  "usage": {
+    "cache_creation": {
+      "ephemeral_1h_input_tokens": 0,
+      "ephemeral_5m_input_tokens": 0
+    },
+    "cache_creation_input_tokens": 14992,
+    "cache_read_input_tokens": 10060,
+    "inference_geo": "not_available",
+    "input_tokens": 647,
+    "iterations": null,
+    "output_tokens": 888,
+    "server_tool_use": {
+      "web_fetch_requests": 0,
+      "web_search_requests": 1
+    },
+    "service_tier": "batch",
+    "speed": null
+  }
+}

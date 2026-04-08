@@ -1,0 +1,49 @@
+{
+  "subject": "Science",
+  "year": 2011,
+  "theme": "Sweetening mechanisms and metabolic properties of artificial sweeteners",
+  "question_short_text": "Why aspartame works as low-calorie sweetener despite containing amino acids",
+  "text": "Aspartame is an artificial sweetener sold in the market. It consists of amino acids and provides calories like other amino acids. Yet, it is used as a low-calorie sweetening agent in food items. What is the basis of this use?",
+  "options": [
+    "Aspartame is as sweet as table sugar, but unlike table sugar, it is not readily oxidized in human body due to lack of requisite enzymes.",
+    "When aspartame is used in food processing, the sweet taste remains, but it becomes resistant to oxidation.",
+    "Aspartame is as sweet as sugar, but after ingestion into the body, it is converted into metabolites that yield no calories.",
+    "Aspartame is several times sweeter than table sugar, hence food items made with small quantities of aspartame yield fewer calories on oxidation."
+  ],
+  "answerIndex": 3,
+  "answerText": "(d) Aspartame is several times sweeter than table sugar, hence food items made with small quantities of aspartame yield fewer calories on oxidation.",
+  "explanation": "Aspartame is approximately 180\u2013200 times sweeter than sucrose. This extreme sweetness allows manufacturers to use only tiny amounts in food products. Although aspartame does provide 4 calories per gram when metabolized (just like amino acids), the minuscule quantity needed achieves the same taste as much larger amounts of sugar, resulting in dramatically fewer total calories per serving.",
+  "research": {
+    "summary": "The key concept being tested here is potency versus total calorie contribution. Students often assume that because aspartame contains amino acids and technically provides calories, it cannot be a low-calorie sweetener\u2014but this is a trap. The correct answer hinges on a single fact: aspartame is 180\u2013200 times sweeter than sucrose. This extreme sweetness is the entire basis for its use. A 12-ounce diet soda contains roughly 125 mg of aspartame (less than 0.125 grams), which yields less than 1 calorie. The equivalent sugar-sweetened drink would require about 25 grams of sugar and provide 100 calories. The net result is a 99% reduction in calorie contribution, not because the metabolic fate of aspartame yields zero calories, but because so little of it is needed. Option (c) is tempting because aspartame does break down into amino acids and methanol in the digestive tract, but those metabolites do in fact carry calories; the low-calorie property comes from quantity used, not from calorie-free metabolism. Option (a) confuses the mechanism entirely by suggesting aspartame resists oxidation\u2014in fact, aspartame is rapidly metabolized in the small intestine. Option (b) is inaccurate for the same reason. This question teaches an important principle: sweetening power (potency) determines usable quantity, and quantity ultimately determines caloric impact. It is a fundamental lesson in dose-response logic that appears repeatedly in biochemistry and nutrition questions.",
+    "facts": [
+      "Aspartame is rapidly hydrolyzed in the small intestine into phenylalanine (50%), aspartic acid (40%), and methanol (10%), and does not circulate as intact aspartame in the blood.",
+      "The methanol produced from aspartame amounts to less than 10% of typical daily methanol intake from natural food sources like fruit juices, making the breakdown products metabolically indistinguishable from those obtained from ordinary protein and fruit consumption."
+    ],
+    "sources": [
+      {
+        "title": "Aspartame - Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Aspartame",
+        "whyUsed": "Verified the exact sweetness ratio (180\u2013200 times sweeter than sucrose) and the mechanism by which minute quantities produce negligible caloric contribution despite containing amino acids."
+      },
+      {
+        "title": "FDA: Aspartame and Other Sweeteners in Food",
+        "url": "https://www.fda.gov/food/food-additives-petitions/aspartame-and-other-sweeteners-food",
+        "whyUsed": "Confirmed that aspartame is approximately 200 times sweeter than sugar and that consumers use much less of it due to this property."
+      },
+      {
+        "title": "Biological fate of low-calorie sweeteners",
+        "url": "https://academic.oup.com/nutritionreviews/article/74/11/670/2281652",
+        "whyUsed": "Detailed the complete hydrolysis of aspartame to methanol and amino acids in the small intestine, and established that methanol from aspartame represents less than 10% of daily dietary methanol from other sources."
+      }
+    ],
+    "searchMeta": {
+      "usedWebSearch": true,
+      "searchQueries": [
+        "aspartame sweetness level compared to sugar calories",
+        "aspartame metabolism breakdown amino acids methanol"
+      ],
+      "confidence": "high"
+    }
+  },
+  "id": 12
+}

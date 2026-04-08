@@ -1,0 +1,55 @@
+{
+  "subject": "Science",
+  "year": 2012,
+  "theme": "Understanding capillarity and its real-world applications",
+  "question_short_text": "Which statements about phenomena dependent on capillarity are correct?",
+  "text": "Consider the following statements. If there were no phenomenon of capillarity:\n\n1. It would be difficult to use a kerosene lamp\n2. One would not be able to use a straw to consume a soft drink\n3. The blotting paper would fail to function\n4. The big trees that we see around would not have grown on the Earth\n\nWhich of the statements given above are correct?",
+  "options": [
+    "1, 2 and 3 only",
+    "1, 3 and 4 only",
+    "2 and 4 only",
+    "1, 2, 3 & 4"
+  ],
+  "answerIndex": 1,
+  "answerText": "(b) 1, 3 and 4 only",
+  "explanation": "Capillarity is the rise of liquid in narrow tubes against gravity through adhesion and cohesion. Statements 1, 3, and 4 depend on capillarity, but statement 2 (straws) relies on atmospheric pressure, not capillarity.",
+  "research": {
+    "summary": "Capillarity\u2014the rise of liquids in narrow tubes against gravity through intermolecular adhesion and cohesion\u2014is indeed crucial to kerosene lamps, blotting paper, and tree growth. The trap in this question is statement 2: drinking from a straw is fundamentally different from capillarity. When you suck on a straw, you reduce air pressure inside it, and atmospheric pressure on the liquid surface pushes the liquid upward\u2014a mechanism entirely distinct from capillarity's adhesion-based action. This is a classic misconception UPSC tests. In kerosene lamps, capillary action allows kerosene to rise through the wick against gravity, enabling combustion. Blotting paper works by capillary action drawing ink into its pores through adhesion. For trees, capillarity plays a supporting role: while it can lift water only about 1 meter on its own, it anchors the water column in the narrow xylem vessels and works alongside transpiration pull (the evaporation of water from leaves creating negative pressure) to transport water to great heights. Without capillarity stabilizing the water column and providing initial adhesive force in the xylem, trees would struggle to transport water upward, limiting their growth. The cohesion-tension hypothesis\u2014the most widely accepted model in plant physiology\u2014shows that capillarity is essential, not sufficient alone.",
+    "facts": [
+      "Capillary action alone can lift water approximately 1 meter against gravity; trees depend on the cohesion-tension mechanism (capillarity + transpiration pull) to reach heights of 100+ meters.",
+      "Adhesion (water sticking to xylem walls) and cohesion (water molecules sticking to each other) are the two intermolecular forces that enable capillary action; these differ completely from the atmospheric pressure mechanism that drives straw drinking."
+    ],
+    "sources": [
+      {
+        "title": "Capillary action - Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Capillary_action",
+        "whyUsed": "Verified that capillary action is liquid flow in narrow spaces without external forces, driven by adhesion and cohesion, not gravity or atmospheric pressure."
+      },
+      {
+        "title": "Extra-Long Straws - Chemistry LibreTexts",
+        "url": "https://chem.libretexts.org/Bookshelves/Introductory_Chemistry/Introductory_Chemistry_(LibreTexts)/11:_Gases/11.01:_Extra-Long_Straws",
+        "whyUsed": "Confirmed that drinking straws work by creating a vacuum that allows atmospheric pressure to push liquid upward, not by capillarity."
+      },
+      {
+        "title": "Water Transport in Plants: Xylem - Organismal Biology (Georgia Tech)",
+        "url": "https://organismalbio.biosci.gatech.edu/nutrition-transport-and-homeostasis/plant-transport-processes-i/",
+        "whyUsed": "Verified that capillarity alone can lift water only ~1 meter; trees use cohesion-tension hypothesis combining capillarity with transpiration pull to transport water to great heights."
+      },
+      {
+        "title": "Xylem - Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Xylem",
+        "whyUsed": "Confirmed capillary action in xylem creates upward force that stabilizes the water column, and that transpirational pull (via capillary menisci) can lift water up to 100 meters in tall trees."
+      }
+    ],
+    "searchMeta": {
+      "usedWebSearch": true,
+      "searchQueries": [
+        "capillarity physics definition mechanism",
+        "straw drinking atmospheric pressure vacuum",
+        "capillarity plant water transport xylem trees"
+      ],
+      "confidence": "high"
+    }
+  },
+  "id": 15
+}

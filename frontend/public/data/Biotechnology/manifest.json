@@ -1,0 +1,195 @@
+{
+  "name": "Biotechnology",
+  "questions": [
+    {
+      "id": 1,
+      "short_text": "Correctness of statements on monoclonal antibodies nature, mechanism, and use against viral infections",
+      "file": "question_1.json"
+    },
+    {
+      "id": 2,
+      "short_text": "Identify all correct applications of hydrogels among controlled drug delivery, mobile air-conditioning, and industrial lubricants",
+      "file": "question_2.json"
+    },
+    {
+      "id": 3,
+      "short_text": "US apple imports and GM food regulations in India",
+      "file": "question_3.json"
+    },
+    {
+      "id": 4,
+      "short_text": "Aerial metagenomics - collection of DNA from air vs. other definitions",
+      "file": "question_4.json"
+    },
+    {
+      "id": 5,
+      "short_text": "Microsatellite DNA application in studying evolutionary relationships",
+      "file": "question_5.json"
+    },
+    {
+      "id": 6,
+      "short_text": "Which statements about DNA barcoding's applications are correct?",
+      "file": "question_6.json"
+    },
+    {
+      "id": 7,
+      "short_text": "Statement verification on vaccine platform types: Covishield, Sputnik V, and COVAXIN",
+      "file": "question_7.json"
+    },
+    {
+      "id": 8,
+      "short_text": "Are biofilms found on medical implants, food surfaces, and antibiotic-resistant?",
+      "file": "question_8.json"
+    },
+    {
+      "id": 9,
+      "short_text": "What are Bollgard I and Bollgard II technologies used for?",
+      "file": "question_9.json"
+    },
+    {
+      "id": 10,
+      "short_text": "Correctness of statements on genetic engineering and bacteria/virus vectors in recombinant vaccines",
+      "file": "question_10.json"
+    },
+    {
+      "id": 11,
+      "short_text": "Which statements about carbon nanotubes' applications (drug carriers, artificial blood capillaries, biosensors, biodegradability) are correct?",
+      "file": "question_11.json"
+    },
+    {
+      "id": 13,
+      "short_text": "Which statements about Pneumococcal Conjugate Vaccines are correct?",
+      "file": "question_13.json"
+    },
+    {
+      "id": 14,
+      "short_text": "Purpose of pronuclear transfer in reproductive technology",
+      "file": "question_14.json"
+    },
+    {
+      "id": 15,
+      "short_text": "Which statement about synthetic biology and modern DNA techniques is NOT correct?",
+      "file": "question_15.json"
+    },
+    {
+      "id": 16,
+      "short_text": "Identify the correct reasons for RNAi technology's popularity from 4 statements",
+      "file": "question_16.json"
+    },
+    {
+      "id": 17,
+      "short_text": "Cas9 protein function in CRISPR gene editing system",
+      "file": "question_17.json"
+    },
+    {
+      "id": 18,
+      "short_text": "Which statements about GM Mustard (DMH-11) development, genes, and institutional sources are correct?",
+      "file": "question_18.json"
+    },
+    {
+      "id": 19,
+      "short_text": "Can genome sequencing be used for disease resistance, crop breeding speed, and host-pathogen understanding?",
+      "file": "question_19.json"
+    },
+    {
+      "id": 20,
+      "short_text": "Which is the correct application of Somatic Cell Nuclear Transfer technology?",
+      "file": "question_20.json"
+    },
+    {
+      "id": 21,
+      "short_text": "Meaning of 'transcriptome' in bioinformatics",
+      "file": "question_21.json"
+    },
+    {
+      "id": 22,
+      "short_text": "Legal authority for GEAC constitution",
+      "file": "question_22.json"
+    },
+    {
+      "id": 24,
+      "short_text": "Which techniques are used to create transgenic crops?",
+      "file": "question_24.json"
+    },
+    {
+      "id": 25,
+      "short_text": "Can recombinant DNA transfer genes across plant species, animal-to-plant, and microorganism-to-higher organisms?",
+      "file": "question_25.json"
+    },
+    {
+      "id": 26,
+      "short_text": "Mycorrhiza functions in land rehabilitation - which statements are correct?",
+      "file": "question_26.json"
+    },
+    {
+      "id": 30,
+      "short_text": "Primary objective of developing Bt brinjal",
+      "file": "question_30.json"
+    },
+    {
+      "id": 31,
+      "short_text": "Benefits of determining gene arrangement or DNA sequence positions on chromosomes",
+      "file": "question_31.json"
+    },
+    {
+      "id": 32,
+      "short_text": "What correctly describes golden rice's nutritional mechanism?",
+      "file": "question_32.json"
+    },
+    {
+      "id": 33,
+      "short_text": "Field of work of Nobel laureate James D. Watson",
+      "file": "question_33.json"
+    },
+    {
+      "id": 35,
+      "short_text": "ELISA test for cancer detection and Rh blood type distribution",
+      "file": "question_35.json"
+    },
+    {
+      "id": 36,
+      "short_text": "Identifying correct statements about Adam Osborne's portable computer and Ian Wilmut's cloned sheep.",
+      "file": "question_36.json"
+    },
+    {
+      "id": 37,
+      "short_text": "Identify the incorrectly matched person-profession pair among mountaineers and scientists",
+      "file": "question_37.json"
+    },
+    {
+      "id": 39,
+      "short_text": "Match scientists with their major discoveries in molecular biology and biotechnology",
+      "file": "question_39.json"
+    },
+    {
+      "id": 40,
+      "short_text": "Key characteristic of canola mustard varieties bred for human consumption",
+      "file": "question_40.json"
+    },
+    {
+      "id": 41,
+      "short_text": "Why barium is used in X-ray examination of the stomach",
+      "file": "question_41.json"
+    },
+    {
+      "id": 42,
+      "short_text": "Physical principle underlying endoscopy for exploring internal body structures",
+      "file": "question_42.json"
+    },
+    {
+      "id": 43,
+      "short_text": "Bt cotton assertion and reason: is the Bt gene derived from bacteria and does it confer insect resistance?",
+      "file": "question_43.json"
+    },
+    {
+      "id": 44,
+      "short_text": "Was Dolly the first cloned mammal, and was IVF involved in her creation?",
+      "file": "question_44.json"
+    },
+    {
+      "id": 45,
+      "short_text": "Which technique establishes paternity of a child?",
+      "file": "question_45.json"
+    }
+  ]
+}

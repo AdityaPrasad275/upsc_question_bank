@@ -1,0 +1,54 @@
+{
+  "subject": "Science",
+  "year": 2013,
+  "theme": "Friction reduction through rolling motion and contact area minimization",
+  "question_short_text": "Why ball bearings reduce friction between wheel and axle in vehicles",
+  "text": "Ball bearings are used in bicycles, cars, etc., because__:",
+  "options": [
+    "The actual area of contact between the wheel and axle is increased",
+    "The effective area of contact between the wheel and axle is increased",
+    "The effective area of contact between the wheel and axle is reduced",
+    "None of the statements is correct"
+  ],
+  "answerIndex": 2,
+  "answerText": "(c) The effective area of contact between the wheel and axle is reduced",
+  "explanation": "Ball bearings reduce friction by minimizing the effective area of contact between moving parts. Instead of flat surfaces sliding against each other, spherical balls create point or line contact, dramatically reducing friction from sliding motion to rolling motion.",
+  "research": {
+    "summary": "This question tests a critical distinction between actual and effective contact area in friction physics. The key insight is that friction depends not simply on contact area in isolation, but on the type of contact and mode of motion. When a wheel slides directly on an axle (flat surface contact), high friction results. Ball bearings replace this sliding contact with rolling motion using spheres that touch the races at only point or line contacts. This rolling reduces friction to about 1/10th the level of sliding friction (rolling coefficient ~0.001\u20130.01 vs. sliding coefficient ~0.1\u20131.0 for metals). The trap for students is conflating \"actual area\" (which may appear larger because of the balls) with \"effective area\" of force transmission. The effective contact area\u2014the load-bearing interface that matters for friction\u2014is dramatically reduced by the spherical geometry. A ball in contact with a curved raceway touches along a line or elliptical patch, not a wide flat surface. The question rewards understanding that reducing effective contact area lowers friction force proportionally, and that rolling motion itself is mechanically superior to sliding. The phrase \"effective area\" is precise physics terminology: it refers to the area over which normal force is distributed and friction acts. Thus option (c) is correct because it captures both mechanisms by which ball bearings work\u2014reduced effective contact area combined with rolling rather than sliding motion.",
+    "facts": [
+      "Rolling friction coefficients in ball bearings (\u03bc=0.001\u20130.003) are typically 10\u2013100 times lower than sliding friction between metals (\u03bc=0.3\u20130.6), explaining why these bearings are nearly universal in rotating machinery.",
+      "Ball bearings are designed to achieve point or line contact between balls and raceways rather than surface contact, which is why race geometry and ball roundness are precision-engineered to tight tolerances."
+    ],
+    "sources": [
+      {
+        "title": "How Ball Bearings Reduce Friction | SLS Bearings",
+        "url": "https://blog.slsbearings.com/how-ball-bearings-reduce-friction",
+        "whyUsed": "Verified the physical mechanism: rolling friction is far weaker than sliding friction because contact area between rolling surfaces is minimal."
+      },
+      {
+        "title": "How Do Ball Bearings Reduce Friction? | TPI Bearings",
+        "url": "https://www.tpibearings.co/technology/how-do-ball-bearings-reduce-friction/",
+        "whyUsed": "Confirmed coefficient values and the mechanism of rolling vs sliding friction, establishing that rolling friction coefficients are 10 times lower."
+      },
+      {
+        "title": "Ball bearing - Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Ball_bearing",
+        "whyUsed": "Verified that ball bearings have lower load capacity for their size due to smaller contact area between balls and races, and confirmed the primary purpose is friction reduction."
+      },
+      {
+        "title": "Vedantu: Ball-bearings reduce friction",
+        "url": "https://www.vedantu.com/question-answer/ballbearings-are-used-to-reduce-the-friction-by-class-11-physics-cbse-5fc07947601df1664e",
+        "whyUsed": "Confirmed that spherical metallic ball bearings minimize contact area, reducing friction, matching CBSE/UPSC physics curriculum."
+      }
+    ],
+    "searchMeta": {
+      "usedWebSearch": true,
+      "searchQueries": [
+        "ball bearings friction physics effective area contact",
+        "rolling friction vs sliding friction ball bearings"
+      ],
+      "confidence": "high"
+    }
+  },
+  "id": 9
+}

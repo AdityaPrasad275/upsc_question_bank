@@ -1,0 +1,120 @@
+{
+  "name": "diseases",
+  "questions": [
+    {
+      "id": 1,
+      "short_text": "Wolbachia method and mosquito-borne disease control",
+      "file": "question_1.json"
+    },
+    {
+      "id": 4,
+      "short_text": "Which disease is H1N1 virus associated with?",
+      "file": "question_4.json"
+    },
+    {
+      "id": 5,
+      "short_text": "Identify correctly matched vitamin-deficiency disease pairs",
+      "file": "question_5.json"
+    },
+    {
+      "id": 6,
+      "short_text": "Which among diphtheria, chickenpox, and smallpox has been eradicated in India?",
+      "file": "question_6.json"
+    },
+    {
+      "id": 7,
+      "short_text": "Which diseases transmit through tattooing: Chikungunya, Hepatitis B, or HIV-AIDS?",
+      "file": "question_7.json"
+    },
+    {
+      "id": 8,
+      "short_text": "Statement validity: HBV infectivity and liver cancer causation",
+      "file": "question_8.json"
+    },
+    {
+      "id": 9,
+      "short_text": "Swine flu statements: susceptibility, antibiotics role, and pig culling",
+      "file": "question_9.json"
+    },
+    {
+      "id": 10,
+      "short_text": "Which statement about HIV transmission from female to male is incorrect?",
+      "file": "question_10.json"
+    },
+    {
+      "id": 11,
+      "short_text": "Why is malaria vaccine development challenging despite drug resistance?",
+      "file": "question_11.json"
+    },
+    {
+      "id": 12,
+      "short_text": "Identify correct statements about dengue etiology and symptoms",
+      "file": "question_12.json"
+    },
+    {
+      "id": 13,
+      "short_text": "Identify infectious diseases of milching animals from given list",
+      "file": "question_13.json"
+    },
+    {
+      "id": 14,
+      "short_text": "Causative agent of athlete's foot (tinea pedis)",
+      "file": "question_14.json"
+    },
+    {
+      "id": 15,
+      "short_text": "Identify the sex-linked genetic disease from a list of four disorders",
+      "file": "question_15.json"
+    },
+    {
+      "id": 16,
+      "short_text": "What causes lathyrism?",
+      "file": "question_16.json"
+    },
+    {
+      "id": 17,
+      "short_text": "Match diseases with their causative organisms (Malaria, Poliomyelitis, Tuberculosis, Ringworm)",
+      "file": "question_17.json"
+    },
+    {
+      "id": 18,
+      "short_text": "Match diseases with affected body organs/systems: malaria, filaria, encephalitis, leukaemia",
+      "file": "question_18.json"
+    },
+    {
+      "id": 19,
+      "short_text": "Which associations characterize diabetes mellitus: higher/lower blood sugar and insulin levels?",
+      "file": "question_19.json"
+    },
+    {
+      "id": 20,
+      "short_text": "Identify the correct modes of HIV transmission from a 4-statement set",
+      "file": "question_20.json"
+    },
+    {
+      "id": 21,
+      "short_text": "Diseases from shallow hand pump water: which is NOT a risk?",
+      "file": "question_21.json"
+    },
+    {
+      "id": 22,
+      "short_text": "Match disease sets to correct classification (hereditary, bacterial, sex-linked, viral)",
+      "file": "question_22.json"
+    },
+    {
+      "id": 23,
+      "short_text": "Which antimicrobial drug treats both tuberculosis and leprosy?",
+      "file": "question_23.json"
+    },
+    {
+      "id": 24,
+      "short_text": "Identify the disease that begins as a single cell and grows into a merciless disease",
+      "file": "question_24.json"
+    },
+    {
+      "id": 25,
+      "short_text": "Identify the incorrect statement about Hepatitis B and C transmission, vaccination, and epidemiology",
+      "file": "question_25.json"
+    }
+  ]
+}

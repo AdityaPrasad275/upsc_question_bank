@@ -1,0 +1,49 @@
+{
+  "subject": "Science",
+  "year": 2023,
+  "theme": "uranium enrichment and nuclear fuel requirements for power generation",
+  "question_short_text": "India's uranium deposits vs coal dependence, and uranium enrichment for electricity",
+  "text": "Consider the following statements:\n\nStatement-I:\nIndia, despite having Uranium deposits, depends on coal for most of its electricity production.\n\nStatement-II:\nUranium, enriched to the extent of at least 60%, is required for the production of electricity.\n\nWhich of the following is correct in respect of the above statements?",
+  "options": [
+    "(a) Both Statement-I and Statement-II are correct and Statement-II is the correct explanation for Statement-I.",
+    "(b) Both Statement-I and Statement-II are correct and Statement-II is not the correct explanation for Statement-I.",
+    "(c) Statement-I is correct but Statement-II is incorrect.",
+    "(d) Statement-I is incorrect but Statement-II is correct."
+  ],
+  "answerIndex": 2,
+  "answerText": "(c) Statement-I is correct but Statement-II is incorrect.",
+  "explanation": "Statement-I is correct: India has uranium deposits but relies on coal for most of its electricity (~70-80%). Statement-II is incorrect: commercial nuclear reactors require uranium enriched to only 3-5% U-235, not 60%. The 60% enrichment confusion arises from media coverage of weapons or research programs, not power generation.",
+  "research": {
+    "summary": "The question tests two distinct concepts: India's energy portfolio and the technical requirements for nuclear fuel. Statement-I is factually correct\u2014India is the world's ninth-largest uranium producer but coal dominates its electricity mix because coal is abundant and economically cheaper than building and fueling nuclear capacity. Only about 3% of India's electricity comes from nuclear sources, concentrated in thermal generation from coal. Statement-II contains the core misconception UPSC is testing: the enrichment requirement for civilian nuclear power. Commercial light-water reactors (which dominate global nuclear power) require uranium enriched to 3-5% U-235 concentration, which is classified as low-enriched uranium (LEU). The 60% figure invokes highly enriched uranium (HEU), which is used in research reactors and military weapons, not power generation. Even more stringent is weapons-grade uranium, which requires 90% enrichment. The trap is that recent geopolitical coverage of Iran's 60% enrichment program has made this threshold visible to exam-takers, but UPSC is testing whether aspirants understand that civilian electricity production has entirely different technical specifications. The distinction is crucial: enriching uranium to 3-5% achieves a sustainable chain reaction suitable for controlled heat generation; enriching beyond 20% (the threshold between LEU and HEU) is economically unnecessary and politically restricted for power generation because it creates proliferation risks.",
+    "facts": [
+      "India's uranium deposits are located in Singhbhum shear zone (Jharkhand), Cuddapah basin (Andhra Pradesh), Mahadek basin (Meghalaya), and Bhima basin (Karnataka)\u2014totaling significant reserves but insufficient domestic supply, so India imports enriched fuel from Russia and Kazakhstan.",
+      "Only 20% U-235 distinguishes low-enriched uranium (LEU, used for power) from highly enriched uranium (HEU), and the jump from 3-5% to 90% weapons-grade requires only incrementally more technical effort\u2014a proliferation concern that keeps civilian fuel at strictly controlled low levels."
+    ],
+    "sources": [
+      {
+        "title": "Enriched uranium - Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Enriched_uranium",
+        "whyUsed": "Verified the 3-5% enrichment requirement for commercial light-water reactors and defined the LEU/HEU threshold at 20%."
+      },
+      {
+        "title": "Uranium Enrichment Explained | Department of Energy",
+        "url": "https://www.energy.gov/ne/articles/uranium-enrichment-explained",
+        "whyUsed": "Confirmed that commercial nuclear reactors use LEU enriched to 3-5% U-235, and clarified the different purposes of HEU (naval, weapons, research)."
+      },
+      {
+        "title": "Max IAS - India uranium and electricity production",
+        "url": "https://maxias.in/pyq-question-bank/geography/india-despite-having-uranium-deposits-depends-on-coal-for-most-of-its-electricity-production/",
+        "whyUsed": "Provided specific geographic locations of India's uranium deposits and confirmed that 3-5% enrichment is standard for civilian power generation."
+      }
+    ],
+    "searchMeta": {
+      "usedWebSearch": true,
+      "searchQueries": [
+        "uranium enrichment nuclear power electricity percentage",
+        "India uranium deposits coal electricity production 2023"
+      ],
+      "confidence": "high"
+    }
+  },
+  "id": 2
+}

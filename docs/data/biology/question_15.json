@@ -1,0 +1,78 @@
+{
+  "subject": "Science",
+  "year": 2014,
+  "theme": "vegetative reproduction in plants: mechanisms, genetic implications, and virus transmission",
+  "question_short_text": "Which statements about vegetative propagation are correct: clonal population, virus elimination, and year-round practice?",
+  "text": "Which of the following statements is/are correct regarding vegetative propagation of plants?\n\n1. Vegetative propagation produces clonal population.\n2. Vegetative propagation helps in eliminating the virus.\n3. Vegetative propagation can be practiced most of the year.\n\nSelect the correct answer using the code given below.",
+  "options": [
+    "1 only",
+    "2 and 3 only",
+    "1 and 3 only",
+    "1, 2 and 3"
+  ],
+  "answerIndex": 2,
+  "answerText": "(c) 1 and 3 only",
+  "explanation": "Statement 1 is correct: vegetative propagation produces genetically identical offspring (clones). Statement 2 is incorrect: vegetative propagation spreads rather than eliminates viruses from parent to offspring. Statement 3 is correct: vegetative propagation can be performed throughout the year, unlike seed-based propagation which may be seasonally dependent.",
+  "research": {
+    "summary": "Vegetative propagation is asexual reproduction using plant fragments (stems, roots, leaves, buds) to produce genetically identical copies of the parent plant. This is fundamentally different from sexual reproduction and has distinct advantages and risks. Statement 1 is unambiguously correct: all offspring are clones (genetically identical ramets derived from a single genet), produced through mitosis rather than meiosis. Statement 2 represents a dangerous misconception commonly tested in biology exams. Vegetative propagation does not eliminate viruses; it perpetuates them. When infected tubers, bulbs, cuttings, or buds are used as propagation material, viruses present in the parent plant are transmitted directly to all offspring. The research literature shows that nearly 794 documented plant viruses are transmissible through vegetative propagation alone. Crops like potato, cassava, banana, and strawberry historically suffer severe losses because viral diseases (e.g., potato leaf roll virus, cassava brown streak virus) spread through infected planting material year after year, accumulating in propagated lines. In fact, some modern techniques aim to eliminate viruses from vegetatively propagated plants through tissue culture or thermotherapy\u2014these are remedial measures precisely because vegetative propagation is a major virus vector. Statement 3 is correct: unlike seed propagation (which depends on flowering season), vegetative propagation can be performed throughout most of the year for herbaceous plants and during appropriate growth phases (softwood in spring, semi-hardwood in summer, hardwood in fall/winter) for woody plants, making it far more flexible temporally. The key conceptual trap UPSC is testing is confusing virus transmission with virus elimination\u2014a confusion that could lead to incorrect management strategies in agriculture.",
+    "facts": [
+      "Approximately 794 out of 1,600+ documented plant viruses are transmissible through vegetative propagation, making it one of the leading methods of viral disease spread in agriculture.",
+      "Vegetatively propagated crops (potato, cassava, banana, sugarcane) show cumulative viral burden over successive propagation cycles because viruses cannot be purged without deliberate intervention like tissue culture, heat treatment, or using virus-free mother plants."
+    ],
+    "sources": [
+      {
+        "title": "Plant Virus Transmissions Database - PMC",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11004557/",
+        "whyUsed": "Quantified that nearly half (794) of over 1,600 documented plant viruses are transmitted via vegetative propagation, confirming Statement 2 is incorrect."
+      },
+      {
+        "title": "Plant Virus Transmission Through Vegetative Propagules - Springer Nature",
+        "url": "https://link.springer.com/chapter/10.1007/978-81-322-0813-6_9",
+        "whyUsed": "Documented virus spread through vegetative propagules in economically important crops (cassava, potato, banana, sugarcane) and showed that vegetative propagation perpetuates, not eliminates, viral diseases."
+      },
+      {
+        "title": "Vegetative Reproduction - Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Vegetative_reproduction",
+        "whyUsed": "Confirmed that vegetative propagation produces genetically identical plants and that all plants in a clone are susceptible to the same pathogens, supporting Statement 1 and refuting Statement 2."
+      },
+      {
+        "title": "Influences of Clonality on Plant Sexual Reproduction - PNAS",
+        "url": "https://www.pnas.org/doi/10.1073/pnas.1501712112",
+        "whyUsed": "Established the fundamental mechanism of clonal growth and the genetic identity of ramets within a genet, confirming Statement 1."
+      },
+      {
+        "title": "Starting Plants From Cuttings for the Home Gardener - CAES",
+        "url": "https://extension.uga.edu/publications/detail.html?number=B1553&title=starting-plants-from-cuttings-for-the-home-gardener",
+        "whyUsed": "Documented the temporal flexibility of vegetative propagation (softwood, semi-hardwood, hardwood cuttings across seasons, plus year-round herbaceous propagation), confirming Statement 3."
+      }
+    ],
+    "searchMeta": {
+      "usedWebSearch": true,
+      "searchQueries": [
+        "vegetative propagation clonal population genetics",
+        "vegetative propagation virus disease transmission plants",
+        "vegetative propagation year-round season timing plants"
+      ],
+      "confidence": "high"
+    }
+  },
+  "id": 15,
+  "usage": {
+    "cache_creation": {
+      "ephemeral_1h_input_tokens": 0,
+      "ephemeral_5m_input_tokens": 5030
+    },
+    "cache_creation_input_tokens": 49445,
+    "cache_read_input_tokens": 5030,
+    "inference_geo": "not_available",
+    "input_tokens": 673,
+    "iterations": null,
+    "output_tokens": 1413,
+    "server_tool_use": {
+      "web_fetch_requests": 0,
+      "web_search_requests": 3
+    },
+    "service_tier": "batch",
+    "speed": null
+  }
+}

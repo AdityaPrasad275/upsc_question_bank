@@ -1,0 +1,55 @@
+{
+  "subject": "Science",
+  "year": 2025,
+  "theme": "Coal gasification technology and chemical synthesis pathways via syngas",
+  "question_short_text": "Coal gasification products for ethanol, nitroglycerine, and urea synthesis",
+  "text": "Consider the following substances:\n\nI. Ethanol\nII. Nitroglycerine\nIII. Urea\n\nCoal gasification technology can be used in the production of how many of them?",
+  "options": [
+    "a) Only one",
+    "b) Only two",
+    "c) All the three",
+    "d) None"
+  ],
+  "answerIndex": 2,
+  "answerText": "(c) All the three",
+  "explanation": "Coal gasification produces syngas (CO + H\u2082), which serves as a versatile chemical feedstock for all three substances. Ethanol can be synthesized directly from syngas via catalytic or fermentation routes. Urea is produced via syngas \u2192 ammonia (Haber-Bosch) \u2192 urea synthesis. Nitroglycerine is synthesized from syngas \u2192 ammonia \u2192 nitric acid (Ostwald process) \u2192 nitroglycerine.",
+  "research": {
+    "summary": "The core concept tested here is understanding syngas as a universal intermediate chemical platform. Coal gasification converts coal into syngas (primarily CO and H\u2082), which can be refined and redirected toward multiple downstream chemical products. For ethanol, syngas undergoes direct catalytic synthesis or microbial fermentation to yield ethanol\u2014a proven industrial pathway documented in India's coal gasification missions. For urea, the pathway is longer but equally valid: syngas provides hydrogen, which combines with atmospheric nitrogen in the Haber-Bosch process to produce ammonia. That ammonia is then reacted with CO\u2082 (also available from gasification or shift reactions) to synthesize urea via the Basarov reaction. This route is already operational at India's Talcher Fertilizer Limited plant, which produces neem-coated urea from coal-derived syngas at 1.27 million tonnes annually. The trap in this question lies in assuming nitroglycerine cannot be made from coal products because it appears specialized or explosive. However, syngas-derived ammonia can be oxidized via the Ostwald process to produce nitric acid, which then nitrates glycerol to form nitroglycerine. While glycerol itself is external (from soap or biodiesel), the key nitric acid feedstock emerges from coal-derived syngas. This makes the answer 'all three' correct\u2014the common denominator is syngas's ability to substitute for petroleum-derived chemicals across multiple synthesis routes.",
+    "facts": [
+      "China produces 97% of its ammonia via coal gasification, making coal-to-ammonia-to-urea a commercially proven pathway at scale.",
+      "Syngas composition typically includes 30\u201360% CO, 25\u201330% H\u2082, and small amounts of CO\u2082 and CH\u2084, providing all major building blocks for downstream synthesis."
+    ],
+    "sources": [
+      {
+        "title": "Coal gasification - Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Coal_gasification",
+        "whyUsed": "Verified coal gasification produces syngas (CO + H\u2082) and its uses for ammonia, methanol, and other chemicals."
+      },
+      {
+        "title": "National Coal Gasification Mission (100 MT Coal Gasification by 2030)",
+        "url": "https://coal.gov.in/sites/default/files/ncgm/ncgm21-09-21.pdf",
+        "whyUsed": "Official Indian government documentation confirming coal gasification for ethanol and ammonia/urea production, with Talcher Fertilizer Limited project details."
+      },
+      {
+        "title": "Ammonia Production Processes from Energy and Emissions",
+        "url": "https://www.c-thru.org/wp-content/uploads/2022/12/Ammonia-Technical-Brief-June2022.pdf",
+        "whyUsed": "Technical verification of Haber-Bosch process using hydrogen from coal gasification and Ostwald process for nitric acid."
+      },
+      {
+        "title": "Syngas - Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Syngas",
+        "whyUsed": "Confirmed syngas as feedstock for ammonia (Haber process), methanol, Fischer-Tropsch fuels, and verified industrial usage patterns."
+      }
+    ],
+    "searchMeta": {
+      "usedWebSearch": true,
+      "searchQueries": [
+        "coal gasification syngas ethanol production",
+        "coal gasification hydrogen ammonia urea",
+        "coal gasification nitroglycerine synthesis"
+      ],
+      "confidence": "high"
+    }
+  },
+  "id": 1
+}

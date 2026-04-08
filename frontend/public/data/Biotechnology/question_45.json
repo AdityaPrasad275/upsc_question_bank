@@ -1,0 +1,77 @@
+{
+  "subject": "Science",
+  "year": 1997,
+  "theme": "Forensic techniques for establishing biological paternity",
+  "question_short_text": "Which technique establishes paternity of a child?",
+  "text": "Which one of the following techniques can be used to establish the paternity of a child?",
+  "options": [
+    "Protein analysis",
+    "Chromosome counting",
+    "Quantitative analysis of DNA",
+    "DNA finger-printing"
+  ],
+  "answerIndex": 3,
+  "answerText": "(d) DNA finger-printing",
+  "explanation": "DNA fingerprinting (also called DNA profiling or DNA typing) is a forensic technique that analyzes unique DNA characteristics to create a genetic profile distinct to each individual. Since a child inherits half of their DNA from each parent, comparing the child's DNA profile with the alleged father's allows for definitive paternity establishment with high accuracy.",
+  "research": {
+    "summary": "DNA fingerprinting, developed by Alec Jeffreys in 1984 and first applied to paternity testing in 1988, remains the gold standard for establishing biological paternity. The technique analyzes hypervariable regions of DNA\u2014minisatellites (Variable Number Tandem Repeats or VNTRs) and microsatellites (Short Tandem Repeats or STRs)\u2014that show extreme polymorphism between individuals. The key principle is that a child inherits exactly half of their DNA from each parent, so scientists can match alleles from the child's profile to the alleged father's, achieving near-certainty in virtually every case. The main weakness of earlier methods explains why this question tests DNA fingerprinting specifically: protein analysis and blood group serology (which rely on protein antigens) could only exclude paternity with limited power (around 30-80% accuracy) but could not definitively prove it. Chromosome counting is irrelevant for paternity since most humans have the same chromosome count. Quantitative analysis of DNA\u2014measuring total DNA amount\u2014provides no information about individual genetic variation. Modern paternity testing uses autosomal STR analysis from 13-16 loci on non-sex chromosomes, achieving 99.99% accuracy when comparing alleged father and child directly, because unrelated individuals are extremely unlikely to share the same STR profile across multiple loci.",
+    "facts": [
+      "DNA fingerprinting achieved approximately 98% exclusion rate compared to serology's 40%, making it revolutionary when introduced in the late 1980s.",
+      "The two earliest methods of paternity testing\u2014blood typing and serological protein testing\u2014could only rule out paternity, not confirm it, a limitation that DNA fingerprinting overcame."
+    ],
+    "sources": [
+      {
+        "title": "DNA Fingerprinting and Paternity Testing - Office of Justice Programs",
+        "url": "https://www.ojp.gov/ncjrs/virtual-library/abstracts/dna-fingerprinting-and-paternity-testing",
+        "whyUsed": "Established that DNA fingerprinting is the only way to conclusively link father and child in paternity suits, superseding blood tests."
+      },
+      {
+        "title": "Paternity Testing: Blood Types and DNA - Nature Education",
+        "url": "https://www.nature.com/scitable/topicpage/paternity-testing-blood-types-and-dna-374/",
+        "whyUsed": "Confirmed the development of DNA fingerprinting in 1984 by Alec Jeffreys and its application to paternity testing from 1988 onwards, comparing it to earlier blood typing methods."
+      },
+      {
+        "title": "Discovery, development, and current applications of DNA identity testing - PMC",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC1200713/",
+        "whyUsed": "Documented the historical evolution from ABO blood groups and serology to DNA fingerprinting, and confirmed paternity establishment as a major application."
+      },
+      {
+        "title": "DNA paternity testing - Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/DNA_paternity_testing",
+        "whyUsed": "Provided comprehensive technical detail that older methods (blood typing achieving ~30% exclusion, HLA typing ~80%) are now obsolete, while autosomal DNA testing is the gold standard."
+      },
+      {
+        "title": "Role of DNA Fingerprinting in Disputed Paternity - ResearchGate",
+        "url": "https://www.researchgate.net/publication/307082451_Role_of_DNA_Fingerprinting_in_Disputed_Paternity",
+        "whyUsed": "Confirmed DNA fingerprinting as one of the most powerful forensic tools for establishing paternity, using VNTR and STR polymorphisms inherited in Mendelian fashion."
+      }
+    ],
+    "searchMeta": {
+      "usedWebSearch": true,
+      "searchQueries": [
+        "DNA fingerprinting paternity testing establishment",
+        "paternity testing methods protein analysis chromosome DNA"
+      ],
+      "confidence": "high"
+    }
+  },
+  "id": 45,
+  "usage": {
+    "cache_creation": {
+      "ephemeral_1h_input_tokens": 0,
+      "ephemeral_5m_input_tokens": 0
+    },
+    "cache_creation_input_tokens": 27320,
+    "cache_read_input_tokens": 10060,
+    "inference_geo": "not_available",
+    "input_tokens": 486,
+    "iterations": null,
+    "output_tokens": 1208,
+    "server_tool_use": {
+      "web_fetch_requests": 0,
+      "web_search_requests": 2
+    },
+    "service_tier": "batch",
+    "speed": null
+  }
+}

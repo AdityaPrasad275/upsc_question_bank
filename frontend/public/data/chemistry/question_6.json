@@ -1,0 +1,49 @@
+{
+  "subject": "Science",
+  "year": 2019,
+  "theme": "Waste-to-energy conversion technologies and thermal waste treatment processes",
+  "question_short_text": "Context for pyrolysis and plasma gasification",
+  "text": "In the context of which one of the following are the terms 'pyrolysis and plasma gasification' mentioned?",
+  "options": [
+    "Extraction of rare earth elements",
+    "Natural gas extraction technologies",
+    "Hydrogen fuel-based automobiles",
+    "Waste-to-energy technologies"
+  ],
+  "answerIndex": 3,
+  "answerText": "(d) Waste-to-energy technologies",
+  "explanation": "Pyrolysis and plasma gasification are both advanced thermal technologies used to convert waste materials into usable energy. They break down waste at high temperatures to produce syngas (carbon monoxide and hydrogen mixture) that can generate electricity, heat, or chemical feedstocks, making them core waste-to-energy processes.",
+  "research": {
+    "summary": "The key to solving this question is recognizing that pyrolysis and plasma gasification are fundamentally thermal conversion processes designed to extract energy from waste. Pyrolysis occurs in the absence of oxygen, thermally degrading waste at elevated temperatures (typically above 430\u2013500\u00b0C) to produce syngas, oils, and char. Plasma gasification operates at even higher temperatures (2,000\u201314,000\u00b0C using electric arc plasma torches) and breaks down waste molecules into their constituent atoms, producing syngas and vitrified slag. Both processes are classified as Advanced Thermal Technologies (or Alternative Conversion Technologies) and are distinct from conventional incineration because they use little to no oxygen, reducing emissions of toxic compounds like dioxins and furans. The syngas produced has calorific value and can be combusted in secondary processes to generate electricity or used as a chemical feedstock. This positions them squarely in the waste-to-energy domain, where the goal is to divert waste from landfills while simultaneously producing usable energy. The trap would be confusing these with rare earth extraction (which uses chemical leaching) or natural gas/hydrogen technologies (which focus on fossil fuel processing or fuel production for vehicles, not waste conversion). Understanding the oxygen-free or oxygen-limited environment, the extremely high temperatures, and the syngas output is essential for recognizing waste-to-energy applications of these technologies.",
+    "facts": [
+      "Plasma gasification can achieve volume reduction exceeding 99% and the slag produced is inert and can be used as construction material, supporting circular economy principles.",
+      "These thermal processes are more environmentally favorable than incineration because they avoid combustion, reducing greenhouse gas emissions and preventing the formation of toxic dioxins that typically occur at 350\u2013400\u00b0C during conventional combustion."
+    ],
+    "sources": [
+      {
+        "title": "Plasma gasification - Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Plasma_gasification",
+        "whyUsed": "Verified technical specifications of plasma gasification temperatures and process outputs"
+      },
+      {
+        "title": "Waste to Energy - Drishti IAS",
+        "url": "https://www.drishtiias.com/daily-updates/daily-news-analysis/waste-to-energy-4",
+        "whyUsed": "Clarified the distinction between pyrolysis, gasification, and incineration processes with specific temperature ranges"
+      },
+      {
+        "title": "UPSC Prelims 2019 Question 26 - Edukremy",
+        "url": "https://edukemy.com/blog/upsc-prelims-2019-question-26/",
+        "whyUsed": "Confirmed the official question source and correct answer from UPSC 2019 Prelims"
+      }
+    ],
+    "searchMeta": {
+      "usedWebSearch": true,
+      "searchQueries": [
+        "pyrolysis plasma gasification waste-to-energy",
+        "UPSC 2019 pyrolysis plasma gasification question"
+      ],
+      "confidence": "high"
+    }
+  },
+  "id": 6
+}

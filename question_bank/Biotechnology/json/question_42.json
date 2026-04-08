@@ -1,0 +1,67 @@
+{
+  "subject": "Science",
+  "year": 1999,
+  "theme": "optical phenomena in medical devices: total internal reflection in endoscopy",
+  "question_short_text": "Physical principle underlying endoscopy for exploring internal body structures",
+  "text": "Endoscopy, a technique used to explore the stomach or other inner parts of the body is based on the phenomenon of:",
+  "options": [
+    "Total internal reflection",
+    "Interference",
+    "Diffraction",
+    "Polarisation"
+  ],
+  "answerIndex": 0,
+  "answerText": "(a) Total internal reflection",
+  "explanation": "Endoscopes rely on optical fibers, which transmit light through total internal reflection. Light entering the fiber core hits the core-cladding boundary at angles exceeding the critical angle, causing complete internal reflection that confines light within the fiber as it travels, even around bends.",
+  "research": {
+    "summary": "Endoscopy is fundamentally a fiber-optic medical tool, and the physics enabling it is total internal reflection (TIR). The endoscope contains bundles of optical fibers composed of a high-refractive-index core surrounded by lower-refractive-index cladding. When light from an external source enters the fiber core at a suitable angle, it strikes the core-cladding boundary at an angle greater than the critical angle\u2014typically around 82\u00b0 in standard fibers. At this point, all light is reflected back into the core rather than escaping into the cladding. This phenomenon is total internal reflection, and it confines light to propagate along the fiber length with minimal loss, even when the fiber bends. One fiber bundle carries illumination light down to the interior body cavity; reflected light from the tissue returns through another fiber bundle to an external camera or the surgeon's eye. The flexibility of fiber bundles allows navigation through narrow and curved body passages\u2014intestines, joints, blood vessels\u2014that would otherwise require invasive surgery. This is why UPSC tests this concept: it separates the genuine physical mechanism (TIR) from superficial optical behaviors (interference, diffraction, polarization are all real optical phenomena, but none of them are the governing principle in endoscopy). The misconception trap is that students might think endoscopy is about bending light in a clever way or using wave properties like diffraction; instead, it relies on the geometrical optics principle of total internal reflection creating a 'light pipe' that guides rays straight through the fiber.",
+    "facts": [
+      "Optical fiber typically has core index ~1% higher than cladding index, making critical angle ~82\u00b0; at angles greater than this, light cannot escape the core.",
+      "Cladding material surrounds the core specifically to create the refractive index difference needed for total internal reflection; without it, light would leak between adjacent fibers in a bundle."
+    ],
+    "sources": [
+      {
+        "title": "25.4: Total Internal Reflection - Physics LibreTexts",
+        "url": "https://phys.libretexts.org/Bookshelves/College_Physics/College_Physics_1e_(OpenStax)/25:_Geometric_Optics/25.04:_Total_Internal_Reflection",
+        "whyUsed": "Comprehensive explanation of total internal reflection in fiber optics and endoscopy, with explicit mention of endoscope construction and operation."
+      },
+      {
+        "title": "The Physics of Fiber Optics in Endoscopic Systems - ICO Optics",
+        "url": "https://www.ico-optics.org/the-physics-of-fiber-optics-in-endoscopic-systems/",
+        "whyUsed": "Detailed technical treatment of how total internal reflection is maintained in endoscope fibers, including core-cladding refractive index differences and critical angle values."
+      },
+      {
+        "title": "Critical Angle and Optical Fiber Applications",
+        "url": "https://empossible.net/critical-angle/",
+        "whyUsed": "Clear explanation of how critical angle enables total internal reflection in fiber optics, with practical context for endoscopic and telecommunications use."
+      }
+    ],
+    "searchMeta": {
+      "usedWebSearch": true,
+      "searchQueries": [
+        "endoscopy optical fiber total internal reflection physics",
+        "critical angle optical fiber light transmission"
+      ],
+      "confidence": "high"
+    }
+  },
+  "id": 42,
+  "usage": {
+    "cache_creation": {
+      "ephemeral_1h_input_tokens": 0,
+      "ephemeral_5m_input_tokens": 0
+    },
+    "cache_creation_input_tokens": 27557,
+    "cache_read_input_tokens": 10060,
+    "inference_geo": "not_available",
+    "input_tokens": 548,
+    "iterations": null,
+    "output_tokens": 1011,
+    "server_tool_use": {
+      "web_fetch_requests": 0,
+      "web_search_requests": 2
+    },
+    "service_tier": "batch",
+    "speed": null
+  }
+}

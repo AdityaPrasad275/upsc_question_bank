@@ -1,0 +1,71 @@
+{
+  "subject": "Science",
+  "year": 2019,
+  "theme": "CRISPR-Cas9 gene editing technology and molecular mechanism of genome editing",
+  "question_short_text": "Cas9 protein function in CRISPR gene editing system",
+  "text": "What is Cas9 protein that is often mentioned in news?",
+  "options": [
+    "A molecular scissors used in targeted gene editing",
+    "A biosensor used in the accurate detection of pathogens in patients",
+    "A gene that makes plants pest-resistant",
+    "A herbicidal substance synthesized in genetically modified crops"
+  ],
+  "answerIndex": 0,
+  "answerText": "(a) A molecular scissors used in targeted gene editing",
+  "explanation": "Cas9 (CRISPR-associated protein 9) is an endonuclease enzyme that acts as molecular scissors by making precise double-stranded breaks in DNA, enabling targeted genome modifications as part of the CRISPR gene-editing system.",
+  "research": {
+    "summary": "Cas9 is a nuclease enzyme at the core of the CRISPR-Cas9 gene-editing system derived from bacterial adaptive immunity. The system works by using a guide RNA to direct Cas9 to a specific DNA target sequence; once there, Cas9 cuts both DNA strands at that precise location, functioning as the cutting mechanism. The double-stranded break allows cells' natural repair machinery (non-homologous end joining or homology-directed repair) to either disrupt the gene or insert desired genetic changes. This makes CRISPR-Cas9 faster, cheaper, and more efficient than earlier genome-editing methods like zinc-finger nucleases (ZFNs) and TALENs, which rely on protein engineering instead of RNA guidance. Option (b) conflates Cas9 with biosensors, which are a different application; option (c) confuses Cas9 protein with the editable genes themselves; option (d) misidentifies Cas9 as a chemical pesticide rather than a protein-cutting tool. The key distinction is that Cas9 is the cutting enzyme itself, not a detection tool, gene product, or chemical herbicide.",
+    "facts": [
+      "Doudna and Charpentier filed the first patent for CRISPR-Cas9 in 2012, establishing it as a practical gene-editing tool distinct from earlier methods.",
+      "By 2019 (the year of this question), CRISPR-Cas9 had entered clinical trials for in vivo applications, and the technology had expanded to agriculture, medicine, and biotechnology, making it a frequently mentioned breakthrough in news coverage."
+    ],
+    "sources": [
+      {
+        "title": "Mechanism and Applications of CRISPR/Cas-9-Mediated Genome Editing - PMC",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8388126/",
+        "whyUsed": "Detailed explanation of Cas9 mechanism: guide RNA recognition, double-stranded break formation, and cellular repair pathways."
+      },
+      {
+        "title": "CRISPR/Cas9 therapeutics: progress and prospects | Nature",
+        "url": "https://www.nature.com/articles/s41392-023-01309-7",
+        "whyUsed": "Comprehensive overview of Cas9 protein structure, nuclease domains (RuvC-like and HNH), and distinction from earlier gene-editing methods."
+      },
+      {
+        "title": "What is CRISPR/Cas9? - PMC - NIH",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4975809/",
+        "whyUsed": "Clear definition of Cas9 as an endonuclease causing double-stranded DNA breaks and role in CRISPR-Cas9 technology."
+      },
+      {
+        "title": "CRISPR gene editing - Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/CRISPR_gene_editing",
+        "whyUsed": "Historical context: Doudna and Charpentier's 2012 patent filing, clinical trials beginning in 2019, and applications across multiple fields."
+      }
+    ],
+    "searchMeta": {
+      "usedWebSearch": true,
+      "searchQueries": [
+        "Cas9 protein CRISPR gene editing mechanism 2019"
+      ],
+      "confidence": "high"
+    }
+  },
+  "id": 17,
+  "usage": {
+    "cache_creation": {
+      "ephemeral_1h_input_tokens": 0,
+      "ephemeral_5m_input_tokens": 0
+    },
+    "cache_creation_input_tokens": 13926,
+    "cache_read_input_tokens": 10060,
+    "inference_geo": "not_available",
+    "input_tokens": 527,
+    "iterations": null,
+    "output_tokens": 1020,
+    "server_tool_use": {
+      "web_fetch_requests": 0,
+      "web_search_requests": 1
+    },
+    "service_tier": "batch",
+    "speed": null
+  }
+}

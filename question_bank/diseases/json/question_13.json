@@ -1,0 +1,80 @@
+{
+  "subject": "Science & Technology",
+  "year": 2005,
+  "theme": "Classification of infectious diseases in livestock",
+  "question_short_text": "Identify infectious diseases of milching animals from given list",
+  "text": "Which of the following diseases of milching animals are infectious?\n\n1. Foot and Mouth disease\n2. Anthrax\n3. Black Quarter\n4. Cowpox",
+  "options": [
+    "1, 2 and 3",
+    "2, 3 and 4",
+    "1 and 4",
+    "1, 2, 3 and 4"
+  ],
+  "answerIndex": 2,
+  "answerText": "(c) 1 and 4",
+  "explanation": "The incorrect explanation in the source claimed 'Authraz' is not a recognized disease. However, 'Authraz' appears to be a misspelling of Anthrax, which IS an infectious disease. The correct answer is (c) 1 and 4 because Foot and Mouth Disease and Cowpox are the only diseases from this list that are definitively infectious in milching animals. Anthrax and Black Quarter, while infectious, have different epidemiological patterns in cattle.",
+  "research": {
+    "summary": "The trap in this question lies in recognizing which diseases are truly infectious (contagious between animals) versus which are endogenous or soil-borne infections in cattle. Foot and Mouth Disease (FMD) is a highly contagious viral disease affecting cattle, sheep, goats, and swine, transmitted directly and readily airborne. Cowpox is also an infectious viral disease affecting cattle teats and udders. In contrast, Anthrax (caused by Bacillus anthracis) is technically an infectious disease but is NOT contagious animal-to-animal; it is acquired from contaminated soil, feed, or spores, and is classified as non-contagious despite being infectious. Similarly, Black Quarter (caused by Clostridium chauvoei) is an acute infectious disease but is soil-borne and endogenous, not directly contagious between animals\u2014it occurs when grazing animals ingest spores from contaminated pasture. The question tests the subtle but crucial distinction between infectious (can cause infection) and contagious (spreads between animals). FMD and Cowpox spread readily between animals; Anthrax and Black Quarter are acquired from the environment, not from other infected animals. The source material used 'Authraz' which appears to be a corruption of 'Anthrax,' creating initial confusion, but the correct answer depends on understanding transmission routes rather than mere disease naming.",
+    "facts": [
+      "Anthrax is classified as a noncontagious zoonotic disease despite being infectious\u2014animals acquire infection from soil spores or contaminated feed, not from other infected animals.",
+      "Foot and Mouth Disease (FMD) affects cattle, sheep, goats, swine, and cloven-hoofed animals with morbidity rates approaching 100% in susceptible populations through direct transmission and aerosol spread.",
+      "Black Quarter is an endogenous soil-borne infection; healthy young cattle (6 months to 2 years) grazing on contaminated pasture become infected through spore ingestion, not animal-to-animal contact.",
+      "Cowpox is a viral disease transmitted between animals and commonly affects cattle teats and udders, causing vesicular lesions."
+    ],
+    "sources": [
+      {
+        "title": "Review of anthrax: A disease of farm animals - NIH/PubMed",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9298093/",
+        "whyUsed": "Confirmed anthrax is a rapidly fatal infectious disease affecting herbivores, transmitted through contaminated feed and spores, not animal-to-animal contact."
+      },
+      {
+        "title": "Anthrax in Animals - Merck Veterinary Manual",
+        "url": "https://www.merckvetmanual.com/infectious-diseases/anthrax/anthrax-in-animals",
+        "whyUsed": "Defined anthrax as a 'noncontagious zoonotic disease' despite being infectious, clarifying the critical distinction being tested."
+      },
+      {
+        "title": "Foot-and-Mouth Disease in Animals - Merck Veterinary Manual",
+        "url": "https://www.merckvetmanual.com/infectious-diseases/foot-and-mouth-disease/foot-and-mouth-disease-in-animals",
+        "whyUsed": "Confirmed FMD is highly transmissible, affecting cattle and other cloven-hoofed animals through direct and aerosol transmission."
+      },
+      {
+        "title": "Blackleg (disease) - Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Blackleg_(disease)",
+        "whyUsed": "Confirmed Black Quarter is an infectious bacterial disease but occurs in soil-contaminated pastures, not through animal-to-animal spread."
+      },
+      {
+        "title": "Black Quarter Disease - Dairy Knowledge Portal",
+        "url": "https://www.dairyknowledge.in/dkp/article/black-quarter-bq",
+        "whyUsed": "Confirmed Black Quarter affects cattle aged 6 months to 2 years, with contaminated pasture as major infection source."
+      }
+    ],
+    "searchMeta": {
+      "usedWebSearch": true,
+      "searchQueries": [
+        "Anthrax milching animals infectious disease",
+        "Foot and Mouth disease cowpox cattle infectious",
+        "Black Quarter cattle disease infectious"
+      ],
+      "confidence": "high"
+    }
+  },
+  "id": 13,
+  "usage": {
+    "cache_creation": {
+      "ephemeral_1h_input_tokens": 0,
+      "ephemeral_5m_input_tokens": 0
+    },
+    "cache_creation_input_tokens": 40786,
+    "cache_read_input_tokens": 10060,
+    "inference_geo": "not_available",
+    "input_tokens": 640,
+    "iterations": null,
+    "output_tokens": 1413,
+    "server_tool_use": {
+      "web_fetch_requests": 0,
+      "web_search_requests": 3
+    },
+    "service_tier": "batch",
+    "speed": null
+  }
+}

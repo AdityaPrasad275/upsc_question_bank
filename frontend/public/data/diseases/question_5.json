@@ -1,0 +1,67 @@
+{
+  "subject": "Science",
+  "year": 2014,
+  "theme": "vitamin deficiency diseases: classification and identification",
+  "question_short_text": "Identify correctly matched vitamin-deficiency disease pairs",
+  "text": "Consider the following pairs: Vitamin Deficiency disease:\n\n1. Vitamin C: Scurvy\n2. Vitamin D: Rickets\n3. Vitamin E: Night blindness\n\nWhich of the pairs given above is/are correctly matched?",
+  "options": [
+    "1 and 2 only",
+    "3 only",
+    "1, 2 and 3",
+    "None"
+  ],
+  "answerIndex": 0,
+  "answerText": "(a) 1 and 2 only",
+  "explanation": "Pairs 1 and 2 are correctly matched. Vitamin C deficiency causes scurvy, and vitamin D deficiency causes rickets. However, pair 3 is incorrect\u2014vitamin A, not vitamin E, deficiency causes night blindness.",
+  "research": {
+    "summary": "This question tests precise knowledge of vitamin-disease associations, a common UPSC classification trap. Students often misattribute diseases to vitamins because deficiency symptoms can appear similar or because multiple vitamins play roles in eye health. Pair 1 (Vitamin C \u2192 Scurvy) is correct: vitamin C is essential for collagen synthesis, and its deficiency leads to bleeding gums, joint pain, and tissue breakdown. Pair 2 (Vitamin D \u2192 Rickets) is correct: vitamin D regulates calcium absorption and bone mineralization; without it, children develop soft, deformed bones. Pair 3 is the trap: vitamin E does not cause night blindness. Vitamin E deficiency causes neurological disorders (peripheral neuropathy, ataxia, loss of coordination) and can lead to progressive vision loss over time through weakening of retinal light receptors, but it does not cause the specific symptom of night blindness. Night blindness\u2014difficulty seeing in low light\u2014is a classic early symptom of vitamin A deficiency. Vitamin A is essential for synthesizing rhodopsin, a photoreceptor protein needed for vision in dim light. This confusion likely arises because both vitamin A and vitamin E affect vision, but through different mechanisms. The key elimination: if you recall that night blindness is one of the most recognizable deficiency symptoms you learned in biology, it should immediately link to vitamin A, not E.",
+    "facts": [
+      "Night blindness is the earliest symptom of vitamin A deficiency and historically was used as a diagnostic indicator (documented as far back as 30 AD by Celsus, who recommended liver as treatment).",
+      "Vitamin E deficiency is extremely rare in developed countries and usually results from fat malabsorption disorders rather than dietary insufficiency, making it less likely to appear in clinical practice questions."
+    ],
+    "sources": [
+      {
+        "title": "Vitamin A Deficiency and Night Blindness",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8835581/",
+        "whyUsed": "Peer-reviewed source confirming that vitamin A deficiency primarily affects rod photoreceptors, resulting in night blindness, not vitamin E."
+      },
+      {
+        "title": "Night Blindness (Nyctalopia) - Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Nyctalopia",
+        "whyUsed": "Verified that vitamin A deficiency causes night blindness through impaired rhodopsin synthesis, and distinguished this from vitamin E deficiency which causes other neurological issues."
+      },
+      {
+        "title": "Vitamin E Deficiency: Causes and Symptoms",
+        "url": "https://www.lalpathlabs.com/blog/?p=18219",
+        "whyUsed": "Confirmed that vitamin E deficiency causes neurological and motor coordination issues, muscle weakness, and progressive vision loss\u2014but not night blindness specifically."
+      }
+    ],
+    "searchMeta": {
+      "usedWebSearch": true,
+      "searchQueries": [
+        "vitamin A deficiency night blindness",
+        "vitamin E deficiency disease effects"
+      ],
+      "confidence": "high"
+    }
+  },
+  "id": 5,
+  "usage": {
+    "cache_creation": {
+      "ephemeral_1h_input_tokens": 0,
+      "ephemeral_5m_input_tokens": 0
+    },
+    "cache_creation_input_tokens": 24780,
+    "cache_read_input_tokens": 10060,
+    "inference_geo": "not_available",
+    "input_tokens": 618,
+    "iterations": null,
+    "output_tokens": 987,
+    "server_tool_use": {
+      "web_fetch_requests": 0,
+      "web_search_requests": 2
+    },
+    "service_tier": "batch",
+    "speed": null
+  }
+}

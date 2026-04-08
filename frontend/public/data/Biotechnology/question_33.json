@@ -1,0 +1,66 @@
+{
+  "subject": "Science",
+  "year": 2008,
+  "theme": "Nobel Prize winner identification - molecular biology and genetics",
+  "question_short_text": "Field of work of Nobel laureate James D. Watson",
+  "text": "Nobel Prize winning scientist James D. Watson is known for his work in which area?",
+  "options": [
+    "Metallurgy",
+    "Meteorology",
+    "Environment protection",
+    "Genetics"
+  ],
+  "answerIndex": 3,
+  "answerText": "(d) Genetics",
+  "explanation": "James D. Watson received the 1962 Nobel Prize in Physiology or Medicine for his co-discovery of the double helix structure of DNA, the fundamental work that established him as a leader in molecular biology and genetics.",
+  "research": {
+    "summary": "This is a straightforward factual question testing knowledge of major scientific figures. James Watson's entire scientific reputation rests on his 1953 co-discovery with Francis Crick of DNA's double helix structure, published in Nature. For this achievement, Watson, Crick, and Maurice Wilkins were jointly awarded the 1962 Nobel Prize in Physiology or Medicine \"for their discoveries concerning the molecular structure of nucleic acids and its significance for information transfer in living material.\" While the question offers metallurgy, meteorology, and environment protection as distractors, Watson's field is unambiguously genetics and molecular biology. He began his career studying bacterial viruses (phages) under Salvador Luria at Indiana University, but his life's work centered on understanding heredity at the molecular level. After the DNA discovery, Watson spent decades leading the Cold Spring Harbor Laboratory, where he championed cancer research and molecular genetics. A key adjacent fact: Rosalind Franklin's X-ray crystallography work (particularly Photo 51) provided crucial experimental evidence for the double helix model, though she died in 1958 before the 1962 Nobel was awarded\u2014and the Nobel Prize can only be given to living recipients, a limitation that affected her recognition. This question tests simple factual recall of a landmark figure in 20th-century science, with no trap beyond knowing which scientific discipline Watson represented.",
+    "facts": [
+      "Watson and Crick's 1953 Nature paper proposing the double helix model of DNA is considered a turning point in science, fundamentally changing biological understanding and inaugurating the modern era of molecular biology.",
+      "Rosalind Franklin's X-ray diffraction studies, particularly Photo 51, provided essential experimental evidence for Watson and Crick's DNA model, though her contributions were inadequately acknowledged during her lifetime."
+    ],
+    "sources": [
+      {
+        "title": "James Watson - Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/James_Watson",
+        "whyUsed": "Verified Watson's birth/death dates, 1962 Nobel Prize award, 1953 Nature publication, and his field of work in molecular biology and genetics"
+      },
+      {
+        "title": "The Nobel Prize in Physiology or Medicine 1962 - NobelPrize.org",
+        "url": "https://www.nobelprize.org/prizes/medicine/1962/summary/",
+        "whyUsed": "Official Nobel Prize source confirming the 1962 award to Watson, Crick, and Wilkins for molecular structure of nucleic acids"
+      },
+      {
+        "title": "James Watson - Britannica",
+        "url": "https://www.britannica.com/biography/James-Dewey-Watson",
+        "whyUsed": "Verified Watson's role in DNA structure discovery and his credentials as a geneticist and biophysicist"
+      }
+    ],
+    "searchMeta": {
+      "usedWebSearch": true,
+      "searchQueries": [
+        "James Watson Nobel Prize DNA structure 1962"
+      ],
+      "confidence": "high"
+    }
+  },
+  "id": 33,
+  "usage": {
+    "cache_creation": {
+      "ephemeral_1h_input_tokens": 0,
+      "ephemeral_5m_input_tokens": 5030
+    },
+    "cache_creation_input_tokens": 17182,
+    "cache_read_input_tokens": 5030,
+    "inference_geo": "not_available",
+    "input_tokens": 452,
+    "iterations": null,
+    "output_tokens": 850,
+    "server_tool_use": {
+      "web_fetch_requests": 0,
+      "web_search_requests": 1
+    },
+    "service_tier": "batch",
+    "speed": null
+  }
+}

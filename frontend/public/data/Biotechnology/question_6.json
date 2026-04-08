@@ -1,0 +1,72 @@
+{
+  "subject": "Science",
+  "year": 2022,
+  "theme": "Applications and limitations of DNA barcoding as a molecular identification tool",
+  "question_short_text": "Which statements about DNA barcoding's applications are correct?",
+  "text": "Consider the following statements:\n\nDNA Barcoding can be a tool to:\n\n1. Assess the age of a plant or animal.\n2. Distinguish among species that look alike.\n3. Identify undesirable animal or plant materials in processed foods.\n\nWhich of the statements given above is/are correct?",
+  "options": [
+    "1 only",
+    "3 only",
+    "1 and 2",
+    "2 and 3"
+  ],
+  "answerIndex": 3,
+  "answerText": "(d) 2 and 3",
+  "explanation": "DNA barcoding is a molecular technique for species identification using short standardized DNA sequences. Statements 2 and 3 are correct. Statement 1 is incorrect because age assessment requires radiocarbon dating or similar chronological methods, not DNA barcoding.",
+  "research": {
+    "summary": "DNA barcoding is fundamentally a species identification tool, not a dating method. It uses short, standardized DNA sequences (typically 400\u2013800 bp) from specific genomic regions to distinguish between species with high accuracy. In animals, the cytochrome c oxidase I (COI) gene from mitochondrial DNA is the universal barcode; in plants, genes like matK and rbcL from the chloroplast are used. Statement 1 is flatly incorrect\u2014DNA barcoding cannot assess the age of organisms. Age determination requires chronological methods such as carbon-14 dating (for samples up to ~60,000 years old) or radiometric dating using uranium isotopes, which measure decay of radioactive elements, not species identity. Statement 2 is correct and is one of the primary strengths of DNA barcoding. It can definitively distinguish between morphologically similar or cryptic species\u2014a critical advantage because many closely related species look identical or nearly identical to the naked eye, making traditional taxonomy unreliable. For example, many butterfly species or sibling fish species are indistinguishable without DNA analysis. Statement 3 is correct and has become a gold-standard application, particularly in food safety and fraud detection. DNA barcoding is now used across the global food supply chain to detect mislabeling, adulteration, and substitution of expensive species with cheaper alternatives. The U.S. FDA has established DNA barcoding as the standard for seafood identification. When meat, fish, herbal supplements, or processed plant materials are analyzed, DNA barcoding can reveal whether the label matches the actual contents\u2014for instance, whether \"beef\" actually contains beef, or if endangered species are being illegally traded through food channels. This has revealed widespread fraud: studies show approximately 21% of analyzed food products contain mislabeled or adulterated ingredients, with botanical products being particularly vulnerable (28.8% fraud rate in one study).",
+    "facts": [
+      "DNA barcoding cannot determine organism age; age assessment requires carbon-14 dating or radiometric methods, which measure radioactive decay, not genetic identity.",
+      "DNA barcoding has become the regulatory standard for food authentication globally\u2014the U.S. FDA officially approved DNA barcoding for species identification in food products, and widespread studies document its effectiveness in detecting food fraud across seafood, meat, botanicals, and herbal products."
+    ],
+    "sources": [
+      {
+        "title": "DNA barcoding - Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/DNA_barcoding",
+        "whyUsed": "Verified the core applications of DNA barcoding, including species identification and food safety, and confirmed it cannot be used for age assessment."
+      },
+      {
+        "title": "Application of DNA barcoding for ensuring food safety and quality - PMC/Springer",
+        "url": "https://link.springer.com/article/10.1007/s10068-022-01143-7",
+        "whyUsed": "Confirmed that DNA barcoding is approved by the US FDA for food authentication and documented widespread practical use in detecting adulteration and species substitution."
+      },
+      {
+        "title": "Check Your Shopping Cart: DNA Barcoding and Mini-Barcoding for Food Authentication - PMC",
+        "url": "https://www.mdpi.com/2304-8158/12/12/2392",
+        "whyUsed": "Provided real-world evidence of food fraud detection using DNA barcoding, showing 21.2% detected fraud rate across 212 food specimens."
+      },
+      {
+        "title": "ForumIAS - DNA Barcoding Question Explanation",
+        "url": "https://forumias.com/blog/question/consider-the-following-statements-dna-barcoding-can-be-a-tool-to-1-assess-the-age-of-a-plant-or-animal-2-distinguish-among-species-that-look-alike-3-identify-undesirable-animal-or-plant-materia/",
+        "whyUsed": "Clarified that age assessment uses carbon-14 dating, not DNA barcoding, definitively ruling out statement 1."
+      }
+    ],
+    "searchMeta": {
+      "usedWebSearch": true,
+      "searchQueries": [
+        "DNA barcoding age assessment animal plant",
+        "DNA barcoding food fraud detection species identification"
+      ],
+      "confidence": "high"
+    }
+  },
+  "id": 6,
+  "usage": {
+    "cache_creation": {
+      "ephemeral_1h_input_tokens": 0,
+      "ephemeral_5m_input_tokens": 5030
+    },
+    "cache_creation_input_tokens": 30837,
+    "cache_read_input_tokens": 5030,
+    "inference_geo": "not_available",
+    "input_tokens": 703,
+    "iterations": null,
+    "output_tokens": 1320,
+    "server_tool_use": {
+      "web_fetch_requests": 0,
+      "web_search_requests": 2
+    },
+    "service_tier": "batch",
+    "speed": null
+  }
+}

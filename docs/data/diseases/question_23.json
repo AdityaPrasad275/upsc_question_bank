@@ -1,0 +1,67 @@
+{
+  "subject": "Science",
+  "year": 1995,
+  "theme": "antimicrobial drugs for mycobacterial infections: dual efficacy against tuberculosis and leprosy",
+  "question_short_text": "Which antimicrobial drug treats both tuberculosis and leprosy?",
+  "text": "Which one of the following antimicrobial drugs is suitable for treatment of both tuberculosis and leprosy?",
+  "options": [
+    "Isoniazid",
+    "p-aminosalicylic acid",
+    "Streptomycin",
+    "Rifampicin"
+  ],
+  "answerIndex": 3,
+  "answerText": "(d) Rifampicin",
+  "explanation": "Rifampicin is the only drug among the options effective against both Mycobacterium tuberculosis (TB) and Mycobacterium leprae (leprosy). It inhibits bacterial RNA polymerase and is a core component of multidrug therapy regimens for both diseases.",
+  "research": {
+    "summary": "The distinction here turns on mechanism and spectrum of activity. Rifampicin binds to the beta subunit of bacterial DNA-dependent RNA polymerase and blocks the exit channel, halting bacterial RNA synthesis. This mechanism is bactericidal and works against both Mycobacterium tuberculosis and Mycobacterium leprae, making it the only agent in this list with dual efficacy. The trap UPSC tests is that students often think isoniazid, streptomycin, or PAS\u2014older first-line or second-line agents\u2014might work against both diseases. In reality, isoniazid, streptomycin, and p-aminosalicylic acid are primarily tuberculosis drugs; while streptomycin has some historical use in TB, none of these agents are standard components of leprosy multidrug therapy. For leprosy, rifampicin is always combined with dapsone and clofazimine to prevent resistance, and renders patients non-infectious within days. In TB, rifampicin forms the backbone of short-course (6-month) regimens and is combined with isoniazid, pyrazinamide, and ethambutol. The key recognition cue: if a question asks for an agent suitable for both TB and leprosy, rifampicin is the only broad-spectrum answer because both diseases are caused by slow-growing mycobacteria sensitive to RNA polymerase inhibition.",
+    "facts": [
+      "Rifampicin-resistant TB requires extended treatment (9\u201312 months instead of 6), highlighting its centrality to modern TB control.",
+      "Rifampicin was discovered in 1965 and is on the WHO Essential Medicines List classified as critically important for human medicine, underscoring its global public health significance."
+    ],
+    "sources": [
+      {
+        "title": "Rifampin - StatPearls - NCBI Bookshelf - NIH",
+        "url": "https://www.ncbi.nlm.nih.gov/books/NBK557488/",
+        "whyUsed": "Verified rifampicin mechanism of action (RNA polymerase inhibition), indications for TB and leprosy, and standard multidrug therapy combinations."
+      },
+      {
+        "title": "Rifampicin - Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Rifampicin",
+        "whyUsed": "Confirmed rifampicin use in both tuberculosis and Hansen's disease (leprosy), standard MDT with dapsone and clofazimine, and historical context."
+      },
+      {
+        "title": "Rifamycin: Definition, Mechanism and Uses - BOC Sciences",
+        "url": "https://bio-fermen.bocsci.com/news-blogs/rifamycin-definition-mechanism-and-uses.html",
+        "whyUsed": "Detailed mechanism showing rifampicin's selective binding to bacterial RNA polymerase beta subunit and bactericidal effect on Mycobacterium tuberculosis and M. leprae."
+      }
+    ],
+    "searchMeta": {
+      "usedWebSearch": true,
+      "searchQueries": [
+        "rifampicin tuberculosis leprosy treatment mechanism",
+        "isoniazid p-aminosalicylic acid streptomycin leprosy tuberculosis"
+      ],
+      "confidence": "high"
+    }
+  },
+  "id": 23,
+  "usage": {
+    "cache_creation": {
+      "ephemeral_1h_input_tokens": 0,
+      "ephemeral_5m_input_tokens": 0
+    },
+    "cache_creation_input_tokens": 31378,
+    "cache_read_input_tokens": 10060,
+    "inference_geo": "not_available",
+    "input_tokens": 667,
+    "iterations": null,
+    "output_tokens": 1047,
+    "server_tool_use": {
+      "web_fetch_requests": 0,
+      "web_search_requests": 2
+    },
+    "service_tier": "batch",
+    "speed": null
+  }
+}

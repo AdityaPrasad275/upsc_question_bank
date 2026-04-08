@@ -9,14 +9,14 @@ from anthropic import Anthropic
 from dotenv import load_dotenv
 from subject_paths import get_subject_dir
 
-def main(subject="economy_1"):
+def main(subject="diseases"):
     load_dotenv()
 
     # Set up client
     anthropic_client = Anthropic(api_key=os.getenv("ANTHROPIC_API_KEY"))
 
     # Batch ID from the completed batch
-    batch_id = "msgbatch_01UcVnq3CsjDSQVPYCaZ1XFx"
+    batch_id = "msgbatch_01TipvQqqiS9VouGgQceU8TH"
 
     # Directory to save JSON files
     json_dir = get_subject_dir(subject) / "json"

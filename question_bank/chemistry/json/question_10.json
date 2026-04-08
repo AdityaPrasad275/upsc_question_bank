@@ -1,0 +1,48 @@
+{
+  "subject": "Science",
+  "year": 2013,
+  "theme": "fruit physiology and post-harvest storage: respiration rate as the mechanism for extended shelf life",
+  "question_short_text": "Why do fruits in cold chambers have longer storage life?",
+  "text": "Fruits stored in cold chamber exhibit long storage life because ___:",
+  "options": [
+    "Exposure to sunlight is prevented",
+    "Concentration of Carbon dioxide in the environment is increased",
+    "Rate of respiration is decreased",
+    "There is an increase in humidity"
+  ],
+  "answerIndex": 2,
+  "answerText": "(c) Rate of respiration is decreased",
+  "explanation": "Cold temperatures slow down the biochemical reaction of respiration in fruits, which reduces their metabolic activity and delays ripening, softening, and quality loss, thereby extending storage life.",
+  "research": {
+    "summary": "The trap in this question is assuming that preventing sunlight or increasing humidity directly preserves fruits, but the real mechanism is metabolic control through temperature. Respiration is the continuous metabolic process where harvested fruits consume oxygen and release carbon dioxide, water, and energy. This process drives ripening, softening, color changes, and flavor development. Cold storage works by slowing enzyme activity\u2014for every 10\u00b0C temperature reduction, respiration rates drop by a factor of 2 to 3 (Q10 coefficient of 2.0\u20133.0 in the 5\u201325\u00b0C range). This dramatically reduces fruit metabolism, which delays senescence and ripening. While cold storage does have secondary benefits (inhibiting microbial growth and reducing water loss), these flow from the primary effect of reduced respiration. Increasing CO2 concentration can slow respiration in controlled/modified atmosphere storage, but this is a specialized technique and not the defining feature of standard cold chambers. The key insight for UPSC is recognizing that fruit longevity is fundamentally about controlling the rate of biochemical reactions, not passive environmental isolation.",
+    "facts": [
+      "Climacteric fruits (apple, banana, pear) show a respiratory spike during ripening linked to ethylene production, while non-climacteric fruits (citrus, strawberry, grape) maintain steady respiration rates and do not ripen significantly after harvest.",
+      "Ethylene is autocatalytic in climacteric fruits, meaning ripening accelerates ripening, which is why cold storage reduces ethylene production and action\u2014a key mechanism for delaying ripeness in fruits like apples during long-term storage."
+    ],
+    "sources": [
+      {
+        "title": "Primary Metabolism in Fresh Fruits During Storage",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7042374/",
+        "whyUsed": "Verified that low temperature is the main method to extend fruit storage life by reducing respiration rate through control of enzyme activity, with quantified Q10 values (2.0\u20133.0) showing respiration decreases 2\u20133 fold per 10\u00b0C temperature drop."
+      },
+      {
+        "title": "Fruit Respiration Impact on Fruit Quality - Felix Instruments",
+        "url": "https://felixinstruments.com/blog/fruit-respiration-impact-on-fruit-quality/",
+        "whyUsed": "Clarified that respiration provides essential substrates for ripening enzymes, flavor development, and pigment synthesis, establishing that slowing respiration delays ripening processes and extends shelf life."
+      },
+      {
+        "title": "Understanding Respiration and Respiratory Climacteric in Fruits and Vegetables - Agriculture.Institute",
+        "url": "https://agriculture.institute/food-chemistry-and-physiology/respiration-respiratory-climacteric-fruits-vegetables/",
+        "whyUsed": "Confirmed that refrigeration is effective specifically because it slows respiration dramatically, extending shelf life significantly, and distinguished between climacteric and non-climacteric fruit behavior."
+      }
+    ],
+    "searchMeta": {
+      "usedWebSearch": true,
+      "searchQueries": [
+        "fruit respiration rate cold storage temperature biology"
+      ],
+      "confidence": "high"
+    }
+  },
+  "id": 10
+}

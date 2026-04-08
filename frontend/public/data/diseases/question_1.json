@@ -1,0 +1,66 @@
+{
+  "subject": "Science",
+  "year": 2023,
+  "theme": "Biological control of mosquito-borne viral diseases",
+  "question_short_text": "Wolbachia method and mosquito-borne disease control",
+  "text": "'Wolbachia method' is sometimes talked about with reference to which one of the following?",
+  "options": [
+    "Controlling the viral diseases spread by mosquitoes",
+    "Converting crop residues into packing material",
+    "Producing biodegradable plastics",
+    "Producing biochar from thermo-chemical conversion of biomass"
+  ],
+  "answerIndex": 0,
+  "answerText": "(a) Controlling the viral diseases spread by mosquitoes",
+  "explanation": "The Wolbachia method is a biological control strategy where naturally occurring Wolbachia bacteria are introduced into Aedes aegypti mosquitoes to reduce their ability to transmit viral diseases like dengue, Zika, and chikungunya to humans.",
+  "research": {
+    "summary": "The Wolbachia method represents a breakthrough in biological vector control that works through two mechanisms. First, Wolbachia-infected mosquitoes exhibit markedly reduced vector competence\u2014meaning they cannot efficiently replicate and transmit viruses like dengue, Zika, and chikungunya. Second, the bacterium spreads through wild populations via cytoplasmic incompatibility: Wolbachia-infected males mating with uninfected females produce no viable offspring, while infected females mating with any males produce all Wolbachia-infected offspring. This ensures the infection spreads to near-fixation in a mosquito population. Importantly, Wolbachia is a naturally occurring bacterium found in about 60% of all insect species\u2014including many mosquitoes\u2014and is safe for humans and the environment. However, Aedes aegypti (the primary dengue vector) does not naturally carry Wolbachia; the bacterium must be artificially introduced through transinfection. Field trials in Indonesia demonstrated a 76% reduction in dengue hospitalization, while Australian deployments showed over 95% protective efficacy. The method is self-sustaining once established, requiring only an initial release effort, making it far more practical than repeated insecticide applications or expensive vector suppression programs. The exact mechanism by which Wolbachia blocks viral replication remains incompletely understood but appears to involve multiple pathways including immune system enhancement, intracellular resource competition for lipids, and direct viral inhibition.",
+    "facts": [
+      "Wolbachia was first artificially introduced into Aedes aegypti in 2005, and the first field releases began in Australia in 2011.",
+      "Aedes albopictus and Culex pipiens naturally carry Wolbachia, but Aedes aegypti (the primary dengue vector responsible for ~390 million infections annually) does not, necessitating artificial transinfection."
+    ],
+    "sources": [
+      {
+        "title": "How WMP's Wolbachia method works",
+        "url": "https://www.worldmosquitoprogram.org/en/work/wolbachia-method/how-it-works",
+        "whyUsed": "Official source on the mechanism and deployment strategy of Wolbachia for disease control"
+      },
+      {
+        "title": "Efficacy of Wolbachia-Infected Mosquito Deployments for the Control of Dengue",
+        "url": "https://www.nejm.org/doi/full/10.1056/NEJMoa2030243",
+        "whyUsed": "Peer-reviewed clinical trial demonstrating real-world efficacy (76% reduction in dengue hospitalization) in Indonesia"
+      },
+      {
+        "title": "Wolbachia: a bacterial weapon against dengue fever",
+        "url": "https://www.sciencedirect.com/science/article/pii/S2052297525000162",
+        "whyUsed": "Recent comprehensive review of Wolbachia as a biological control method for dengue"
+      }
+    ],
+    "searchMeta": {
+      "usedWebSearch": true,
+      "searchQueries": [
+        "Wolbachia method dengue control mechanism"
+      ],
+      "confidence": "high"
+    }
+  },
+  "id": 1,
+  "usage": {
+    "cache_creation": {
+      "ephemeral_1h_input_tokens": 0,
+      "ephemeral_5m_input_tokens": 0
+    },
+    "cache_creation_input_tokens": 15600,
+    "cache_read_input_tokens": 10060,
+    "inference_geo": "not_available",
+    "input_tokens": 777,
+    "iterations": null,
+    "output_tokens": 980,
+    "server_tool_use": {
+      "web_fetch_requests": 0,
+      "web_search_requests": 1
+    },
+    "service_tier": "batch",
+    "speed": null
+  }
+}

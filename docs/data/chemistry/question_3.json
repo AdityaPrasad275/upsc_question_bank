@@ -1,0 +1,61 @@
+{
+  "subject": "Science",
+  "year": 2022,
+  "theme": "Properties and environmental impact of polyethylene terephthalate (PET)",
+  "question_short_text": "Which statements about polyethylene terephthalate (PET) are correct?",
+  "text": "With reference to polyethylene terephthalate, the use of which is so widespread in our daily lives, consider the following statements:\n\n1. Its fibres can be blended with wool and cotton fibres to reinforce their properties.\n2. Containers made of it can be used to store any alcoholic beverage.\n3. Bottles made of it can be recycled into other products.\n4. Articles made of it can be easily disposed of by incineration without causing greenhouse gas emissions.",
+  "options": [
+    "1 and 3",
+    "2 and 4",
+    "1 and 4",
+    "2 and 3"
+  ],
+  "answerIndex": 0,
+  "answerText": "(a) 1 and 3",
+  "explanation": "PET fibres can be blended with natural fibres to enhance properties and bottles are recyclable into various products. PET containers are not suitable for all alcoholic beverages, especially high-alcohol or acidic types; incineration of PET releases CO\u2082, a greenhouse gas, making it environmentally harmful compared to recycling.",
+  "research": {
+    "summary": "This question tests understanding of PET's actual material properties and end-of-life options. Statement 1 is correct: PET fibre (called polyester in textile applications) is widely blended with wool and cotton to improve strength, wrinkle resistance, and durability\u2014this is a standard industrial practice. Statement 3 is correct: PET is the most recycled plastic globally and can be mechanically or chemically recycled into new bottles, fibres, textiles, and engineering components. The trap lies in statements 2 and 4. Statement 2 falsely claims PET can store \"any\" alcoholic beverage. While PET is suitable for dilute alcohols (beer, low-proof mixed drinks), high-concentration spirits like whiskey cause water permeation through the bottle wall, raising alcohol content and potentially leaching acetaldehyde and antimony into the liquid, especially over extended storage or at elevated temperatures. Research shows that at room temperature, 40% ABV may remain stable in PET for up to 12 months, but higher concentrations or hot conditions accelerate degradation. Statement 4 is unambiguously wrong: incineration of PET, like all plastics, produces CO\u2082 and other combustion gases. Life-cycle assessments confirm that recycling PET reduces greenhouse gas emissions by 70\u201380% compared to virgin production; incineration, by contrast, adds to atmospheric CO\u2082. The sustainability case for PET is built entirely on recycling, not disposal via combustion.",
+    "facts": [
+      "PET fibres (polyester) blended with cotton or wool improve tensile strength, wrinkle resistance, and durability\u2014a dominant application in permanent-press textiles.",
+      "Recycling PET reduces greenhouse gas emissions by approximately 79% compared to virgin PET production (0.45 kg CO\u2082-eq/kg recycled vs. 2.15 kg CO\u2082-eq/kg virgin).",
+      "PET is classified as resin code #1 and is the most recycled plastic in the US and worldwide, with uses in bottles, fibres, films, packaging, and engineering components."
+    ],
+    "sources": [
+      {
+        "title": "Polyethylene terephthalate - Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Polyethylene_terephthalate",
+        "whyUsed": "Confirms PET fibre blending with natural fibres, recycling capability, and typical applications in textiles and engineering."
+      },
+      {
+        "title": "Are PET Bottles Suitable for Storing Alcoholic Beverages - ResearchGate",
+        "url": "https://www.researchgate.net/publication/286983365_Are_PET-bottles_suitable_also_for_wine_liqueur_and_spirts",
+        "whyUsed": "Provides research on water permeation through PET bottles storing alcoholic beverages, showing unsuitability for high-concentration or prolonged storage."
+      },
+      {
+        "title": "Life Cycle Environmental Impact of PET Water Bottles - NIH/NEMS",
+        "url": "https://nems.nih.gov/sustain/Pages/PETWaterBottleImpact.aspx",
+        "whyUsed": "Demonstrates that incineration of PET produces significant greenhouse gas emissions, while recycling avoids 61% of extraction and resin production emissions."
+      },
+      {
+        "title": "Global Polyethylene Terephthalate (PET) Plastic Supply Chain - MDPI",
+        "url": "https://www.mdpi.com/2071-1050/16/10/3926",
+        "whyUsed": "Confirms that incineration is not the best waste treatment for PET and increases greenhouse gas emissions; validates recycling as the preferred end-of-life option."
+      },
+      {
+        "title": "Excellent CO2 balance - PET Recycling Team",
+        "url": "https://petrecyclingteam.com/en/excellent-co2-balance",
+        "whyUsed": "Provides quantified GHG reduction figures for recycled PET (79% reduction) versus virgin PET, supporting the environmental case for recycling over incineration."
+      }
+    ],
+    "searchMeta": {
+      "usedWebSearch": true,
+      "searchQueries": [
+        "polyethylene terephthalate PET properties uses",
+        "PET plastic alcohol storage compatibility",
+        "PET bottles incineration greenhouse gas emissions"
+      ],
+      "confidence": "high"
+    }
+  },
+  "id": 3
+}

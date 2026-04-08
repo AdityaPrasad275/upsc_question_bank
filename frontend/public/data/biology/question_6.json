@@ -1,0 +1,67 @@
+{
+  "subject": "Science",
+  "year": 2021,
+  "theme": "Obligate intracellular parasites and culture media requirements",
+  "question_short_text": "Which organisms\u2014bacteria, fungi, or viruses\u2014can be cultured in artificial/synthetic medium?",
+  "text": "Consider the following:\n\n1) Bacteria\n2) Fungi\n3) Virus\n\nWhich of the above can be cultured in artificial/synthetic medium?",
+  "options": [
+    "1 and 2 only",
+    "2 and 3 only",
+    "1 and 3 only",
+    "1, 2 and 3"
+  ],
+  "answerIndex": 0,
+  "answerText": "(a) 1 and 2 only",
+  "explanation": "Bacteria and fungi can be cultured in artificial/synthetic medium because they are autonomous, free-living organisms capable of independent growth. Viruses cannot be cultured in synthetic medium alone because they are obligate intracellular parasites that require living host cells to replicate.",
+  "research": {
+    "summary": "The fundamental distinction being tested here is between autonomous microorganisms and obligate intracellular parasites. Bacteria and fungi are free-living, self-replicating organisms with their own metabolic machinery. They can grow on defined laboratory media containing inorganic salts, nitrogen sources, carbon sources, vitamins, and trace elements\u2014everything they need for independent biosynthesis and energy generation. Fungi specifically require media with slightly acidic pH (5\u20136) and carbohydrate sources, while bacteria generally grow at neutral pH around 7.0. The key trap is assuming viruses could be cultured similarly. Viruses completely lack autonomous replication machinery\u2014no ribosomes, no metabolic pathways, no enzymes for nucleic acid or protein synthesis. They are obligate intracellular parasites that hijack host cell machinery. Even though viral growth technically occurs \"in\" a nutrient medium when host cells are cultured in that medium, the virus itself cannot replicate in medium alone. The virus requires living host cells (animal cells, embryonated eggs, or laboratory animals) to infect, replicate, and produce new virions. A student might be tempted to choose option \"c\" (1 and 3) if they confuse a virus-infected cell culture system with pure viral culture, but the answer clearly tests understanding that virus \u2260 autonomous organism.",
+    "facts": [
+      "Synthetic media typically contain known exact concentrations of minerals, salts, amino acids, glucose, vitamins, and trace elements, whereas complex media contain ingredients like peptone and yeast extract with less precise composition.",
+      "The distinction between microorganisms and viruses is so fundamental that Koch's postulates and modern disease classification explicitly separate culturable agents (bacteria, fungi) from obligate intracellular parasites (viruses, some bacteria like Mycobacterium) that require special host systems."
+    ],
+    "sources": [
+      {
+        "title": "Isolation, Culture, and Identification of Viruses - Biology LibreTexts",
+        "url": "https://bio.libretexts.org/Bookshelves/Microbiology/Microbiology_(OpenStax)/06:_Acellular_Pathogens/6.03:_Isolation_Culture_and_Identification_of_Viruses",
+        "whyUsed": "Verified that viral cultivation requires living host cells and cannot occur in cell-free synthetic media alone"
+      },
+      {
+        "title": "Evolution of bacterial and fungal growth media - PMC",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4479053/",
+        "whyUsed": "Confirmed that bacteria and fungi both grow in synthetic media with defined chemical composition and appropriate pH/nutrient conditions"
+      },
+      {
+        "title": "Virus Culture Technology",
+        "url": "https://www.mantacc.com/blog/virus-culture-technology",
+        "whyUsed": "Clarified that viruses cannot grow in cell-free culture media and require living cells; explained that synthetic cell culture media support host cells, not viruses independently"
+      }
+    ],
+    "searchMeta": {
+      "usedWebSearch": true,
+      "searchQueries": [
+        "virus culture artificial medium host cells laboratory",
+        "bacteria fungi culture synthetic medium microbiology"
+      ],
+      "confidence": "high"
+    }
+  },
+  "id": 6,
+  "usage": {
+    "cache_creation": {
+      "ephemeral_1h_input_tokens": 0,
+      "ephemeral_5m_input_tokens": 0
+    },
+    "cache_creation_input_tokens": 30769,
+    "cache_read_input_tokens": 10060,
+    "inference_geo": "not_available",
+    "input_tokens": 884,
+    "iterations": null,
+    "output_tokens": 1069,
+    "server_tool_use": {
+      "web_fetch_requests": 0,
+      "web_search_requests": 2
+    },
+    "service_tier": "batch",
+    "speed": null
+  }
+}

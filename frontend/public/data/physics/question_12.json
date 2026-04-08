@@ -1,0 +1,58 @@
+{
+  "subject": "Science",
+  "year": 2013,
+  "theme": "Relative strength and properties of the four fundamental forces",
+  "question_short_text": "Identify the incorrect statement about the four fundamental forces (gravity, electromagnetism, weak nuclear, strong nuclear)",
+  "text": "The known forces of nature can be divided into four classes, viz., gravity, electromagnetism, weak nuclear force and strong nuclear force. With reference to them, which one of the following statements is not correct?",
+  "options": [
+    "Gravity is the strongest of the four",
+    "Electromagnetism acts only on particles with an electric charge",
+    "Weak nuclear force causes radioactivity",
+    "Strong nuclear force holds protons and neutrons inside the nucleus of an atom"
+  ],
+  "answerIndex": 0,
+  "answerText": "(a) Gravity is the strongest of the four",
+  "explanation": "Gravity is the weakest of the four fundamental forces, not the strongest. At the atomic and subatomic scales, gravity is negligible compared to the other three forces. The strong nuclear force is the strongest force, followed by electromagnetism, weak force, and finally gravity.",
+  "research": {
+    "summary": "This question tests a crucial misconception about fundamental forces: students often conflate 'familiar' with 'strong.' Gravity is indeed the most intuitive force\u2014we experience it constantly\u2014but it is by an enormous margin the weakest of the four fundamental forces. Quantitatively, gravity is roughly 10\u00b3\u2076 times weaker than electromagnetism at subatomic scales, and approximately 10\u2074\u00b2 times weaker than the strong nuclear force. The strong force is the strongest at short ranges (~10\u207b\u00b9\u2075 metres, the size of a proton), followed by electromagnetism, weak force, and gravity. Why does gravity dominate our everyday experience despite being weakest? Because it is universally attractive on all matter and has infinite range, whereas electromagnetism cancels out in neutral objects (equal positive and negative charges), and the nuclear forces only operate at subatomic distances. Statement (b) is correct: electromagnetism acts only on charged particles, and its effects (electric and magnetic) are mediated by photons. Statement (c) is correct: the weak nuclear force mediates radioactive beta decay, where neutrons convert to protons or vice versa. Statement (d) is correct: the strong nuclear force, carried by gluons, binds quarks into nucleons and holds protons and neutrons together against electrostatic repulsion. The answer is option (a).",
+    "facts": [
+      "The strong force has the shortest range (~10\u207b\u00b9\u2075 m) but is confined to subatomic scales, whereas gravity has infinite range but dominates only at cosmic scales where huge masses accumulate.",
+      "The electromagnetic force is mediated by photons and has infinite range, but at large scales tends to cancel due to balanced positive and negative charges, which is why a permanent magnet can overcome Earth's gravity on a tiny iron nail."
+    ],
+    "sources": [
+      {
+        "title": "Fundamental interaction - Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Fundamental_interaction",
+        "whyUsed": "Authoritative overview of the four fundamental interactions and their relative strengths"
+      },
+      {
+        "title": "Forces - NASA Science",
+        "url": "https://science.nasa.gov/universe/overview/forces/",
+        "whyUsed": "Clear explanation that gravity is the weakest force despite being familiar, and why strong force dominates at subatomic scales"
+      },
+      {
+        "title": "The Four Fundamental Forces - Study.com",
+        "url": "https://study.com/learn/lesson/four-fundamental-forces-of-nature.html",
+        "whyUsed": "Verified that strong nuclear force is ~40 orders of magnitude stronger than gravity, providing quantitative context"
+      },
+      {
+        "title": "23.1 The Four Fundamental Forces - Physics (OpenStax)",
+        "url": "https://openstax.org/books/physics/pages/23-1-the-four-fundamental-forces",
+        "whyUsed": "Detailed coverage of the strong force as strongest and its role in binding nucleons, plus roles of weak force in decay"
+      },
+      {
+        "title": "Fundamental force - Britannica",
+        "url": "https://www.britannica.com/science/fundamental-interaction",
+        "whyUsed": "Authoritative ranking: strong force most powerful, followed by electromagnetic, weak, and gravitational forces in descending order"
+      }
+    ],
+    "searchMeta": {
+      "usedWebSearch": true,
+      "searchQueries": [
+        "four fundamental forces nature relative strength gravity electromagnetism"
+      ],
+      "confidence": "high"
+    }
+  },
+  "id": 12
+}

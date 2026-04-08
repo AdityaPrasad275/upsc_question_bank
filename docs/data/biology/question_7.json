@@ -1,0 +1,67 @@
+{
+  "subject": "Environment",
+  "year": 2021,
+  "theme": "Pioneer species and soil-less survival in primary succession",
+  "question_short_text": "Which organisms survive without soil on rock surfaces or bare ground?",
+  "text": "In the nature, which of the following is/are most likely to be found surviving on a surface without soil?\n\n1) Fern\n2) Lichen\n3) Moss\n4) Mushroom",
+  "options": [
+    "1 and 4 only",
+    "2 only",
+    "2 and 3",
+    "1, 3 and 4"
+  ],
+  "answerIndex": 2,
+  "answerText": "(c) 2 and 3",
+  "explanation": "Lichens and mosses are pioneer species that can survive and establish on bare rock and soil-less surfaces. Ferns and mushrooms require soil for growth and cannot survive without it.",
+  "research": {
+    "summary": "This question tests understanding of pioneer species\u2014the first colonizers of barren, lifeless habitats during primary ecological succession. The trap is assuming that all small plants and fungi have similar soil requirements, when in fact the distinction lies in structural and physiological adaptation. Lichens and mosses are the correct answer because they lack true roots and have unique mechanisms for survival without soil. Lichens are symbiotic associations of fungi and algae that absorb water and minerals directly from rainwater, air, and dust without needing root systems or soil contact. Mosses similarly lack true roots but use rhizoids (thread-like structures) merely to anchor themselves to rock or other surfaces, not to extract nutrients from soil; they absorb moisture and minerals from the air and water films. Both are poikilohydric, meaning they tolerate extreme desiccation and can enter metabolic suspension, allowing them to thrive in the harshest environments\u2014bare rock, deserts, Arctic regions, and extreme altitudes. The question rejects ferns because despite possessing rhizoids, ferns have a vascular structure and require soil-derived moisture and nutrients to establish and grow into mature plants; their prothallus gametophyte phase requires moist soil-rich microhabitats for successful reproduction. Mushrooms, as fungi, feed on decaying organic matter and require the nutrient-rich substrate of soil to obtain their food. In ecological succession, lichens and mosses literally pioneer rock weathering\u2014releasing acids that break down minerals and forming the very first organic matter that will eventually become soil, enabling later plant colonization.",
+    "facts": [
+      "Lichens do not have roots and can grow inside solid rock (endolithic), living between mineral grains and on any surface from bare rock to artificial structures without needing soil.",
+      "Ferns, despite reproducing by spores rather than seeds, still require moist, mineral-rich soil for both gametophyte establishment and sporophyte development; their entire life cycle depends on soil-level conditions."
+    ],
+    "sources": [
+      {
+        "title": "Pioneer species | Definition, Examples, Ecology, & Facts | Britannica",
+        "url": "https://www.britannica.com/science/pioneer-species",
+        "whyUsed": "Verified pioneer species definition and confirmed that lichens and mosses\u2014not ferns\u2014are the first inhabitants of barren rock and soil-less environments."
+      },
+      {
+        "title": "Lichen - Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Lichen",
+        "whyUsed": "Confirmed that lichens lack roots, absorb water from raindrops and dust, and are pioneer species that settle on bare rock and survive extreme environments without soil."
+      },
+      {
+        "title": "Primary succession | Definition, Stages, & Facts | Britannica",
+        "url": "https://www.britannica.com/science/primary-succession",
+        "whyUsed": "Verified that lichens and mosses are the first inhabitants of barren areas, with ferns arriving later after soil formation."
+      }
+    ],
+    "searchMeta": {
+      "usedWebSearch": true,
+      "searchQueries": [
+        "lichens mosses soil-less survival pioneer species",
+        "ferns rhizoids soil requirements reproduction"
+      ],
+      "confidence": "high"
+    }
+  },
+  "id": 7,
+  "usage": {
+    "cache_creation": {
+      "ephemeral_1h_input_tokens": 0,
+      "ephemeral_5m_input_tokens": 0
+    },
+    "cache_creation_input_tokens": 31087,
+    "cache_read_input_tokens": 10060,
+    "inference_geo": "not_available",
+    "input_tokens": 685,
+    "iterations": null,
+    "output_tokens": 1025,
+    "server_tool_use": {
+      "web_fetch_requests": 0,
+      "web_search_requests": 2
+    },
+    "service_tier": "batch",
+    "speed": null
+  }
+}

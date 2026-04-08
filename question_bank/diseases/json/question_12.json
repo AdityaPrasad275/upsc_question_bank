@@ -1,0 +1,71 @@
+{
+  "subject": "Science",
+  "year": 2005,
+  "theme": "Classification and clinical diagnosis of dengue fever",
+  "question_short_text": "Identify correct statements about dengue etiology and symptoms",
+  "text": "Consider the following statements:\n\n1. Dengue is a protozoan disease transmitted by mosquitoes.\n2. Retro-orbital pain is not a symptom of Dengue.\n3. Skin rash and bleeding from nose and gums are some of the symptoms of Dengue.\n\nWhich of the statements is/are correct?",
+  "options": [
+    "1 and 2",
+    "3 only",
+    "2 only",
+    "1 and 3"
+  ],
+  "answerIndex": 1,
+  "answerText": "(b) 3 only",
+  "explanation": "Statement 1 is incorrect: dengue is a viral infection caused by the dengue virus (genus Flavivirus), not a protozoan disease. Statement 2 is incorrect: retro-orbital pain (pain behind the eyes) is a hallmark symptom of dengue fever. Statement 3 is correct: skin rash and hemorrhagic manifestations including epistaxis and bleeding gums are characteristic symptoms of dengue, especially in severe forms.",
+  "research": {
+    "summary": "The question tests the ability to distinguish the viral nature of dengue from its common misclassification as a protozoan disease, and to recognize that retro-orbital pain is a defining symptom. Dengue is caused by one of four serotypes of dengue virus (DENV 1-4), which belong to the Flavivirus genus, transmitted exclusively by infected Aedes mosquitoes (primarily Aedes aegypti). The cardinal feature being tested here is recognizing retro-orbital pain\u2014pain deep behind the eye that worsens with eye movement\u2014as a classical and consistent symptom. Medical literature across WHO definitions, CDC guidelines, and clinical studies confirm retro-orbital pain as a core diagnostic criterion for dengue fever. The trap is that some students may confuse the mosquito vector with the agent of transmission; while the disease is mosquito-borne, it is viral, not protozoan. The third statement correctly identifies the hemorrhagic manifestations (epistaxis and bleeding gums) and rash, which typically appear during the critical or late febrile phase, often linked to thrombocytopenia. The main misconception UPSC is testing is whether students know dengue is a viral disease and whether they understand its hallmark symptoms.",
+    "facts": [
+      "Dengue is the most common mosquito-borne viral infection globally, with an estimated 40-80% of infections being asymptomatic.",
+      "Retro-orbital pain, myalgia, and arthralgia are so characteristic that dengue is colloquially called 'breakbone fever' due to the severity of joint and bone pain."
+    ],
+    "sources": [
+      {
+        "title": "CDC Yellow Book 2026 edition \u2013 Dengue clinical presentation and diagnosis",
+        "url": "https://www.ncbi.nlm.nih.gov/books/NBK620887/",
+        "whyUsed": "Verified current clinical definitions confirming retro-orbital pain, hemorrhagic manifestations, and rash as core symptoms; confirmed viral etiology via Flavivirus genus"
+      },
+      {
+        "title": "Clinical and Laboratory Features That Differentiate Dengue from Other Febrile Illnesses \u2013 PMC (2009)",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC2861403/",
+        "whyUsed": "WHO case definition criteria explicitly listing retro-orbital pain as a major diagnostic symptom in all age groups"
+      },
+      {
+        "title": "Medscape: Dengue Practice Essentials",
+        "url": "https://emedicine.medscape.com/article/215840-overview",
+        "whyUsed": "Clinical confirmation that classic dengue fever includes high fever, retro-orbital pain, rash, and hemorrhagic manifestations; confirmed viral transmission via Aedes mosquitoes"
+      },
+      {
+        "title": "EyeWiki: Dengue Virus",
+        "url": "https://eyewiki.org/Dengue_Virus",
+        "whyUsed": "Confirmed retro-orbital pain and joint/bone pain as defining features; explained 'breakbone fever' nomenclature"
+      }
+    ],
+    "searchMeta": {
+      "usedWebSearch": true,
+      "searchQueries": [
+        "dengue virus transmission symptoms retro-orbital pain"
+      ],
+      "confidence": "high"
+    }
+  },
+  "id": 12,
+  "usage": {
+    "cache_creation": {
+      "ephemeral_1h_input_tokens": 0,
+      "ephemeral_5m_input_tokens": 0
+    },
+    "cache_creation_input_tokens": 15309,
+    "cache_read_input_tokens": 10060,
+    "inference_geo": "not_available",
+    "input_tokens": 727,
+    "iterations": null,
+    "output_tokens": 1105,
+    "server_tool_use": {
+      "web_fetch_requests": 0,
+      "web_search_requests": 1
+    },
+    "service_tier": "batch",
+    "speed": null
+  }
+}

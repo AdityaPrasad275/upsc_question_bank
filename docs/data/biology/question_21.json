@@ -1,0 +1,67 @@
+{
+  "subject": "Science",
+  "year": 2013,
+  "theme": "virus characteristics and culture requirements",
+  "question_short_text": "Which statements about viral enzymes, culture media, and transmission routes are correct?",
+  "text": "Which of the following statements is/are correct?\n\n1. Viruses lack enzymes necessary for the generation of energy.\n2. Viruses can be cultured in any synthetic medium.\n3. Viruses are transmitted from one organism to another by biological vectors only.\n\nSelect the correct answer using the codes given below.",
+  "options": [
+    "1 only",
+    "2 and 3 only",
+    "1 and 3 only",
+    "1, 2 and 3"
+  ],
+  "answerIndex": 0,
+  "answerText": "(a) 1 only",
+  "explanation": "Statement 1 is correct. Viruses are obligate intracellular parasites that lack metabolic enzymes and depend entirely on the host cell for energy production. Statement 2 is false: viruses require living cells (not synthetic media alone) to replicate. Statement 3 is false: viruses transmit through multiple routes including direct contact, respiratory droplets, contaminated surfaces, and other vectors\u2014not just biological ones.",
+  "research": {
+    "summary": "This question tests three fundamental misconceptions about viral biology. Statement 1 is unambiguously correct: viruses are obligate intracellular parasites that completely lack their own enzymatic machinery for ATP generation, metabolic processes, and biosynthesis. They are dependent on hijacking the host cell's enzymes, ribosomes, and metabolic pathways\u2014this is a defining feature that separates viruses from all other infectious agents. Statement 2 presents a major trap. While viruses can technically be cultured in synthetic media (such as Eagle's MEM or RPMI 1640), these media only work because they are supplemented with living cells. Viruses cannot replicate in cell-free synthetic media alone; they must be grown in cultured cells, embryonated eggs, or experimental animals. The synthetic media merely provide the chemical environment in which the infected cells survive and produce virus. Statement 3 is also incorrect because it overstates the exclusivity of biological vectors. While biological vectors like mosquitoes and ticks are important transmitters of many viruses, viruses also spread through direct contact (skin-to-skin, kissing), respiratory droplets (from coughing and sneezing), contaminated surfaces (fomites), and blood transfusion. Some viruses like Tobacco Mosaic Virus are even spread mechanically through human hands. The question is testing precision in understanding what 'culturable in synthetic media' actually means and recognizing that viral transmission is multimodal, not vector-exclusive.",
+    "facts": [
+      "Viruses can be cultured in cell cultures supplemented with synthetic media, but not in cell-free synthetic media alone; they require living cells as the replication machinery.",
+      "Viral transmission routes include biological vectors (mosquitoes, ticks), mechanical vectors (flies), direct contact, respiratory droplets, fomites, and blood routes\u2014making vector-only transmission an oversimplification."
+    ],
+    "sources": [
+      {
+        "title": "Virus Culture Technology - MANTACC",
+        "url": "https://www.mantacc.com/blog/virus-culture-technology",
+        "whyUsed": "Verified that viruses require living cells despite use of synthetic media, and confirmed obligate intracellular parasite status and lack of metabolic enzymes."
+      },
+      {
+        "title": "Infectious Disease Transmission - Biology LibreTexts",
+        "url": "https://bio.libretexts.org/Bookshelves/Microbiology/Microbiology_(Boundless)/10:_Epidemiology/10.03:_Disease_Patterns/10.3D:_Infectious_Disease_Transmission",
+        "whyUsed": "Confirmed multiple transmission routes for viruses including direct contact, fomites, respiratory droplets, and vectors (both biological and mechanical)."
+      },
+      {
+        "title": "Growth medium - Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Growth_medium",
+        "whyUsed": "Clarified that viruses are obligate intracellular parasites requiring living cells in growth medium, not synthetic media alone."
+      }
+    ],
+    "searchMeta": {
+      "usedWebSearch": true,
+      "searchQueries": [
+        "virus culture synthetic media requirements",
+        "virus transmission biological vectors direct contact"
+      ],
+      "confidence": "high"
+    }
+  },
+  "id": 21,
+  "usage": {
+    "cache_creation": {
+      "ephemeral_1h_input_tokens": 0,
+      "ephemeral_5m_input_tokens": 5030
+    },
+    "cache_creation_input_tokens": 32612,
+    "cache_read_input_tokens": 5030,
+    "inference_geo": "not_available",
+    "input_tokens": 626,
+    "iterations": null,
+    "output_tokens": 1072,
+    "server_tool_use": {
+      "web_fetch_requests": 0,
+      "web_search_requests": 2
+    },
+    "service_tier": "batch",
+    "speed": null
+  }
+}

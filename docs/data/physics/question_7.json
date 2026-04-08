@@ -1,0 +1,61 @@
+{
+  "subject": "Science",
+  "year": 2016,
+  "theme": "Nuclear fusion technology and ITER's immediate strategic advantage for India",
+  "question_short_text": "What is India's immediate advantage from ITER success?",
+  "text": "India is an important member of the 'International Thermonuclear Experimental Reactor'. If this experiment succeeds, what is the immediate advantage for India?",
+  "options": [
+    "It can use thorium in place of uranium for power generation",
+    "It can attain a global role in satellite navigation",
+    "It can drastically improve the efficiency of its fission reactors in power generation",
+    "It can build fusion reactors for power generation"
+  ],
+  "answerIndex": 3,
+  "answerText": "(d) It can build fusion reactors for power generation",
+  "explanation": "ITER's success would demonstrate fusion technology feasibility and provide India with the scientific knowledge, technical capabilities, and intellectual property access needed to develop domestic fusion reactors for clean energy production.",
+  "research": {
+    "summary": "ITER is fundamentally a scientific and technology demonstration project, not a commercial power plant. Its core mission is to prove that fusion can achieve net energy gain (Q \u2265 10) and to test all the integrated technologies required for a future fusion power plant. The key trap in this question lies in understanding what 'immediate advantage' actually means in this context. Option (c) about improving fission reactor efficiency is incorrect because ITER deals with fusion, which is an entirely different process from fission and has no direct bearing on existing fission reactor design. Option (a) about thorium use is also incorrect; ITER involves deuterium-tritium fusion, not thorium fuel cycles. Option (b) about satellite navigation is unrelated and serves as a distractor. The correct answer is (d) because, under the ITER Agreement, all member nations\u2014including India, which contributes 9% of construction costs\u2014gain access to 100% of the intellectual property and experimental results. This means India would directly acquire the scientific knowledge, engineering expertise, and technological blueprints needed to design, build, and operate its own fusion demonstration reactor (DEMO) in the future. ITER itself will not generate electricity for the grid; instead, it serves as the experimental bridge between today's small fusion research machines and tomorrow's commercial power plants. India has already demonstrated commitment to this path: it operates the ADITYA and SST-1 tokamaks domestically, and it is a skilled contributor to ITER, having fabricated the massive 30-metre cryostat and other critical systems. Success of ITER would validate fusion as a viable energy source and position India to transition from a research phase to reactor development and ultimately to commercial fusion power generation within the second half of this century.",
+    "facts": [
+      "India contributes 9% of ITER construction costs and receives 100% access to intellectual property and experimental results, a substantial strategic advantage.",
+      "ITER is designed to achieve a fusion gain (Q) of 10\u2014meaning 500 MW of fusion thermal power output from 50 MW of input heating power\u2014for the first time in history, proving the technical feasibility of fusion at scale.",
+      "India's domestic fusion program includes ADITYA (operational since 1989) and SST-1 tokamaks, which have built the engineering and physics expertise necessary to be a major ITER partner and to eventually design a domestic demonstration (DEMO) reactor."
+    ],
+    "sources": [
+      {
+        "title": "ITER - the way to new energy",
+        "url": "https://www.iter.org/",
+        "whyUsed": "Official ITER organization source confirming ITER's scientific mission, member structure, and goal of demonstrating fusion technology feasibility without commercial electricity generation."
+      },
+      {
+        "title": "ITER Members",
+        "url": "https://www.iter.org/about/iter-members",
+        "whyUsed": "Official source confirming India's membership, 9% cost contribution, and equal access to 100% of intellectual property for all members."
+      },
+      {
+        "title": "India's contributions to ITER",
+        "url": "https://www.iter.org/node/20687/indias-contributions-iter",
+        "whyUsed": "Official ITER source documenting India's specific hardware deliverables (cryostat, cooling systems, heating sources) and India's plans to develop a demonstration reactor (DEMO) based on ITER experience."
+      },
+      {
+        "title": "India on the ITER way",
+        "url": "https://www.neimagazine.com/analysis/india-on-the-iter-way/",
+        "whyUsed": "Peer-reviewed nuclear engineering source explaining how ITER participation supports India's goal of developing independent fusion reactor capability and domestic demonstration reactor technology."
+      },
+      {
+        "title": "Fusion power",
+        "url": "https://en.wikipedia.org/wiki/Fusion_power",
+        "whyUsed": "Established reference confirming the distinction between fusion and fission, and ITER's role as an experimental step before commercial fusion reactors are deployed."
+      }
+    ],
+    "searchMeta": {
+      "usedWebSearch": true,
+      "searchQueries": [
+        "ITER International Thermonuclear Experimental Reactor member countries",
+        "fusion reactor ITER technology India immediate advantage",
+        "ITER fusion technology fission reactor efficiency comparison"
+      ],
+      "confidence": "high"
+    }
+  },
+  "id": 7
+}

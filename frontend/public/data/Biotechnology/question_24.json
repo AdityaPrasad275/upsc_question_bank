@@ -1,0 +1,72 @@
+{
+  "subject": "Science",
+  "year": 2014,
+  "theme": "Genetic engineering techniques for crop improvement and transgenesis",
+  "question_short_text": "Which techniques are used to create transgenic crops?",
+  "text": "Consider the following techniques/phenomena:\n\n1. Budding and grafting in fruit plants\n2. Cytoplasmic male sterility\n3. Gene silencing\n\nWhich of the above is/are used to create transgenic crops?",
+  "options": [
+    "1 only",
+    "2 and 3 only",
+    "1 and 3 only",
+    "None"
+  ],
+  "answerIndex": 1,
+  "answerText": "(b) 2 and 3 only",
+  "explanation": "Gene silencing techniques (RNA interference and antisense technology) directly silence or suppress genes within the plant genome and are core transgenic methods. Cytoplasmic male sterility facilitates hybrid seed production by preventing pollen formation, making it an important tool in transgenic crop breeding programs. Budding and grafting are physical propagation techniques that do not involve genetic modification and thus are not transgenic methods.",
+  "research": {
+    "summary": "This question tests the distinction between genetic modification (transgenesis) and traditional horticultural propagation techniques. Transgenesis specifically refers to the introduction or manipulation of genes in an organism's genome, whereas budding and grafting are mechanical asexual propagation techniques that join plant tissues without altering DNA. Gene silencing through RNA interference (RNAi) and antisense technology directly fits transgenesis because it involves introducing DNA sequences into the plant genome that produce regulatory RNAs to suppress specific genes\u2014this was famously demonstrated in the Flavr Savr tomato (1994) which used antisense technology to delay ripening. Cytoplasmic male sterility (CMS) is a phenomenon where plants are unable to produce viable pollen due to mitochondrial dysfunctions; while CMS itself is a natural or derived condition, it is extensively exploited in transgenic breeding programs to produce hybrid seeds by crossing sterile lines (A-lines) with fertile restorer lines (R-lines) carrying restoration-of-fertility (Rf) genes, and modern CMS systems incorporate genetic engineering. The key misconception students often have is conflating all plant-breeding techniques with transgenesis\u2014but only those involving deliberate genetic modification qualify. Budding and grafting, despite their agricultural usefulness, remain conventional horticulture and are categorically non-transgenic.",
+    "facts": [
+      "The Flavr Savr tomato (approved 1994) was the first commercialized transgenic crop, using antisense technology to slow ethylene production and extend shelf life.",
+      "CMS is widely exploited in hybrid seed production of maize, rice, cotton, sunflower, and other crops; a three-line hybrid system typically uses a CMS line, maintainer line, and restorer line with Rf genes."
+    ],
+    "sources": [
+      {
+        "title": "Gene Silencing in Horticultural Transgenic Crops - ScienceDirect",
+        "url": "https://www.sciencedirect.com/science/chapter/edited-volume/abs/pii/B9780128104392000039",
+        "whyUsed": "Confirms that gene silencing using RNAi and other methods is a core technique used in creating transgenic crops."
+      },
+      {
+        "title": "Three strategies of transgenic manipulation for crop improvement - PMC",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9354092/",
+        "whyUsed": "Documents that suppressed expression of genes via RNAi and antisense technology is one of the three major transgenic strategies and has been approved commercially for crops."
+      },
+      {
+        "title": "Past and future of cytoplasmic male sterility and heterosis breeding in crop plants - PubMed",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/39841239/",
+        "whyUsed": "Clarifies that CMS is exploited in hybrid seed production strategies and increasingly integrated with modern gene editing techniques like CRISPR."
+      },
+      {
+        "title": "Cytoplasmic Male Sterility and Fertility Restoration - PMC - NIH",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC1383628/",
+        "whyUsed": "Explains the role of CMS/Rf systems in hybrid seed production and their interaction with transgenic breeding in self-pollinating crops."
+      }
+    ],
+    "searchMeta": {
+      "usedWebSearch": true,
+      "searchQueries": [
+        "transgenic crops creation methods gene silencing CMS",
+        "cytoplasmic male sterility hybrid seeds breeding"
+      ],
+      "confidence": "high"
+    }
+  },
+  "id": 24,
+  "usage": {
+    "cache_creation": {
+      "ephemeral_1h_input_tokens": 0,
+      "ephemeral_5m_input_tokens": 5030
+    },
+    "cache_creation_input_tokens": 36992,
+    "cache_read_input_tokens": 5030,
+    "inference_geo": "not_available",
+    "input_tokens": 660,
+    "iterations": null,
+    "output_tokens": 1177,
+    "server_tool_use": {
+      "web_fetch_requests": 0,
+      "web_search_requests": 2
+    },
+    "service_tier": "batch",
+    "speed": null
+  }
+}

@@ -1,0 +1,58 @@
+{
+  "subject": "Science",
+  "year": 2022,
+  "theme": "Quantum computing fundamentals and qubit definition",
+  "question_short_text": "Context in which the term 'qubit' is used",
+  "text": "Which one of the following is the context in which the term \"qubit\" is mentioned?",
+  "options": [
+    "Cloud Services",
+    "Quantum Computing",
+    "Visible Light Communication Technologies",
+    "Wireless Communication Technologies"
+  ],
+  "answerIndex": 1,
+  "answerText": "(b) Quantum Computing",
+  "explanation": "A qubit (quantum bit) is the fundamental unit of quantum information in quantum computing. Unlike classical bits that exist as either 0 or 1, qubits can exist in superposition states of both 0 and 1 simultaneously, owing to quantum mechanical principles.",
+  "research": {
+    "summary": "The term 'qubit' is intrinsic to quantum computing and has no meaningful use in cloud services, visible light communication, or wireless technologies. A qubit is 'a basic unit of quantum information; a binary qudit\u2014the quantum version of the classic binary bit.' The central distinction from classical bits is superposition: while a classical bit must be definitively 0 or 1, a qubit can represent both states simultaneously due to quantum mechanics, which is what enables quantum computers to process information exponentially faster than classical computers. The trap in this question is assuming 'qubit' might relate to communication technologies because of its similarity to 'bit,' but communication qubits (photonic qubits for quantum key distribution) remain tools of quantum information science, not independent wireless or photonic communication fields. Qubits also display entanglement, where measuring one qubit instantly affects its entangled partner regardless of distance. This combination of superposition and entanglement is what gives quantum computers their exponential computational advantage; with N qubits you can represent 2^N states simultaneously, compared to just 2 for N classical bits. The engineering challenge lies in maintaining qubit coherence against decoherence caused by environmental interference.",
+    "facts": [
+      "Physical implementations of qubits include superconducting circuits, trapped ions, photons, electron spins, and topological systems\u2014each with different coherence times and error rates.",
+      "A qubit measurement collapses its superposition to either 0 or 1, making measurement itself destructive, unlike classical bit inspection which does not alter state."
+    ],
+    "sources": [
+      {
+        "title": "Qubit - Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Qubit",
+        "whyUsed": "Authoritative definition and explanation of qubit as the basic unit of quantum information with formal description of superposition."
+      },
+      {
+        "title": "What is a qubit? | IBM",
+        "url": "https://www.ibm.com/think/topics/qubit",
+        "whyUsed": "Industry-leading source on qubit definition, physical implementations (photons, electrons, trapped ions, superconducting circuits), and the distinction from classical bits."
+      },
+      {
+        "title": "Quantum computing - Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Quantum_computing",
+        "whyUsed": "Comprehensive source on the role of qubits in quantum computing, superposition mechanics, and entanglement as fundamental to quantum advantage."
+      },
+      {
+        "title": "Quantum Computing Explained | NIST",
+        "url": "https://www.nist.gov/quantum-information-science/quantum-computing-explained",
+        "whyUsed": "Official U.S. government scientific source on qubit mechanics, superposition, entanglement, and exponential scaling (2^N states for N qubits)."
+      },
+      {
+        "title": "What is a Qubit (Quantum Bit)? | TechTarget",
+        "url": "https://www.techtarget.com/whatis/definition/qubit",
+        "whyUsed": "Clear explanation of qubit as the quantum counterpart to the classical bit and why superposition enables quantum parallelism."
+      }
+    ],
+    "searchMeta": {
+      "usedWebSearch": true,
+      "searchQueries": [
+        "qubit quantum computing definition 2022"
+      ],
+      "confidence": "high"
+    }
+  },
+  "id": 3
+}

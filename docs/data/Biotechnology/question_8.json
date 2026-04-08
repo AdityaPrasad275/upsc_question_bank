@@ -1,0 +1,72 @@
+{
+  "subject": "Science",
+  "year": 2022,
+  "theme": "Biofilm formation, structure, and characteristics in different environments",
+  "question_short_text": "Are biofilms found on medical implants, food surfaces, and antibiotic-resistant?",
+  "text": "Consider the following statements:\n\n1. Biofilms can form on medical implants within human tissues.\n2. Biofilms can form on food and food processing surfaces.\n3. Biofilms can exhibit antibiotic resistance.\n\nWhich of the statements given above are correct?",
+  "options": [
+    "1 and 2 only",
+    "2 and 3 only",
+    "1 and 3 only",
+    "1, 2 and 3"
+  ],
+  "answerIndex": 3,
+  "answerText": "(d) 1, 2 and 3",
+  "explanation": "All three statements are correct. Biofilms form on medical implants within human tissues, on food and food processing surfaces, and exhibit marked antibiotic resistance compared to planktonic (free-floating) bacteria due to their protective polymeric matrix.",
+  "research": {
+    "summary": "This question tests understanding of biofilm ecology and their clinical and food-safety significance. Biofilms are structured communities of microorganisms\u2014bacteria, fungi, or other microbes\u2014embedded in a self-produced extracellular polymeric matrix (EPS) composed of polysaccharides, proteins, and DNA. Statement 1 is correct: biofilms are a major clinical concern on implantable devices such as urinary catheters, prosthetic joints, cardiac pacemakers, and artificial heart valves, where they cause chronic, difficult-to-treat infections. Catheter-associated urinary tract infections (CAUTIs) develop within days of catheter insertion due to biofilm formation. Statement 2 is correct: biofilms readily colonize food processing environments\u2014pipelines, cutting boards, processing equipment\u2014and food surfaces themselves, leading to cross-contamination and foodborne disease. Statement 3 is correct and critical: biofilm-embedded bacteria exhibit 10 to 1,000-fold greater antibiotic resistance compared to their planktonic counterparts. This enhanced resistance arises from multiple mechanisms: the biofilm matrix acts as a physical barrier that slows antibiotic penetration; the microenvironment inside biofilms becomes oxygen-depleted and acidic, reducing the efficacy of many antibiotics; dormant 'persister' cells enter a spore-like state and do not divide in the presence of antibiotics; and bacteria exchange resistance genes within the biofilm community. The trap many students fall into is treating biofilms as merely a medical device problem, when their relevance spans public health (medical infections) and food safety equally.",
+    "facts": [
+      "Approximately 70% of all bacterial infections in humans are associated with biofilms, including chronic wound infections and device-related nosocomial infections.",
+      "Biofilms form on both biotic surfaces (human tissues, medical implants) and abiotic surfaces (food equipment, industrial pipelines), making them ubiquitous in clinical and industrial settings."
+    ],
+    "sources": [
+      {
+        "title": "Mechanisms of antimicrobial resistance in biofilms | npj Antimicrobials and Resistance",
+        "url": "https://www.nature.com/articles/s44259-024-00046-3",
+        "whyUsed": "Peer-reviewed source on biofilm antimicrobial resistance mechanisms, including matrix protection and persister cells."
+      },
+      {
+        "title": "The Role of Bacterial Biofilm in Antibiotic Resistance and Food Contamination",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7468660/",
+        "whyUsed": "Verified coverage of biofilm formation on food and food processing surfaces, and their antibiotic resistance in both contexts."
+      },
+      {
+        "title": "Bacterial biofilm formation on implantable devices and approaches to its treatment and prevention",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC6312881/",
+        "whyUsed": "Clinical review documenting biofilm formation on medical implants within human tissues and antibiotic resistance mechanisms."
+      },
+      {
+        "title": "The Role of Bacterial Biofilms in Antimicrobial Resistance | ASM.org",
+        "url": "https://asm.org/articles/2023/march/the-role-of-bacterial-biofilms-in-antimicrobial-re",
+        "whyUsed": "Quantified the dramatic increase (10 to 1,000-fold) in antibiotic resistance of biofilm versus planktonic bacteria with clinical examples."
+      }
+    ],
+    "searchMeta": {
+      "usedWebSearch": true,
+      "searchQueries": [
+        "biofilm definition characteristics antibiotic resistance",
+        "biofilm medical implants food processing surfaces"
+      ],
+      "confidence": "high"
+    }
+  },
+  "id": 8,
+  "usage": {
+    "cache_creation": {
+      "ephemeral_1h_input_tokens": 0,
+      "ephemeral_5m_input_tokens": 5030
+    },
+    "cache_creation_input_tokens": 32090,
+    "cache_read_input_tokens": 5030,
+    "inference_geo": "not_available",
+    "input_tokens": 640,
+    "iterations": null,
+    "output_tokens": 1172,
+    "server_tool_use": {
+      "web_fetch_requests": 0,
+      "web_search_requests": 2
+    },
+    "service_tier": "batch",
+    "speed": null
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "subject": "Science",
+  "year": 2021,
+  "theme": "Chemical composition and industrial applications of plastics \u2013 identifying BPA-dependent polymer synthesis",
+  "question_short_text": "Which plastic type is manufactured using Bisphenol A as a key structural component?",
+  "text": "Bisphenol A (BPA), a cause of concern, is a structural/key component in the manufacture of which of the following kinds of plastics?",
+  "options": [
+    "Low-density polyethylene",
+    "Polycarbonate",
+    "Polyethylene terephthalate",
+    "Polyvinyl chloride"
+  ],
+  "answerIndex": 1,
+  "answerText": "(b) Polycarbonate",
+  "explanation": "BPA is a monomer (building-block molecule) that serves as an essential structural component in the synthesis of polycarbonate plastics. During polymerization, BPA molecules are chemically bonded together to form the polycarbonate polymer chains, meaning BPA is not an additive but a fundamental constituent of the plastic itself.",
+  "research": {
+    "summary": "The distinction being tested here is between monomers (structural building blocks) and additives used in plastics. BPA is critical to polycarbonate synthesis: approximately 65\u201370% of all BPA production goes into manufacturing polycarbonate, with polycarbonate plastic containing as much as 90% BPA by mass. During polymerization, BPA reacts with phosgene under specific conditions to form long polymer chains; the BPA molecules become chemically bonded into the material itself, not merely added as a coating or preservative. This is fundamentally different from the other options: LDPE (low-density polyethylene) is synthesized from ethylene monomers, PET (polyethylene terephthalate) uses ethylene glycol and terephthalic acid, and PVC (polyvinyl chloride) is made from vinyl chloride. Polycarbonate is valued specifically for properties\u2014transparency, durability, impact resistance, and heat tolerance\u2014that derive from BPA's structure in the polymer. However, BPA has become a concern as an endocrine disruptor; exposure studies have detected it in over 90% of human populations worldwide. Some unreacted BPA can leach from polycarbonate products, especially when heated, and the EU has banned BPA in food contact materials from January 2025. Understanding that BPA is structurally embedded in polycarbonate (not a separate additive) is crucial for recognizing both why the plastic performs well and why its removal requires finding alternative monomers, not just removing a coating.",
+    "facts": [
+      "BPA is the dominant monomer for polycarbonate, accounting for 65\u201370% of all BPA global production and comprising up to 90% of polycarbonate by mass. The remaining 25\u201330% of BPA goes into epoxy resins used in food can linings and other protective coatings.",
+      "BPA-free alternatives like Bisphenol S (BPS), Bisphenol F (BPF), and alternative copolyesters such as Tritan have been developed to replace BPA in polycarbonate and epoxy applications, reflecting regulatory and consumer demand to reduce hormone-disrupting chemical exposure."
+    ],
+    "sources": [
+      {
+        "title": "Bisphenol A - Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Bisphenol_A",
+        "whyUsed": "Verified that BPA accounts for 65\u201370% of all BPA production in polycarbonate manufacturing and confirmed BPA content in polycarbonate by mass."
+      },
+      {
+        "title": "National Institute of Environmental Health Sciences (NIEHS) - Bisphenol A",
+        "url": "https://www.niehs.nih.gov/health/topics/agents/sya-bpa",
+        "whyUsed": "Confirmed BPA is produced primarily for polycarbonate and epoxy resin applications and established the widespread human exposure context."
+      },
+      {
+        "title": "Bisphenol A \u2013 foundation to the versatile material Polycarbonate - Covestro",
+        "url": "https://www.covestro.com/en/sustainability/how-we-operate/product-responsibility/bisphenol-a",
+        "whyUsed": "Explained that BPA is a monomer (not an additive) and is chemically bonded during polymerization to form polycarbonate's unique properties."
+      },
+      {
+        "title": "New York State Department of Health - Bisphenol A",
+        "url": "https://www.health.ny.gov/environmental/chemicals/bisphenol_a/",
+        "whyUsed": "Clarified the distinction between BPA in polycarbonate plastic products versus BPA in epoxy can linings, establishing that the question is testing monomer identification."
+      }
+    ],
+    "searchMeta": {
+      "usedWebSearch": true,
+      "searchQueries": [
+        "Bisphenol A BPA polycarbonate plastic manufacturing",
+        "BPA health effects environmental concerns 2020"
+      ],
+      "confidence": "high"
+    }
+  },
+  "id": 4
+}

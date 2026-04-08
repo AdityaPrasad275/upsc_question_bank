@@ -1,0 +1,67 @@
+{
+  "subject": "Science",
+  "year": 2021,
+  "theme": "Recombinant vector vaccines: genetic engineering and vector systems",
+  "question_short_text": "Correctness of statements on genetic engineering and bacteria/virus vectors in recombinant vaccines",
+  "text": "With reference to recent developments regarding 'Recombinant Vector Vaccines', consider the following statements:\n\n1) Genetic engineering is applied in the development of these vaccines.\n2) Bacteria and viruses are used as vectors.\n\nWhich of the statements given above is/are correct?",
+  "options": [
+    "1 only",
+    "2 only",
+    "Both 1 and 2",
+    "Neither 1 nor 2"
+  ],
+  "answerIndex": 2,
+  "answerText": "(c) Both 1 and 2",
+  "explanation": "Both statements are correct. Recombinant vector vaccines rely on genetic engineering to insert foreign genes (encoding target antigens) into harmless organisms. Both attenuated viruses (adenovirus, vaccinia, VSV) and bacteria (Salmonella, BCG) serve as vectors to deliver these genes into the host.",
+  "research": {
+    "summary": "Recombinant vector vaccines represent a sophisticated application of genetic engineering where foreign DNA encoding pathogenic antigens is deliberately inserted into a live, harmless carrier organism\u2014either a virus or bacterium\u2014to create an effective vaccine delivery system. Statement 1 is confirmed by the fundamental mechanism: genetic engineering techniques, particularly recombinant DNA technology, are essential to create these vaccines. Scientists use restriction enzymes and molecular cloning to insert genes encoding specific antigenic proteins from target pathogens into the genome of a carrier vector, often in non-essential regions that do not affect viral replication. Statement 2 is equally valid: both viral and bacterial vectors are extensively used. Viral vectors include adenoviruses, vaccinia virus, vesicular stomatitis virus (VSV), and poxviruses, while bacterial vectors include attenuated Salmonella species and Bacillus Calmette-Gu\u00e9rin (BCG). The choice between bacterial and viral vectors depends on the specific immunological requirements\u2014viral vectors tend to elicit stronger cellular immunity through their natural infection mimicry, while bacterial vectors can be engineered to stimulate mucosal immunity. The key distinction UPSC aspirants should internalize is that recombinant vector vaccines are not simply protein subunits or inactivated whole pathogens; they are **live delivery systems** that have been genetically modified to carry foreign genes without causing disease. Examples include rVSV-ZEBOV (vesicular stomatitis virus expressing Ebola glycoprotein) approved for human use since 2019, and various COVID-19 vaccines using adenoviral vectors such as ChAdOx1-nCoV-19 and Ad26.COV2.S, all of which required genetic engineering to incorporate the target antigen gene into the vector genome.",
+    "facts": [
+      "Recombinant vector vaccines were first developed in 1972 with genetic engineering of the SV40 virus, with the first recombinant viral vector vaccine created when hepatitis B surface antigen gene was inserted into vaccinia virus.",
+      "Vaccinia virus and adenovirus are the most commonly used viral vectors because they induce robust immune responses and have large genomes permitting foreign gene insertion; both can be engineered as either replication-competent or replication-deficient versions depending on safety requirements."
+    ],
+    "sources": [
+      {
+        "title": "Recombinant vector vaccines: design, mechanism, and applications - Nature Reviews",
+        "url": "https://www.nature.com/articles/s41541-022-00503-y",
+        "whyUsed": "Established authority on viral vector platforms, development history, and examples of approved vaccines including VSV-ZEBOV and adenoviral COVID-19 vaccines."
+      },
+      {
+        "title": "Live bacterial vaccine vectors: An overview - PMC/NIH",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4323283/",
+        "whyUsed": "Comprehensive source on bacterial vector systems (Salmonella, BCG) used in recombinant vaccines and their genetic engineering for antigen delivery."
+      },
+      {
+        "title": "Recombinant vaccines and the development of new vaccine strategies - PMC",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC3854212/",
+        "whyUsed": "Detailed explanation of how genetic engineering and recombinant DNA technology enable both viral and bacterial vector construction for vaccine development."
+      }
+    ],
+    "searchMeta": {
+      "usedWebSearch": true,
+      "searchQueries": [
+        "recombinant vector vaccines genetic engineering bacteria viruses",
+        "recombinant vector vaccine mechanism development examples"
+      ],
+      "confidence": "high"
+    }
+  },
+  "id": 10,
+  "usage": {
+    "cache_creation": {
+      "ephemeral_1h_input_tokens": 0,
+      "ephemeral_5m_input_tokens": 5030
+    },
+    "cache_creation_input_tokens": 34252,
+    "cache_read_input_tokens": 5030,
+    "inference_geo": "not_available",
+    "input_tokens": 532,
+    "iterations": null,
+    "output_tokens": 1196,
+    "server_tool_use": {
+      "web_fetch_requests": 0,
+      "web_search_requests": 2
+    },
+    "service_tier": "batch",
+    "speed": null
+  }
+}

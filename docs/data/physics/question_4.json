@@ -1,0 +1,54 @@
+{
+  "subject": "Science",
+  "year": 2021,
+  "theme": "Light emission mechanisms and characteristics of sodium lamps versus LED lamps in street lighting",
+  "question_short_text": "Differences between sodium lamps and LED lamps for street lighting",
+  "text": "With reference to street-lighting, how do sodium lamps differ from LED lamps?\n\n1) Sodium lamps produce light in 360 degrees but it is not so in the case of LED lamps.\n2) As street-lights, sodium lamps have longer life span than LED lamps.\n3) The spectrum of visible light from sodium lamps is almost monochromatic while LED lamps offer significant colour advantages in street-lighting.\n4) Select the correct answer using the code given below.",
+  "options": [
+    "3 only",
+    "2 only",
+    "1 and 3 only",
+    "1, 2 and 3"
+  ],
+  "answerIndex": 2,
+  "answerText": "(c) 1 and 3 only",
+  "explanation": "Statement 1 is correct: sodium lamps emit light omnidirectionally (360 degrees), whereas LED lamps emit light directionally. Statement 2 is false: LED lamps have a lifespan of 50,000\u2013100,000 hours, far exceeding sodium lamps at 12,000\u201324,000 hours. Statement 3 is correct: sodium lamps produce nearly monochromatic yellow light (589 nm), while LEDs produce full-spectrum white light with superior color rendering. The answer is 1 and 3 only.",
+  "research": {
+    "summary": "This question tests the fundamental physical and operational differences between two street-lighting technologies. The key misconception UPSC is targeting is statement 2\u2014the false assumption that sodium lamps are more durable. Sodium lamps, whether low-pressure (LPS) or high-pressure (HPS), use gas discharge to create light by heating sodium metal into vapor within an arc tube. They emit light in all directions (360 degrees) because there is no inherent directionality in gas discharge; light escapes the arc in all directions, requiring reflectors to direct it downward. LED lamps, by contrast, are solid-state semiconductors that emit light directionally by design\u2014electrons recombine at the P-N junction in a semiconductor material, producing light that travels outward from that junction. This directionality is actually a major advantage: it allows LEDs to concentrate light where needed, reducing the need for reflectors and diffusers. On lifespan, the facts are unambiguous: HPS lamps typically last 12,000\u201324,000 hours (or about 2\u20135 years of street use), while LED lamps routinely exceed 50,000 hours and can reach 100,000 hours or more. On color rendering, sodium lamps produce a narrow spectrum centered on yellow (589 nm), making illuminated objects appear monochromatic gray or yellow and inhibiting color vision at night. LEDs produce white light with a color rendering index (CRI) of 80\u201390, allowing viewers to distinguish colors naturally. The trap is that students often assume older technologies are more proven and durable, but LED technology has definitively surpassed sodium in both lifespan and light quality since the early 2000s.",
+    "facts": [
+      "LED street lights can save 50\u201380% in energy consumption compared to sodium lamps due to directional emission and semiconductor efficiency.",
+      "Sodium lamps require a warm-up time of 5\u201320 minutes to reach full brightness, whereas LEDs achieve full illumination instantly upon switching on."
+    ],
+    "sources": [
+      {
+        "title": "High-Pressure Sodium Lights vs LED | Action Services Group",
+        "url": "https://actionservicesgroup.com/blog/high-pressure-sodium-lights-vs-led/",
+        "whyUsed": "Verified lifespan specifications (HPS 14,000\u201324,000 hours, LED 50,000\u2013100,000 hours) and directional emission differences"
+      },
+      {
+        "title": "LED Vs. High-Pressure Sodium/Low-Pressure Sodium - LEDYi Lighting",
+        "url": "https://www.ledyilighting.com/led-vs-high-pressure-sodium-low-pressure-sodium/",
+        "whyUsed": "Confirmed monochromatic spectrum of sodium lamps and superior color rendering index of LEDs (CRI 80\u201390)"
+      },
+      {
+        "title": "Sodium-vapor lamp - Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Sodium-vapor_lamp",
+        "whyUsed": "Established that low-pressure sodium produces monochromatic light at 589 nm; verified lifespan of ~18,000\u201324,000 hours"
+      },
+      {
+        "title": "Comparison of LED Street Lamps and Sodium Lamps",
+        "url": "https://www.chz-lighting.com/comparison-of-led-street-lamps-and-sodium-lamps.html",
+        "whyUsed": "Confirmed directional vs omnidirectional light emission and color rendering advantages of LEDs"
+      }
+    ],
+    "searchMeta": {
+      "usedWebSearch": true,
+      "searchQueries": [
+        "sodium lamps vs LED lamps street lighting specifications",
+        "LED lamp lifespan hours compared sodium vapor lamp"
+      ],
+      "confidence": "high"
+    }
+  },
+  "id": 4
+}

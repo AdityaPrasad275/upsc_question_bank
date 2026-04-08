@@ -1,0 +1,72 @@
+{
+  "subject": "Science",
+  "year": 2014,
+  "theme": "disease eradication status in India \u2014 distinguishing eradication from control or elimination",
+  "question_short_text": "Which among diphtheria, chickenpox, and smallpox has been eradicated in India?",
+  "text": "Consider the following diseases:\n\n1. Diphtheria\n2. Chickenpox\n3. Smallpox\n\nWhich of the above diseases has/have been eradicated in India?",
+  "options": [
+    "1 and 2 only",
+    "3 only",
+    "1, 2 and 3",
+    "None"
+  ],
+  "answerIndex": 1,
+  "answerText": "(b) 3 only",
+  "explanation": "Only smallpox has been eradicated in India. Diphtheria and chickenpox remain endemic and are controlled through vaccination but not eradicated. Smallpox was declared eradicated in India in 1977, with global certification by the WHO in 1980.",
+  "research": {
+    "summary": "The key distinction UPSC tests here is between disease eradication (complete worldwide elimination of a pathogen with no further transmission possible) and disease control or elimination (reduction of cases in a region but continued vaccination needed). Smallpox alone meets the eradication criterion. India bore the largest burden of smallpox cases globally in the early 1960s\u2014accounting for approximately 60% of the world's cases\u2014making the country the most challenging frontier of the global eradication campaign. Through a labour-intensive search-and-containment strategy coupled with improved freeze-dried vaccines and the bifurcated needle (introduced in 1969), India achieved its last naturally occurring case in 1975, declared smallpox-free in 1977, and was globally certified eradicated in May 1980. In contrast, diphtheria remains endemic in India with sporadic cases and outbreaks, particularly in areas with low vaccination coverage; surveillance data from 1996\u20132016 shows diphtheria cases are still frequent among school-going children and adolescents. Chickenpox is also not eradicated\u2014it remains highly contagious and endemic globally, with vaccination available but not universally mandated for eradication. The question was likely triggered by India's polio elimination in 2014, testing whether aspirants could distinguish between smallpox (historically eradicated), polio (regionally eliminated but globally not yet eradicated), and endemic diseases like diphtheria and chickenpox that remain controlled through ongoing immunization programs.",
+    "facts": [
+      "India's National Smallpox Eradication Programme launched in 1962 initially struggled due to vaccine quality issues and the use of liquid vaccines that deteriorated in heat; institutional adaptation by introducing freeze-dried vaccines and better surveillance methods proved decisive.",
+      "Eradication requires zero natural cases worldwide with no further intervention needed; elimination refers to reducing cases to zero in a geographic region but continuing prevention; control means reducing disease burden to acceptable levels while the disease remains endemic."
+    ],
+    "sources": [
+      {
+        "title": "A brief history of vaccines & vaccination in India (PMC)",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4078488/",
+        "whyUsed": "Verified India's smallpox eradication timeline (1977 national, 1980 global) and the history of vaccination campaigns in India."
+      },
+      {
+        "title": "Epidemiology of Diphtheria in India, 1996\u20132016 (PMC)",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5544098/",
+        "whyUsed": "Confirmed diphtheria remains endemic in India with frequent cases among children and adolescents; a substantial proportion of global diphtheria burden is contributed by India."
+      },
+      {
+        "title": "Smallpox Eradication in India, 1972-1977 (University of Michigan Online Exhibits)",
+        "url": "https://apps.lib.umich.edu/online-exhibits/exhibits/show/smallpox-eradication-india/indian-engages-pandemic",
+        "whyUsed": "Detailed context on India's role in the global eradication campaign, operational barriers, vaccine improvements, and the critical shift to search-and-containment methods."
+      },
+      {
+        "title": "How India overcame smallpox (GAVI)",
+        "url": "https://www.gavi.org/vaccineswork/how-india-overcame-smallpox",
+        "whyUsed": "Established that India accounted for 60% of world smallpox cases in the 1960s and the critical role of the National Smallpox Eradication Programme (NSEP) launched in 1962."
+      }
+    ],
+    "searchMeta": {
+      "usedWebSearch": true,
+      "searchQueries": [
+        "smallpox eradication India WHO 1980",
+        "diphtheria chickenpox eradication status India"
+      ],
+      "confidence": "high"
+    }
+  },
+  "id": 6,
+  "usage": {
+    "cache_creation": {
+      "ephemeral_1h_input_tokens": 0,
+      "ephemeral_5m_input_tokens": 0
+    },
+    "cache_creation_input_tokens": 26817,
+    "cache_read_input_tokens": 10060,
+    "inference_geo": "not_available",
+    "input_tokens": 720,
+    "iterations": null,
+    "output_tokens": 1249,
+    "server_tool_use": {
+      "web_fetch_requests": 0,
+      "web_search_requests": 2
+    },
+    "service_tier": "batch",
+    "speed": null
+  }
+}

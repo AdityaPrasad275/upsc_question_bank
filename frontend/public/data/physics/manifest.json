@@ -1,0 +1,105 @@
+{
+  "name": "physics",
+  "questions": [
+    {
+      "id": 1,
+      "short_text": "Identify correct statements about radioisotope thermoelectric generators and their fuel sources",
+      "file": "question_1.json"
+    },
+    {
+      "id": 2,
+      "short_text": "India's uranium deposits vs coal dependence, and uranium enrichment for electricity",
+      "file": "question_2.json"
+    },
+    {
+      "id": 3,
+      "short_text": "Context in which the term 'qubit' is used",
+      "file": "question_3.json"
+    },
+    {
+      "id": 4,
+      "short_text": "Differences between sodium lamps and LED lamps for street lighting",
+      "file": "question_4.json"
+    },
+    {
+      "id": 5,
+      "short_text": "Factors determining cooking temperature in a pressure cooker",
+      "file": "question_5.json"
+    },
+    {
+      "id": 6,
+      "short_text": "Which statements about OLED advantages over LCD are correct?",
+      "file": "question_6.json"
+    },
+    {
+      "id": 7,
+      "short_text": "What is India's immediate advantage from ITER success?",
+      "file": "question_7.json"
+    },
+    {
+      "id": 8,
+      "short_text": "Statement evaluation on photovoltaic vs solar thermal technology and AC/DC current generation",
+      "file": "question_8.json"
+    },
+    {
+      "id": 9,
+      "short_text": "Why ball bearings reduce friction between wheel and axle in vehicles",
+      "file": "question_9.json"
+    },
+    {
+      "id": 10,
+      "short_text": "Which phenomena\u2014sun size at dusk, sun color at dawn, moon visibility, star twinkling, polestar visibility\u2014are optical illusions?",
+      "file": "question_10.json"
+    },
+    {
+      "id": 11,
+      "short_text": "Physical phenomena responsible for rainbow formation",
+      "file": "question_11.json"
+    },
+    {
+      "id": 12,
+      "short_text": "Identify the incorrect statement about the four fundamental forces (gravity, electromagnetism, weak nuclear, strong nuclear)",
+      "file": "question_12.json"
+    },
+    {
+      "id": 13,
+      "short_text": "Importance of discovering the Higgs boson particle",
+      "file": "question_13.json"
+    },
+    {
+      "id": 14,
+      "short_text": "Implications of creating antimatter (anti-helium nucleus)",
+      "file": "question_14.json"
+    },
+    {
+      "id": 15,
+      "short_text": "Which statements about phenomena dependent on capillarity are correct?",
+      "file": "question_15.json"
+    },
+    {
+      "id": 16,
+      "short_text": "Advantages of thorium as nuclear fuel compared to uranium",
+      "file": "question_16.json"
+    },
+    {
+      "id": 17,
+      "short_text": "Function of heavy water in nuclear reactors",
+      "file": "question_17.json"
+    },
+    {
+      "id": 18,
+      "short_text": "CFL vs LED lamps: mode of operation, lifespan, and energy efficiency",
+      "file": "question_18.json"
+    },
+    {
+      "id": 19,
+      "short_text": "Differences between Blu-ray disc and traditional DVD formats",
+      "file": "question_19.json"
+    },
+    {
+      "id": 20,
+      "short_text": "Why lake surface freezes while bottom water remains liquid in winter",
+      "file": "question_20.json"
+    }
+  ]
+}

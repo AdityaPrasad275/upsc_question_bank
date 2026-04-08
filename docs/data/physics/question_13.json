@@ -1,0 +1,60 @@
+{
+  "subject": "Science",
+  "year": 2013,
+  "theme": "Higgs boson discovery and its role in the Standard Model of particle physics",
+  "question_short_text": "Importance of discovering the Higgs boson particle",
+  "text": "The efforts to detect the existence of Higgs boson particle have become frequent news in the recent past. What is/ are the importance of discovering this particle?\n\n1. It will enable us to understand as to why elementary particles have mass.\n2. It will enable us in the near future to develop the technology of transferring matter from one point to another without traversing the physical space between them.\n3. It will enable us to create better fuels for nuclear fission.\n\nSelect the correct answer using the codes given below.",
+  "options": [
+    "1 only",
+    "2 and 3 only",
+    "1 and 3 only",
+    "1, 2 and 3"
+  ],
+  "answerIndex": 0,
+  "answerText": "(a) 1 only",
+  "explanation": "Only statement 1 is correct. The Higgs boson's discovery confirms the Higgs field mechanism, which explains why elementary particles acquire mass through their interaction with the Higgs field. Statements 2 and 3 are incorrect\u2014the Higgs boson has no direct connection to teleportation technology or nuclear fuel development.",
+  "research": {
+    "summary": "The discovery of the Higgs boson in 2012 at CERN fundamentally addressed one of the most profound questions in physics: the origin of mass. Statement 1 is correct because the Higgs boson is the quantum excitation of the Higgs field, a pervasive energy field that fills all of space. When elementary particles interact with this field\u2014quarks, leptons, W and Z bosons\u2014they acquire mass through a mechanism called electroweak symmetry breaking. This was theoretically proposed in 1964 but remained unverified until the 2012 discovery. The strength of a particle's interaction with the Higgs field determines its mass: photons do not interact and remain massless, while heavy particles like the top quark interact strongly and are correspondingly massive. Statement 2 conflates the Higgs discovery with speculative science fiction concepts like teleportation, which have no grounding in the Higgs mechanism or any established physics principle. Quantum tunneling or hypothetical wormholes are entirely separate theoretical frameworks unrelated to the Higgs field. Statement 3 is equally disconnected\u2014nuclear fission is governed by the strong nuclear force and mass-energy conversion (E=mc\u00b2), not by understanding particle mass origins. The Higgs discovery provides no engineering applications for fuel design. The critical distinction for UPSC is recognizing that while the Higgs mechanism is intellectually revolutionary for fundamental physics, it does not translate into near-term technological breakthroughs in teleportation or energy production. This question tests whether a candidate can separate genuine scientific importance from speculative or unrelated claims.",
+    "facts": [
+      "The Higgs boson was discovered on 4 July 2012 at CERN by the ATLAS and CMS collaborations at the Large Hadron Collider.",
+      "Peter Higgs and Fran\u00e7ois Englert were awarded the Nobel Prize in Physics in 2013 'for the theoretical discovery of a mechanism that contributes to our understanding of the origin of mass of subatomic particles' and its experimental confirmation.",
+      "In the early universe immediately after the Big Bang, all particles were massless; the Higgs field switched on as the universe cooled below a critical temperature (about a picosecond after the Big Bang), triggering electroweak symmetry breaking and causing particles to acquire mass."
+    ],
+    "sources": [
+      {
+        "title": "The Higgs boson | CERN",
+        "url": "https://home.cern/science/physics/higgs-boson",
+        "whyUsed": "Official CERN source explaining the Higgs field mechanism and its role in giving mass to elementary particles"
+      },
+      {
+        "title": "Higgs boson - Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Higgs_boson",
+        "whyUsed": "Comprehensive overview of Higgs boson properties, the 2012 discovery confirmation, and the Brout-Englert-Higgs mechanism"
+      },
+      {
+        "title": "How the Higgs Field (Actually) Gives Mass to Elementary Particles | Quanta Magazine",
+        "url": "https://www.quantamagazine.org/how-the-higgs-field-actually-gives-mass-to-elementary-particles-20240903/",
+        "whyUsed": "Modern explanation of the Higgs mechanism showing how the Higgs field creates a restoring effect on other fields that gives particles resonant frequency and mass"
+      },
+      {
+        "title": "Higgs mechanism - Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Higgs_mechanism",
+        "whyUsed": "Details on electroweak symmetry breaking, fermion and boson mass acquisition through the Higgs field, and the 1964 theoretical proposals"
+      },
+      {
+        "title": "Higgs boson: ten years after its discovery, why this particle could unlock new physics beyond the standard model",
+        "url": "https://theconversation.com/higgs-boson-ten-years-after-its-discovery-why-this-particle-could-unlock-new-physics-beyond-the-standard-model-186076",
+        "whyUsed": "Verified that the Higgs discovery fundamentally addressed the origin of mass but raised questions about the stability of the universe, countering unfounded claims about teleportation or energy technology"
+      }
+    ],
+    "searchMeta": {
+      "usedWebSearch": true,
+      "searchQueries": [
+        "Higgs boson discovery importance mass elementary particles",
+        "Higgs field mechanism electroweak symmetry breaking mass origin"
+      ],
+      "confidence": "high"
+    }
+  },
+  "id": 13
+}

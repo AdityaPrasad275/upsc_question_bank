@@ -1,0 +1,72 @@
+{
+  "subject": "Science",
+  "year": 1999,
+  "theme": "Genetic engineering and transgenic crops: Bt cotton mechanisms and bacterial gene origin",
+  "question_short_text": "Bt cotton assertion and reason: is the Bt gene derived from bacteria and does it confer insect resistance?",
+  "text": "**Assertion (A):** Insect resistant transgenic cotton has been produced by inserting Bt gene.\n\n**Reason (R):** The Bt gene is derived from a bacterium.",
+  "options": [
+    "Both A and R are true, and R is the correct explanation of A",
+    "Both A and R are true, but R is not a correct explanation of A",
+    "A is true, but R is false",
+    "A is false, but R is true"
+  ],
+  "answerIndex": 0,
+  "answerText": "(a) Both A and R are true, and R is the correct explanation of A",
+  "explanation": "Bt cotton is a genetically modified cotton plant with genes inserted from Bacillus thuringiensis (Bt), a soil bacterium that naturally produces insecticidal crystal proteins (Cry proteins). These Bt genes enable the cotton plant to produce its own insecticide, conferring resistance to lepidopteran pests like cotton bollworms. Thus both the assertion and reason are true, and the reason directly explains why the transgenic cotton is pest-resistant.",
+  "research": {
+    "summary": "Bt cotton represents one of the earliest and most successful examples of plant genetic engineering for pest management. The question tests understanding of both the factual mechanism and the causal relationship between bacterially derived genes and transgenic pest resistance. The assertion is correct: Bt cotton has been commercially produced since the mid-1990s (Bollgard in 1996 in the US; approved in India in 2002) by inserting specific cry genes from Bacillus thuringiensis into cotton's genome, conferring resistance to major lepidopteran pests including tobacco budworm, pink bollworm, and cotton bollworm. The reason is also correct and directly causal: Bacillus thuringiensis is a naturally occurring soil bacterium that produces crystalline delta-endotoxins (Cry proteins). Scientists isolated these Bt genes and incorporated them into cotton cells. The cotton plant then produces the same Cry proteins in its tissues. When target insect larvae feed on the transgenic cotton, the alkaline pH of their midgut activates the Cry protein, which binds to specific receptors on the insect's intestinal epithelium, forming ion channels that disrupt potassium regulation and cause cell death within days. The key insight for aspiring test-takers: this is not a mere correlation but a direct mechanistic link. The reason (bacterial origin of the gene) directly explains the assertion (how the transgenic cotton became insect-resistant) because it is the specific gene from Bt that codes for the insecticidal protein. This is why option (a) is correct, not option (b). By 2014, 96% of US cotton and 95% of Indian cotton were genetically modified, making Bt cotton one of the most widely adopted transgenic crops globally.",
+    "facts": [
+      "Bt cotton was first commercialized in 1996 (Bollgard, Monsanto) in the US and approved for commercial cultivation in India in March 2002.",
+      "The primary Bt genes used in commercial cotton are cry1Ac and cry2Ab, which encode Cry proteins lethal to lepidopteran larvae; field-evolved resistance to single-gene cotton has occurred in India and other regions, driving adoption of pyramided (multi-gene) cotton varieties."
+    ],
+    "sources": [
+      {
+        "title": "Bt cotton - Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Bt_cotton",
+        "whyUsed": "Verified the commercial timeline, the bacterial source (Bacillus thuringiensis), gene insertion mechanism, specific Cry proteins, and global adoption rates."
+      },
+      {
+        "title": "Bacillus thuringiensis: A Century of Research, Development and Commercial Applications (NCBI)",
+        "url": "https://www.ncbi.nlm.nih.gov/books/NBK559445/",
+        "whyUsed": "Confirmed the relationship between the bacterium Bacillus thuringiensis and transgenic cotton development, establishing that Bt genes are indeed derived from the bacterium and incorporated into cotton."
+      },
+      {
+        "title": "100 Years of Bacillus thuringiensis: A Critical Scientific Assessment",
+        "url": "https://www.ncbi.nlm.nih.gov/books/NBK559445/",
+        "whyUsed": "Provided authoritative background on how Bt insecticidal protein genes have been incorporated into major crops including cotton since 1987, confirming the validity of both assertion and reason."
+      },
+      {
+        "title": "Bt Cotton - UT Crops",
+        "url": "https://utcrops.com/cotton/insects-and-mites/biological-control/bt-cotton/",
+        "whyUsed": "Confirmed that Bt cotton has been genetically modified by insertion of genes from soil bacterium Bacillus thuringiensis, and explained how these genes encode for insecticidal proteins (Cry toxins)."
+      }
+    ],
+    "searchMeta": {
+      "usedWebSearch": true,
+      "searchQueries": [
+        "Bt cotton Bacillus thuringiensis gene transgenic mechanism",
+        "Bt gene insecticide cotton bollworm resistance how it works"
+      ],
+      "confidence": "high"
+    }
+  },
+  "id": 43,
+  "usage": {
+    "cache_creation": {
+      "ephemeral_1h_input_tokens": 0,
+      "ephemeral_5m_input_tokens": 0
+    },
+    "cache_creation_input_tokens": 32983,
+    "cache_read_input_tokens": 10060,
+    "inference_geo": "not_available",
+    "input_tokens": 558,
+    "iterations": null,
+    "output_tokens": 1318,
+    "server_tool_use": {
+      "web_fetch_requests": 0,
+      "web_search_requests": 2
+    },
+    "service_tier": "batch",
+    "speed": null
+  }
+}

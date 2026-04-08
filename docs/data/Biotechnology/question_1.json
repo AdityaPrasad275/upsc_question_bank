@@ -1,0 +1,77 @@
+{
+  "subject": "Science",
+  "year": 2025,
+  "theme": "monoclonal antibodies and their immunological mechanisms and therapeutic applications",
+  "question_short_text": "Correctness of statements on monoclonal antibodies nature, mechanism, and use against viral infections",
+  "text": "With reference to monoclonal antibodies, often mentioned in news, consider the following statements:\n\nI. They are man-made proteins.\nII. They stimulate immunological function due to their ability to bind to specific antigens.\nIII. They are used in treating viral infections like that of Nipah virus.\n\nWhich of the statements given above are correct?",
+  "options": [
+    "I and II only",
+    "II and III only",
+    "I and III only",
+    "I, II and III"
+  ],
+  "answerIndex": 3,
+  "answerText": "(d) I, II and III",
+  "explanation": "All three statements are correct. Monoclonal antibodies are laboratory-produced synthetic proteins that specifically bind to target antigens to stimulate immune responses, and they are being actively developed and tested as therapeutic interventions against viral infections, including Nipah virus.",
+  "research": {
+    "summary": "Monoclonal antibodies (mAbs) are laboratory-engineered proteins\u2014not naturally occurring\u2014that mimic the immune system's capacity to bind specific antigens. Statement I is straightforward: mAbs are synthesized through hybridoma technology or recombinant methods, making them completely man-made. Statement II requires clarity on the mechanism: mAbs themselves do not directly stimulate immunological function in the classical sense; rather, they bind to specific antigens on pathogens or cells, and this binding triggers multiple immune responses. When an mAb binds to a viral antigen, it can neutralize the pathogen, prevent viral entry into cells, mark the pathogen for destruction via antibody-dependent cellular cytotoxicity (ADCC), and activate complement. The immune stimulation is secondary to the antigen-binding event. Statement III is firmly grounded in current development: monoclonal antibodies against Nipah virus (such as hu1F5 and m102.4) have demonstrated protection in non-human primates and are in clinical trials. The mAb 1F5 binds to the Nipah F glycoprotein, preventing viral entry; clinical trials began in 2024\u20132025 in India and Bangladesh with CEPI funding of $43.5 million. However, no mAb against Nipah is yet approved for human use\u2014these remain investigational. The key misconception to avoid: while mAbs are specific and effective, they are passive therapies\u2014they provide immediate but temporary protection (typically several months), unlike vaccines which induce lasting immunity. In the context of Nipah, mAbs are viewed as a 'bridge' protective tool for healthcare workers and exposed individuals while vaccine immunity develops.",
+    "facts": [
+      "The monoclonal antibody m102.4 against Nipah has been used on a compassionate basis in humans and completed Phase I safety trials in Australia, establishing proof of clinical tolerability.",
+      "Nipah virus has a case-fatality rate of 38\u201375% with no approved vaccines or therapeutics as of 2025, making mAb development a critical public health priority in endemic regions like Bangladesh and India."
+    ],
+    "sources": [
+      {
+        "title": "New human trials for novel antibody offer hope for immediate protection against deadly Nipah",
+        "url": "https://cepi.net/new-human-trials-novel-antibody-offer-hope-immediate-protection-against-deadly-nipah",
+        "whyUsed": "Verified current status of Nipah mAb clinical trials, funding, and mechanism of action"
+      },
+      {
+        "title": "USU-developed monoclonal antibody against Nipah virus recognized as top health innovation",
+        "url": "https://www.dha.mil/News/2025/04/25/14/04/USU-developed-monoclonal-antibody-against-Nipah-virus-recognized-as-top-innovation",
+        "whyUsed": "Recent update on MBP1F5 mAb development and Phase I trial status as of April 2025"
+      },
+      {
+        "title": "Therapeutics for Nipah virus disease: a systematic review",
+        "url": "https://www.sciencedirect.com/science/article/pii/S2666524724002702",
+        "whyUsed": "Evidence-based assessment of mAb candidates (1F5, m102.4) for Nipah prophylaxis and early treatment"
+      },
+      {
+        "title": "Monoclonal antibody - Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Monoclonal_antibody",
+        "whyUsed": "Definition and mechanism of mAbs as man-made proteins produced through hybridoma or recombinant technology"
+      },
+      {
+        "title": "Understanding How Monoclonal Antibodies Work - StatPearls",
+        "url": "https://www.ncbi.nlm.nih.gov/books/NBK572118/",
+        "whyUsed": "Technical mechanisms of mAb antigen binding and immune activation via ADCC and complement"
+      }
+    ],
+    "searchMeta": {
+      "usedWebSearch": true,
+      "searchQueries": [
+        "monoclonal antibodies Nipah virus treatment clinical trials",
+        "monoclonal antibodies mechanism action antigen binding immunological"
+      ],
+      "confidence": "high"
+    }
+  },
+  "id": 1,
+  "usage": {
+    "cache_creation": {
+      "ephemeral_1h_input_tokens": 0,
+      "ephemeral_5m_input_tokens": 0
+    },
+    "cache_creation_input_tokens": 27424,
+    "cache_read_input_tokens": 10060,
+    "inference_geo": "not_available",
+    "input_tokens": 601,
+    "iterations": null,
+    "output_tokens": 1285,
+    "server_tool_use": {
+      "web_fetch_requests": 0,
+      "web_search_requests": 2
+    },
+    "service_tier": "batch",
+    "speed": null
+  }
+}

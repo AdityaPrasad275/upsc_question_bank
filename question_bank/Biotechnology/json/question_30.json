@@ -1,0 +1,77 @@
+{
+  "subject": "Science",
+  "year": 2011,
+  "theme": "genetic engineering for pest resistance in agriculture",
+  "question_short_text": "Primary objective of developing Bt brinjal",
+  "text": "A genetically engineered form of brinjal, known as the Bt-brinjal, has been developed. The objective of this is?",
+  "options": [
+    "To make it pest-resistant.",
+    "To improve its taste and nutritive qualities.",
+    "To make it drought-resistant.",
+    "To make its shelf-life longer."
+  ],
+  "answerIndex": 0,
+  "answerText": "(a) To make it pest-resistant.",
+  "explanation": "Bt brinjal was developed to provide resistance against the Fruit and Shoot Borer (FSB), a major pest of brinjal cultivation. The cry1Ac gene from the bacterium Bacillus thuringiensis produces a protein that kills FSB larvae when ingested, reducing the need for chemical pesticides.",
+  "research": {
+    "summary": "Bt brinjal represents a targeted application of genetic engineering to solve a specific agricultural problem: the Brinjal Fruit and Shoot Borer (Leucinodes orbonalis), which causes yield losses as high as 70\u201395% in commercial plantings across South Asia. The technology works by inserting the cry1Ac gene from the soil bacterium Bacillus thuringiensis into the brinjal plant's genome. When FSB larvae feed on the plant tissue and ingest the Cry1Ac protein, the protein binds to specific receptors in the insect's alkaline gut, creating pores that disrupt digestion and kill the larva within 48\u201372 hours. The key to recognizing correct answers in this question is understanding that Bt technology is a pest-management tool, not a nutritional or agronomic improvement. Brinjal taste, nutritional content, or drought tolerance were never targets of Bt development\u2014traditional breeding and other genetic approaches would be needed for those objectives. Field trials in India documented a 42% reduction in overall insecticide use and up to 116% increases in marketable yield compared to conventional hybrids. Bangladesh, which commercially released Bt brinjal in 2014, reported a sixfold increase in net returns per hectare and farmers saved 61% on pesticide costs. Although Bt brinjal was approved in India by the GEAC in 2009, Environment Minister Jairam Ramesh placed an indefinite moratorium in 2010 citing the need for additional testing, and it remains unapproved for commercial release in India.",
+    "facts": [
+      "Bt cotton was successfully commercialized in India starting 1996 and now occupies 80% of the country's cotton hectarage, demonstrating farmer acceptance of Bt technology when regulatory hurdles are cleared.",
+      "Field trials showed Bt brinjal achieved 100% insect mortality in fruits and 98% in shoots compared to less than 30% mortality in non-Bt varieties treated with conventional pesticides, making it far more effective than spray-based control."
+    ],
+    "sources": [
+      {
+        "title": "Genetically modified brinjal - Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Genetically_modified_brinjal",
+        "whyUsed": "Provided comprehensive technical detail on the cry1Ac gene mechanism, development by Mahyco, GEAC approval date (14 October 2009), and the Indian moratorium imposed February 2010."
+      },
+      {
+        "title": "Pocket K No. 35: Bt Brinjal in India - ISAAA",
+        "url": "https://www.isaaa.org/resources/publications/pocketk/35/default.asp",
+        "whyUsed": "Detailed the mechanism of FSB damage (up to 70% yield loss), the cry1Ac protein activation in insect gut, field trial results showing 42% pesticide reduction and 116% yield increase, and estimated economic benefit of $400 million per year to India."
+      },
+      {
+        "title": "Bt Brinjal: Pest-Resistant Genetically Modified Eggplant - Food Safety Institute",
+        "url": "https://foodsafety.institute/food-biotechnology/bt-brinjal-pest-resistant-eggplant/",
+        "whyUsed": "Documented Bangladesh commercialization success (2014), sixfold increase in net returns per hectare ($2,151 vs $357), and 61% pesticide cost savings from field studies in 35 districts."
+      },
+      {
+        "title": "Bt brinjal - PMC/NIH",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC6771371/",
+        "whyUsed": "Verified yield loss statistics (86% in Bangladesh), FSB larval biology, and Bangladesh's 2014 commercialization as first developing country GM food crop release."
+      },
+      {
+        "title": "Tamil Nadu Agricultural University FAQ - faq_bt_brinjal.pdf",
+        "url": "https://agritech.tnau.ac.in/pdf/faq_bt_brinjal.pdf",
+        "whyUsed": "Clarified that 'Bt' stands for Bacillus thuringiensis (not biotechnology), and confirmed cry1Ac protein specificity to lepidopteran insects and safety to humans."
+      }
+    ],
+    "searchMeta": {
+      "usedWebSearch": true,
+      "searchQueries": [
+        "Bt brinjal genetically modified eggplant objective development India",
+        "Bt brinjal Bacillus thuringiensis fruit shoot borer FSB mechanism"
+      ],
+      "confidence": "high"
+    }
+  },
+  "id": 30,
+  "usage": {
+    "cache_creation": {
+      "ephemeral_1h_input_tokens": 0,
+      "ephemeral_5m_input_tokens": 5030
+    },
+    "cache_creation_input_tokens": 33244,
+    "cache_read_input_tokens": 5030,
+    "inference_geo": "not_available",
+    "input_tokens": 620,
+    "iterations": null,
+    "output_tokens": 1358,
+    "server_tool_use": {
+      "web_fetch_requests": 0,
+      "web_search_requests": 2
+    },
+    "service_tier": "batch",
+    "speed": null
+  }
+}

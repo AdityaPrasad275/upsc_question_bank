@@ -1,0 +1,72 @@
+{
+  "subject": "Science",
+  "year": 2011,
+  "theme": "Applications and limitations of genetic mapping and genome mapping in livestock and human health",
+  "question_short_text": "Benefits of determining gene arrangement or DNA sequence positions on chromosomes",
+  "text": "At present, scientists can determine the arrangement or relative positions of genes or DNA sequences on a chromosome. How does this knowledge benefit us?\n\n1. It is possible to know the pedigree of livestock.\n2. It is possible to understand the causes of all human diseases.\n3. It is possible to develop disease-resistant animal breeds.\n\nWhich of the statements above is/are correct?",
+  "options": [
+    "1 and 2 only",
+    "2 only",
+    "1 and 3 only",
+    "1, 2, and 3"
+  ],
+  "answerIndex": 2,
+  "answerText": "(c) 1 and 3 only",
+  "explanation": "Genetic mapping enables reconstruction of livestock pedigrees through analysis of genetic markers and inheritance patterns (Statement 1 is correct). It also allows identification of genetic markers associated with disease resistance, enabling selective breeding for disease-resistant animal breeds (Statement 3 is correct). However, knowing gene positions alone cannot explain all human diseases, as most common diseases are polygenic with complex environmental interactions (Statement 2 is incorrect).",
+  "research": {
+    "summary": "Genetic mapping\u2014the process of determining the spatial arrangement of genes and DNA sequences on chromosomes\u2014has fundamentally transformed animal breeding but has important limitations in human disease understanding. In livestock applications, genetic mapping is powerfully applied through marker analysis and pedigree reconstruction. By examining genetic markers such as SNPs and molecular polymorphisms across populations, researchers can trace inheritance patterns and determine genetic relationships among animals, establishing verifiable pedigrees for breeding purposes. More importantly, genetic mapping enables identification of specific genetic markers linked to disease-resistant traits. Studies have successfully mapped markers associated with diseases like mastitis, tuberculosis, and parasite resistance in cattle. These genetic insights allow breeders to implement marker-assisted selection (MAS) and genomic selection to develop animal breeds with superior disease resistance, productivity, and other economically important traits. The key strength here is that livestock breeding focuses on specific, often single or few-locus traits under controlled selection. The trap in this question, however, lies in Statement 2. The notion that genetic mapping enables understanding 'all' causes of human diseases fundamentally misunderstands the nature of human disease genetics. Most common human diseases are highly polygenic\u2014influenced by hundreds or even thousands of genetic variants, each with only tiny individual effects\u2014combined with complex environmental factors. Genetic mapping can identify associated variants through genome-wide association studies, but identification of an association is not the same as understanding the disease mechanism. The primary challenge is that the majority of disease-associated genetic variants fall in non-coding regions, whose functional interpretation remains extremely difficult. Additionally, for rare monogenic diseases, mapping identifies causative genes but even then understanding complete disease causation requires functional and biological studies beyond mapping alone. The contrast is crucial: in livestock, genetic mapping directly enables practical breeding improvements for specific traits; in human disease, genetic mapping identifies candidate genes and associations but cannot alone explain disease causation, especially for complex multifactorial diseases.",
+    "facts": [
+      "Genome-wide association studies (GWAS) in humans have identified hundreds of thousands of variants associated with common diseases, yet genome-wide variants typically explain only 10-30% of heritability, illustrating the limitation of genetic mapping for complete disease understanding.",
+      "Genetic markers in livestock are used not just for pedigree tracing but for genomic prediction through reference populations, allowing early genotyping of juvenile animals to estimate genomic breeding values (GEBVs) much faster than traditional phenotypic selection, reducing generation intervals in breeding programs."
+    ],
+    "sources": [
+      {
+        "title": "Genetic marker: a genome mapping tool to decode genetic diversity of livestock animals",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11524813/",
+        "whyUsed": "Verified applications of genetic markers in livestock for disease resistance identification and pedigree analysis through AFLP and SNP markers."
+      },
+      {
+        "title": "Genomics and disease resistance studies in livestock",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4547482/",
+        "whyUsed": "Established genomic selection methods for disease resistance in livestock and the practical advantages of genomic prediction over pedigree-based estimation."
+      },
+      {
+        "title": "Genetic Mapping in Human Disease",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC2694957/",
+        "whyUsed": "Documented limitations of genetic mapping in understanding human disease causation; clarified that mapping provides insights into disease mechanisms but not complete causation, especially for complex diseases influenced by hundreds of loci and environmental factors."
+      },
+      {
+        "title": "Genetic mapping of developmental trajectories for complex traits and diseases",
+        "url": "https://www.sciencedirect.com/science/article/pii/S2001037021002440",
+        "whyUsed": "Explained the complexity of common disease genetics\u2014most influenced by hundreds or thousands of weak-effect variants plus noncoding regulatory variants, illustrating why genetic mapping alone cannot explain disease causes."
+      }
+    ],
+    "searchMeta": {
+      "usedWebSearch": true,
+      "searchQueries": [
+        "genetic mapping genome mapping applications livestock pedigree disease resistance",
+        "genetic mapping limitations understanding causes human diseases"
+      ],
+      "confidence": "high"
+    }
+  },
+  "id": 31,
+  "usage": {
+    "cache_creation": {
+      "ephemeral_1h_input_tokens": 0,
+      "ephemeral_5m_input_tokens": 0
+    },
+    "cache_creation_input_tokens": 28925,
+    "cache_read_input_tokens": 10060,
+    "inference_geo": "not_available",
+    "input_tokens": 716,
+    "iterations": null,
+    "output_tokens": 1300,
+    "server_tool_use": {
+      "web_fetch_requests": 0,
+      "web_search_requests": 2
+    },
+    "service_tier": "batch",
+    "speed": null
+  }
+}

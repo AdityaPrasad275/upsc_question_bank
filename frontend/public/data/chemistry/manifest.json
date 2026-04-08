@@ -1,0 +1,65 @@
+{
+  "name": "chemistry",
+  "questions": [
+    {
+      "id": 1,
+      "short_text": "Coal gasification products for ethanol, nitroglycerine, and urea synthesis",
+      "file": "question_1.json"
+    },
+    {
+      "id": 2,
+      "short_text": "Which statements about carbon fiber use and recycling are correct?",
+      "file": "question_2.json"
+    },
+    {
+      "id": 3,
+      "short_text": "Which statements about polyethylene terephthalate (PET) are correct?",
+      "file": "question_3.json"
+    },
+    {
+      "id": 4,
+      "short_text": "Which plastic type is manufactured using Bisphenol A as a key structural component?",
+      "file": "question_4.json"
+    },
+    {
+      "id": 5,
+      "short_text": "Why water dissolves more substances than any other liquid",
+      "file": "question_5.json"
+    },
+    {
+      "id": 6,
+      "short_text": "Context for pyrolysis and plasma gasification",
+      "file": "question_6.json"
+    },
+    {
+      "id": 7,
+      "short_text": "Which pairs of materials and harmful chemicals commonly found in them are correctly matched?",
+      "file": "question_7.json"
+    },
+    {
+      "id": 8,
+      "short_text": "Three statements on fuel cell byproducts, applications range, and current type",
+      "file": "question_8.json"
+    },
+    {
+      "id": 9,
+      "short_text": "Which examples represent chemical changes: crystallization of NaCl, melting of ice, or souring of milk?",
+      "file": "question_9.json"
+    },
+    {
+      "id": 10,
+      "short_text": "Why do fruits in cold chambers have longer storage life?",
+      "file": "question_10.json"
+    },
+    {
+      "id": 11,
+      "short_text": "UV radiation role in water purification: identifying correct mechanisms of action",
+      "file": "question_11.json"
+    },
+    {
+      "id": 12,
+      "short_text": "Why aspartame works as low-calorie sweetener despite containing amino acids",
+      "file": "question_12.json"
+    }
+  ]
+}

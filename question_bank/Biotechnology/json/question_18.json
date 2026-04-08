@@ -1,0 +1,72 @@
+{
+  "subject": "Science & Technology",
+  "year": 2018,
+  "theme": "genetic engineering in crops\u2014barnase-barstar system for hybrid development",
+  "question_short_text": "Which statements about GM Mustard (DMH-11) development, genes, and institutional sources are correct?",
+  "text": "With reference to the Genetically Modified mustard (GM Mustard) developed in India, consider the following statements:\n\n1. GM Mustard has the genes of the soil bacterium that give the plant the property of pest-resistance to a wide variety of pests.\n2. GM Mustard has the genes that allow the plant cross-pollination and hybridization.\n3. GM mustard has been developed jointly by the IARI and Punjab Agricultural University.\n\nWhich of the statements given above is/are correct?",
+  "options": [
+    "1 and 3 only",
+    "2 only",
+    "2 and 3 only",
+    "1, 2 and 3"
+  ],
+  "answerIndex": 1,
+  "answerText": "(b) 2 only",
+  "explanation": "Statement 2 is correct: GM Mustard (DMH-11) contains barnase and barstar genes from the soil bacterium Bacillus amyloliquefaciens that enable cross-pollination and hybridization by controlling male sterility and fertility restoration. Statements 1 and 3 are incorrect: the genes enable hybridization, not pest resistance, and DMH-11 was developed by Delhi University's Centre for Genetic Manipulation of Crop Plants (CGMCP), not by IARI or Punjab Agricultural University.",
+  "research": {
+    "summary": "The question tests three specific claims about GM Mustard (DMH-11) and requires careful separation of what the technology actually does versus common misconceptions. The barnase-barstar system is fundamentally about controlling pollination, not pest resistance. Mustard is naturally a self-pollinating plant due to both male and female organs being present in individual flowers, making commercial hybridization difficult. The barnase gene, when expressed under a tapetum-specific promoter, destroys the cell layer surrounding the pollen sac, rendering the plant male-sterile and unable to self-pollinate. The barstar gene acts as a protective inhibitor, blocking barnase's action and restoring fertility in the F1 hybrid progeny. This creates an efficient male-sterility/fertility restoration system essential for hybrid seed production. The third gene, bar, confers herbicide tolerance (to glufosinate) and is used for marker selection and genetic purity of hybrid seed, not pest resistance. Statement 1 fails because pest resistance was never the engineering target\u2014only hybridization. The DNA construct comes from a soil bacterium, but the transferred genes serve reproductive control, not insecticidal function. Statement 3 is factually incorrect: DMH-11 was developed at the Centre for Genetic Manipulation of Crop Plants (CGMCP) at Delhi University's South Campus, under the direction of Dr. Deepak Pental, with funding from the National Dairy Development Board (NDDB) and the Department of Biotechnology. IARI and Punjab Agricultural University had no role in its development. The UPSC trap here is twofold: first, students often confuse any gene from a bacterium with pest resistance (because Bt cotton uses Bacillus thuringiensis), and second, they may assume development was by agricultural research institutions (IARI, PAU) rather than a genetics centre at Delhi University.",
+    "facts": [
+      "The barnase-barstar system was originally developed in Belgium in the early 1990s using genes from Bacillus amyloliquefaciens and was adapted by Delhi University for Indian mustard varieties.",
+      "DMH-11 was created by crossing the Indian mustard variety Varuna (carrying the barnase gene for male sterility) with the Eastern European variety Early Heera-2 (carrying the barstar gene for fertility restoration), combining their strengths through hybrid vigor."
+    ],
+    "sources": [
+      {
+        "title": "DMH-11 Mustard \u2013 Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/DMH-11_Mustard",
+        "whyUsed": "Verified the mechanism of barnase-barstar system, the role of the bar gene in marker selection, and the development at Delhi University South Campus by Dr. Deepak Pental."
+      },
+      {
+        "title": "Drishti IAS \u2013 GM Mustard",
+        "url": "https://www.drishtiias.com/daily-updates/daily-news-analysis/gm-mustard-2",
+        "whyUsed": "Confirmed the genes from Bacillus amyloliquefaciens enable hybridization not pest resistance, and explained the pollination control mechanism."
+      },
+      {
+        "title": "Biotech Consortium India Limited \u2013 GM Mustard FAQ",
+        "url": "https://biotech.co.in/sites/default/files/GM-Mustard_%2002.01.24.pdf",
+        "whyUsed": "Detailed the tapetum-specific promoter mechanism and the role of the three genes (barnase, barstar, bar) in hybrid seed production."
+      },
+      {
+        "title": "Vajiramandravi \u2013 GM Mustard",
+        "url": "https://vajiramandravi.com/upsc-exam/gm-mustard/",
+        "whyUsed": "Confirmed CGMCP at Delhi University as the development centre with NDDB and DBT support, and clarified the male-sterility system's purpose."
+      }
+    ],
+    "searchMeta": {
+      "usedWebSearch": true,
+      "searchQueries": [
+        "DMH-11 GM Mustard India development Delhi University CGMCP",
+        "Genetically Modified Mustard barstar barnase Bacillus amyloliquefaciens India"
+      ],
+      "confidence": "high"
+    }
+  },
+  "id": 18,
+  "usage": {
+    "cache_creation": {
+      "ephemeral_1h_input_tokens": 0,
+      "ephemeral_5m_input_tokens": 5030
+    },
+    "cache_creation_input_tokens": 29912,
+    "cache_read_input_tokens": 5030,
+    "inference_geo": "not_available",
+    "input_tokens": 733,
+    "iterations": null,
+    "output_tokens": 1414,
+    "server_tool_use": {
+      "web_fetch_requests": 0,
+      "web_search_requests": 2
+    },
+    "service_tier": "batch",
+    "speed": null
+  }
+}

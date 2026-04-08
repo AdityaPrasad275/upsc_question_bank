@@ -1,0 +1,68 @@
+{
+  "subject": "Science",
+  "year": 2016,
+  "theme": "viral host range and types of viruses based on host organism",
+  "question_short_text": "Which organisms can viruses infect? Identify correct statements about bacterial, fungal, and plant viruses.",
+  "text": "Which of the following statements is/are correct?\n\nViruses can infect:\n1. Bacteria\n2. Fungi\n3. Plants",
+  "options": [
+    "1 and 2 only",
+    "3 only",
+    "1 and 3 only",
+    "1, 2 and 3"
+  ],
+  "answerIndex": 3,
+  "answerText": "(d) 1, 2 and 3",
+  "explanation": "All three statements are correct. Viruses have a broad host range and can infect bacteria (bacteriophages), fungi (mycoviruses), and plants (plant viruses). This is a fundamental principle in virology: viruses can replicate only inside host cells and have evolved to infect virtually all major cellular life forms.",
+  "research": {
+    "summary": "This question tests understanding of viral diversity and the universal principle that viruses can infect virtually all cellular life forms. The key concept is that viruses are obligate intracellular parasites that require a host cell to replicate\u2014they are not selective to any single domain of life.\n\nBacteriophages (viruses infecting bacteria) are among the most abundant biological entities on Earth, outnumbering all bacteria combined. They are classified as lytic (destroying host cells) or lysogenic (integrating into host genome), and some have been harnessed for phage therapy against antibiotic-resistant bacteria.\n\nMycoviruses (viruses infecting fungi) comprise viruses with dsRNA or ssRNA genomes that infect fungal species across the kingdom. Unlike bacteriophages, mycoviruses typically do not lyse their fungal hosts and are transmitted vertically through spores or horizontally through hyphal fusion. Some mycoviruses are being studied as potential biocontrol agents against plant-pathogenic fungi by reducing host virulence.\n\nPlant viruses are economically significant pathogens causing an estimated US$60 billion in crop losses annually. They are transmitted primarily by insect vectors (aphids, whiteflies, thrips, leafhoppers) or through infected seeds, soil, and plant debris. Plant viruses cause symptoms including mosaic patterns, yellowing, stunting, and necrosis.\n\nThe confusion some aspirants might have is thinking viruses are restricted to animals or humans, when in reality every cellular organism is susceptible to viral infection. A good elimination cue: if any one statement about bacteria, fungi, or plants being infected by viruses were false, viruses would not be as ubiquitous as they actually are in nature.",
+    "facts": [
+      "Bacteriophages are the most abundant biological entities on Earth, estimated at more than 10^31 individual phages, exceeding the number of bacteria.",
+      "Plant viruses cause approximately 47% of all crop epidemics globally, with some crop losses reaching 80\u2013100% when infection occurs early in the growing season."
+    ],
+    "sources": [
+      {
+        "title": "Bacteriophage - Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Bacteriophage",
+        "whyUsed": "Verified that bacteriophages are viruses that infect and replicate within bacteria, and confirmed their abundance and ecological significance."
+      },
+      {
+        "title": "Mycovirus - Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Mycovirus",
+        "whyUsed": "Confirmed that mycoviruses (also called mycophages) are viruses that infect fungi, with dsRNA and ssRNA genome types."
+      },
+      {
+        "title": "Plant virus - Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Plant_virus",
+        "whyUsed": "Established that plant viruses cause significant economic losses and are transmitted by insect vectors and contaminated plant material."
+      }
+    ],
+    "searchMeta": {
+      "usedWebSearch": true,
+      "searchQueries": [
+        "bacteriophages viruses infect bacteria",
+        "mycoviruses fungal viruses infection",
+        "plant viruses crop diseases transmission"
+      ],
+      "confidence": "high"
+    }
+  },
+  "id": 12,
+  "usage": {
+    "cache_creation": {
+      "ephemeral_1h_input_tokens": 0,
+      "ephemeral_5m_input_tokens": 0
+    },
+    "cache_creation_input_tokens": 42777,
+    "cache_read_input_tokens": 10060,
+    "inference_geo": "not_available",
+    "input_tokens": 905,
+    "iterations": null,
+    "output_tokens": 1076,
+    "server_tool_use": {
+      "web_fetch_requests": 0,
+      "web_search_requests": 3
+    },
+    "service_tier": "batch",
+    "speed": null
+  }
+}

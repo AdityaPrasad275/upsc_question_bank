@@ -1,0 +1,72 @@
+{
+  "subject": "Science",
+  "year": 2000,
+  "theme": "plant breeding and oilseed characteristics for human consumption",
+  "question_short_text": "Key characteristic of canola mustard varieties bred for human consumption",
+  "text": "Canola refers to special type of oil seed mustard varieties bred for human consumption. The main characteristic of these varieties is that the:",
+  "options": [
+    "Seeds have very high oil content",
+    "Oil is rich in unsaturated fatty acids",
+    "Oil has long shelf-life",
+    "Oil has very low Erucic acid content"
+  ],
+  "answerIndex": 3,
+  "answerText": "(d) Oil has very low Erucic acid content",
+  "explanation": "Canola was specifically bred to eliminate erucic acid and glucosinolates from rapeseed oil, making it safe for human consumption. While unsaturated fatty acids are present and beneficial, the defining breeding characteristic that distinguishes canola from traditional rapeseed is the low erucic acid content.",
+  "research": {
+    "summary": "Canola oil is not defined by unsaturated fat content per se\u2014instead, it is defined by what plant breeders removed from traditional rapeseed oil. Traditional rapeseed contained 20\u201355% erucic acid, a long-chain monounsaturated fatty acid that animal studies linked to myocardial lipidosis (lipid accumulation in heart muscle). Canadian plant breeders in the 1970s developed \"low-erucic acid rapeseed\" (LEAR) varieties, later branded as 'canola' (Canada + ola). By international definition, canola must contain less than 2% erucic acid in the oil. This is the primary breeding criterion that distinguishes canola from regular rapeseed\u2014not high oil content or exceptional shelf-life. The secondary breeding goal was also to reduce glucosinolates, compounds harmful to livestock. The downstream consequence of low erucic acid breeding is a favorable fatty acid profile: commodities canola contains approximately 61% oleic acid (monounsaturated), 21% linoleic acid (polyunsaturated omega-6), and 11% alpha-linolenic acid (polyunsaturated omega-3), plus only ~7% saturated fats. The unsaturated fat composition makes it heart-healthy, but the question tests whether you understand what canola actually *is*\u2014a plant-bred variety defined by erucic acid removal, not by unsaturated fat content alone. Regular rapeseed oil also has high unsaturated fats, but it is not edible without the low-erucic acid modification. Option (b) describes a consequence of the breeding, not the defining characteristic.",
+    "facts": [
+      "Canola was developed as 'double-zero' (00) rapeseed, bred for both low erucic acid (<2%) and low glucosinolates, enabling safe edible use and livestock feed applications.",
+      "Modern canola oil contains unsaturated fatty acids at ~82% total (61% MUFA + 21% PUFA), making it nutritionally superior to traditional rapeseed, which contained dangerously high erucic acid levels."
+    ],
+    "sources": [
+      {
+        "title": "Rapeseed oil (Wikipedia)",
+        "url": "https://en.wikipedia.org/wiki/Rapeseed_oil",
+        "whyUsed": "Verified definition of canola as low-erucic acid rapeseed (LEAR) oil developed in early 1970s, international regulatory requirement of <2% erucic acid, and historical context of erucic acid health concerns."
+      },
+      {
+        "title": "Erucic Acid in Edible Fats and Oils (Centre for Food Safety, Hong Kong)",
+        "url": "https://www.cfs.gov.hk/english/multimedia/multimedia_pub/multimedia_pub_fsf_162_02.html",
+        "whyUsed": "Confirmed canola oil is made from rapeseed with very low erucic acid levels and explained why erucic acid reduction was the primary breeding goal."
+      },
+      {
+        "title": "Canola Oil Properties (Oklahoma State University)",
+        "url": "https://extension.okstate.edu/fact-sheets/canola-oil-properties.html",
+        "whyUsed": "Detailed historical context that original rapeseed had high erucic acid causing myocardial lipidosis in animal studies, and confirmed plant breeders reduced erucic acid as primary breeding criterion to enable human consumption."
+      },
+      {
+        "title": "Evidence of health benefits of canola oil (NIH PMC)",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC3746113/",
+        "whyUsed": "Verified canola oil's fatty acid composition (61% oleic, 21% linoleic, 11% alpha-linolenic) and cardioprotective profile as downstream consequence of low-erucic acid breeding."
+      }
+    ],
+    "searchMeta": {
+      "usedWebSearch": true,
+      "searchQueries": [
+        "Canola oil erucic acid content breeding",
+        "Canola oil characteristics unsaturated fatty acids heart health"
+      ],
+      "confidence": "high"
+    }
+  },
+  "id": 40,
+  "usage": {
+    "cache_creation": {
+      "ephemeral_1h_input_tokens": 0,
+      "ephemeral_5m_input_tokens": 0
+    },
+    "cache_creation_input_tokens": 28916,
+    "cache_read_input_tokens": 10060,
+    "inference_geo": "not_available",
+    "input_tokens": 505,
+    "iterations": null,
+    "output_tokens": 1239,
+    "server_tool_use": {
+      "web_fetch_requests": 0,
+      "web_search_requests": 2
+    },
+    "service_tier": "batch",
+    "speed": null
+  }
+}

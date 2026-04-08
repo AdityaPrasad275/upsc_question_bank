@@ -1,0 +1,1 @@
+copyq read 0 | node save.js <subject>

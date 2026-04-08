@@ -1,0 +1,49 @@
+{
+  "subject": "Science",
+  "year": 2013,
+  "theme": "optical phenomena involved in rainbow formation",
+  "question_short_text": "Physical phenomena responsible for rainbow formation",
+  "text": "Rainbow is produced when sunlight falls on drops of rain. Which of the following physical phenomena are responsible for this?\n\n1. Dispersion\n2. Refraction\n3. Internal reflection\n\nSelect the correct answer using the codes given below:",
+  "options": [
+    "1 and 2 only",
+    "2 and 3 only",
+    "1 and 3 only",
+    "1, 2 and 3"
+  ],
+  "answerIndex": 3,
+  "answerText": "(d) 1, 2 and 3",
+  "explanation": "A rainbow forms through the combined action of all three phenomena: refraction (light bending as it enters and exits the raindrop), internal reflection (light reflecting off the back inner surface), and dispersion (separation of white light into its component colors due to wavelength-dependent refraction).",
+  "research": {
+    "summary": "Rainbow formation is a textbook example of multiple optical phenomena working in concert. When sunlight enters a raindrop, it undergoes refraction at the air-water boundary, bending according to Snell's law. Critically, because the refractive index of water varies with wavelength, different colors bend at slightly different angles\u2014this is dispersion, the physical basis for color separation. The refracted light then travels to the back of the drop, where it undergoes total internal reflection (a specific case of internal reflection that occurs when the angle of incidence exceeds the critical angle). This reflection directs the light back toward the exit surface, where it refracts again as it leaves the water, further emphasizing color separation. The sequence\u2014refraction entry \u2192 dispersion in the medium \u2192 internal reflection at the back \u2192 refraction at exit\u2014produces the vivid colored arc. A primary rainbow results from one internal reflection; secondary rainbows result from two internal reflections, which is why they are fainter and show reversed color order. The key misconception some students have is thinking dispersion alone produces the rainbow, or that reflection alone is sufficient; in reality, all three must occur. Without refraction, light would not enter the drop and separate by color. Without dispersion, all colors would follow the same path and no spectrum would appear. Without internal reflection, light would either pass straight through or reflect weakly from the surface, failing to redirect it back toward the observer at the correct angle.",
+    "facts": [
+      "In the primary rainbow, light undergoes exactly two refractions (entry and exit) and one internal reflection inside the drop, emerging most intensely at approximately 42 degrees from the antisolar point.",
+      "The region between the primary and secondary rainbow (at approximately 42\u201351 degrees) appears darker\u2014called Alexander's Dark Band\u2014because light rays in this angular range either escape without the necessary internal reflection or cannot exit due to the critical angle constraint."
+    ],
+    "sources": [
+      {
+        "title": "Rainbow - Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Rainbow",
+        "whyUsed": "Comprehensive overview of rainbow optical phenomena confirming all three mechanisms (refraction, internal reflection, dispersion) are essential; includes historical context on Descartes' explanation of primary and secondary bows."
+      },
+      {
+        "title": "25.5: Dispersion - Rainbows and Prisms | Physics LibreTexts",
+        "url": "https://phys.libretexts.org/Bookshelves/College_Physics/College_Physics_1e_(OpenStax)/25:_Geometric_Optics/25.05:_Dispersion_-_Rainbows_and_Prisms",
+        "whyUsed": "Detailed explanation of the role of dispersion in rainbows, clarifying that dispersion is caused by wavelength-dependent refraction, not by reflection, and demonstrating why all three phenomena are necessary."
+      },
+      {
+        "title": "What Causes a Rainbow? | Britannica",
+        "url": "https://www.britannica.com/science/What-Causes-a-Rainbow",
+        "whyUsed": "Verified explanation of minimum deviation angle and the critical role of internal reflection at specific angles in producing the visible rainbow arc."
+      }
+    ],
+    "searchMeta": {
+      "usedWebSearch": true,
+      "searchQueries": [
+        "rainbow formation physics dispersion refraction internal reflection",
+        "critical angle total internal reflection raindrop rainbow"
+      ],
+      "confidence": "high"
+    }
+  },
+  "id": 11
+}

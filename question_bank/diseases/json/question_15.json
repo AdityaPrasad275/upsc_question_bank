@@ -1,0 +1,73 @@
+{
+  "subject": "Science",
+  "year": 1999,
+  "theme": "Sex-linked vs autosomal genetic disorders",
+  "question_short_text": "Identify the sex-linked genetic disease from a list of four disorders",
+  "text": "Which one of the following genetic diseases is sex-linked?",
+  "options": [
+    "Royal haemophilia",
+    "Tay-Sachs disease",
+    "Cystic fibrosis",
+    "Hypertension"
+  ],
+  "answerIndex": 0,
+  "answerText": "(a) Royal haemophilia",
+  "explanation": "Royal haemophilia (hemophilia B) is a sex-linked disorder inherited via the X chromosome, primarily affecting males. Tay-Sachs, cystic fibrosis, and hypertension follow different inheritance patterns: autosomal recessive, autosomal recessive, and multifactorial, respectively.",
+  "research": {
+    "summary": "This question tests understanding of the critical distinction between sex-linked (X-linked) and autosomal inheritance patterns. Hemophilia is a bleeding disorder caused by deficiency of clotting factors (Factor VIII in hemophilia A, Factor IX in hemophilia B) whose genes are located on the X chromosome. Because males have only one X chromosome (XY), a single mutated allele on that X causes the disease\u2014they cannot mask a defective gene with a normal backup. Females (XX) typically need mutations on both copies to be affected, though carrier females with skewed X-inactivation can manifest symptoms. The term \"Royal hemophilia\" reflects history: Queen Victoria was a carrier who transmitted it through European royal families. By contrast, Tay-Sachs disease is autosomal recessive (mutations in HEXA gene on chromosome 15) requiring two mutated copies to manifest, and it affects males and females equally. Cystic fibrosis is similarly autosomal recessive (CFTR gene on chromosome 7), requiring two mutated copies. Hypertension is polygenic and multifactorial, not a simple Mendelian disorder. The key elimination principle: sex-linked inheritance shows a characteristic male predominance and X-chromosome location, whereas autosomal disorders affect both sexes equally according to recessive/dominant patterns. A male hemophiliac cannot pass hemophilia to his sons (since sons receive the Y from fathers, not the X), but all his daughters become carriers\u2014this male-to-female transmission pattern is a diagnostic hallmark of X-linked disorders.",
+    "facts": [
+      "About 1 in 4,000 to 5,000 males worldwide are born with hemophilia A; hemophilia B is rarer at approximately 1 in 20,000 newborn males.",
+      "Hemophilia A and B together account for 80-90% and 10-20% of hemophilia cases respectively; both are X-linked recessive, while hemophilia C (Factor XI deficiency) is autosomal recessive."
+    ],
+    "sources": [
+      {
+        "title": "Hemophilia: MedlinePlus Genetics",
+        "url": "https://medlineplus.gov/genetics/condition/hemophilia/",
+        "whyUsed": "Verified X-linked recessive inheritance pattern and male predominance of hemophilia A and B"
+      },
+      {
+        "title": "Tay\u2013Sachs disease - Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Tay%E2%80%93Sachs_disease",
+        "whyUsed": "Confirmed autosomal recessive inheritance from mutations in HEXA gene on chromosome 15"
+      },
+      {
+        "title": "Cystic fibrosis - Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Cystic_fibrosis",
+        "whyUsed": "Confirmed autosomal recessive inheritance from CFTR gene mutations on chromosome 7"
+      },
+      {
+        "title": "How Hemophilia Is Inherited | Hemophilia | CDC",
+        "url": "https://www.cdc.gov/hemophilia/testing/how-hemophilia-is-inherited.html",
+        "whyUsed": "Explained X-linked inheritance pattern and male-to-daughter transmission property"
+      }
+    ],
+    "searchMeta": {
+      "usedWebSearch": true,
+      "searchQueries": [
+        "hemophilia sex-linked genetic disease X chromosome",
+        "Tay-Sachs disease autosomal recessive inheritance pattern",
+        "cystic fibrosis autosomal recessive genetic disease"
+      ],
+      "confidence": "high"
+    }
+  },
+  "id": 15,
+  "usage": {
+    "cache_creation": {
+      "ephemeral_1h_input_tokens": 0,
+      "ephemeral_5m_input_tokens": 5030
+    },
+    "cache_creation_input_tokens": 46139,
+    "cache_read_input_tokens": 5030,
+    "inference_geo": "not_available",
+    "input_tokens": 645,
+    "iterations": null,
+    "output_tokens": 1131,
+    "server_tool_use": {
+      "web_fetch_requests": 0,
+      "web_search_requests": 3
+    },
+    "service_tier": "batch",
+    "speed": null
+  }
+}

@@ -1,0 +1,71 @@
+{
+  "subject": "Science",
+  "year": 2023,
+  "theme": "extremophile microorganisms and their adaptations to extreme environmental conditions",
+  "question_short_text": "Extremophile growth in boiling, freezing, and highly acidic environments",
+  "text": "Consider the following statements:\n\n1. Some microorganisms can grow in environments with temperature above the boiling point of water.\n2. Some microorganisms can grow in environments with temperatures below the freezing point of water.\n3. Some microorganisms can grow in highly acidic environment with a pH below 3.\n\nHow many of the above statements are correct?",
+  "options": [
+    "(a) Only one",
+    "(b) Only two",
+    "(c) All three",
+    "(d) None"
+  ],
+  "answerIndex": 2,
+  "answerText": "(c) All three",
+  "explanation": "All three statements are correct. Thermophiles and hyperthermophiles thrive at temperatures exceeding 100\u00b0C, psychrophiles survive below 0\u00b0C, and acidophiles grow in pH conditions well below 3, including pH 0.06. These extremophiles possess specialized molecular adaptations that enable survival in these harsh conditions.",
+  "research": {
+    "summary": "This question tests knowledge of extremophiles\u2014a diverse group of microorganisms that thrive in environmental conditions lethal to most life. The key insight is that extremophiles are not rare curiosities but represent genuine biological solutions to extreme stress. Statement 1 is correct: hyperthermophiles like Methanopyrus kandleri grow optimally at 122\u00b0C (252\u00b0F), well above water's boiling point of 100\u00b0C. These organisms possess heat-stable enzymes and special proteins that prevent denaturation at extreme temperatures. Statement 2 is equally valid: psychrophiles such as Chryseobacterium greenlandensis inhabit Arctic ice, glaciers, and deep ocean waters at temperatures far below 0\u00b0C. They rely on antifreeze proteins and enzymes with enhanced structural flexibility to maintain catalytic activity in near-freezing conditions. Statement 3 is also correct: acidophiles, particularly the genus Picrophilus (e.g., Picrophilus torridus), can grow at pH 0.06\u2014far more acidic than the pH 3 threshold mentioned in the statement. These organisms deploy specialized cell membranes and acid-tolerant enzymes to survive in environments like acidic hot springs and mining waste. A common misconception is treating extremophiles as theoretical or marginal organisms; in reality, they are well-established in research and have major industrial applications (Taq polymerase for PCR comes from the thermophile Thermus aquaticus). The distinction to recognize is that 'extreme' is defined by the organism's evolutionary adaptation, not by any absolute standard\u2014what kills a mesophile sustains an extremophile.",
+    "facts": [
+      "Hyperthermophiles can grow at temperatures up to 122\u00b0C; some like Pyrodictium occultum thrive at 110\u00b0C or higher, making them among the most temperature-tolerant organisms known.",
+      "Picrophilus torridus, an acidophile, can grow at pH 0.06, making it more acid-tolerant than the pH below 3 mentioned in the question\u2014a useful recognition cue for understanding the depth of extremophile adaptation."
+    ],
+    "sources": [
+      {
+        "title": "Extremophiles and Extreme Environments - NIH/PMC",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4187170/",
+        "whyUsed": "Verified that Methanopyrus kandleri grows at 122\u00b0C and Picrophilus torridus grows at pH 0.06, confirming all three statements with specific organism examples."
+      },
+      {
+        "title": "How Extremophiles Push the Limits of Life - ASM.org",
+        "url": "https://asm.org/articles/2023/march/how-extremophiles-push-the-limits-of-life",
+        "whyUsed": "Explained the molecular and physiological adaptations (thermozymes, antifreeze proteins, structural flexibility) that enable growth in extreme conditions."
+      },
+      {
+        "title": "Extremophiles: Unlocking biomedical and industrial innovations from life at the edge - CAS",
+        "url": "https://www.cas.org/resources/cas-insights/extremophiles-biomedical-industrial-innovations",
+        "whyUsed": "Provided context on practical applications and industrial use of extremophilic enzymes, grounding the topic in real-world relevance."
+      },
+      {
+        "title": "Extremophile - an overview - ScienceDirect Topics",
+        "url": "https://www.sciencedirect.com/topics/agricultural-and-biological-sciences/extremophile",
+        "whyUsed": "Confirmed classification of extremophiles by environmental condition and verified temperature and pH ranges for each type."
+      }
+    ],
+    "searchMeta": {
+      "usedWebSearch": true,
+      "searchQueries": [
+        "extremophile microorganisms thermophiles psychrophiles acidophiles"
+      ],
+      "confidence": "high"
+    }
+  },
+  "id": 3,
+  "usage": {
+    "cache_creation": {
+      "ephemeral_1h_input_tokens": 0,
+      "ephemeral_5m_input_tokens": 0
+    },
+    "cache_creation_input_tokens": 12943,
+    "cache_read_input_tokens": 10060,
+    "inference_geo": "not_available",
+    "input_tokens": 714,
+    "iterations": null,
+    "output_tokens": 1192,
+    "server_tool_use": {
+      "web_fetch_requests": 0,
+      "web_search_requests": 1
+    },
+    "service_tier": "batch",
+    "speed": null
+  }
+}

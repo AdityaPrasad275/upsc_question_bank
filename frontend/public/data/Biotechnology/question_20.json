@@ -1,0 +1,67 @@
+{
+  "subject": "Science",
+  "year": 2017,
+  "theme": "Somatic cell nuclear transfer technology and its primary applications in cloning",
+  "question_short_text": "Which is the correct application of Somatic Cell Nuclear Transfer technology?",
+  "text": "What is the application of Somatic Cell Nuclear Transfer Technology?",
+  "options": [
+    "Production of biolarvicides",
+    "Manufacture of biodegradable plastics",
+    "Reproductive cloning of animals",
+    "Production of organisms free of diseases"
+  ],
+  "answerIndex": 2,
+  "answerText": "(c) Reproductive cloning of animals",
+  "explanation": "Somatic Cell Nuclear Transfer (SCNT) is fundamentally a cloning technique used for reproductive cloning of animals. The nucleus of a somatic cell is transferred into an enucleated egg, which then develops into an embryo that can be implanted into a surrogate mother to produce a cloned animal. Dolly the sheep, born in 1996, was the first mammal cloned using SCNT.",
+  "research": {
+    "summary": "SCNT is the core technology behind reproductive cloning, not the production of specific biochemicals or organisms with disease resistance. The question tests understanding of SCNT's primary application versus other biotechnological uses. SCNT works by transferring the nucleus from a differentiated adult cell (somatic cell) into an enucleated egg cell, where the egg cytoplasm reprograms the somatic nucleus back to a totipotent state capable of directing development of an entire organism. The reconstructed embryo is then implanted into a surrogate mother to gestate and be born as a genetic copy of the original donor. The landmark achievement\u2014Dolly the sheep in 1996\u2014definitively proved that adult somatic cell nuclei retain all genetic information necessary to support full development into a living organism. While SCNT technology has enabled transgenic animal production, disease-resistant livestock, and species conservation applications, the direct, primary application of SCNT itself is reproductive cloning of animals. Biolarvicides and biodegradable plastics would require genetic engineering or metabolic engineering (separate techniques), not nuclear transfer. Producing disease-free organisms typically involves therapeutic cloning or genetic modification alongside SCNT, not SCNT alone. The trap here is confusing SCNT with the biotechnological ends it can serve (transgenic animal production, disease resistance), when the question asks about the technology's direct application.",
+    "facts": [
+      "SCNT has been successfully used to clone over 20 mammalian species since Dolly, including cattle, pigs, goats, sheep, and primates (macaques in 2018)\u2014demonstrating that reproductive cloning is its established, proven application.",
+      "Therapeutic cloning, which derives embryonic stem cells from SCNT-generated blastocysts for regenerative medicine, is a secondary application that emerged after Dolly's success; the primary application remains reproductive cloning to generate live cloned organisms."
+    ],
+    "sources": [
+      {
+        "title": "Somatic cell nuclear transfer - Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Somatic_cell_nuclear_transfer",
+        "whyUsed": "Verified core definition of SCNT and confirmed reproductive cloning as its primary application, with historical timeline and mammalian species cloned."
+      },
+      {
+        "title": "Somatic cell nuclear transfer (SCNT) | Definition, Steps, Applications, & Facts | Britannica",
+        "url": "https://www.britannica.com/science/somatic-cell-nuclear-transfer",
+        "whyUsed": "Authoritative source confirming that the most practical application of SCNT is reproductive cloning of farm animals and mammals, with details on Dolly the sheep's creation in 1996."
+      },
+      {
+        "title": "Somatic Cell Nuclear Transfer Reprogramming: Mechanisms and Applications - ScienceDirect",
+        "url": "https://www.sciencedirect.com/topics/biochemistry-genetics-and-molecular-biology/somatic-cell-nuclear-transfer",
+        "whyUsed": "Peer-reviewed summary distinguishing reproductive cloning (primary, direct application) from therapeutic cloning (secondary, stem cell-derived application) and transgenic animal production."
+      }
+    ],
+    "searchMeta": {
+      "usedWebSearch": true,
+      "searchQueries": [
+        "Somatic Cell Nuclear Transfer SCNT applications cloning",
+        "Dolly sheep SCNT reproductive cloning animals"
+      ],
+      "confidence": "high"
+    }
+  },
+  "id": 20,
+  "usage": {
+    "cache_creation": {
+      "ephemeral_1h_input_tokens": 0,
+      "ephemeral_5m_input_tokens": 0
+    },
+    "cache_creation_input_tokens": 22807,
+    "cache_read_input_tokens": 10060,
+    "inference_geo": "not_available",
+    "input_tokens": 518,
+    "iterations": null,
+    "output_tokens": 1069,
+    "server_tool_use": {
+      "web_fetch_requests": 0,
+      "web_search_requests": 2
+    },
+    "service_tier": "batch",
+    "speed": null
+  }
+}

@@ -1,0 +1,72 @@
+{
+  "subject": "Science",
+  "year": 2013,
+  "theme": "Mycorrhizal symbiosis and plant stress tolerance mechanisms",
+  "question_short_text": "Mycorrhiza functions in land rehabilitation - which statements are correct?",
+  "text": "Mycorrhizal biotechnology has been used in rehabilitating degraded sites because mycorrhiza enables the plants to?\n\n1. Resist drought and increase absorptive area\n2. Tolerate extremes of pH\n3. Resist disease infestation\n\nSelect the correct answer using the codes given below.",
+  "options": [
+    "1 only",
+    "2 and 3 only",
+    "1 and 3 only",
+    "1, 2, and 3"
+  ],
+  "answerIndex": 3,
+  "answerText": "(d) 1, 2, and 3",
+  "explanation": "Mycorrhizal fungi form symbiotic associations with plant roots and enable the plants to resist drought, tolerate pH extremes, and resist disease infestation. Therefore, all three statements are correct.",
+  "research": {
+    "summary": "This question tests understanding of the practical role of mycorrhizal biotechnology in ecosystem restoration, specifically the physiological and ecological mechanisms by which arbuscular mycorrhizal fungi (AMF) improve plant survival on degraded, nutrient-poor, and stressed soils. The correct answer is *all three statements*. Here's why each mechanism works: **(1) Drought resistance and increased absorptive area.** Mycorrhizal hyphae extend far beyond the root system\u2014sometimes 10-100 times longer\u2014creating an extensive hyphal network in the soil. This dramatically increases the plant's effective absorptive surface area for both water and nutrient uptake. During drought stress, this expanded network allows plants to access water from soil micropores that root hairs alone cannot reach, and the symbiosis also triggers osmotic adjustment through accumulation of compatible solutes (sugars, proline), which maintains cell turgor and enables continued photosynthesis even under water limitation. Scientific studies consistently show that mycorrhizal plants recover faster from drought and maintain higher water status than non-mycorrhizal controls. **(2) Tolerance of pH extremes.** Mycorrhizal fungi actively modify soil chemistry around their hyphae through acidification, which makes certain nutrients (especially phosphorus) more soluble and available for uptake. This mechanism allows mycorrhizal plants to thrive across a wider pH range\u2014both in acidic and alkaline degraded soils where nutrient availability is chemically locked. The fungi also enhance uptake of specific minerals (calcium, potassium) that help plants regulate internal pH balance. **(3) Disease resistance.** Mycorrhizal colonization strengthens plant defenses through multiple pathways: it enhances the plant's antioxidant defense system (increasing SOD and catalase activity), promotes the production of secondary metabolites with antimicrobial and antifungal properties, and improves the physical structure of root tissues, making them more resistant to pathogen penetration. Additionally, mycorrhizal fungi themselves compete with pathogens for root colonization niches and produce bioactive compounds that suppress root rot organisms. The practical importance for land rehabilitation: degraded soils (mine spoils, eroded areas, salinity-affected land) typically have three critical problems\u2014low water availability, poor nutrient chemistry, and absence of protective microbiota. Mycorrhizal biotechnology directly addresses all three by inoculating plants with AMF before transplanting to degraded sites. This biotechnological approach is particularly cost-effective compared to chemical remediation and allows natural ecosystem succession without heavy external inputs.",
+    "facts": [
+      "Mycorrhizal hyphae can extend 10-100x beyond root length, increasing effective soil exploration area and allowing water/nutrient acquisition in microhabitats unreachable by roots alone.",
+      "Arbuscular mycorrhizal fungi form symbiotic associations with ~80% of terrestrial plant species and are found naturally in nearly every soil, making them ideal agents for restoration where degradation has eliminated these beneficial organisms."
+    ],
+    "sources": [
+      {
+        "title": "The Potential Role of Arbuscular Mycorrhizal Fungi in the Restoration of Degraded Lands",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4960231/",
+        "whyUsed": "Directly addresses AMF biotechnology in degraded land restoration, explaining survival mechanisms, succession support, and evidence for all three mechanisms in this question."
+      },
+      {
+        "title": "Arbuscular Mycorrhizal Fungi Mediate Drought Tolerance and Recovery in Two Contrasting Carob (Ceratonia siliqua L.) Ecotypes",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7020440/",
+        "whyUsed": "Peer-reviewed study showing specific mechanisms of drought tolerance through mineral nutrient uptake, osmotic adjustment, and antioxidant system activation in mycorrhizal plants."
+      },
+      {
+        "title": "The Critical Role of Arbuscular Mycorrhizal Fungi to Improve Drought Tolerance and Nitrogen Use Efficiency in Crops",
+        "url": "https://www.frontiersin.org/journals/plant-science/articles/10.3389/fpls.2022.919166/full",
+        "whyUsed": "Comprehensive review detailing mechanisms of water uptake, pH buffering, soil structure improvement, and disease suppression through antioxidant system activation."
+      },
+      {
+        "title": "Mycorrhizae in mine wasteland reclamation",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11259807/",
+        "whyUsed": "Modern evidence of mycorrhizal application in restoring contaminated and degraded soils, confirming disease resistance and nutrient stress tolerance mechanisms."
+      }
+    ],
+    "searchMeta": {
+      "usedWebSearch": true,
+      "searchQueries": [
+        "mycorrhiza drought tolerance pH extremes disease resistance",
+        "mycorrhizal fungi land rehabilitation degraded soil"
+      ],
+      "confidence": "high"
+    }
+  },
+  "id": 26,
+  "usage": {
+    "cache_creation": {
+      "ephemeral_1h_input_tokens": 0,
+      "ephemeral_5m_input_tokens": 5030
+    },
+    "cache_creation_input_tokens": 36999,
+    "cache_read_input_tokens": 5030,
+    "inference_geo": "not_available",
+    "input_tokens": 609,
+    "iterations": null,
+    "output_tokens": 1446,
+    "server_tool_use": {
+      "web_fetch_requests": 0,
+      "web_search_requests": 2
+    },
+    "service_tier": "batch",
+    "speed": null
+  }
+}

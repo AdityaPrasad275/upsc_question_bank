@@ -1,0 +1,60 @@
+{
+  "subject": "Science",
+  "year": 2024,
+  "theme": "Radioisotope thermoelectric generators (RTGs) - principles, function, and spacecraft applications",
+  "question_short_text": "Identify correct statements about radioisotope thermoelectric generators and their fuel sources",
+  "text": "With reference to radioisotope thermoelectric generators (RTGs), consider the following statements:\n\n1. RTGs are miniature fission reactors.\n2. RTGs are used for powering the onboard systems of spacecrafts.\n3. RTGs can use Plutonium-238, which is a by-product of weapons development.\n\nWhich of the statements given above are correct?",
+  "options": [
+    "1 and 2 only",
+    "2 and 3 only",
+    "1 and 3 only",
+    "1, 2 and 3"
+  ],
+  "answerIndex": 1,
+  "answerText": "(b) 2 and 3 only",
+  "explanation": "RTGs are not fission reactors\u2014they convert heat from natural radioactive decay into electricity using thermocouples. They do power spacecraft and can use Plutonium-238, which is recoverable from spent nuclear fuel during reprocessing, linking it to weapons material programs.",
+  "research": {
+    "summary": "The critical distinction this question tests is between radioisotope decay and nuclear fission. Statement 1 is the trap. RTGs are often incorrectly thought to be reactors because they involve radioactive material, but they operate on an entirely different principle. Fission reactors split heavy atomic nuclei in a sustained chain reaction, releasing enormous energy rapidly. RTGs rely solely on the natural, steady decay of plutonium-238atoms to generate heat, which thermocouples then convert to electricity via the Seebeck effect. NASA explicitly calls RTGs \"nuclear batteries,\" not reactors. The power output is modest, constant, and utterly predictable\u2014ideal for deep space where solar panels fail and reliability over decades matters more than peak power. Statement 2 is unambiguously correct. Cassini, Voyager 1 and 2, Curiosity, New Horizons, and numerous other spacecraft have been powered by RTGs; these systems have proven to be among the most reliable long-duration power sources humanity has built. Statement 3 is also correct but historically subtle. Plutonium-238 is produced by neutron irradiation of neptunium-237, itself a minor actinide recovered during reprocessing of spent reactor fuel. The key phrase \"a by-product of weapons development\" refers not to the creation of Pu-238 itself, but to the fact that Pu-238 sources historically emerged from the infrastructure and fuel streams of weapons plutonium (Pu-239) production. Cold War-era plutonium production reactors and reprocessing plants generated these minor actinides as part of their operations. Modern Pu-238 is deliberately synthesized through irradiation of neptunium or americium, not as a direct weapons by-product, but the material itself was first isolated and used in that context. The connection to weapons programs is real but indirect\u2014what the question is testing is whether students confuse Pu-238 (unsuitable for weapons) with Pu-239 (weapons-fissile) and whether they understand that spent fuel reprocessing yields useful isotopes beyond just the fissile ones.",
+    "facts": [
+      "Cassini carried three GPHS-RTGs that generated 870 watts of power from 33 kg of plutonium-238 oxide and operated reliably for nearly 20 years until intentional deorbiting in September 2017.",
+      "Voyager 1 and 2, launched in 1977 with Multi-Hundred Watt RTGs producing 158 W each at launch, have continued transmitting from deep space for over 45 years, demonstrating the exceptional durability of radioisotope power for long-duration missions where solar panels are impractical."
+    ],
+    "sources": [
+      {
+        "title": "Cassini's Radioisotope Thermoelectric Generators (RTGs) - NASA Science",
+        "url": "https://science.nasa.gov/mission/cassini/radioisotope-thermoelectric-generator/",
+        "whyUsed": "Verified that Cassini used three RTGs and that RTGs are explicitly not fission reactors, distinguishing decay-based power from fission."
+      },
+      {
+        "title": "Radioisotope thermoelectric generator - Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Radioisotope_thermoelectric_generator",
+        "whyUsed": "Confirmed RTG operating principle using thermocouples and Seebeck effect, spacecraft applications across multiple missions, and detailed safety design."
+      },
+      {
+        "title": "Plutonium-238 - Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Plutonium-238",
+        "whyUsed": "Verified that Pu-238 is produced via neutron irradiation of neptunium-237 recovered during spent fuel reprocessing, and documented its historical connection to weapons programs."
+      },
+      {
+        "title": "Power: Radioisotope Thermoelectric Generators - NASA Science",
+        "url": "https://science.nasa.gov/planetary-science/programs/radioisotope-power-systems/power-radioisotope-thermoelectric-generators/",
+        "whyUsed": "Confirmed thermocouple conversion mechanism and Pu-238 as the standard RTG fuel in current NASA spacecraft missions."
+      },
+      {
+        "title": "Processing of Used Nuclear Fuel - World Nuclear Association",
+        "url": "https://world-nuclear.org/information-library/nuclear-fuel-cycle/fuel-recycling/processing-of-used-nuclear-fuel",
+        "whyUsed": "Established that neptunium-237 (needed for Pu-238 production) can be recovered during PUREX reprocessing of spent reactor fuel, confirming the supply chain link."
+      }
+    ],
+    "searchMeta": {
+      "usedWebSearch": true,
+      "searchQueries": [
+        "radioisotope thermoelectric generators RTG how work mechanism",
+        "Plutonium-238 production weapons reprocessing spent fuel",
+        "RTG spacecraft Cassini Voyager power systems"
+      ],
+      "confidence": "high"
+    }
+  },
+  "id": 1
+}

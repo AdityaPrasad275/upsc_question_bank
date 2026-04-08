@@ -1,0 +1,54 @@
+{
+  "subject": "Science",
+  "year": 2011,
+  "theme": "Light generation technology and energy efficiency comparison",
+  "question_short_text": "CFL vs LED lamps: mode of operation, lifespan, and energy efficiency",
+  "text": "What is the difference between a CFL and an LED lamp?\n\n1) To produce light, a CFL uses mercury vapour and phosphor while an LED lamp uses semi-conductor material.\n2) The average life span of a CFL is much longer than that of an LED lamp.\n3) A CFL is less energy-efficient as compared to an LED lamp.\n\nWhich of the statements given above is/are correct?",
+  "options": [
+    "1 only",
+    "2 and 3 only",
+    "1 and 3 only",
+    "1, 2, and 3"
+  ],
+  "answerIndex": 2,
+  "answerText": "(c) 1 and 3 only",
+  "explanation": "Statement 1 is correct: CFLs use mercury vapour and phosphor to produce light, while LEDs use semiconductor materials. Statement 2 is incorrect: LEDs last much longer (25,000\u201350,000 hours) than CFLs (8,000\u201315,000 hours). Statement 3 is correct: LEDs are significantly more energy-efficient than CFLs.",
+  "research": {
+    "summary": "This question tests understanding of how different lighting technologies generate light and their relative performance characteristics. Statement 1 correctly identifies the fundamental operating principle: CFLs (compact fluorescent lamps) pass an electric current through a gas-filled tube containing argon and mercury vapour, which excites mercury atoms to produce ultraviolet light that strikes a phosphor coating inside the tube, stimulating it to emit visible light. LEDs (light-emitting diodes) work through an entirely different mechanism\u2014they use semiconductor materials where electron movement generates light through electroluminescence. Statement 2 is the critical trap: LEDs actually have far superior lifespan compared to CFLs. Modern LED bulbs last 25,000 to 50,000 hours, while CFLs typically last 8,000 to 15,000 hours\u2014meaning LEDs last roughly 3 to 5 times longer. CFLs are also sensitive to frequent on-off switching, which can drastically reduce their lifespan. Statement 3 is correct: LEDs demonstrate significantly higher energy efficiency. While CFLs use 25\u201335% less energy than incandescent bulbs, LEDs use roughly 75% less energy than incandescent equivalents. In terms of luminous efficacy, CFLs produce approximately 50\u201370 lumens per watt, while LEDs produce around 80\u201390 lumens per watt\u2014making LEDs roughly 40\u201350% more efficient than CFLs for the same light output. Additionally, CFLs release about 80% of their energy as heat, whereas LEDs emit very little heat, further increasing their effective efficiency. The question hinges on recognizing that the common misconception about lifespan (that CFLs last longer) is actually the opposite of reality in the LED era.",
+    "facts": [
+      "CFLs produce light through gas discharge (mercury vapour excitation) while LEDs produce light through solid-state semiconductors\u2014a fundamental difference in operating principle.",
+      "LED bulbs reach maximum brightness instantly, whereas CFLs require 3\u201330 seconds to warm up and reach full illumination, giving LEDs another practical advantage in instant-on applications."
+    ],
+    "sources": [
+      {
+        "title": "CFL vs. LED Lights: Which is the Energy Efficient Light Bulb?",
+        "url": "https://greenamerica.org/green-living/cfls-vs-leds-better-bulbs",
+        "whyUsed": "Verified lifespan data (LEDs 25,000-35,000 hours vs CFLs 10,000-15,000 hours) and confirmed that LEDs are more energy-efficient than CFLs"
+      },
+      {
+        "title": "LED Lights vs Traditional Bulbs: What's More Efficient?",
+        "url": "https://cbrothers.com/led-lights-vs-traditional-bulbs-whats-more-efficient/",
+        "whyUsed": "Confirmed luminous efficacy comparison (CFLs ~60 lumens/watt vs LEDs 40-50% more efficient) and verified that LED lifespans exceed CFL lifespans"
+      },
+      {
+        "title": "Compact fluorescent lamp - Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Compact_fluorescent_lamp",
+        "whyUsed": "Established CFL operating principle (argon and mercury gas with phosphor coating) and confirmed typical CFL lifespan of 6,000-15,000 hours"
+      },
+      {
+        "title": "LED vs. CFL Bulbs: Which Is More Energy-Efficient?",
+        "url": "https://blog.constellation.com/2016/03/25/led-vs-cfl-bulbs/",
+        "whyUsed": "Verified that CFLs take 3-30 seconds to reach full brightness and confirmed LED performance advantages in efficiency and lifespan"
+      }
+    ],
+    "searchMeta": {
+      "usedWebSearch": true,
+      "searchQueries": [
+        "CFL LED lamp lifespan hours comparison",
+        "LED energy efficiency compared to CFL lumens per watt"
+      ],
+      "confidence": "high"
+    }
+  },
+  "id": 18
+}

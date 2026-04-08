@@ -1,0 +1,48 @@
+{
+  "subject": "Science",
+  "year": 2021,
+  "theme": "pressure regulation and boiling point control in pressure cookers",
+  "question_short_text": "Factors determining cooking temperature in a pressure cooker",
+  "text": "In a pressure cooker, the temperature at which the food is cooked depends mainly upon which of the following?\n\n1) Area of the hole in the lid\n2) Temperature of the flame\n3) Weight of the lid\n\nSelect the correct answer using the code given below.",
+  "options": [
+    "1 and 2 only",
+    "2 and 3 only",
+    "1 and 3 only",
+    "1, 2 and 3"
+  ],
+  "answerIndex": 2,
+  "answerText": "(c) 1 and 3 only",
+  "explanation": "The cooking temperature in a pressure cooker depends primarily on the pressure inside the cooker, which in turn determines the boiling point of water. This pressure is regulated by two factors: the area of the vent hole (which controls steam escape) and the weight of the regulator on the lid. The temperature of the flame affects how quickly the cooker reaches operating pressure but does not determine the final cooking temperature once pressure is established.",
+  "research": {
+    "summary": "A pressure cooker achieves higher cooking temperatures by increasing the boiling point of water through steam pressure. The relationship is governed by the fundamental thermodynamic principle that pressure and boiling point are directly linked: at atmospheric pressure, water boils at 100\u00b0C, but under pressure it can reach 120-125\u00b0C. The cooking temperature depends entirely on the internal pressure, which is regulated by two design parameters working together: (1) the area of the vent hole under the pressure regulator controls how much steam can escape, and (2) the weight of the pressure regulator itself determines the force needed to open the vent\u2014heavier weights allow higher pressures to build before steam is released. These two factors directly set the equilibrium pressure inside the cooker using the formula P = Force/Area. The common misconception is that the flame temperature matters for final cooking temperature; in reality, the flame only controls how quickly the cooker comes up to pressure. Once the desired pressure is reached, the regulator holds steady, and additional heat from the flame merely produces excess steam that escapes without raising the temperature further. This distinction between speed of reaching pressure (flame-dependent) and the maximum pressure itself (design-dependent) is crucial.",
+    "facts": [
+      "A pressure cooker maintains roughly 15 psi (approximately 1 bar gauge pressure) above atmospheric pressure, achieving water temperatures around 121\u00b0C (250\u00b0F)",
+      "The pressure regulator (weight) and vent hole design are standardized per cooker model, meaning different users cannot arbitrarily change the cooking temperature by adjusting flame alone"
+    ],
+    "sources": [
+      {
+        "title": "Pressure cooker - Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Pressure_cooker",
+        "whyUsed": "Verified basic physics of pressure cooking and the sealed vessel principle"
+      },
+      {
+        "title": "Sleepy Classes - Pressure Cooker Question Solution",
+        "url": "https://sleepyclasses.com/solved-in-pressure-cooker-the-temperature-at-which-the-food-is-cooked-depends-mainly-upon-which-of-the-following-1-area-of-the-hole-in-the-lid-2-temperature-of-the-flame-3-weight-of-the-lid-s/",
+        "whyUsed": "Confirmed that area of hole and weight of lid directly determine maximum pressure, while flame temperature affects only rate of pressurization"
+      },
+      {
+        "title": "UPSC Sociology OWL",
+        "url": "https://upscsociology.in/q-in-a-pressure-cooker-the-temperature-at-which-the-food-is-cooked-depends-mainly-upon-which-of-the-following/",
+        "whyUsed": "Explained the pressure formula P=Force/Area and how vent area and regulator weight control equilibrium pressure"
+      }
+    ],
+    "searchMeta": {
+      "usedWebSearch": true,
+      "searchQueries": [
+        "pressure cooker cooking temperature factors lid weight hole"
+      ],
+      "confidence": "high"
+    }
+  },
+  "id": 5
+}

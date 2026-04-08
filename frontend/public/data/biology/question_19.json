@@ -1,0 +1,68 @@
+{
+  "subject": "Science",
+  "year": 2013,
+  "theme": "Classification of aquatic animals: marine mammals vs. fish",
+  "question_short_text": "Which of the three sea animals (sea cow, sea lion, seahorse) are mammals?",
+  "text": "Consider the following animals:\n\n1. Sea cow\n2. Sea horse\n3. Sea lion\n\nWhich of the above is/are mammal/mammals?",
+  "options": [
+    "1 only",
+    "1 and 3 only",
+    "2 and 3 only",
+    "1, 2 and 3"
+  ],
+  "answerIndex": 1,
+  "answerText": "(b) 1 and 3 only",
+  "explanation": "Sea cow and sea lion are marine mammals, while seahorse is a fish. Sea cows (dugongs) are herbivorous placental mammals belonging to order Sirenia. Sea lions are carnivorous pinnipeds (fin-footed marine mammals) with external ear flaps. Seahorses are small marine fish belonging to family Syngnathidae, distinguished by gills, swim bladders, and bony armor rather than mammalian characteristics.",
+  "research": {
+    "summary": "This question tests the ability to distinguish true marine mammals from fish based on fundamental biological characteristics. The main trap is that seahorses superficially resemble mammals due to their unusual appearance and the fact that males carry fertilized eggs, but they are definitively fish, not mammals. Sea cows (dugongs) are sirenians\u2014order Sirenia\u2014the only herbivorous marine mammals and the most distant relatives among pinnipeds, sharing ancestry instead with elephants and hyraxes. Sea lions belong to family Otariidae (eared seals) within order Carnivora, and are easily identified by external ear flaps and the ability to rotate their hind flippers forward for walking on land. Seahorses belong to family Syngnathidae and are classified as bony fish due to possession of gills, swim bladder, and a bony skeleton covered in rings of armored plates. Although male seahorses are famous for carrying eggs in a brood pouch, this does not make them mammals\u2014it is an adaptation unique to Syngnathidae. The defining mammalian features are hair or fur, milk-producing mammary glands, live birth, and air-breathing lungs. Seahorses have none of these: they breathe water through gills, lack mammary glands and fur, and lay eggs that develop in the male's pouch. A useful elimination shortcut: if an animal breathes through gills (not lungs), it is a fish, not a mammal.",
+    "facts": [
+      "Dugongs are the only strictly marine herbivorous mammals, consuming up to 50 kg of seagrass daily, and are more closely related to elephants than to other marine mammals.",
+      "Sea lions are the fastest pinnipeds due to their unique front-flipper swimming method and can rotate their hind flippers forward, allowing them to walk on all fours on land."
+    ],
+    "sources": [
+      {
+        "title": "Dugong - Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Dugong",
+        "whyUsed": "Verified sea cow (dugong) classification as placental mammal in order Sirenia; confirmed herbivory and marine habitat."
+      },
+      {
+        "title": "Sea lion - Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Sea_lion",
+        "whyUsed": "Confirmed sea lions belong to family Otariidae (eared seals) within order Carnivora and are true marine mammals."
+      },
+      {
+        "title": "Seahorse - Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Seahorse",
+        "whyUsed": "Verified seahorse classification as bony fish in family Syngnathidae with gills, swim bladder, and bony armor; clarified that male pregnancy is not a mammalian trait."
+      }
+    ],
+    "searchMeta": {
+      "usedWebSearch": true,
+      "searchQueries": [
+        "sea cow dugong mammal characteristics reproduction",
+        "sea lion mammal pinniped characteristics",
+        "seahorse fish not mammal syngnathidae"
+      ],
+      "confidence": "high"
+    }
+  },
+  "id": 19,
+  "usage": {
+    "cache_creation": {
+      "ephemeral_1h_input_tokens": 0,
+      "ephemeral_5m_input_tokens": 0
+    },
+    "cache_creation_input_tokens": 42173,
+    "cache_read_input_tokens": 10060,
+    "inference_geo": "not_available",
+    "input_tokens": 784,
+    "iterations": null,
+    "output_tokens": 1065,
+    "server_tool_use": {
+      "web_fetch_requests": 0,
+      "web_search_requests": 3
+    },
+    "service_tier": "batch",
+    "speed": null
+  }
+}

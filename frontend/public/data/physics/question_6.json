@@ -1,0 +1,54 @@
+{
+  "subject": "Science",
+  "year": 2017,
+  "theme": "OLED display technology advantages over LCD",
+  "question_short_text": "Which statements about OLED advantages over LCD are correct?",
+  "text": "Organic Light Emitting Diodes (OLEDs) are used to create digital displays in many devices. What are the advantages of OLED displays over Liquid Crystal displays?\n\n1. OLED displays can be fabricated on flexible plastic substrates.\n2. Roll-up displays embedded in clothing can be made using OLEDs.\n3. Transparent displays are possible using OLEDs.\n\nSelect the correct answer using the code given below",
+  "options": [
+    "1 and 3 only",
+    "2 only",
+    "1, 2 and 3",
+    "None of the above statements is correct"
+  ],
+  "answerIndex": 2,
+  "answerText": "(c) 1, 2 and 3",
+  "explanation": "All three statements are correct. OLEDs can be fabricated on flexible plastic substrates enabling bent or curved displays, flexible plastic substrates allow integration into clothing for wearable roll-up displays, and OLEDs can produce transparent displays because they emit light directly without requiring backlighting like LCDs.",
+  "research": {
+    "summary": "The core distinction being tested here is the fundamental architecture difference between OLED and LCD technology: OLEDs are self-emissive (each pixel generates its own light) while LCDs rely on a backlight shining through liquid crystals. This architectural difference unlocks three distinct practical advantages. First, on substrate flexibility: unlike LCDs which require rigid glass for support of backlight components, OLEDs can be deposited on flexible plastic substrates (polyethylene terephthalate or polyamide) without loss of function, enabling devices that bend and roll without damage. This is not merely theoretical\u2014roll-to-roll manufacturing on plastic films is now standard in the industry. Second, on wearable integration: the thinness and structural flexibility of OLEDs on plastic enable integration into fabrics and clothing. Prototypes have been publicly demonstrated by companies like Sony, capable of rolling around a pencil's width, with textile applications already being researched. Third, on transparency: because OLEDs emit light directly from organic pixels on the substrate, they can be constructed with transparent or near-transparent substrates and conductive layers, allowing light to pass through inactive pixels. LCDs cannot achieve this because the rigid backlight layer blocks transparency. A student trap might arise from confusing flexibility with durability, or from imagining that these are purely experimental advantages\u2014in reality, foldable OLED phones and transparent OLED retail displays are commercially available today. The real intellectual point is recognizing how a self-emissive architecture fundamentally differs from a backlit architecture in enabling these three distinct form factors.",
+    "facts": [
+      "OLED pixels can be individually turned off completely, unlike LCDs which always have some backlight leakage, enabling OLED true blacks and transparent display zones.",
+      "Commercial foldable OLED smartphones and transparent OLED retail display panels are already in production, making these advantages no longer speculative but practical commercial features."
+    ],
+    "sources": [
+      {
+        "title": "OLED - Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/OLED",
+        "whyUsed": "Verified that OLEDs can be fabricated on flexible plastic substrates for roll-up displays in clothing and that transparent OLEDs are possible with transparent substrates."
+      },
+      {
+        "title": "LCD vs OLED: A Comprehensive Comparison",
+        "url": "https://www.xp-pen.com/blog/oled-vs-lcd.html",
+        "whyUsed": "Confirmed the fundamental difference: OLEDs are self-emissive while LCDs require backlighting, and explained why this enables flexibility and transparency in OLEDs."
+      },
+      {
+        "title": "Transparent OLED Screens - Benefits and Applications",
+        "url": "https://prodisplay.com/lcd-led-screens/transparent-screens/transparent-oled-display/transparent-oled-screens-benefits-applications/",
+        "whyUsed": "Detailed how transparent OLEDs work: direct light emission from organic pixels without backlight or filter layers allows transparency, unlike rigid LCD architecture."
+      },
+      {
+        "title": "Flexible OLEDs (FOLEDs)",
+        "url": "https://oled.com/oleds/flexible-oleds-foleds/",
+        "whyUsed": "Confirmed flexible OLEDs can be produced on thin plastic substrates and roll-to-roll manufacturing processes enabling wearable and rollable applications."
+      }
+    ],
+    "searchMeta": {
+      "usedWebSearch": true,
+      "searchQueries": [
+        "OLED displays advantages flexible plastic substrates transparent",
+        "OLED vs LCD technology differences light emission"
+      ],
+      "confidence": "high"
+    }
+  },
+  "id": 6
+}

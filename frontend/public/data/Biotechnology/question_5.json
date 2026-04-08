@@ -1,0 +1,71 @@
+{
+  "subject": "Science",
+  "year": 2023,
+  "theme": "Molecular markers for evolutionary and population genetics",
+  "question_short_text": "Microsatellite DNA application in studying evolutionary relationships",
+  "text": "'Microsatellite DNA' is used in the case of which one of the following?",
+  "options": [
+    "Studying the evolutionary relationships among various species of fauna",
+    "Stimulating 'stem cells' to transform into diverse functional tissues",
+    "Promoting clonal horticultural plants propagation of horticulture plants",
+    "Assessing the efficacy of drugs by conducting series of drug trials in a population"
+  ],
+  "answerIndex": 0,
+  "answerText": "(a) Studying the evolutionary relationships among various species of fauna",
+  "explanation": "Microsatellite DNA (simple sequence repeats) are highly polymorphic short DNA sequences used as molecular markers for studying evolutionary relationships among species. They are unsuitable for stem cell stimulation, plant propagation, or drug efficacy assessment.",
+  "research": {
+    "summary": "Microsatellites are short, repetitive DNA sequences (2-6 base pairs) scattered throughout eukaryotic genomes with high polymorphism and high mutation rates. The key to understanding why option (a) is correct lies in their mutational properties: because they evolve relatively quickly through DNA polymerase slippage during replication, microsatellites are excellent for detecting genetic variation among individuals and populations. By comparing allelic profiles across different animal species, researchers can infer evolutionary relationships and construct phylogenetic trees showing how species diverged. This is especially valuable for studying closely related species or recently diverged lineages where deeper genetic markers might not show sufficient variation. The main trap is assuming other options might work: stem cell differentiation is driven by developmental signaling and gene expression patterns, not by variation in non-coding repetitive sequences; plant propagation uses somatic multiplication not genetic markers; drug efficacy assessment relies on metabolic genes and target pathways, not on the variation markers used for identity and relationship tracking. Microsatellites became central to population genetics in the 1990s precisely because they offered thousands of potentially polymorphic markers at low cost via PCR amplification, making them ideal for conservation genetics, forensic identification (DNA fingerprinting), and phylogenetic analysis across fauna.",
+    "facts": [
+      "Microsatellites mutate at rates of 10\u207b\u00b2 to 10\u207b\u2076 per generation, three orders of magnitude faster than point mutations, making them sensitive enough to resolve fine-scale population structure and evolutionary history.",
+      "Most microsatellites are non-coding and free from selective constraints, allowing mutation-driven variation to accumulate without functional consequence, which makes them reliable neutral markers for evolutionary comparisons."
+    ],
+    "sources": [
+      {
+        "title": "Microsatellite - Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Microsatellite",
+        "whyUsed": "Confirmed definition, applications, and evolutionary history of microsatellites in population genetics and conservation biology."
+      },
+      {
+        "title": "Application of Microsatellite Markers in Conservation Genetics and Fisheries Management - PMC",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC3997932/",
+        "whyUsed": "Verified that microsatellites are 'suitable for the study of population structure and pedigree analysis and capable of detecting differences among closely related species' and their widespread use in evolutionary biology."
+      },
+      {
+        "title": "Microsatellite Markers in Population Genetics - CD Genomics",
+        "url": "https://www.cd-genomics.com/resource-microsatellite-marker-population-genetics.html",
+        "whyUsed": "Confirmed that microsatellites are 'used to assess genetic relatedness between species or individuals' and 'infer evolutionary relationships and construct phylogenetic trees.'"
+      },
+      {
+        "title": "Microsatellites in Pursuit of Microbial Genome Evolution - PMC",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4700210/",
+        "whyUsed": "Verified use of microsatellites for 'analysis of phylogenetic relationships in closely related species' and evolutionary biology applications."
+      }
+    ],
+    "searchMeta": {
+      "usedWebSearch": true,
+      "searchQueries": [
+        "microsatellite DNA evolutionary relationships species applications"
+      ],
+      "confidence": "high"
+    }
+  },
+  "id": 5,
+  "usage": {
+    "cache_creation": {
+      "ephemeral_1h_input_tokens": 0,
+      "ephemeral_5m_input_tokens": 0
+    },
+    "cache_creation_input_tokens": 14284,
+    "cache_read_input_tokens": 10060,
+    "inference_geo": "not_available",
+    "input_tokens": 630,
+    "iterations": null,
+    "output_tokens": 1012,
+    "server_tool_use": {
+      "web_fetch_requests": 0,
+      "web_search_requests": 1
+    },
+    "service_tier": "batch",
+    "speed": null
+  }
+}

@@ -1,0 +1,61 @@
+{
+  "subject": "Science",
+  "year": 1995,
+  "theme": "Cancer biology and cellular pathogenesis of malignant disease",
+  "question_short_text": "Identify the disease that begins as a single cell and grows into a merciless disease",
+  "text": "\"It begins as a single cell and grows into a merciless disease that claims millions of lives year after year. But scientists are steadily unlocking its mysteries, and the fight against it may now have reached a dramatic turning point. New discoveries promise better therapies and hope in the war against \u2026\"\n\nThe disease referred to in the above quotation is:",
+  "options": [
+    "Cancer",
+    "AIDS",
+    "Tuberculosis",
+    "Alzheimer's disease"
+  ],
+  "answerIndex": 0,
+  "answerText": "(a) Cancer",
+  "explanation": "Cancer is the disease that begins as a single mutated cell and grows uncontrollably, claiming millions of lives annually. Unlike AIDS (viral infection), tuberculosis (bacterial infection), or Alzheimer's (neurodegenerative protein buildup), cancer originates from aberrant cell growth and proliferation.",
+  "research": {
+    "summary": "The quotation describes cancer's fundamental pathogenesis: uncontrolled proliferation originating from a single mutated cell. This single-cell origin is central to cancer biology\u2014it is thought to initiate when one cell experiences a critical genetic alteration (tumor initiation) that leads to abnormal proliferation. However, the trap in this question is assuming cancer develops from one mutation alone. In reality, cancer is a multistep process requiring multiple successive mutations in the same cell lineage before malignancy emerges. An initial mutation confers a growth advantage, leading to clonal expansion. Subsequent mutations within the expanding clone then select for cells with even greater proliferative capacity, invasiveness, and metastatic potential. This is why cancer typically takes many years to develop and why different tumors follow different evolutionary trajectories. The other options fail the description: AIDS is caused by viral infection (HIV), not single-cell mutation; tuberculosis is a bacterial infection; Alzheimer's involves protein aggregation in neurons, not cell mutation and growth. For UPSC's purposes, knowing that cancer begins as a single cell but requires multiple mutations to progress is a recognition cue for distinguishing cancer from infectious or neurodegenerative diseases.",
+    "facts": [
+      "Cancer requires accumulation of multiple mutations in key regulatory genes (tumor suppressors like p53, Rb, and oncogenes like KRAS) over time; a single mutation is insufficient to cause clinical malignancy.",
+      "Clonal selection operates during tumor progression\u2014cells with advantageous mutations (faster growth, evasion of apoptosis) outcompete neighboring cells, driving the tumor toward increasing aggressiveness."
+    ],
+    "sources": [
+      {
+        "title": "The Development and Causes of Cancer - The Cell - NCBI Bookshelf",
+        "url": "https://www.ncbi.nlm.nih.gov/books/NBK9963/",
+        "whyUsed": "Confirmed that cancer initiates from a single mutated cell and involves multistep progression with clonal selection driving malignant evolution."
+      },
+      {
+        "title": "The Genetics of Cancer - National Cancer Institute",
+        "url": "https://www.cancer.gov/about-cancer/causes-prevention/genetics",
+        "whyUsed": "Verified that while cancer is fundamentally a genetic disease involving accumulated mutations, it requires multiple genetic changes over time to develop into clinical disease."
+      }
+    ],
+    "searchMeta": {
+      "usedWebSearch": true,
+      "searchQueries": [
+        "cancer single cell mutation disease growth 1995"
+      ],
+      "confidence": "high"
+    }
+  },
+  "id": 24,
+  "usage": {
+    "cache_creation": {
+      "ephemeral_1h_input_tokens": 0,
+      "ephemeral_5m_input_tokens": 0
+    },
+    "cache_creation_input_tokens": 16279,
+    "cache_read_input_tokens": 10060,
+    "inference_geo": "not_available",
+    "input_tokens": 726,
+    "iterations": null,
+    "output_tokens": 839,
+    "server_tool_use": {
+      "web_fetch_requests": 0,
+      "web_search_requests": 1
+    },
+    "service_tier": "batch",
+    "speed": null
+  }
+}

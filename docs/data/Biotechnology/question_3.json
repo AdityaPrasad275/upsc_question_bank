@@ -1,0 +1,72 @@
+{
+  "subject": "Polity",
+  "year": 2024,
+  "theme": "Food safety regulation and import policy in India",
+  "question_short_text": "US apple imports and GM food regulations in India",
+  "text": "Consider the following statements:\n\n**Statement I:** India does not import apples from the United States of America.\n\n**Statement II:** In India, the law prohibits the import of Genetically Modified food without the approval of the competent authority.\n\nWhich one of the following is correct in respect of the above statements?",
+  "options": [
+    "Both Statement I and Statement II are correct and Statement II explains Statement I",
+    "Both Statement I and Statement II are correct, but Statement II does not explain Statement I",
+    "Statement I is correct, but Statement II is incorrect",
+    "Statement I is incorrect, but Statement II is correct"
+  ],
+  "answerIndex": 3,
+  "answerText": "(d) Statement I is incorrect, but Statement II is correct",
+  "explanation": "Statement I is factually incorrect\u2014India does import apples from the United States. Statement II is correct: the Food Safety and Standards Act, 2006, explicitly prohibits the import, manufacture, use, or sale of GM food without FSSAI approval.",
+  "research": {
+    "summary": "The question tests knowledge of two distinct regulatory domains: trade policy and food safety law. Statement I is a straightforward factual claim about trade flows. India has been importing apples from the USA for years. According to official statements by the Union Commerce Minister (February 2026), India currently imports approximately 5.5 lakh tonnes of apples annually, with a significant portion coming from the United States. Recent data shows US apple imports grew from 2,000 tonnes in the 2022-23 marketing year to nearly 20,000 tonnes in the first nine months of 2023-24\u2014a substantial increase following India's removal of the 2019 retaliatory tariff in September 2023. Thus, Statement I is incorrect. Statement II, however, is legally sound and reflects India's stringent GM food regulatory framework. Section 22 of the Food Safety and Standards Act, 2006, explicitly prohibits the import, manufacture, use, or sale of genetically modified articles of food without prior approval from the FSSAI. This applies to novel foods, GM foods, and foods for special dietary uses. The statement correctly identifies FSSAI as the 'competent authority' responsible for such approvals. Interestingly, while Statement I and Statement II are both about food imports, they test completely different concepts\u2014one tests awareness of actual trade patterns, the other tests knowledge of food safety regulation. The trap is assuming Statement II might somehow 'explain' Statement I (as option a suggests), but there is no causal link: India imports US apples not because it permits GM foods, but because of agricultural demand and tariff policy. Statement II would only be relevant if India's apple imports were predominantly GM and India rejected them\u2014which is not the case.",
+    "facts": [
+      "India has a structural apple deficit, producing 20-21 lakh tonnes annually against demand exceeding 25-26 lakh tonnes, necessitating imports year-round.",
+      "As of 2024, India has approved only one GMO food crop for cultivation\u2014none for consumption\u2014and has permitted only a 1 per cent tolerance limit for adventitious GM presence in imported food crops under FSSAI order dated February 8, 2021."
+    ],
+    "sources": [
+      {
+        "title": "Indian Apple Imports Rise by Over 70 Per Cent",
+        "url": "https://www.fruitnet.com/asiafruit/indian-apple-imports-rise-by-over-70-per-cent/260986.article",
+        "whyUsed": "Confirmed US apple imports to India, showing growth from 2,000 tonnes to 20,000 tonnes, refuting Statement I."
+      },
+      {
+        "title": "India's US Apple Import Quota Explained by Piyush Goyal",
+        "url": "https://www.newkerala.com/news/a/quota-us-apples-less-than-current-imports-piyush-955.htm",
+        "whyUsed": "Official statement confirming India imports approximately 5.5 lakh tonnes of apples annually, with significant volumes from the USA, and structural apple deficit in India."
+      },
+      {
+        "title": "Known Unknowns: India's Apex Food Regulator Has No Data on Presence of GMOs in Fresh Produce Imported Over Past 5 Years",
+        "url": "https://www.downtoearth.org.in/food/known-unknowns-india-s-apex-food-regulator-has-no-data-on-presence-of-gmos-in-fresh-produce-imported-over-past-5-years-92757",
+        "whyUsed": "Confirmed the legal prohibition under Food Safety and Standards Act, 2006, of GM food import without FSSAI approval, and the 1 per cent tolerance limit."
+      },
+      {
+        "title": "Prior Product Approval under the FSSAI Act, 2006 and Regulations",
+        "url": "https://www.taxtmi.com/article/detailed?id=13773",
+        "whyUsed": "Detailed the FSSAI approval process and regulatory framework for GM foods and novel foods under FSS Act, 2006."
+      }
+    ],
+    "searchMeta": {
+      "usedWebSearch": true,
+      "searchQueries": [
+        "India apple imports USA 2024",
+        "Food Safety Standards Act 2006 GM food approval FSSAI"
+      ],
+      "confidence": "high"
+    }
+  },
+  "id": 3,
+  "usage": {
+    "cache_creation": {
+      "ephemeral_1h_input_tokens": 0,
+      "ephemeral_5m_input_tokens": 5030
+    },
+    "cache_creation_input_tokens": 25381,
+    "cache_read_input_tokens": 5030,
+    "inference_geo": "not_available",
+    "input_tokens": 630,
+    "iterations": null,
+    "output_tokens": 1366,
+    "server_tool_use": {
+      "web_fetch_requests": 0,
+      "web_search_requests": 2
+    },
+    "service_tier": "batch",
+    "speed": null
+  }
+}

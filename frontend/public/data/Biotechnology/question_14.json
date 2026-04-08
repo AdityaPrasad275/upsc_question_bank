@@ -1,0 +1,67 @@
+{
+  "subject": "Science",
+  "year": 2020,
+  "theme": "Mitochondrial replacement therapy and prevention of genetic diseases in reproductive technology",
+  "question_short_text": "Purpose of pronuclear transfer in reproductive technology",
+  "text": "In the context of recent advances of human reproductive technology, \"Pronuclear Transfer\" is used for:",
+  "options": [
+    "Fertilization of egg in vitro by the donor sperm",
+    "Genetic modification of sperm producing cells",
+    "Development of stem cells into functional embryos",
+    "Prevention of mitochondrial diseases in offspring"
+  ],
+  "answerIndex": 3,
+  "answerText": "(d) Prevention of mitochondrial diseases in offspring",
+  "explanation": "Pronuclear transfer is a mitochondrial replacement therapy technique that prevents transmission of mitochondrial DNA (mtDNA) mutations from mother to offspring by transferring nuclear genetic material from the affected mother's fertilized egg into a donor egg with healthy mitochondria.",
+  "research": {
+    "summary": "Pronuclear transfer (PNT) is a mitochondrial replacement therapy designed to prevent the inheritance of mitochondrial DNA diseases, which are maternally transmitted. The technique works by fertilizing the affected mother's egg with sperm, then transferring the male and female pronuclei (the early nuclear material post-fertilization) from this zygote into an enucleated donor egg that carries healthy mitochondria. The reconstructed embryo contains the nuclear DNA (and thus nuclear genes) from both parents but mitochondrial DNA exclusively from the healthy donor, effectively uncoupling the inheritance of mutated mtDNA from the nuclear genetic inheritance. Clinical research has shown that pronuclear transfer results in minimal mtDNA carryover (typically <2%) from the original egg, with many embryos containing no detectable donor mtDNA. This is crucial because mitochondrial diseases only manifest when mutated mtDNA loads exceed approximately 60% in affected tissues. Since mtDNA is inherited exclusively maternally and mutations cause serious disorders including neurological, muscular, cardiac, and metabolic problems, preventing transmission through PNT offers affected women the opportunity to have genetically related children without the disease risk. The first clinical trials occurred at Newcastle University starting in 2005, and by 2015 the UK legalized the procedure. Recent clinical outcomes from 2025 show 8 healthy live births through pronuclear transfer with heteroplasmy levels dramatically reduced or undetectable in newborns.",
+    "facts": [
+      "Mitochondrial DNA mutations are maternally inherited and cause approximately 1 in 250 live births to carry pathogenic mutations, with clinical disease manifesting when mutated mtDNA exceeds ~60% of total mtDNA.",
+      "The offspring created through pronuclear transfer are sometimes called 'three-parent babies' because they inherit nuclear DNA from both parents and mitochondrial DNA from a third (donor) person."
+    ],
+    "sources": [
+      {
+        "title": "Pronuclear transfer in human embryos to prevent transmission of mitochondrial DNA disease",
+        "url": "https://www.nature.com/articles/nature18303",
+        "whyUsed": "Verified clinical application and efficacy of PNT for mitochondrial disease prevention with documented mtDNA carryover levels."
+      },
+      {
+        "title": "Mitochondrial replacement therapy - Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Mitochondrial_replacement_therapy",
+        "whyUsed": "Comprehensive overview of PNT procedures, regulatory history, and recent clinical outcomes including 2025 trial results."
+      },
+      {
+        "title": "Mitochondrial Donation and Preimplantation Genetic Testing for mtDNA Disease",
+        "url": "https://www.nejm.org/doi/full/10.1056/NEJMoa2415539",
+        "whyUsed": "Recent clinical trial data (2025) demonstrating successful live births and heteroplasmy reduction in offspring using PNT."
+      }
+    ],
+    "searchMeta": {
+      "usedWebSearch": true,
+      "searchQueries": [
+        "pronuclear transfer mitochondrial disease prevention",
+        "pronuclear transfer reproductive technology how it works"
+      ],
+      "confidence": "high"
+    }
+  },
+  "id": 14,
+  "usage": {
+    "cache_creation": {
+      "ephemeral_1h_input_tokens": 0,
+      "ephemeral_5m_input_tokens": 0
+    },
+    "cache_creation_input_tokens": 29534,
+    "cache_read_input_tokens": 10060,
+    "inference_geo": "not_available",
+    "input_tokens": 499,
+    "iterations": null,
+    "output_tokens": 1027,
+    "server_tool_use": {
+      "web_fetch_requests": 0,
+      "web_search_requests": 2
+    },
+    "service_tier": "batch",
+    "speed": null
+  }
+}

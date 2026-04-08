@@ -1,0 +1,67 @@
+{
+  "subject": "Science",
+  "year": 2022,
+  "theme": "Composition and function of probiotics in human digestion",
+  "question_short_text": "Which statements about probiotics, microorganisms, and lactose digestion are correct?",
+  "text": "Consider the following statements in respect of probiotics:\n\n1. Probiotics are made of both bacteria and yeast.\n2. The organisms in probiotics are found in foods we ingest but they do not naturally occur in our gut.\n3. Probiotics help in the digestion of milk sugars.",
+  "options": [
+    "1 only",
+    "2 only",
+    "1 and 3",
+    "2 and 3"
+  ],
+  "answerIndex": 2,
+  "answerText": "(c) 1 and 3",
+  "explanation": "Statements 1 and 3 are correct. Probiotics contain both bacteria (such as Lactobacillus and Bifidobacterium) and yeasts (like Saccharomyces boulardii). These organisms DO naturally occur in the human gut and other parts of the body, making statement 2 false. Probiotics aid in lactose digestion through bacterial beta-galactosidase (lactase) enzyme production.",
+  "research": {
+    "summary": "The trap here lies in a common misconception about where probiotics naturally occur. Statement 2 falsely claims that probiotic organisms are foreign to the human gut, but research confirms that Lactobacillus and Bifidobacterium are normal constituents of healthy human gastrointestinal flora, particularly Bifidobacteria as among the first microbes to colonize the infant gut. Probiotics do contain diverse microorganisms\u2014statement 1 is accurate, as commercial probiotic products routinely combine bacterial strains like Lactobacillus acidophilus, Bifidobacterium longum, and yeasts such as Saccharomyces boulardii. For statement 3, the lactose-digestion claim is well-supported: probiotic bacteria produce the enzyme beta-galactosidase (lactase), which breaks down the disaccharide lactose into glucose and galactose. The key distinction is that these naturally-occurring organisms, when concentrated in probiotic products, supplement and enhance the gut's capacity for lactose processing\u2014making them therapeutically useful precisely because they are members of our normal microbiota, not invaders from outside.",
+    "facts": [
+      "Bifidobacteria naturally colonize the human gut from infancy and remain a major component of the adult intestinal microbiota, with multiple strains producing enzymes that degrade lactose and other complex carbohydrates.",
+      "Lactobacillus acidophilus is found naturally in multiple sites including the mouth, gut, stomach, lungs, vagina, and urinary tract; certain strains have demonstrated significant effectiveness at reducing lactose intolerance symptoms through beta-galactosidase production."
+    ],
+    "sources": [
+      {
+        "title": "Bifidobacteria and Their Role as Members of the Human Gut Microbiota",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4908950/",
+        "whyUsed": "Confirmed that Bifidobacteria naturally colonize the human gastrointestinal tract from infancy and are members of the normal gut microbiota."
+      },
+      {
+        "title": "Lactose intolerance and probiotics: from pathophysiological mechanisms to clinical applications",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41843249/",
+        "whyUsed": "Verified the mechanism by which probiotics deliver microbial beta-galactosidase (lactase) to break down lactose into glucose and galactose."
+      },
+      {
+        "title": "Cleveland Clinic: Probiotics - What They Are, Benefits & Side Effects",
+        "url": "https://my.clevelandclinic.org/health/treatments/14598-probiotics",
+        "whyUsed": "Confirmed that L. acidophilus is found naturally in the human mouth, gut, stomach, lungs, vagina, and urinary tract."
+      }
+    ],
+    "searchMeta": {
+      "usedWebSearch": true,
+      "searchQueries": [
+        "probiotics lactobacillus bifidobacterium naturally occur human gut",
+        "lactose intolerance probiotics lactase enzyme milk digestion"
+      ],
+      "confidence": "high"
+    }
+  },
+  "id": 5,
+  "usage": {
+    "cache_creation": {
+      "ephemeral_1h_input_tokens": 0,
+      "ephemeral_5m_input_tokens": 5030
+    },
+    "cache_creation_input_tokens": 32808,
+    "cache_read_input_tokens": 5030,
+    "inference_geo": "not_available",
+    "input_tokens": 1067,
+    "iterations": null,
+    "output_tokens": 1081,
+    "server_tool_use": {
+      "web_fetch_requests": 0,
+      "web_search_requests": 2
+    },
+    "service_tier": "batch",
+    "speed": null
+  }
+}

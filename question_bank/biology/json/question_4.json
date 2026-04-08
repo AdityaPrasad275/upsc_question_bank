@@ -1,0 +1,66 @@
+{
+  "subject": "Science",
+  "year": 2022,
+  "theme": "Adaptive immune system: B and T cell functions in pathogen defense",
+  "question_short_text": "Role of B and T cells in protecting against pathogens",
+  "text": "Which one of the following statements best describes the role of B cells and T cells in the human body?",
+  "options": [
+    "They protect the body from environmental allergens.",
+    "They alleviate the body's pain and inflammation",
+    "They act as immunosuppressants in the body.",
+    "They protect the body from diseases caused by pathogens."
+  ],
+  "answerIndex": 3,
+  "answerText": "(d) They protect the body from diseases caused by pathogens.",
+  "explanation": "B cells and T cells are the two main types of lymphocytes that form the adaptive immune system. B cells produce antibodies that neutralize pathogens and mark them for destruction, while T cells directly eliminate infected cells. Together, they provide specific, targeted immunity against pathogens.",
+  "research": {
+    "summary": "This question tests the fundamental role of the adaptive immune system's two key players. B cells and T cells form the adaptive immune response, which is characterized by antigen-specific recognition and targeted action. B cells manufacture antibodies (immunoglobulins) that circulate through the bloodstream and bind to pathogenic antigens, inactivating pathogens or marking them for phagocytosis by innate immune cells. T cells operate through cell-mediated immunity, directly identifying and destroying infected cells or cancer cells by recognizing specific antigens presented on cell surfaces. The trap in this question lies in the distractors: option (a) confuses adaptive immunity with allergic responses (which involve immune over-reaction to harmless substances, not pathogen defense), option (b) misattributes pain/inflammation relief to B and T cells (those are secondary effects of immune dampening, not their primary role), and option (c) inverts their function entirely. The correct answer emphasizes that B and T cells work synergistically within the adaptive immune system to provide long-term, pathogen-specific protection through what Miller and Cooper's landmark research identified as the two organizing principles of acquired immunity: antibody-mediated (humoral) and cell-mediated responses.",
+    "facts": [
+      "The adaptive immune system takes 4\u20137 days to mount a significant response after pathogen exposure, but once established, provides lifelong memory through memory B and T cells.",
+      "Unlike the innate immune system, which reacts broadly to pathogen patterns, the adaptive system can recognize specific features of individual pathogens, allowing highly targeted elimination."
+    ],
+    "sources": [
+      {
+        "title": "T cells, B cells and the immune system",
+        "url": "https://www.mdanderson.org/cancerwise/t-cells--b-cells-and-the-immune-system.h00-159465579.html",
+        "whyUsed": "Verified the specific roles of B cells in antibody production and T cells in infected cell elimination."
+      },
+      {
+        "title": "The Adaptive Immune System - NCBI Bookshelf",
+        "url": "https://www.ncbi.nlm.nih.gov/books/NBK21070/",
+        "whyUsed": "Confirmed the distinction between humoral and cell-mediated immunity and the mechanism by which antibodies neutralize pathogens."
+      },
+      {
+        "title": "Adaptive immune system - Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Adaptive_immune_system",
+        "whyUsed": "Provided context on immunological memory formation and timeline of adaptive response."
+      }
+    ],
+    "searchMeta": {
+      "usedWebSearch": true,
+      "searchQueries": [
+        "B cells T cells adaptive immune system pathogens"
+      ],
+      "confidence": "high"
+    }
+  },
+  "id": 4,
+  "usage": {
+    "cache_creation": {
+      "ephemeral_1h_input_tokens": 0,
+      "ephemeral_5m_input_tokens": 5030
+    },
+    "cache_creation_input_tokens": 20319,
+    "cache_read_input_tokens": 5030,
+    "inference_geo": "not_available",
+    "input_tokens": 659,
+    "iterations": null,
+    "output_tokens": 866,
+    "server_tool_use": {
+      "web_fetch_requests": 0,
+      "web_search_requests": 1
+    },
+    "service_tier": "batch",
+    "speed": null
+  }
+}

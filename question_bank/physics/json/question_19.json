@@ -1,0 +1,48 @@
+{
+  "subject": "Science",
+  "year": 2011,
+  "theme": "Optical disc technology specifications and design differences",
+  "question_short_text": "Differences between Blu-ray disc and traditional DVD formats",
+  "text": "A new optical disc format known as the Blu-ray disc (BD) is becoming popular. In what way is it different from the traditional DVD?\n\n1. DVD supports standard definition video while BD supports high definition video.\n2. Compared to a DVD, the BD format has several times more storage capacity.\n3. Thickness of BD is 2.4 mm while that of DVD is 1.2 mm.",
+  "options": [
+    "1 only",
+    "1 and 2 only",
+    "2 and 3 only",
+    "1, 2 and 3"
+  ],
+  "answerIndex": 1,
+  "answerText": "(b) 1 and 2 only",
+  "explanation": "Statements 1 and 2 are correct. DVD supports standard definition video (720\u00d7480 pixels) while Blu-ray supports high definition video (1920\u00d71080 pixels or higher). BD also has significantly greater storage capacity\u2014a single-layer BD holds 25 GB compared to a DVD's 4.7 GB. However, statement 3 is incorrect: both BD and DVD have the same physical thickness of 1.2 mm and diameter of 12 cm.",
+  "research": {
+    "summary": "The critical distinction the question tests is between physical dimensions and functional capacity. Students often confuse technological superiority with physical size, but Blu-ray achieves its five-fold storage advantage not through a thicker disc but through the same 1.2 mm form factor as DVD. The key innovation is the use of a shorter-wavelength blue laser (405 nm) instead of the red laser used by DVD. This shorter wavelength allows the Blu-ray system to create smaller pits and lands on the disc surface, enabling higher data density on the identical physical disc. Statement 1 is straightforward: DVD was designed for standard definition (480p), while Blu-ray was engineered from the ground up for high-definition video (720p and 1080p and beyond). Statement 2 captures the commercial advantage: a single-layer BD stores 25 GB versus DVD's 4.7 GB, and dual-layer BD discs reach 50 GB. Statement 3 is the trap\u2014both formats share the same 1.2 mm thickness and 120 mm diameter because the hardware innovation lies in the laser technology and data encoding, not in the substrate itself. The protective layer structure differs slightly (BD has a 0.1 mm cover layer, DVD has 0.6 mm), but the overall disc thickness remains constant. This is an important recognition for understanding optical disc evolution: greater capacity does not require thicker discs, only smarter use of laser wavelength and surface pitting.",
+    "facts": [
+      "Blu-ray uses a 405 nm blue-violet laser compared to DVD's 650 nm red laser; the shorter wavelength allows pits and lands to be placed much closer together, achieving roughly five times the data density.",
+      "The recording layer on Blu-ray sits under a 0.1 mm protective layer, while DVD uses 0.6 mm on either side; this structural difference affects scratch resistance but not overall disc thickness."
+    ],
+    "sources": [
+      {
+        "title": "Blu-ray - Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Blu-ray",
+        "whyUsed": "Verified physical specifications: BD and DVD both 1.2 mm thickness, storage capacities (25 GB single-layer BD vs 4.7 GB DVD), and laser wavelength technology (405 nm blue vs red laser)."
+      },
+      {
+        "title": "Comparison of high-definition optical disc formats - Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Comparison_of_high-definition_optical_disc_formats",
+        "whyUsed": "Confirmed storage capacity details and protective layer structure differences between BD and DVD formats."
+      },
+      {
+        "title": "What Is the Blu-Ray Disc Storage Capacity? | Blank Media",
+        "url": "https://www.blankmediaprinting.com/blog-article/blu-ray-disk-storage-capacity",
+        "whyUsed": "Clarified storage capacity comparison (25 GB single-layer BD vs 4.7 GB standard DVD) and highlighted the five-fold advantage."
+      }
+    ],
+    "searchMeta": {
+      "usedWebSearch": true,
+      "searchQueries": [
+        "Blu-ray disc BD specifications storage capacity thickness compared DVD"
+      ],
+      "confidence": "high"
+    }
+  },
+  "id": 19
+}

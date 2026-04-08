@@ -1,0 +1,44 @@
+{
+  "subject": "Science",
+  "year": 2012,
+  "theme": "Matter-antimatter asymmetry and implications for cosmology",
+  "question_short_text": "Implications of creating antimatter (anti-helium nucleus)",
+  "text": "A team of scientists at Brookhaven National Laboratory including those from India created the heaviest anti-matter (anti-helium nucleus).\n\nWhat is/are the implication/implications of the creation of anti-matter?\n\n1. It will make mineral prospecting and oil exploration easier and cheaper.\n2. It will help probe the possibility of the existence of stars and galaxies made of anti-matter.\n3. It will help understand the evolution of the universe.\n\nSelect the correct answer using the codes given below:",
+  "options": [
+    "1 Only",
+    "2 & 3 only",
+    "3 Only",
+    "1, 2 & 3"
+  ],
+  "answerIndex": 1,
+  "answerText": "(b) 2 & 3 only",
+  "explanation": "Statement 1 is incorrect: creating antimatter has no direct implications for mineral prospecting or oil exploration. Statements 2 and 3 are correct: studying antimatter helps probe whether antimatter-dominated stars or galaxies exist elsewhere in the universe, and provides insights into the matter-antimatter asymmetry that shaped the universe's evolution.",
+  "research": {
+    "summary": "This question tests understanding of the fundamental implications of antimatter research, specifically the matter-antimatter asymmetry problem\u2014one of the deepest unsolved puzzles in cosmology. The trap is conflating the creation of antimatter with practical applications in geophysics. Antimatter has no mechanism for aiding mineral prospecting or oil exploration; statement 1 is a red herring testing whether students confuse exotic particle physics with applied geoscience. The correct implications are rooted in cosmology. According to current theory, the Big Bang should have created equal amounts of matter and antimatter; as they meet, they annihilate into pure energy. Yet the observable universe is composed almost entirely of matter, with only trace antimatter detectable. By creating and studying heavier antimatter particles (like anti-helium), scientists gain insight into whether distant regions of the universe might harbor antimatter-dominated structures, and whether laws of physics apply differently to matter and antimatter. This asymmetry directly shapes the universe's evolution\u2014without it, all particles would have annihilated after the Big Bang, and galaxies, stars, and life would never form. Understanding antimatter production and properties thus illuminates both the early universe's physics and the mechanisms (possibly CP violation or baryogenesis) that explain why matter dominates. The Brookhaven discovery is significant because heavier antimatter nuclei are harder to create and measure, but doing so allows more precise probing of this fundamental asymmetry.",
+    "facts": [
+      "According to cosmological theory, matter and antimatter were produced in equal amounts at the Big Bang, but only about one particle of matter per billion survived annihilation\u2014this tiny imbalance is necessary for the universe's structure.",
+      "The study of CP (charge-parity) violation in particle physics experiments is a major avenue for understanding why the laws of physics treat matter and antimatter differently, potentially explaining the asymmetry observed on cosmic scales."
+    ],
+    "sources": [
+      {
+        "title": "The matter-antimatter asymmetry problem | CERN",
+        "url": "https://home.cern/science/physics/matter-antimatter-asymmetry-problem",
+        "whyUsed": "Authoritative explanation of why the Big Bang should have created equal amounts of matter and antimatter, and the fundamental asymmetry problem that antimatter research addresses."
+      },
+      {
+        "title": "Antimatter - Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Antimatter",
+        "whyUsed": "Comprehensive coverage of antimatter properties, the baryon asymmetry problem, baryogenesis, and implications for understanding universe evolution and large-scale structure."
+      }
+    ],
+    "searchMeta": {
+      "usedWebSearch": true,
+      "searchQueries": [
+        "Brookhaven National Laboratory anti-helium nucleus 2012 India",
+        "antimatter implications universe cosmology matter asymmetry"
+      ],
+      "confidence": "high"
+    }
+  },
+  "id": 14
+}

@@ -1,0 +1,72 @@
+{
+  "subject": "Science",
+  "year": 2013,
+  "theme": "microbiology - mycotoxin producer identification",
+  "question_short_text": "Which organism produces aflatoxin toxins in improperly stored grains and oilseeds?",
+  "text": "Improper handling and storage of cereal grains and oilseeds result in the production of toxins known as aflatoxin which are not generally destroyed by normal cooking process. Aflatoxin are produced by?",
+  "options": [
+    "Bacteria",
+    "Protozoa",
+    "Moulds",
+    "Viruses"
+  ],
+  "answerIndex": 2,
+  "answerText": "(c) Moulds",
+  "explanation": "Aflatoxins are produced by moulds, specifically fungi of the genus Aspergillus. The primary aflatoxin-producing species are Aspergillus flavus and Aspergillus parasiticus, which contaminate grains and oilseeds under warm, humid storage conditions.",
+  "research": {
+    "summary": "Aflatoxins are secondary metabolites produced exclusively by moulds (fungi) of the Aspergillus genus, not by bacteria, protozoa, or viruses. The most important producers are Aspergillus flavus and Aspergillus parasiticus (section Flavi), though other Aspergillus species like A. nomius and A. minisclerotigenes can also produce aflatoxins. The question highlights a critical food-safety misconception: while moulds can be killed during cooking, aflatoxins are remarkably heat-resistant. Aflatoxins can withstand temperatures up to 237\u2013306\u00b0C in solid form and remain stable even at normal cooking temperatures above 100\u00b0C, which is why they persist in food even after thermal processing. The contamination occurs pre- or post-harvest when warm (22\u201329\u00b0C), humid conditions favour Aspergillus growth and secondary metabolite production. This is why proper drying, low-moisture storage, and moisture control during storage are critical prevention measures rather than relying on cooking to eliminate the toxin.",
+    "facts": [
+      "Aflatoxin B1, the most potent and common form, is produced by both A. flavus and A. parasiticus and is classified as a genotoxic hepatocarcinogen.",
+      "Post-harvest contamination in storage conditions (22\u201329\u00b0C with water activity 0.90\u20130.99) is more common in wheat, sorghum, and rice, while pre-harvest infection (drought stress, insect damage) is more prevalent in maize, peanuts, and cottonseed."
+    ],
+    "sources": [
+      {
+        "title": "Aflatoxin - Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Aflatoxin",
+        "whyUsed": "Verified the primary Aspergillus species producing aflatoxins and the mechanism of contamination in crops"
+      },
+      {
+        "title": "Aflatoxins: Producing-Molds, Structure, Health Issues and Incidence in Southeast Asian and Sub-Saharan African Countries",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7068566/",
+        "whyUsed": "Confirmed aflatoxins are secondary metabolites of Aspergillus species and optimal growth conditions for toxin production"
+      },
+      {
+        "title": "Approaches to Inactivating Aflatoxins\u2014A Review and Challenges",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8704553/",
+        "whyUsed": "Established that aflatoxins are heat-resistant and remain stable above 100\u00b0C, contradicting the assumption that normal cooking destroys them"
+      },
+      {
+        "title": "Aflatoxin Contamination, Its Impact and Management Strategies: An Updated Review",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9147583/",
+        "whyUsed": "Detailed pre- and post-harvest conditions favouring A. flavus infection and aflatoxin production in different crops"
+      }
+    ],
+    "searchMeta": {
+      "usedWebSearch": true,
+      "searchQueries": [
+        "aflatoxin Aspergillus moulds fungi production mechanism",
+        "aflatoxin heat stability cooking temperature resistant"
+      ],
+      "confidence": "high"
+    }
+  },
+  "id": 17,
+  "usage": {
+    "cache_creation": {
+      "ephemeral_1h_input_tokens": 0,
+      "ephemeral_5m_input_tokens": 0
+    },
+    "cache_creation_input_tokens": 27393,
+    "cache_read_input_tokens": 10060,
+    "inference_geo": "not_available",
+    "input_tokens": 635,
+    "iterations": null,
+    "output_tokens": 1058,
+    "server_tool_use": {
+      "web_fetch_requests": 0,
+      "web_search_requests": 2
+    },
+    "service_tier": "batch",
+    "speed": null
+  }
+}

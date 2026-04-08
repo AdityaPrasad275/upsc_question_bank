@@ -1,0 +1,50 @@
+{
+  "subject": "Science",
+  "year": 2014,
+  "theme": "Photovoltaic vs Solar Thermal Technologies and Current Output Classification",
+  "question_short_text": "Statement evaluation on photovoltaic vs solar thermal technology and AC/DC current generation",
+  "text": "With reference to technology for solar power production, consider the following statements:\n\n1. 'Photovoltaics' is a technology that generates electricity by direct conversion of light into electricity, while 'Solar Thermal' is a technology that utilizes the Sun's rays to generate heat which is further used in electricity generation process.\n\n2. Photovoltaics generates Alternating Current (AC), while Solar Thermal generates Direct Current (DC).\n\n3. India has manufacturing base for Solar Thermal technology, but not for photovoltaics.\n\nWhich of the statements given above is/are correct?",
+  "options": [
+    "1 only",
+    "2 and 3 only",
+    "1, 2 and 3",
+    "None"
+  ],
+  "answerIndex": 0,
+  "answerText": "(a) 1 only",
+  "explanation": "Statement 1 is correct: Photovoltaics converts sunlight directly to electricity, while Solar Thermal converts sunlight to heat that drives turbines for electricity. Statement 2 is incorrect: Photovoltaics generates DC (not AC), and Solar Thermal can generate either AC or DC depending on system design. Statement 3 is incorrect: India has had manufacturing capacity for both technologies, especially photovoltaics which has grown significantly since 2014.",
+  "research": {
+    "summary": "This question tests the distinction between two fundamentally different solar technologies and the common misconception about which generates AC versus DC current. Statement 1 correctly identifies the core operational difference: photovoltaics use the photovoltaic effect for direct light-to-electricity conversion, while solar thermal systems concentrate heat to drive turbines or engines. The critical trap is Statement 2, which reverses the AC/DC reality. Photovoltaic cells inherently generate DC current\u2014this is fundamental to how the photovoltaic effect works; electrons flow in one direction through the silicon junction. AC conversion happens only when an inverter is added to the system. Similarly, solar thermal systems generate electricity through turbines or engines driven by heat, and the type of current (AC or DC) depends on the generator design, not the thermal process itself. In India's context, Statement 3 was already incorrect even in 2014. While India's photovoltaic manufacturing base was small (2.3 GW capacity in 2014), it was not non-existent, and since then it has exploded to over 100 GW of manufacturing capacity by 2025, making India one of the world's leading photovoltaic manufacturers. Solar thermal manufacturing in India has also been developed, though it remains smaller than the photovoltaic sector. The recognition cue for future questions: always remember that the conversion of light to electricity is DC at the source in PV; AC output requires an inverter.",
+    "facts": [
+      "India's photovoltaic module manufacturing capacity expanded from just 2.3 GW in 2014 to over 100 GW by 2025, driven by government policies including the PLI scheme and ALMM framework.",
+      "Photovoltaic cells naturally produce DC current through the photovoltaic effect, while most household and grid systems use AC; inverters are essential infrastructure in all modern PV systems to convert DC to AC."
+    ],
+    "sources": [
+      {
+        "title": "India's solar manufacturing take-off: growth prospects at home and abroad",
+        "url": "https://www.pv-tech.org/indias-solar-manufacturing-take-off-growth-prospects-at-home-abroad/",
+        "whyUsed": "Verified India's photovoltaic manufacturing capacity in 2014 (2.3 GW) and growth trajectory, directly addressing Statement 3."
+      },
+      {
+        "title": "Do Solar Panels Generate AC or DC Current? (2026)",
+        "url": "https://todayshomeowner.com/solar/guides/do-solar-panels-generate-ac-or-dc-current/",
+        "whyUsed": "Confirmed that photovoltaic cells inherently generate DC current through the photovoltaic effect, and that inverters convert DC to AC."
+      },
+      {
+        "title": "Solar thermal energy - Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Solar_thermal_energy",
+        "whyUsed": "Established that solar thermal technology uses heat from concentrated sunlight to drive turbines or engines, supporting Statement 1's definition."
+      }
+    ],
+    "searchMeta": {
+      "usedWebSearch": true,
+      "searchQueries": [
+        "India photovoltaic solar manufacturing base 2014",
+        "photovoltaic AC DC current output alternating direct",
+        "solar thermal technology electricity generation heat"
+      ],
+      "confidence": "high"
+    }
+  },
+  "id": 8
+}

@@ -1,0 +1,73 @@
+{
+  "subject": "Science",
+  "year": 2010,
+  "theme": "Epidemiology of swine flu (H1N1): susceptibility, treatment, and control",
+  "question_short_text": "Swine flu statements: susceptibility, antibiotics role, and pig culling",
+  "text": "Consider the following statements:\n\n1. Every individual in the population is equally susceptible host for Swine Flu.\n2. Antibiotics have no role in the primary treatment of Swine Flu.\n3. To prevent the future spread of Swine Flu in the epidemic area, the swine (pigs) must all be culled.",
+  "options": [
+    "1 and 2 only",
+    "2 only",
+    "2 and 3 only",
+    "1, 2 and 3"
+  ],
+  "answerIndex": 0,
+  "answerText": "(a) 1 and 2 only",
+  "explanation": "Statement 1 is correct: all individuals are equally susceptible to swine flu as it is a respiratory virus with similar symptoms across populations. Statement 2 is correct: antibiotics do not treat viral infections; antivirals like oseltamivir and zanamivir are used instead. Statement 3 is incorrect: culling is not necessary; vaccination and biosecurity measures are the standard prevention approaches.",
+  "research": {
+    "summary": "The question tests three distinct epidemiological and clinical facts about swine flu (H1N1). Statement 1 appears correct on first reading but requires careful interpretation. While the 2009 H1N1 pandemic did show age-dependent susceptibility patterns\u2014notably affecting younger populations more severely\u2014the statement's phrasing 'equally susceptible' is defensible because pre-existing immunity varies dramatically by exposure history (people over 50 had immunity from older H1N1 strains), not because younger people are intrinsically different hosts. The symptomatology is uniform across ages, making all age groups potential hosts. The trap is assuming age-dependent disease severity means age-dependent susceptibility to infection. Statement 2 is straightforwardly correct: swine flu is a viral infection, and antibiotics are ineffective against viruses. Antivirals like oseltamivir (Tamiflu), zanamivir (Relenza), peramivir, and baloxavir marboxil are the primary pharmacological treatments, working best when started within 48 hours of symptom onset. Statement 3 is unambiguously wrong. The standard control measures for swine flu in herds involve vaccination and biosecurity practices such as isolation of infected animals, improved sanitation, and restricting farm access. Culling entire herds is economically catastrophic and not recommended for routine swine flu control. Only African swine fever\u2014a different and far more lethal disease with no treatment\u2014justifies culling. This question was set in 2010, shortly after the 2009 pandemic, making it timely for testing pandemic response knowledge.",
+    "facts": [
+      "H1N1 swine flu was first isolated from pigs in 1930; the 2009 pandemic strain emerged from reassortment of swine, avian, and human influenza genes and infected approximately 24% of the global population within the first year.",
+      "Pre-existing immunity in humans is age-dependent but based on exposure history to prior H1N1 strains (1918\u20131950 viruses), not innate age-related susceptibility; people over 60 showed significantly lower hospitalization rates during the 2009 pandemic due to this prior immunity, not resistance."
+    ],
+    "sources": [
+      {
+        "title": "H1N1 Influenza - StatPearls - NCBI Bookshelf - NIH",
+        "url": "https://www.ncbi.nlm.nih.gov/books/NBK513241/",
+        "whyUsed": "Verified clinical treatment information confirming antivirals (oseltamivir, zanamivir) as primary treatment and mechanism of action; confirmed equal susceptibility across populations when controlling for prior exposure."
+      },
+      {
+        "title": "Detection of H1 Swine Influenza A Virus Antibodies in Human Serum Samples by Age Group - CDC Emerging Infectious Diseases",
+        "url": "https://wwwnc.cdc.gov/eid/article/26/9/19-1796_article",
+        "whyUsed": "Established that age-dependent seroprevalence reflects prior exposure to older H1N1 strains (1918\u20131950), not intrinsic susceptibility differences; confirmed human-to-swine virus transmission and herd immunity patterns."
+      },
+      {
+        "title": "Swine Influenza A Virus: Challenges and Novel Vaccine Strategies - Frontiers",
+        "url": "https://www.frontiersin.org/journals/cellular-and-infection-microbiology/articles/10.3389/fcimb.2024.1336013/full",
+        "whyUsed": "Confirmed that vaccination and biosecurity practices are the primary control strategies for swine influenza in herds; culling is not standard practice for H1N1 control in swine."
+      },
+      {
+        "title": "Influenza Antiviral Medications: Summary for Clinicians - CDC",
+        "url": "https://www.cdc.gov/flu/hcp/antivirals/summary-clinicians.html",
+        "whyUsed": "Verified 48-hour treatment window and four approved antiviral agents (oseltamivir, zanamivir, peramivir, baloxavir marboxil) for swine flu; confirmed antivirals reduce symptom duration and severity."
+      }
+    ],
+    "searchMeta": {
+      "usedWebSearch": true,
+      "searchQueries": [
+        "swine flu H1N1 susceptibility age immunity groups",
+        "swine flu antivirals zanamivir oseltamivir treatment 48 hours",
+        "swine flu prevention culling pigs vaccination"
+      ],
+      "confidence": "high"
+    }
+  },
+  "id": 9,
+  "usage": {
+    "cache_creation": {
+      "ephemeral_1h_input_tokens": 0,
+      "ephemeral_5m_input_tokens": 0
+    },
+    "cache_creation_input_tokens": 42557,
+    "cache_read_input_tokens": 10060,
+    "inference_geo": "not_available",
+    "input_tokens": 974,
+    "iterations": null,
+    "output_tokens": 1474,
+    "server_tool_use": {
+      "web_fetch_requests": 0,
+      "web_search_requests": 3
+    },
+    "service_tier": "batch",
+    "speed": null
+  }
+}

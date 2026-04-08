@@ -1,0 +1,67 @@
+{
+  "subject": "Science",
+  "year": 2014,
+  "theme": "Energy transformation in photosynthesis: light energy to chemical potential energy",
+  "question_short_text": "Which process describes photosynthesis: energy release vs. energy conversion and storage?",
+  "text": "Which one of the following is the process involved in photosynthesis?\n\na) Potential energy is released to form free energy.\n\nb) Free energy is converted into potential energy and stored.\n\nc) Food is oxidized to release carbon dioxide and water.\n\nd) Oxygen is taken, and carbon dioxide and water vapour are given out.",
+  "options": [
+    "Potential energy is released to form free energy.",
+    "Free energy is converted into potential energy and stored.",
+    "Food is oxidized to release carbon dioxide and water.",
+    "Oxygen is taken, and carbon dioxide and water vapour are given out."
+  ],
+  "answerIndex": 1,
+  "answerText": "(b) Free energy is converted into potential energy and stored.",
+  "explanation": "Photosynthesis captures light energy (free energy) and converts it into chemical potential energy stored in glucose and other organic molecules. This energy conversion and storage is the essence of the process, distinct from cellular respiration (option c) which releases stored energy.",
+  "research": {
+    "summary": "The core concept here is energy transformation direction and storage, not energy release. Photosynthesis is fundamentally an endergonic process that *stores* energy. Light energy (free energy from the sun) is captured by chlorophyll and drives the synthesis of glucose and other carbohydrates, in which chemical energy is *stored* as high-energy chemical bonds. This converts exergonic light into endergonic molecular structures. Option (a) reverses the process entirely\u2014it describes what happens during cellular respiration, where potential energy in glucose is *released* to form usable free energy (ATP). Option (c) also describes respiration, not photosynthesis. Option (d) contains a factual element (oxygen is produced) but mischaracterizes the purpose and mechanism. The question tests the thermodynamic direction of photosynthesis: light energy \u2192 chemical energy in bonds, not the reverse. Understanding this distinction is critical because photosynthesis and respiration are inverse processes operating in opposite thermodynamic directions. Photosynthesis is anabolic (building, storing), while respiration is catabolic (breaking down, releasing).",
+    "facts": [
+      "Photosynthesis occurs in two stages: light-dependent reactions (in thylakoid membranes) produce ATP and NADPH from light; light-independent reactions (Calvin cycle in stroma) use this chemical energy to fix CO\u2082 into glucose.",
+      "Oxygen released during photosynthesis comes from water splitting in the light reactions, not from CO\u2082 as commonly misconceived\u2014this was proven through isotope labeling studies."
+    ],
+    "sources": [
+      {
+        "title": "Photosynthesis - Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Photosynthesis",
+        "whyUsed": "Verified core definition: photosynthesis converts light energy into chemical energy stored in carbohydrates; oxygen is byproduct of water splitting."
+      },
+      {
+        "title": "Photosynthesis - National Geographic Education",
+        "url": "https://education.nationalgeographic.org/resource/photosynthesis/",
+        "whyUsed": "Clarified the two-stage process: light-dependent reactions produce ATP/NADPH; light-independent reactions synthesize glucose using this energy."
+      },
+      {
+        "title": "Photosynthesis - NCBI Bookshelf (NIH)",
+        "url": "https://www.ncbi.nlm.nih.gov/books/NBK9861/",
+        "whyUsed": "Provided thermodynamic framing: photosynthesis converts sunlight to potential chemical energy (glucose), making it ultimate source of metabolic energy."
+      }
+    ],
+    "searchMeta": {
+      "usedWebSearch": true,
+      "searchQueries": [
+        "photosynthesis light energy conversion chemical energy glucose",
+        "photosynthesis free energy potential energy thermodynamics"
+      ],
+      "confidence": "high"
+    }
+  },
+  "id": 13,
+  "usage": {
+    "cache_creation": {
+      "ephemeral_1h_input_tokens": 0,
+      "ephemeral_5m_input_tokens": 5030
+    },
+    "cache_creation_input_tokens": 28456,
+    "cache_read_input_tokens": 5030,
+    "inference_geo": "not_available",
+    "input_tokens": 697,
+    "iterations": null,
+    "output_tokens": 1000,
+    "server_tool_use": {
+      "web_fetch_requests": 0,
+      "web_search_requests": 2
+    },
+    "service_tier": "batch",
+    "speed": null
+  }
+}

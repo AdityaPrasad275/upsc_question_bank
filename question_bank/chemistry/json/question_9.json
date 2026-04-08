@@ -1,0 +1,54 @@
+{
+  "subject": "Science",
+  "year": 2014,
+  "theme": "distinguishing physical changes from chemical changes",
+  "question_short_text": "Which examples represent chemical changes: crystallization of NaCl, melting of ice, or souring of milk?",
+  "text": "Which of the following is/are the example/examples of chemical change?\n\n1. Crystallization of sodium chloride\n2. Melting of ice\n3. Souring of milk\n\nSelect the correct answer using the code given below.",
+  "options": [
+    "a) 1 and 2 only",
+    "b) 3 only",
+    "c) 1, 2 and 3",
+    "d) None"
+  ],
+  "answerIndex": 1,
+  "answerText": "(b) 3 only",
+  "explanation": "A chemical change transforms one or more substances into new substances with different chemical properties through irreversible reactions. Only souring of milk qualifies\u2014lactic acid bacteria ferment lactose into lactic acid, forming a new compound. Crystallization of NaCl and melting of ice are physical changes; no new substances form, composition remains unchanged, and both are reversible.",
+  "research": {
+    "summary": "The core distinction being tested is between reversible changes in form or state versus irreversible transformations of composition. Students often confuse any observable change\u2014separation, melting, color shift\u2014with chemical change, but UPSC here is probing the precise boundary. Crystallization and melting are phase/separation changes: solid NaCl dissolves in solution and then is mechanically separated out as solid again\u2014the compound itself never changes. Ice melting to water involves only a state-of-matter transition; H\u2082O remains H\u2082O whether solid, liquid, or gas. In contrast, souring involves lactose fermentation. Lactic acid bacteria (chiefly Lactobacillus and Streptococcus species) metabolize the lactose molecule into lactic acid, fundamentally breaking and reforming molecular bonds. The pH drops from ~6.7 to below 4.6, proteins denature and coagulate, and entirely new chemical species form\u2014lactic acid, diacetyl, and coagulated casein micelles are chemically distinct from the original lactose and intact casein. Critically, this change is irreversible; you cannot restore the original composition by simple physical means. The trap in this question is that students may think any visible, irreversible change (like ice melting on a stove) is chemical, or may incorrectly classify crystallization as 'new' substance formation. The key test: does molecular composition change and new substances form? For NaCl and ice, no. For milk souring, yes.",
+    "facts": [
+      "Phase changes (melting, freezing, boiling) involve only state transitions, not new compound formation\u2014water remains H\u2082O whether solid, liquid, or gas.",
+      "Reversibility is a useful but imperfect indicator: most chemical changes are irreversible, but some can be reversed under different conditions (e.g., battery charging/discharging); the defining feature is whether molecular bonds are broken and reformed to produce new substances."
+    ],
+    "sources": [
+      {
+        "title": "Chemical Change vs. Physical Change - Chemistry LibreTexts",
+        "url": "https://chem.libretexts.org/Bookshelves/Physical_and_Theoretical_Chemistry_Textbook_Maps/Supplemental_Modules_(Physical_and_Theoretical_Chemistry)/Fundamentals/Chemical_Change_vs._Physical_Change",
+        "whyUsed": "Authoritative reference defining chemical vs. physical changes, including examples of phase changes as physical changes"
+      },
+      {
+        "title": "Is Souring Milk a Chemical Change? - Alibaba Wellness",
+        "url": "https://wellness.alibaba.com/nutrition/is-souring-milk-a-chemical-change",
+        "whyUsed": "Detailed explanation of milk souring as fermentation: lactose metabolized by lactic acid bacteria into lactic acid, pH reduction, protein denaturation, and irreversibility"
+      },
+      {
+        "title": "Soured milk - Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Soured_milk",
+        "whyUsed": "Definition and biochemical mechanism of soured milk: fermentation by lactic acid bacteria converting lactose to lactic acid"
+      },
+      {
+        "title": "3.6: Changes in Matter - Physical and Chemical Changes - Chemistry LibreTexts",
+        "url": "https://chem.libretexts.org/Bookshelves/Introductory_Chemistry/Introductory_Chemistry_(LibreTexts)/03:_Matter_and_Energy/3.06:_Changes_in_Matter_-_Physical_and_Chemical_Changes",
+        "whyUsed": "Distinction between physical changes (no bonds broken/formed, composition unchanged) and chemical changes (bonds broken/formed, new compounds created)"
+      }
+    ],
+    "searchMeta": {
+      "usedWebSearch": true,
+      "searchQueries": [
+        "chemical change vs physical change examples definition",
+        "souring of milk chemical change lactic acid fermentation"
+      ],
+      "confidence": "high"
+    }
+  },
+  "id": 9
+}

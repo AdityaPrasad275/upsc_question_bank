@@ -1,0 +1,66 @@
+{
+  "subject": "Science",
+  "year": 2004,
+  "theme": "Notable figures and their scientific/professional contributions",
+  "question_short_text": "Identify the incorrectly matched person-profession pair among mountaineers and scientists",
+  "text": "Which of the following pairs is not correctly matched?\n\na) Reinhold Messner: Computer Technology\n\nb) Harlow Shapley: Astronomy\n\nc) Gregor Mendel: Hereditary Theory\n\nd) Godfrey Hounsfield: CT Scan",
+  "options": [
+    "Reinhold Messner: Computer Technology",
+    "Harlow Shapley: Astronomy",
+    "Gregor Mendel: Hereditary Theory",
+    "Godfrey Hounsfield: CT Scan"
+  ],
+  "answerIndex": 0,
+  "answerText": "(a) Reinhold Messner: Computer Technology",
+  "explanation": "Reinhold Messner is a renowned mountaineer and explorer, not known for computer technology. He is famous for pioneering high-altitude mountaineering without supplemental oxygen and being the first to climb all 14 eight-thousander peaks.",
+  "research": {
+    "summary": "This question tests recognition of major historical figures and their accurate professional identifications. The trap is straightforward: Reinhold Messner's name is paired with computer technology, which has nothing to do with his actual career. Messner is widely regarded as the greatest mountaineer of all time, achieving legendary status through feats like the first oxygen-free ascent of Mount Everest (1978) with Peter Habeler, the first solo ascent of Everest without supplemental oxygen (1980), and becoming the first person to summit all 14 eight-thousander peaks (peaks above 8,000 metres). His revolutionary \"by fair means\" philosophy emphasized alpine-style climbing with minimal equipment and external support\u2014a stark contrast to the expedition-style mountaineering that was standard before him. The other three pairs are correctly matched: Harlow Shapley was a pioneering American astronomer who mapped the Milky Way's structure; Gregor Mendel established the laws of heredity through his pea plant experiments in the 1860s; and Godfrey Hounsfield invented the CT scanner in the early 1970s, earning him the Nobel Prize in Physiology or Medicine in 1979. The question relies on basic biographical knowledge rather than conceptual understanding, making this a straightforward elimination exercise.",
+    "facts": [
+      "Messner summited Everest without oxygen in 1978 with Peter Habeler, becoming the first to reach the summit without supplemental breathing apparatus\u2014a feat many thought physiologically impossible at extreme altitude.",
+      "Messner climbed all 14 eight-thousander peaks between 1970 and 1986, revolutionizing high-altitude mountaineering ethics by demonstrating that lightweight alpine-style expeditions could succeed where massive siege-style expeditions had previously been the norm."
+    ],
+    "sources": [
+      {
+        "title": "Reinhold Messner - Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Reinhold_Messner",
+        "whyUsed": "Verified Messner's mountaineering achievements and confirmed he had no connection to computer technology"
+      },
+      {
+        "title": "Reinhold Messner | Britannica",
+        "url": "https://www.britannica.com/biography/Reinhold-Messner",
+        "whyUsed": "Confirmed biographical details about Messner's pioneering climbs and climbing philosophy"
+      },
+      {
+        "title": "Reinhold Messner | Academy of Achievement",
+        "url": "https://achievement.org/achiever/reinhold-messner/",
+        "whyUsed": "Verified Messner's status as the first climber to summit all 14 eight-thousander peaks and his oxygen-free Everest ascents"
+      }
+    ],
+    "searchMeta": {
+      "usedWebSearch": true,
+      "searchQueries": [
+        "Reinhold Messner mountaineer achievements"
+      ],
+      "confidence": "high"
+    }
+  },
+  "id": 37,
+  "usage": {
+    "cache_creation": {
+      "ephemeral_1h_input_tokens": 0,
+      "ephemeral_5m_input_tokens": 5030
+    },
+    "cache_creation_input_tokens": 21127,
+    "cache_read_input_tokens": 5030,
+    "inference_geo": "not_available",
+    "input_tokens": 800,
+    "iterations": null,
+    "output_tokens": 935,
+    "server_tool_use": {
+      "web_fetch_requests": 0,
+      "web_search_requests": 1
+    },
+    "service_tier": "batch",
+    "speed": null
+  }
+}

@@ -1,0 +1,72 @@
+{
+  "subject": "Science",
+  "year": 2013,
+  "theme": "Disease transmission via tattooing - bloodborne pathogen risk",
+  "question_short_text": "Which diseases transmit through tattooing: Chikungunya, Hepatitis B, or HIV-AIDS?",
+  "text": "Which of the following diseases can be transmitted from one person to another through tattooing?\n\n1. Chikungunya\n2. Hepatitis B\n3. HIV-AIDS\n\nSelect the correct answer using the codes given below.",
+  "options": [
+    "1 only",
+    "2 and 3 only",
+    "1 and 3 only",
+    "1, 2 and 3"
+  ],
+  "answerIndex": 1,
+  "answerText": "(b) 2 and 3 only",
+  "explanation": "Hepatitis B and HIV-AIDS can be transmitted through tattooing due to blood contact, but Chikungunya is a mosquito-borne disease and cannot be transmitted person-to-person through tattooing. The key distinction is that tattooing with contaminated needles creates a direct bloodborne transmission route for hepatitis B and HIV, whereas Chikungunya requires mosquito vectors.",
+  "research": {
+    "summary": "This question tests understanding of disease transmission modes and specifically which pathogens exploit bloodborne routes. The trap here is confusing all communicable diseases as potential tattoo risks\u2014UPSC is testing recognition of transmission mechanism specificity. Chikungunya, despite being a serious communicable disease, is strictly mosquito-borne (transmitted by Aedes aegypti and Aedes albopictus mosquitoes). It is not transmitted person-to-person through bodily fluids, blood contact, or other direct routes, so tattooing poses no transmission risk. Hepatitis B and HIV, by contrast, are bloodborne viruses. Tattooing involves thousands of needle pricks per minute that breach skin and create repeated blood contact\u2014an efficient route for these pathogens. The relative transmission risk differs significantly: needlestick exposure carries a 5-30% risk for Hepatitis B compared to only 0.2-0.4% for HIV, which explains why the provided explanation emphasizes Hepatitis B's greater occupational risk. Hepatitis B can survive on surfaces for up to a week and resists standard disinfection, making it particularly hazardous in unregulated tattoo settings. HIV, while theoretically possible through tattooing (documented in a few prison cases), is less efficiently transmitted because tattoo equipment is solid-core (pushing ink into skin) rather than hollow-bore (injecting into blood vessels), reducing direct blood vessel puncture. The elimination cue: if a disease requires a specific vector (mosquito, tick, flea) or is only person-to-person via respiratory droplets or saliva, it cannot transmit through tattooing. Only direct bloodborne routes matter for this transmission pathway.",
+    "facts": [
+      "Hepatitis B can survive outside the host for up to two weeks and resists most standard forms of disinfection, making it a particular concern in unregulated tattoo parlors.",
+      "Professional tattoo establishments using sterile single-use needles and autoclaves show minimal infection risk, but amateur or prison tattooing (using reused, non-sterilized equipment) carries significantly higher transmission risk for bloodborne pathogens."
+    ],
+    "sources": [
+      {
+        "title": "HIV risks associated with tattooing, piercing, scarification and acupuncture",
+        "url": "https://www.ohtn.on.ca/rapid-response-61-hiv-risks-associated-with-tattooing-piercing-scarification-and-acupuncture/",
+        "whyUsed": "Provided comparative data on transmission risks: 5-30% for Hepatitis B, 0.2-0.4% for HIV from needlestick exposure, and evidence that HIV transmission through tattooing is theoretically possible but rare."
+      },
+      {
+        "title": "Transmission of Chikungunya Virus | CDC",
+        "url": "https://www.cdc.gov/chikungunya/php/transmission/index.html",
+        "whyUsed": "Confirmed that Chikungunya is mosquito-borne only (Aedes aegypti and Ae. albopictus), with bloodborne transmission documented only in rare laboratory and occupational exposures, not through standard person-to-person routes like tattooing."
+      },
+      {
+        "title": "Know the Risk: Transmission Through Tattoos & Piercings - Hepatitis B Foundation",
+        "url": "https://www.hepb.org/blog/know-risk-transmission-tattoos-piercings/",
+        "whyUsed": "Explained bloodborne transmission mechanism for Hepatitis B through tattooing and the critical role of sterilization (autoclave) in preventing infection."
+      },
+      {
+        "title": "Tattoo-Associated Viral Infections: A Review",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8549973/",
+        "whyUsed": "Systematic review confirming that both Hepatitis B and C are strongly associated with tattooing, especially in non-professional settings, with evidence of HIV transmission cases in prison tattooing."
+      }
+    ],
+    "searchMeta": {
+      "usedWebSearch": true,
+      "searchQueries": [
+        "Hepatitis B HIV transmission tattooing needle stick risk",
+        "Chikungunya transmission modes person to person"
+      ],
+      "confidence": "high"
+    }
+  },
+  "id": 7,
+  "usage": {
+    "cache_creation": {
+      "ephemeral_1h_input_tokens": 0,
+      "ephemeral_5m_input_tokens": 0
+    },
+    "cache_creation_input_tokens": 26894,
+    "cache_read_input_tokens": 10060,
+    "inference_geo": "not_available",
+    "input_tokens": 696,
+    "iterations": null,
+    "output_tokens": 1313,
+    "server_tool_use": {
+      "web_fetch_requests": 0,
+      "web_search_requests": 2
+    },
+    "service_tier": "batch",
+    "speed": null
+  }
+}

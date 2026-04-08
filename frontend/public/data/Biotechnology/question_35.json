@@ -1,0 +1,77 @@
+{
+  "subject": "Science",
+  "year": 2006,
+  "theme": "Diagnostic methods in medicine and blood group genetics",
+  "question_short_text": "ELISA test for cancer detection and Rh blood type distribution",
+  "text": "Consider the following statements:\n\n1. ELISA test is employed as the first and most basic test for an individual to detect cancer.\n2. Almost 50% of human beings have Rh+ blood while the remaining have Rh- blood.\n\nWhich of the statements given above is/are correct?",
+  "options": [
+    "1 only",
+    "2 only",
+    "Both 1 and 2",
+    "Neither 1 nor 2"
+  ],
+  "answerIndex": 3,
+  "answerText": "(d) Neither 1 nor 2",
+  "explanation": "Both statements are incorrect. ELISA is not the primary cancer detection test\u2014cancers require imaging, biopsy, or specific molecular assays. Rh+ blood is found in approximately 85\u201394% of the global population, not 50%; Rh\u2212 comprises only 6\u20137%.",
+  "research": {
+    "summary": "This question tests two distinct areas: understanding diagnostic methods in oncology and global blood type genetics. Statement 1 conflates ELISA's legitimate role as a research and supplementary cancer biomarker detection tool with a primary screening or diagnostic method. ELISA (enzyme-linked immunosorbent assay) is a laboratory technique that can detect tumor-associated markers like PSA (prostate), CEA (colorectal), CA15-3 (breast), or CA125 (ovarian) in blood samples, but it is never employed as the first and most basic test. Actual cancer diagnosis involves clinical evaluation, imaging (ultrasound, CT, MRI), tissue biopsy for histological confirmation, and tailored molecular assays\u2014far more reliable and specific than ELISA alone. ELISA shines in detecting specific biomarkers and antibodies for infections, allergies, and autoimmune disorders, not as a primary cancer screening modality. Statement 2 reflects a fundamental misunderstanding of global blood group distribution. Approximately 93\u201394% of the world's population is Rh-positive (carries the Rh D antigen on red blood cells), while only 6\u20137% are Rh-negative. This distribution varies by region\u2014Europeans have higher Rh-negative frequencies (up to 15\u201318% in some areas), while East Asian and African populations have very low Rh-negative rates (under 1% in many cases). The '50\u201350' claim in the question is a classic misconception UPSC uses to test whether aspirants have internalized actual epidemiological data rather than vague assumptions. The trap here is assuming equal distribution without verifying actual population statistics.",
+    "facts": [
+      "ELISA can detect specific cancer biomarkers (PSA, CEA, CA15-3, CA125) but is a supplementary diagnostic tool, not a primary screening method.",
+      "Rh-negative frequency varies greatly by ethnicity and geography: highest in Europeans (~15\u201318%), low in East Asians and Africans (<1\u20137%), making a 50% global claim epidemiologically implausible."
+    ],
+    "sources": [
+      {
+        "title": "PubMed - Optimization of diagnostic ELISA-based tests for detection of auto-antibodies against tumor antigens",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/18816257/",
+        "whyUsed": "Clarifies that ELISA detects tumor biomarkers indirectly through auto-antibodies and is used for validation and new marker research, not as the first diagnostic test."
+      },
+      {
+        "title": "Cleveland Clinic - ELISA: What It Is, Purpose, Procedure & Results",
+        "url": "https://my.clevelandclinic.org/health/articles/24990-elisa",
+        "whyUsed": "Provides comprehensive list of ELISA applications, including tumor marker detection, infections, and allergies, confirming ELISA is not a primary cancer screening method."
+      },
+      {
+        "title": "Wikipedia - Rh blood group system",
+        "url": "https://en.wikipedia.org/wiki/Rh_blood_group_system",
+        "whyUsed": "States global Rh-positive frequency is approximately 94%, Rh-negative 6%, and documents regional variation by population."
+      },
+      {
+        "title": "World Population Statistics - Blood Type Distribution",
+        "url": "https://www.worldatlas.com/human-science/world-population-by-percentage-of-blood-types.html",
+        "whyUsed": "Confirms ~85% of global population is Rh-positive and only ~15% Rh-negative, with ethnic and regional variation."
+      },
+      {
+        "title": "WellFizz - What Percentage of the Population Is Rh Negative?",
+        "url": "https://wellfizz.com/what-percentage-of-the-population-is-rh-negative/",
+        "whyUsed": "Comprehensive analysis showing 93\u201394% Rh-positive globally with documented regional ranges and epidemiological explanation."
+      }
+    ],
+    "searchMeta": {
+      "usedWebSearch": true,
+      "searchQueries": [
+        "ELISA test cancer detection diagnostic method",
+        "Rh positive negative blood percentage worldwide population"
+      ],
+      "confidence": "high"
+    }
+  },
+  "id": 35,
+  "usage": {
+    "cache_creation": {
+      "ephemeral_1h_input_tokens": 0,
+      "ephemeral_5m_input_tokens": 5030
+    },
+    "cache_creation_input_tokens": 31622,
+    "cache_read_input_tokens": 5030,
+    "inference_geo": "not_available",
+    "input_tokens": 655,
+    "iterations": null,
+    "output_tokens": 1321,
+    "server_tool_use": {
+      "web_fetch_requests": 0,
+      "web_search_requests": 2
+    },
+    "service_tier": "batch",
+    "speed": null
+  }
+}

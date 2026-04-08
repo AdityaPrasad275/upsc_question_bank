@@ -1,0 +1,71 @@
+{
+  "subject": "Science",
+  "year": 2013,
+  "theme": "mineral roles in muscle contraction and cellular signaling",
+  "question_short_text": "Which minerals are required for muscle contraction: Calcium, Iron, and/or Sodium?",
+  "text": "Consider the following minerals:\n\n1. Calcium\n2. Iron\n3. Sodium\n\nWhich of the minerals given above is/are required by human body for the contraction of muscles?",
+  "options": [
+    "1 only",
+    "2 and 3 only",
+    "1 and 3 only",
+    "1, 2 and 3"
+  ],
+  "answerIndex": 3,
+  "answerText": "(d) 1, 2 and 3",
+  "explanation": "All three minerals are essential for muscle contraction. Calcium triggers the actual sliding filament mechanism, sodium enables the nerve impulses that initiate contraction, and iron supports the energy production required for sustained muscle function.",
+  "research": {
+    "summary": "This question tests whether students understand that muscle contraction depends not just on the immediate chemical trigger (calcium) but on supporting physiological processes. Calcium is the direct trigger: calcium ions released from the sarcoplasmic reticulum bind to troponin, moving tropomyosin aside to expose binding sites between actin and myosin. However, calcium release itself is triggered by a nerve impulse, which depends on sodium ions flowing into the muscle cell during depolarization\u2014sodium creates the action potential that spreads across the muscle membrane and into T-tubules, ultimately signaling calcium release. Iron plays a supporting but essential role: muscles require ATP for both contraction and especially for relaxation (the power stroke consumes energy, and calcium must be actively pumped back into the sarcoplasmic reticulum). Iron via myoglobin stores oxygen in muscle tissue, and iron via hemoglobin delivers oxygen systemically. This oxygen fuels aerobic ATP production. Iron deficiency causes muscle weakness and fatigue because energy production is compromised. The trap is assuming only calcium matters because it appears in the mechanism diagrams. In reality, UPSC is testing recognition that muscle contraction is a multi-step process requiring initiation (sodium), execution (calcium), and energy supply (iron). Students who think iron is irrelevant because it \"merely supports energy\" miss that contraction cannot occur without sustained ATP, particularly for relaxation\u2014muscles cannot relax without calcium-ATPase actively pumping calcium back, so iron-dependent energy production is functionally integral to the contraction cycle, not just peripheral.",
+    "facts": [
+      "Sodium-potassium pumps maintain the resting electrochemical gradient across the muscle membrane; when a nerve impulse arrives, sodium influx depolarizes the muscle fiber and triggers the action potential that initiates calcium release.",
+      "Magnesium is also critical for muscle function because it regulates both calcium entry and ATP hydrolysis, which is why magnesium deficiency causes muscle cramps\u2014it is sometimes tested alongside calcium, iron, and sodium in mineral-based questions."
+    ],
+    "sources": [
+      {
+        "title": "Calcium regulation of muscle contraction",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC1334730/",
+        "whyUsed": "Verified the fundamental role of calcium in triggering the interaction between actin and myosin via troponin"
+      },
+      {
+        "title": "Signaling in Muscle Contraction",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4315934/",
+        "whyUsed": "Confirmed the role of sodium and calcium in the excitation-contraction coupling process and the importance of calcium-ATPase in relaxation"
+      },
+      {
+        "title": "What Minerals Contract a Muscle?",
+        "url": "https://www.weekand.com/healthy-living/article/minerals-contract-muscle-18016454.php",
+        "whyUsed": "Clarified iron's role in energy production via myoglobin storage and oxygen delivery to muscle cells"
+      },
+      {
+        "title": "Discovery of the regulatory role of calcium ion in muscle contraction and relaxation",
+        "url": "https://journals.physiology.org/doi/full/10.1152/advan.00108.2022",
+        "whyUsed": "Historical and mechanistic context on calcium's role as the primary regulator of contraction and relaxation"
+      }
+    ],
+    "searchMeta": {
+      "usedWebSearch": true,
+      "searchQueries": [
+        "calcium iron sodium muscle contraction physiology"
+      ],
+      "confidence": "high"
+    }
+  },
+  "id": 18,
+  "usage": {
+    "cache_creation": {
+      "ephemeral_1h_input_tokens": 0,
+      "ephemeral_5m_input_tokens": 0
+    },
+    "cache_creation_input_tokens": 13787,
+    "cache_read_input_tokens": 10060,
+    "inference_geo": "not_available",
+    "input_tokens": 706,
+    "iterations": null,
+    "output_tokens": 1041,
+    "server_tool_use": {
+      "web_fetch_requests": 0,
+      "web_search_requests": 1
+    },
+    "service_tier": "batch",
+    "speed": null
+  }
+}

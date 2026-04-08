@@ -1,0 +1,73 @@
+{
+  "subject": "Science",
+  "year": 2010,
+  "theme": "HIV transmission routes and relative risk factors",
+  "question_short_text": "Which statement about HIV transmission from female to male is incorrect?",
+  "text": "With regard to the transmission of the Human Immunodeficiency Virus, which one of the following statements is not correct?",
+  "options": [
+    "The chances of transmission from female to male are twice as likely as from male to female.",
+    "The chances of transmission are more if a person suffers from other sexually transmitted infections.",
+    "An infected mother can transmit the infection through pregnancy, at childbirth and by breastfeeding.",
+    "The risk of contracting infection from transfusion of infected blood is much higher than exposure to contaminated needle."
+  ],
+  "answerIndex": 0,
+  "answerText": "(a) The chances of transmission from female to male are twice as likely as from male to female.",
+  "explanation": "The statement about female-to-male transmission being twice as likely is incorrect. Research shows the opposite: male-to-female transmission is significantly more likely than female-to-male transmission, with meta-analyses finding male-to-female transmission rates approximately 2 to 2.3 times higher than female-to-male rates.",
+  "research": {
+    "summary": "This question tests understanding of the asymmetry in sexual HIV transmission risk. The trap is embedded in option (a), which inverts the actual biological reality. Meta-analyses of heterosexual transmission have consistently found that male-to-female transmission carries a per-act risk of approximately 0.08% (8 per 10,000 acts), while female-to-male transmission is approximately 0.04% (4 per 10,000 acts)\u2014meaning male-to-female transmission is roughly 2 to 2.3 times more likely, not the other way around. This asymmetry exists due to the higher viral concentration in semen and prolonged mucosal contact in the receptive partner's genital tract during vaginal intercourse. The other three statements are factually correct: STIs do amplify HIV transmission risk by creating genital inflammation and ulceration that facilitate viral entry; mother-to-child transmission occurs during pregnancy, childbirth, and breastfeeding due to exposure to infected blood and breast milk; and blood transfusion with contaminated blood carries a transmission risk of 88-100%, vastly exceeding needlestick exposure at approximately 0.23%. A critical recognition pattern: when a UPSC statement compares transmission probabilities between two groups and sounds plausible, always verify the direction of the inequality, especially for biological processes that often defy intuition.",
+    "facts": [
+      "Meta-analyses show male-to-female HIV transmission per vaginal act (0.08%) is approximately 2\u20132.3 times higher than female-to-male (0.04%), primarily due to higher viral concentration in seminal fluid.",
+      "STIs such as herpes, gonorrhea, and chlamydia increase HIV transmission risk up to 8-fold by causing mucosal inflammation and genital ulceration that breach the epithelial barrier."
+    ],
+    "sources": [
+      {
+        "title": "Heterosexual risk of HIV-1 infection per sexual-act: systematic review and meta-analysis",
+        "url": "https://www.hivlawandpolicy.org/resources/heterosexual-risk-hiv-1-infection-sexual-act-systematic-review-and-meta-analysis",
+        "whyUsed": "Provides validated meta-analysis establishing that male-to-female transmission is approximately 0.08% vs. female-to-male 0.04% per vaginal act, directly refuting option (a)"
+      },
+      {
+        "title": "Risk of HIV-1 transmission for parenteral exposure and blood transfusion: a systematic review and meta-analysis",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/16549963/",
+        "whyUsed": "Establishes that confirmed contaminated blood transfusions carry 88-100% transmission risk vs. 0.23% for needlestick, validating option (d)"
+      },
+      {
+        "title": "Sexually Transmitted Infections and Risk of Human Immunodeficiency Virus Transmission",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/40601156/",
+        "whyUsed": "Confirms that STIs increase HIV transmission risk by 8-fold through mucosal inflammation and epithelial disruption, validating option (b)"
+      },
+      {
+        "title": "HIV and Sexually Transmitted Infections (STIs)",
+        "url": "https://hivinfo.nih.gov/understanding-hiv/fact-sheets/hiv-and-sexually-transmitted-infections-stis",
+        "whyUsed": "Confirms STI role in increasing HIV transmission and mother-to-child transmission routes (pregnancy, childbirth, breastfeeding), supporting options (b) and (c)"
+      }
+    ],
+    "searchMeta": {
+      "usedWebSearch": true,
+      "searchQueries": [
+        "HIV transmission rates female to male vs male to female",
+        "HIV transmission risk sexually transmitted infections STI",
+        "HIV transmission blood transfusion contaminated needle risk comparison"
+      ],
+      "confidence": "high"
+    }
+  },
+  "id": 10,
+  "usage": {
+    "cache_creation": {
+      "ephemeral_1h_input_tokens": 0,
+      "ephemeral_5m_input_tokens": 0
+    },
+    "cache_creation_input_tokens": 41810,
+    "cache_read_input_tokens": 10060,
+    "inference_geo": "not_available",
+    "input_tokens": 762,
+    "iterations": null,
+    "output_tokens": 1286,
+    "server_tool_use": {
+      "web_fetch_requests": 0,
+      "web_search_requests": 3
+    },
+    "service_tier": "batch",
+    "speed": null
+  }
+}

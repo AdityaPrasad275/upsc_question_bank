@@ -1,0 +1,123 @@
+{
+  "subject": "Economy",
+  "year": 2013,
+  "theme": "Circular economy and industrial by-products valorization in the sugar industry",
+  "question_short_text": "By-products of sugar industry: bagasse, molasses, and their applications",
+  "text": "With reference to the usefulness of the by-products of sugar industry, which of the following statements is/are correct?\n\n1. Bagasse can be used as biomass fuel for the generation of energy.\n2. Molasses can be used as one of the feedstock for the production of synthetic chemical fertilizers.\n3. Molasses can be used for the production of ethanol.\n\nSelect the correct answer using the codes given below.",
+  "options": [
+    "1 only",
+    "2 and 3 only",
+    "1 and 3 only",
+    "1, 2 and 3"
+  ],
+  "answerIndex": 2,
+  "answerText": "(c) 1 and 3 only",
+  "explanation": "Bagasse is a renewable biomass fuel widely used for energy generation in sugar mills. Molasses is a rich source of fermentable sugars and is extensively used for ethanol production through fermentation. However, molasses is not a feedstock for synthetic chemical fertilizers, which are produced from inorganic sources like ammonia and phosphate rock.",
+  "research": {
+    "summary": "This question tests understanding of industrial by-product valorization, a key component of circular economy practices in agro-processing industries. Bagasse\u2014the cellulose-rich fibrous residue left after extracting sugarcane juice\u2014is abundantly used as a biomass fuel. Sugar mills employ it through direct combustion in boilers for cogeneration (combined heat and power), producing both steam for processing and electricity for grid sale. Bagasse is carbon-neutral or better because the CO2 emissions from burning it are typically less than the CO2 absorbed when sugarcane grows. The critical trap in Statement 2 is the phrase 'synthetic chemical fertilizers.' While molasses contains nutrients (potassium, calcium, magnesium, some nitrogen and phosphorus), synthetic fertilizers like urea, DAP, and ammonia are manufactured through chemical synthesis from inorganic raw materials\u2014primarily natural gas (for ammonia), phosphate rock, and potash ore. Molasses may be blended into organic fertilizers or used as a soil conditioner to enhance microbial activity, but it is not a primary feedstock for industrial-scale synthetic fertilizer production. Molasses, by contrast, is an ideal feedstock for ethanol production. It contains 50\u201360% fermentable sugars (sucrose, glucose, fructose) that can be directly fermented by yeast (particularly Saccharomyces cerevisiae) or bacteria (Zymomonas mobilis) to produce ethanol. This is a first-generation biofuel pathway, widely established in Brazil, India, and other sugarcane-producing countries. The distinction being tested is between inorganic chemical synthesis (synthetic fertilizers) and fermentation from organic sugars (ethanol), both of which are industrial processes but fundamentally different in feedstock and method.",
+    "facts": [
+      "Bagasse comprises roughly 48% fiber, 50% water, and 2% soluble solids by fresh weight, and when dried contains cellulose (42%), hemicellulose (28%), and lignin (20%).",
+      "Molasses is the thick syrup remaining after crystallization of sugar during refining, and contains residual sugars (50\u201360%), minerals, and vitamins\u2014making it ideal for fermentation but not for chemical synthesis of NPK-based fertilizers."
+    ],
+    "sources": [
+      {
+        "title": "Sugarcane bagasse: a biomass sufficiently applied for improving global energy, environment and economic sustainability",
+        "url": "https://bioresourcesbioprocessing.springeropen.com/articles/10.1186/s40643-021-00440-z",
+        "whyUsed": "Verified bagasse composition, energy applications, and cogeneration systems in sugar mills."
+      },
+      {
+        "title": "Bagasse - Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Bagasse",
+        "whyUsed": "Confirmed bagasse use as biofuel for heat, electricity, and pulp production; noted cogeneration and carbon-neutral potential."
+      },
+      {
+        "title": "Integrating sugarcane molasses into sequential cellulosic biofuel production",
+        "url": "https://link.springer.com/article/10.1186/s13068-018-1328-0",
+        "whyUsed": "Detailed molasses fermentation for ethanol production with carbohydrate-rich composition and yeast fermentation pathways."
+      },
+      {
+        "title": "Ethanol production from sugarcane molasses by the response surface methodology",
+        "url": "https://link.springer.com/article/10.1186/s13213-024-01757-8",
+        "whyUsed": "Confirmed molasses contains 60% sucrose as primary fermentable sugar; detailed ethanol production efficiency and industrial scale-up."
+      },
+      {
+        "title": "ExamRobot - IAS 2013 Q38",
+        "url": "https://examrobot.com/content/reference-usefulness-products-sugar-industry-which-following-statements-isare-correct-1",
+        "whyUsed": "Confirmed distinction: molasses not used as feedstock for synthetic fertilizers (urea, DAP) derived from inorganic sources."
+      },
+      {
+        "title": "Prepp.in - UPSC Question Analysis",
+        "url": "https://prepp.in/question/with-reference-to-the-usefulness-of-the-byproducts-615ea87fac44ac4586d99149",
+        "whyUsed": "Clarified that synthetic fertilizers use natural gas, phosphate rock, and potash ore, not molasses."
+      },
+      {
+        "title": "Generation of Energy from Sugarcane Bagasse by Thermal Treatment",
+        "url": "https://link.springer.com/article/10.1007/s12649-009-9000-3",
+        "whyUsed": "Verified bagasse composition and energy generation through combustion and steam gasification in mills."
+      },
+      {
+        "title": "Bagasse Electricity Potential of Conventional Sugarcane Factories",
+        "url": "https://onlinelibrary.wiley.com/doi/10.1155/2023/5749122",
+        "whyUsed": "Confirmed cogeneration systems and advanced gasification-combined-cycle technologies using bagasse in modern sugar factories."
+      },
+      {
+        "title": "High Level Ethanol from Sugar Cane Molasses",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC3864069/",
+        "whyUsed": "Verified industrial-scale ethanol fermentation from molasses using Saccharomyces cerevisiae with high yield."
+      },
+      {
+        "title": "Production of biofuel from sugarcane molasses by diazotrophic Bacillus",
+        "url": "https://www.sciencedirect.com/science/article/abs/pii/S1878818119300726",
+        "whyUsed": "Showed molasses as energy feedstock (bioethanol, biohydrogen), not chemical fertilizer feedstock."
+      },
+      {
+        "title": "Molasses - Earth Smart Solutions",
+        "url": "https://www.earth-smart-solutions.com/blogs/blog/molasses",
+        "whyUsed": "Confirmed molasses used as organic fertilizer ingredient or soil amendment (with beneficial microbes), not as feedstock for synthetic NPK fertilizers."
+      },
+      {
+        "title": "Combined Chemical Fertilizers with Molasses",
+        "url": "https://www.researchgate.net/publication/362560371_Combined_Chemical_Fertilizers_with_Molasses_Increase_Soil_Stable_Organic_Phosphorus_Mineralization_in_Sugarcane_Seedling_Stage",
+        "whyUsed": "Showed molasses is combined *with* synthetic fertilizers for soil conditioning, not as a primary feedstock for their synthesis."
+      },
+      {
+        "title": "Sugarcane Bagasse Valorization Strategies for Bioethanol and Energy Production",
+        "url": "https://www.intechopen.com/chapters/57967",
+        "whyUsed": "Comprehensive overview of bagasse (energy, paper, cattle feed) and molasses (ethanol, biogas) applications in circular economy."
+      },
+      {
+        "title": "Ethanol fermentation of sugarcane molasses by Zymomonas mobilis",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC3769043/",
+        "whyUsed": "Detailed molasses fermentation pathways and microbial mechanisms for ethanol production at industrial scale."
+      }
+    ],
+    "searchMeta": {
+      "usedWebSearch": true,
+      "searchQueries": [
+        "bagasse sugarcane biomass fuel energy",
+        "molasses ethanol fermentation biofuel production",
+        "molasses synthetic fertilizer feedstock"
+      ],
+      "confidence": "high"
+    }
+  },
+  "id": 16,
+  "usage": {
+    "cache_creation": {
+      "ephemeral_1h_input_tokens": 0,
+      "ephemeral_5m_input_tokens": 5030
+    },
+    "cache_creation_input_tokens": 47262,
+    "cache_read_input_tokens": 5030,
+    "inference_geo": "not_available",
+    "input_tokens": 699,
+    "iterations": null,
+    "output_tokens": 2226,
+    "server_tool_use": {
+      "web_fetch_requests": 0,
+      "web_search_requests": 3
+    },
+    "service_tier": "batch",
+    "speed": null
+  }
+}

@@ -1,0 +1,75 @@
+{
+  "subject": "Science",
+  "year": 1997,
+  "theme": "Parasitic and infectious diseases \u2013 anatomical sites of pathology",
+  "question_short_text": "Match diseases with affected body organs/systems: malaria, filaria, encephalitis, leukaemia",
+  "text": "Match List I with List II and select the correct answer by using the codes given below the lists:\n\n**List I** | **List II**\n---|---\nI. Malaria | A) Bone marrow\nII. Filaria | B) Brain\nIII. Encephalitis | C) Muscle\nIV. Leukaemia | D) Lymph node\n| E) Blood cells\n\n**Codes:**\n\na) I-E, II-C, III-B, IV-A\nb) I-E, II-D, III-B, IV-A\nc) I-D, II-C, III-E, IV-A\nd) I-E, II-D, III-A, IV-B",
+  "options": [
+    "I-E, II-C, III-B, IV-A",
+    "I-E, II-D, III-B, IV-A",
+    "I-D, II-C, III-E, IV-A",
+    "I-E, II-D, III-A, IV-B"
+  ],
+  "answerIndex": 1,
+  "answerText": "(b) I-E, II-D, III-B, IV-A",
+  "explanation": "Malaria parasites infect red blood cells; filarial worms lodge in lymph nodes; encephalitis involves brain inflammation; and leukaemia is a bone marrow cancer affecting white blood cell production.",
+  "research": {
+    "summary": "This matching question tests knowledge of the organ systems or tissue types that are the primary sites of pathological involvement for four major infectious and neoplastic diseases. Malaria is caused by Plasmodium parasites that invade and multiply within red blood cells (erythrocytes), not merely in blood but specifically in blood cells, making E the correct answer. Filariasis is a lymphatic system disease: the adult filarial worms (Wuchereria bancrofti, Brugia malayi, Brugia timori) migrate to and reside in lymphatic vessels and lymph nodes, causing lymphatic obstruction and characteristic complications like lymphoedema and hydrocele. Encephalitis is inflammation of the brain parenchyma itself, typically caused by viral infection reaching the central nervous system; the inflammation causes cerebral oedema and neuronal damage. Leukaemia is a cancer originating in bone marrow where haematopoietic stem cells produce abnormal white blood cells uncontrollably; the disease disrupts normal blood cell production at its source in the marrow. A common trap is confusing the location of parasites or cancer-causing cells with the clinical manifestations\u2014for instance, although filariasis affects multiple body tissues including muscles through lymphedema, the worms themselves reside in lymph nodes, not muscles. Similarly, while malaria affects multiple organs through systemic circulation, the parasite's replication occurs specifically within blood cells.",
+    "facts": [
+      "Malaria parasites undergo 4\u20135 cycles of asexual division inside erythrocytes over 44\u201348 hours per cycle, during which they digest haemoglobin and produce hemozoin pigment, before the RBC ruptures and releases merozoites.",
+      "Filarial worms can survive in the human body for up to 6\u20138 years, producing millions of microfilariae that circulate in blood and lymphatics; adult females reach 80\u2013100 mm in length while males are approximately 40 mm.",
+      "Leukaemia is classified as acute (rapid onset, >20% blasts) or chronic (slower onset, <20% blasts), with further subdivision into lymphocytic (affecting B and T lymphoid cells) or myelogenous (affecting myeloid precursors of various blood cell types)."
+    ],
+    "sources": [
+      {
+        "title": "Host-parasite interactions that guide red blood cell invasion by malaria parasites",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4418178/",
+        "whyUsed": "Verified the mechanism of malaria parasite entry and multiplication within red blood cells."
+      },
+      {
+        "title": "Lymphatic filariasis",
+        "url": "https://www.who.int/news-room/fact-sheets/detail/lymphatic-filariasis",
+        "whyUsed": "Confirmed that adult filarial worms nest in lymphatic vessels and lymph nodes, causing lymphatic obstruction and characteristic clinical manifestations."
+      },
+      {
+        "title": "Viral Encephalitis",
+        "url": "https://www.ncbi.nlm.nih.gov/books/NBK470162/",
+        "whyUsed": "Established that encephalitis is inflammation of the brain parenchyma, typically caused by viral infection reaching the CNS."
+      },
+      {
+        "title": "Leukemia",
+        "url": "https://my.clevelandclinic.org/health/diseases/4365-leukemia",
+        "whyUsed": "Confirmed that leukaemia is a cancer originating in bone marrow where abnormal white blood cells proliferate uncontrollably."
+      }
+    ],
+    "searchMeta": {
+      "usedWebSearch": true,
+      "searchQueries": [
+        "Plasmodium malaria red blood cells infection mechanism",
+        "filariasis lymphatic worms lymph nodes",
+        "encephalitis brain inflammation viral",
+        "leukemia bone marrow white blood cells cancer"
+      ],
+      "confidence": "high"
+    }
+  },
+  "id": 18,
+  "usage": {
+    "cache_creation": {
+      "ephemeral_1h_input_tokens": 0,
+      "ephemeral_5m_input_tokens": 0
+    },
+    "cache_creation_input_tokens": 58898,
+    "cache_read_input_tokens": 10060,
+    "inference_geo": "not_available",
+    "input_tokens": 916,
+    "iterations": null,
+    "output_tokens": 1443,
+    "server_tool_use": {
+      "web_fetch_requests": 0,
+      "web_search_requests": 4
+    },
+    "service_tier": "batch",
+    "speed": null
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "subject": "Science",
+  "year": 2023,
+  "theme": "Carbon fiber: properties, applications and recyclability",
+  "question_short_text": "Which statements about carbon fiber use and recycling are correct?",
+  "text": "Consider the following statements:\n\n1. Carbon fibres are used in the manufacture of components used in automobiles and aircrafts.\n2. Carbon fibres once used cannot be recycled.\n\nWhich of the statements given above is/are correct?",
+  "options": [
+    "1 only",
+    "2 only",
+    "Both 1 and 2",
+    "Neither 1 nor 2"
+  ],
+  "answerIndex": 0,
+  "answerText": "(a) 1 only",
+  "explanation": "Statement 1 is correct\u2014carbon fibres are widely used in aerospace and automotive components due to their high strength-to-weight ratio. Statement 2 is incorrect\u2014carbon fibres can be recycled through established technologies like pyrolysis, mechanical recycling, and chemical recycling.",
+  "research": {
+    "summary": "This question tests understanding of carbon fiber properties and the modern reality of composite material recycling. Statement 1 is straightforwardly correct: carbon fiber reinforced polymers (CFRPs) are extensively used in aerospace (modern aircraft like Boeing 787 and Airbus A350 use over 50% CFRP), automotive applications, and wind energy. The real trap is Statement 2, which reflects an outdated misconception. While carbon fiber recycling is technically complex and expensive compared to virgin fiber production, it is absolutely possible and increasingly practiced. Multiple recycling technologies now exist and are in commercial use: (1) Thermal methods like pyrolysis decompose the resin matrix at high temperature, leaving recoverable carbon fibers with 75\u201395% of their original strength; (2) Chemical recycling uses solvents or acids to dissolve the resin, preserving fiber properties better but at higher cost and environmental impact; (3) Mechanical recycling breaks composites into shredded particles for use in lower-grade applications. The aerospace industry faces mounting end-of-life composite waste (8,000 aircraft projected to retire by 2030), making recycling economically and environmentally essential. Modern manufacturers including Mitsubishi Chemical, Toray, and several specialized firms now commercially recover and reprocess recycled carbon fiber. The distinction between 'difficult to recycle' (true) and 'cannot be recycled' (false) is what UPSC tests here. A student must recognize that technical difficulty and expense do not equate to impossibility.",
+    "facts": [
+      "Modern commercial aircraft like the Boeing 787 and Airbus A350 use more than 50 wt% carbon fiber composites in their primary structures.",
+      "Thermal pyrolysis recycling can recover carbon fibers retaining 75\u201395% of their original tensile strength, with recycled fiber offering 20\u201340% cost savings over virgin material."
+    ],
+    "sources": [
+      {
+        "title": "A Review on Recycling of Carbon Fibres: Methods to Reinforce and Expected Fibre Composite Degradations",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9324376/",
+        "whyUsed": "Authoritative peer-reviewed source on recycling methods, technologies in use, and recovery efficiency rates"
+      },
+      {
+        "title": "Recycled Carbon Fiber \u2013 MCAM",
+        "url": "https://www.mcam.com/en/case-studies/recycled-carbon-fiber",
+        "whyUsed": "Commercial industry source demonstrating pyrolysis recycling in active production with quantified efficiency metrics"
+      },
+      {
+        "title": "Carbon fibre for applications in aerospace: A review",
+        "url": "https://www.sciencedirect.com/science/article/pii/S294991782500077X",
+        "whyUsed": "Recent comprehensive review confirming aerospace applications and recovery rates, specifically recycling enables 90\u201395% fiber recovery"
+      },
+      {
+        "title": "Progress and prospects of recycling technology for carbon fiber reinforced polymer",
+        "url": "https://www.frontiersin.org/journals/materials/articles/10.3389/fmats.2024.1484544/full",
+        "whyUsed": "Recent 2024 source comparing four primary recycling methods and their commercial viability"
+      }
+    ],
+    "searchMeta": {
+      "usedWebSearch": true,
+      "searchQueries": [
+        "carbon fiber recycling process technology",
+        "carbon fiber composites aerospace automobile manufacturing"
+      ],
+      "confidence": "high"
+    }
+  },
+  "id": 2
+}
